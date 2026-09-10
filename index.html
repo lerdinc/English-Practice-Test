@@ -167,7 +167,10 @@
   .card.vocabulary .part-label{ color:var(--plum); }
   .card.reading .part-label{ color:var(--slate); }
   .card.writing .part-label{ color:var(--rust); }
-  .prompt{ font-family:'Fraunces',serif; font-size:1.22rem; line-height:1.45; margin:0 0 22px 0; color:var(--ink); }
+  .prompt{
+    font-family:'Fraunces',serif; font-size:1.22rem; line-height:1.45; margin:0 0 22px 0; color:var(--ink);
+    -webkit-user-select:none; user-select:none;
+  }
   .prompt-passage{
     font-family:'Inter',sans-serif;
     font-size:1rem;
@@ -175,6 +178,7 @@
     margin:0 0 22px 0;
     color:var(--ink);
     text-align:left;
+    -webkit-user-select:none; user-select:none;
   }
   .prompt-passage mark{
     background:var(--slate-soft);
@@ -403,7 +407,6 @@
 <script type="application/json" id="quizDataJson">
 {
   "title": "English Practice Test",
-  
   "questions": [
     {
       "part": "pronunciation",
@@ -1300,70 +1303,80 @@
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held <mark>______ (1)</mark> December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "on"
+      "answer": "on",
+      "answerIpa": "/ɑːn/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts <mark>______ (2)</mark> in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "it"
+      "answer": "it",
+      "answerIpa": "/ɪt/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important <mark>______ (3)</mark> in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "part / role"
+      "answer": "part / role",
+      "answerIpa": "/pɑːrt/ / /roʊl/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem <mark>______ (4)</mark> <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "called"
+      "answer": "called",
+      "answerIpa": "/kɔːld/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem <mark>______ (5)</mark> a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "was"
+      "answer": "was",
+      "answerIpa": "/wʌz/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a <mark>______ (6)</mark> suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "red"
+      "answer": "red",
+      "answerIpa": "/red/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children <mark>______ (7)</mark> on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "presents"
+      "answer": "presents",
+      "answerIpa": "/ˈprezənts/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was <mark>______ (8)</mark> by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "written"
+      "answer": "written",
+      "answerIpa": "/ˈrɪtən/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular <mark>______ (9)</mark> the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
-      "answer": "with"
+      "answer": "with",
+      "answerIpa": "/wɪð/"
     },
     {
       "type": "text",
       "part": "reading",
       "partLabel": "Reading — Fill in the Blank",
       "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based <mark>______ (10)</mark> the description of Saint Nicholas in this poem.",
-      "answer": "on"
+      "answer": "on",
+      "answerIpa": "/ɑːn/"
     },
     {
       "type": "text",
@@ -1412,21 +1425,24 @@
       "part": "writing",
       "partLabel": "Writing — Find & Correct the Mistake",
       "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>The</u> statue was <u>cut</u> <u>out of</u> <u>stone</u>.",
-      "answer": "carved"
+      "answer": "carved",
+      "answerIpa": "/kɑːrvd/"
     },
     {
       "type": "text",
       "part": "writing",
       "partLabel": "Writing — Find & Correct the Mistake",
       "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span>She <u>asked</u> the <u>guide</u> <u>where</u> Phong Nha cave was <u>the most</u> beautiful cave in Vietnam.",
-      "answer": "whether"
+      "answer": "whether",
+      "answerIpa": "/ˈweðər/"
     },
     {
       "type": "text",
       "part": "writing",
       "partLabel": "Writing — Find & Correct the Mistake",
       "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>When</u> Andrew <u>saw</u> the question, he <u>was knowing</u> the answer <u>immediately</u>.",
-      "answer": "knew"
+      "answer": "knew",
+      "answerIpa": "/nuː/"
     },
     {
       "type": "text",
@@ -1509,7 +1525,8 @@ const PRESETS = [
   { label: "English Practice Test No: 3", file: "english_practice_3.json" },
   { label: "English Practice Test No: 4", file: "english_practice_4.json" },
   { label: "English Practice Test No: 5", file: "english_practice_5.json" },
-  { label: "English Practice Test No: 6", file: "english_practice_6.json" }
+  { label: "English Practice Test No: 6", file: "english_practice_6.json" },
+  { label: "English Practice Test No: 7", file: "english_practice_7.json" }
 ];
 PRESETS.forEach(p => {
   const o = document.createElement("option");
