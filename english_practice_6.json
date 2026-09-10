@@ -1,0 +1,1832 @@
+{
+  "title": "English Practice Test No: 6",
+  "subtitle": "96 questions · Phonetics, Lexico & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "other",
+          "underline": "th",
+          "ipa": "/ˈʌðər/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "leather",
+          "underline": "th",
+          "ipa": "/ˈleðər/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "wealthy",
+          "underline": "th",
+          "ipa": "/ˈwelθi/",
+          "explain": "\"th\" said as /θ/ — the odd one out"
+        },
+        {
+          "word": "brother",
+          "underline": "th",
+          "ipa": "/ˈbrʌðər/",
+          "explain": "\"th\" said as /ð/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "television",
+          "underline": "e",
+          "ipa": "/ˈtelɪvɪʒən/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "elephant",
+          "underline": "e",
+          "ipa": "/ˈelɪfənt/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "section",
+          "underline": "e",
+          "ipa": "/ˈsekʃən/",
+          "explain": "stressed \"e\" said as /e/ — the odd one out"
+        },
+        {
+          "word": "Swedish",
+          "underline": "e",
+          "ipa": "/ˈswiːdɪʃ/",
+          "explain": "\"e\" said as /iː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "explain",
+          "underline": "e",
+          "ipa": "/ɪkˈspleɪn/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "current",
+          "underline": "e",
+          "ipa": "/ˈkɜːrənt/",
+          "explain": "unstressed \"e\" said as /ə/ — the odd one out"
+        },
+        {
+          "word": "desire",
+          "underline": "e",
+          "ipa": "/dɪˈzaɪər/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "electric",
+          "underline": "e",
+          "ipa": "/ɪˈlektrɪk/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "threaten",
+          "underline": "ea",
+          "ipa": "/ˈθretən/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "thread",
+          "underline": "ea",
+          "ipa": "/θred/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "seat",
+          "underline": "ea",
+          "ipa": "/siːt/",
+          "explain": "\"ea\" said as /iː/ — the odd one out"
+        },
+        {
+          "word": "bread",
+          "underline": "ea",
+          "ipa": "/bred/",
+          "explain": "\"ea\" said as /e/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "deaf",
+          "underline": "ea",
+          "ipa": "/def/",
+          "explain": "\"ea\" said as /e/ — the odd one out"
+        },
+        {
+          "word": "leaf",
+          "underline": "ea",
+          "ipa": "/liːf/",
+          "explain": "\"ea\" said as /iː/"
+        },
+        {
+          "word": "meat",
+          "underline": "ea",
+          "ipa": "/miːt/",
+          "explain": "\"ea\" said as /iː/"
+        },
+        {
+          "word": "heat",
+          "underline": "ea",
+          "ipa": "/hiːt/",
+          "explain": "\"ea\" said as /iː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "affect",
+          "ipa": "/əˈfekt/",
+          "explain": "af-FECT — stress on the 2nd syllable"
+        },
+        {
+          "word": "pollute",
+          "ipa": "/pəˈluːt/",
+          "explain": "pol-LUTE — stress on the 2nd syllable"
+        },
+        {
+          "word": "effect",
+          "ipa": "/ɪˈfekt/",
+          "explain": "ef-FECT — stress on the 2nd syllable"
+        },
+        {
+          "word": "litter",
+          "ipa": "/ˈlɪtər/",
+          "explain": "LIT-ter — stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "cholera",
+          "ipa": "/ˈkɒlərə/",
+          "explain": "CHOL-er-a — stress on the 1st syllable"
+        },
+        {
+          "word": "pollutant",
+          "ipa": "/pəˈluːtənt/",
+          "explain": "pol-LU-tant — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "permanent",
+          "ipa": "/ˈpɜːrmənənt/",
+          "explain": "PER-ma-nent — stress on the 1st syllable"
+        },
+        {
+          "word": "groundwater",
+          "ipa": "/ˈgraʊndwɔːtər/",
+          "explain": "GROUND-wa-ter — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "radiation",
+          "ipa": "/ˌreɪdiˈeɪʃən/",
+          "explain": "ra-di-A-tion — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "political",
+          "ipa": "/pəˈlɪtɪkəl/",
+          "explain": "po-LIT-i-cal — stress on the 2nd syllable"
+        },
+        {
+          "word": "historical",
+          "ipa": "/hɪˈstɔːrɪkəl/",
+          "explain": "his-TOR-i-cal — stress on the 2nd syllable"
+        },
+        {
+          "word": "contaminant",
+          "ipa": "/kənˈtæmɪnənt/",
+          "explain": "con-TAM-i-nant — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "seriously",
+          "ipa": "/ˈsɪriəsli/",
+          "explain": "SE-ri-ous-ly — stress on the 1st syllable"
+        },
+        {
+          "word": "measurement",
+          "ipa": "/ˈmeʒərmənt/",
+          "explain": "MEA-sure-ment — stress on the 1st syllable"
+        },
+        {
+          "word": "scientific",
+          "ipa": "/ˌsaɪənˈtɪfɪk/",
+          "explain": "sci-en-TIF-ic — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "logical",
+          "ipa": "/ˈlɒdʒɪkəl/",
+          "explain": "LOG-i-cal — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "aquatic",
+          "ipa": "/əˈkwɒtɪk/",
+          "explain": "a-QUA-tic — stress on the 2nd syllable"
+        },
+        {
+          "word": "historic",
+          "ipa": "/hɪˈstɔːrɪk/",
+          "explain": "his-TOR-ic — stress on the 2nd syllable"
+        },
+        {
+          "word": "physics",
+          "ipa": "/ˈfɪzɪks/",
+          "explain": "PHYS-ics — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "botanical",
+          "ipa": "/bəˈtænɪkəl/",
+          "explain": "bo-TAN-i-cal — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>It's recommended that we become more concerned ______ the environment around us.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "correct — \"concerned about\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>Air ______, together with littering, causes many problems in our cities today.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "pollute",
+          "ipa": "/pəˈluːt/",
+          "explain": "verb — wrong word class for the subject"
+        },
+        {
+          "word": "pollution",
+          "ipa": "/pəˈluːʃən/",
+          "explain": "correct — noun as the subject"
+        },
+        {
+          "word": "polluted",
+          "ipa": "/pəˈluːtɪd/",
+          "explain": "adjective/past participle — wrong word class"
+        },
+        {
+          "word": "polluting",
+          "ipa": "/pəˈluːtɪŋ/",
+          "explain": "wrong word class for the subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>On Christmas Eve, most big cities, especially London, are ______ with coloured lights across the streets and enormous Christmas trees.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "decorated",
+          "ipa": "/ˈdekəreɪtɪd/",
+          "explain": "correct passive — \"decorated with\""
+        },
+        {
+          "word": "hang",
+          "ipa": "/hæŋ/",
+          "explain": "wrong form and voice"
+        },
+        {
+          "word": "put",
+          "ipa": "/pʊt/",
+          "explain": "wrong verb for this meaning"
+        },
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "wrong verb for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>In the United States, there are 50 ______ and six different time zones across the country.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "states",
+          "ipa": "/steɪts/",
+          "explain": "correct — the US has 50 states"
+        },
+        {
+          "word": "nations",
+          "ipa": "/ˈneɪʃənz/",
+          "explain": "wrong — the US is one nation"
+        },
+        {
+          "word": "towns",
+          "ipa": "/taʊnz/",
+          "explain": "wrong scale"
+        },
+        {
+          "word": "show",
+          "ipa": "/ʃoʊ/",
+          "explain": "not a noun that fits here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>Nowadays you still see the ______ men wear kilts (skirts) to weddings or other formal occasions.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Scot",
+          "ipa": "/skɒt/",
+          "explain": "noun — wrong word class before \"men\""
+        },
+        {
+          "word": "Scotland",
+          "ipa": "/ˈskɒtlənd/",
+          "explain": "place name — wrong word class"
+        },
+        {
+          "word": "Scots",
+          "ipa": "/skɒts/",
+          "explain": "can modify a noun, but \"Scottish\" is the more standard adjective here"
+        },
+        {
+          "word": "Scottish",
+          "ipa": "/ˈskɒtɪʃ/",
+          "explain": "correct adjective before \"men\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>What ______ we do to prevent these natural disasters?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "may",
+          "ipa": "/meɪ/",
+          "explain": "expresses permission/possibility, not advice"
+        },
+        {
+          "word": "ought",
+          "ipa": "/ɔːt/",
+          "explain": "needs \"to\" — \"ought to\""
+        },
+        {
+          "word": "should",
+          "ipa": "/ʃʊd/",
+          "explain": "correct modal for asking for advice"
+        },
+        {
+          "word": "be able",
+          "ipa": "/bi ˈeɪbəl/",
+          "explain": "not a modal verb form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>______ at someone is usually considered rude.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Point",
+          "ipa": "/pɔɪnt/",
+          "explain": "bare verb can't be the subject"
+        },
+        {
+          "word": "To point",
+          "ipa": "/tə pɔɪnt/",
+          "explain": "possible but less natural as a sentence-opening subject here"
+        },
+        {
+          "word": "To pointing",
+          "ipa": "/tə ˈpɔɪntɪŋ/",
+          "explain": "not a valid form"
+        },
+        {
+          "word": "Pointing",
+          "ipa": "/ˈpɔɪntɪŋ/",
+          "explain": "correct — gerund as the subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>My father shouted at me, ______ made me feel sorrowful.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "can't introduce a non-restrictive clause like this"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "refers to people, not the whole preceding clause"
+        },
+        {
+          "word": "whose",
+          "ipa": "/huːz/",
+          "explain": "shows possession — doesn't fit here"
+        },
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "correct — refers back to the whole previous clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>I believe that our new manager has the ______ to work well in this business environment.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "inflexible",
+          "ipa": "/ɪnˈfleksəbəl/",
+          "explain": "adjective, and wrong meaning"
+        },
+        {
+          "word": "flexibly",
+          "ipa": "/ˈfleksəbli/",
+          "explain": "adverb — wrong word class after \"the\""
+        },
+        {
+          "word": "flexibility",
+          "ipa": "/ˌfleksəˈbɪləti/",
+          "explain": "correct — noun after \"the\""
+        },
+        {
+          "word": "flexible",
+          "ipa": "/ˈfleksəbəl/",
+          "explain": "adjective — wrong word class after \"the\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>\"Are Mary and Peter still living in Paris?\" – \"No, they ______ to New York.\"",
+      "answer": 2,
+      "options": [
+        {
+          "word": "are just moved",
+          "ipa": "/ɑːr dʒʌst muːvd/",
+          "explain": "wrong form — not a valid tense"
+        },
+        {
+          "word": "had just moved",
+          "ipa": "/hæd dʒʌst muːvd/",
+          "explain": "past perfect doesn't fit this present-time exchange"
+        },
+        {
+          "word": "have just moved",
+          "ipa": "/hæv dʒʌst muːvd/",
+          "explain": "correct — present perfect for a recent change"
+        },
+        {
+          "word": "will just move",
+          "ipa": "/wɪl dʒʌst muːv/",
+          "explain": "future doesn't fit — the move already happened"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>\"What is the ______ of the USA?\" – \"The dollar.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "current",
+          "ipa": "/ˈkɜːrənt/",
+          "explain": "adjective — wrong word class"
+        },
+        {
+          "word": "population",
+          "ipa": "/ˌpɒpjəˈleɪʃən/",
+          "explain": "wrong meaning — doesn't match \"the dollar\""
+        },
+        {
+          "word": "territory",
+          "ipa": "/ˈterətɔːri/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "currency",
+          "ipa": "/ˈkɜːrənsi/",
+          "explain": "correct — matches the answer \"the dollar\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>We can see many international programs ______ different channels.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "correct — \"on\" + channel/TV"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>This hat is different ______ the one I had.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "possible in British English, but \"from\" is the standard choice here"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "correct — \"different from\""
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>What will happen if the pollution ______ on?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "puts",
+          "ipa": "/pʊts/",
+          "explain": "doesn't form a phrasal verb with \"on\" here"
+        },
+        {
+          "word": "goes",
+          "ipa": "/goʊz/",
+          "explain": "correct — \"goes on\" = continues"
+        },
+        {
+          "word": "keeps",
+          "ipa": "/kiːps/",
+          "explain": "\"keeps on\" usually needs a following gerund"
+        },
+        {
+          "word": "takes",
+          "ipa": "/teɪks/",
+          "explain": "doesn't form a phrasal verb with \"on\" here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>He said he was afraid this article was ______ date.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "doesn't form the idiom"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't form the idiom"
+        },
+        {
+          "word": "behind",
+          "ipa": "/bɪˈhaɪnd/",
+          "explain": "doesn't form this specific idiom"
+        },
+        {
+          "word": "out of",
+          "ipa": "/aʊt ʌv/",
+          "explain": "correct — \"out of date\" = outdated"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>I had to get up early, ______ I would miss the train.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "otherwise",
+          "ipa": "/ˈʌðərwaɪz/",
+          "explain": "correct — shows the consequence of not getting up early"
+        },
+        {
+          "word": "if not",
+          "ipa": "/ɪf nɒt/",
+          "explain": "doesn't fit this clause structure as naturally"
+        },
+        {
+          "word": "but",
+          "ipa": "/bʌt/",
+          "explain": "wrong meaning — not a simple contrast"
+        },
+        {
+          "word": "unless",
+          "ipa": "/ənˈles/",
+          "explain": "wrong meaning and clause structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>Most young people want to ______ more about environmental problems.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "look after",
+          "ipa": "/lʊk ˈæftər/",
+          "explain": "means to take care of, wrong meaning"
+        },
+        {
+          "word": "find out",
+          "ipa": "/faɪnd aʊt/",
+          "explain": "correct — to discover/learn information"
+        },
+        {
+          "word": "look for",
+          "ipa": "/lʊk fɔːr/",
+          "explain": "means to search for, wrong meaning here"
+        },
+        {
+          "word": "make out",
+          "ipa": "/meɪk aʊt/",
+          "explain": "means to understand/discern, wrong meaning here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>______ always gives me real pleasure.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "I arrange flowers",
+          "ipa": "/aɪ əˈreɪndʒ ˈflaʊərz/",
+          "explain": "a full clause can't be the subject like this"
+        },
+        {
+          "word": "The flowers are arranged",
+          "ipa": "/ðə ˈflaʊərz ɑːr əˈreɪndʒd/",
+          "explain": "wrong meaning — changes who's doing the action"
+        },
+        {
+          "word": "Arranging flowers",
+          "ipa": "/əˈreɪndʒɪŋ ˈflaʊərz/",
+          "explain": "correct — gerund phrase as the subject"
+        },
+        {
+          "word": "While arranging flowers",
+          "ipa": "/waɪl əˈreɪndʒɪŋ ˈflaʊərz/",
+          "explain": "a subordinate clause can't stand alone as the subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>Mai: \"Need a hand with your heavy box, Nga?\" – Nga: \"______\"",
+      "answer": 2,
+      "options": [
+        {
+          "word": "I don't need",
+          "ipa": "/aɪ doʊnt niːd/",
+          "explain": "incomplete and doesn't politely accept help"
+        },
+        {
+          "word": "Not at all",
+          "ipa": "/nɒt æt ɔːl/",
+          "explain": "used to respond to thanks, not to accept an offer"
+        },
+        {
+          "word": "That's very kind of you",
+          "ipa": "/ðæts ˈveri kaɪnd əv juː/",
+          "explain": "correct — polite way to accept an offer of help"
+        },
+        {
+          "word": "No, thanks",
+          "ipa": "/noʊ θæŋks/",
+          "explain": "declines the offer instead of accepting it"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word, phrase or expression which best completes each sentence.</span>Peter: \"______?\" Mary: \"Well, I'd like to see that dress.\"",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Do you want anything",
+          "ipa": "/duː juː wɒnt ˈeniθɪŋ/",
+          "explain": "possible, but less natural for a shop assistant"
+        },
+        {
+          "word": "May I help you",
+          "ipa": "/meɪ aɪ help juː/",
+          "explain": "correct — the classic shop-assistant opening, matching Mary's “Well, I'd like to see...” reply"
+        },
+        {
+          "word": "What would you like",
+          "ipa": "/wʌt wʊd juː laɪk/",
+          "explain": "also plausible, but “May I help you?” is the more standard opening line here"
+        },
+        {
+          "word": "What do you want to do",
+          "ipa": "/wʌt duː juː wɒnt tə duː/",
+          "explain": "wrong meaning — asks about an activity, not an item"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>John watched a ______ on TV last night. (DOCUMENT)",
+      "answer": "documentary"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>It was all about the problems ______ our environment. (THREATEN)",
+      "answer": "threatening"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He was shocked to find out how little he knew about ______ warming or acid rain. (GLOBE)",
+      "answer": "global"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He had heard the term before but he knew ______ nothing about the damage they cause to our planet. (PRACTICAL)",
+      "answer": "practically"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He feels he should do something to be ______. (HELP)",
+      "answer": "helpful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He would like to join an ______, but he doesn't know which one to join. (ORGANIZE)",
+      "answer": "organization"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He has seen so many ______ in newspapers that he can't make up his mind. (ADVERTISE)",
+      "answer": "advertisements"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>However, he believes that it is ______ not to be environmentally aware. (ACCEPTABLE)",
+      "answer": "unacceptable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He is ______ that one day everyone will be part of a world movement to save the earth. (HOPE)",
+      "answer": "hopeful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word to complete each sentence.</span>He was sure that in this time of ______ advances, we find some way to solve the world's problems. (TECHNOLOGY)",
+      "answer": "technological"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>It was wrong <u>with</u> you <u>to allow</u> <u>a 4 year-old</u> child <u>to walk</u> home alone.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "with",
+          "explain": "incorrect — should be “of” — the odd one out"
+        },
+        {
+          "word": "to allow",
+          "explain": "correct as written"
+        },
+        {
+          "word": "a 4 year-old",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to walk",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>The Smiths are very proud <u>about</u> that <u>their</u> son always gets high marks <u>in</u> his <u>courses</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "about",
+          "explain": "incorrect — should be “of the fact” — the odd one out"
+        },
+        {
+          "word": "their",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "courses",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>We called the baseball park <u>up</u> to ask <u>that</u> when the game was <u>scheduled</u> <u>to begin</u> that afternoon.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "up",
+          "explain": "correct as written"
+        },
+        {
+          "word": "that",
+          "explain": "incorrect — should be “(remove ‘that’)” — the odd one out"
+        },
+        {
+          "word": "scheduled",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to begin",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>The American Indians <u>killed</u> the buffalo <u>only</u> when <u>necessity</u> to obtain food, <u>clothing</u> and shelter.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "killed",
+          "explain": "correct as written"
+        },
+        {
+          "word": "only",
+          "explain": "correct as written"
+        },
+        {
+          "word": "necessity",
+          "explain": "incorrect — should be “necessary” — the odd one out"
+        },
+        {
+          "word": "clothing",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>Some relatives <u>of mine</u> like <u>staying</u> at their cabin <u>on</u> Lake Omega every summer <u>holidays</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "of mine",
+          "explain": "correct as written"
+        },
+        {
+          "word": "staying",
+          "explain": "correct as written"
+        },
+        {
+          "word": "on",
+          "explain": "correct as written"
+        },
+        {
+          "word": "holidays",
+          "explain": "incorrect — should be “holiday” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>In the United States <u>among</u> 60 percent <u>of the space</u> on the pages of newspapers <u>is reserved</u> for <u>advertising</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "among",
+          "explain": "incorrect — should be “about” — the odd one out"
+        },
+        {
+          "word": "of the space",
+          "explain": "correct as written"
+        },
+        {
+          "word": "is reserved",
+          "explain": "correct as written"
+        },
+        {
+          "word": "advertising",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>Gilbert Newton Lewis, <u>a</u> chemist, helped to <u>develop</u> the modern electron theory of valence, a theory <u>explains</u> the forces holding atoms <u>together</u> in molecules.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "a",
+          "explain": "correct as written"
+        },
+        {
+          "word": "develop",
+          "explain": "correct as written"
+        },
+        {
+          "word": "explains",
+          "explain": "incorrect — should be “that explains” — the odd one out"
+        },
+        {
+          "word": "together",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>Because of a high <u>birthrate</u> and <u>considered</u> immigration, the United States population <u>in</u> the late nineteenth century <u>increased</u> tremendously from 31 million in 1860 to 76 million in 1900.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "birthrate",
+          "explain": "correct as written"
+        },
+        {
+          "word": "considered",
+          "explain": "incorrect — should be “considerable” — the odd one out"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "increased",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>For most of <u>their</u> history, <u>especially</u> since <u>the</u> 1860's, New York City has been undergoing major ethnic population <u>changes</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "their",
+          "explain": "incorrect — should be “its” — the odd one out"
+        },
+        {
+          "word": "especially",
+          "explain": "correct as written"
+        },
+        {
+          "word": "the",
+          "explain": "correct as written"
+        },
+        {
+          "word": "changes",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the mistake in each sentence.</span>Rocks <u>have forming</u>, <u>wearing away</u> and re-forming <u>ever since</u> the Earth <u>took</u> shape.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "have forming",
+          "explain": "incorrect — should be “have been forming” — the odd one out"
+        },
+        {
+          "word": "wearing away",
+          "explain": "correct as written"
+        },
+        {
+          "word": "ever since",
+          "explain": "correct as written"
+        },
+        {
+          "word": "took",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>The classroom is still very dirty. I don't think it (clean) ______.",
+      "answer": "has been cleaned"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>(Lie) ______ on the beach on a sunny day is pleasant.",
+      "answer": "Lying"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>After ______ for help, she took off her shoes and jumped in to save him. (shout)",
+      "answer": "shouting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>After shouting for help, she ______ off her shoes and jumped in to save him. (take)",
+      "answer": "took"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>After shouting for help, she took off her shoes and ______ in to save him. (jump)",
+      "answer": "jumped"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>After shouting for help, she took off her shoes and jumped in ______ him. (save)",
+      "answer": "to save"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>Once you ______ Gloswhite toothpaste, you will never use anything else. (try)",
+      "answer": "have tried"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>Once you have tried Gloswhite toothpaste, you ______ anything else. (never use)",
+      "answer": "will never use"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>______ the letter, she put it in an envelope. (write)",
+      "answer": "Having written"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct tense or form of the verb in brackets.</span>Each July, George together with his family ______ to Spain for holiday. (go)",
+      "answer": "goes"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday <mark>______ (1)</mark> Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve <mark>______ (2)</mark> the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "and"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of <mark>______ (3)</mark> and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "teaching"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving <mark>______ (4)</mark> English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "your"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and <mark>______ (5)</mark> speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "practise"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short <mark>______ (6)</mark> in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "test"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a <mark>______ (7)</mark> at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "class"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class <mark>______ (8)</mark> the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously <mark>______ (9)</mark> in your own country. You will also have chances to improve your ______ (10) of English grammar and to build up your vocabulary.",
+      "answer": "learnt / studied"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with ONE suitable word.</span>Our classes take place for three hours every morning from Monday ______ (1) Friday. The maximum class size is twelve ______ (2) the average is ten. We use modern methods of ______ (3) and learning, and the school has a language laboratory, a video camera and recorders. However, you will only be successful in improving ______ (4) English if you work hard and ______ (5) speaking English as much as you can. You will take a short ______ (6) in English as soon as you arrive. In this way, we can put you in a ______ (7) at the most suitable level.<br><br>There are two classes at the Elementary level; one is for complete beginners and the other is for students who know only a little English. In both classes you will practise simple conversations. In the class ______ (8) the intermediate level you will have a lot of practice in communication in real-life situations because we help you to use the English you have previously ______ (9) in your own country. You will also have chances to improve your <mark>______ (10)</mark> of English grammar and to build up your vocabulary.",
+      "answer": "knowledge"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age <mark>______ (1)</mark> sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "\"around the age of\" is the fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training <mark>______ (2)</mark>?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "school",
+          "ipa": "/skuːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "class",
+          "ipa": "/klæs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "course",
+          "ipa": "/kɔːrs/",
+          "explain": "\"a training course\" fits the context of decisions after school"
+        },
+        {
+          "word": "term",
+          "ipa": "/tɜːrm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be <mark>______ (3)</mark> remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "worth",
+          "ipa": "/wɜːrθ/",
+          "explain": "\"it may be worth remembering\" — fixed expression"
+        },
+        {
+          "word": "necessary",
+          "ipa": "/ˈnesəseri/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "useful",
+          "ipa": "/ˈjuːsfəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment <mark>______ (4)</mark> those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "between",
+          "ipa": "/bɪˈtwiːn/",
+          "explain": "comparing two groups (university-goers vs. not) — \"between\""
+        },
+        {
+          "word": "among",
+          "ipa": "/əˈmʌŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people <mark>______ (5)</mark> have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "whom",
+          "ipa": "/huːm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "whose",
+          "ipa": "/huːz/",
+          "explain": "\"people whose skills...\" — possessive relative pronoun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are <mark>______ (6)</mark> opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "much",
+          "ipa": "/mʌtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "many",
+          "ipa": "/ˈmeni/",
+          "explain": "\"many opportunities\" — countable noun"
+        },
+        {
+          "word": "little",
+          "ipa": "/ˈlɪtəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "few",
+          "ipa": "/fjuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will <mark>______ (7)</mark> you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "permit",
+          "ipa": "/pərˈmɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "help",
+          "ipa": "/help/",
+          "explain": "\"help you get on\" — correct verb + bare infinitive pattern"
+        },
+        {
+          "word": "let",
+          "ipa": "/let/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "give",
+          "ipa": "/gɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn <mark>______ (8)</mark> you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "where",
+          "ipa": "/wer/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "while",
+          "ipa": "/waɪl/",
+          "explain": "\"learn while you earn\" — fixed phrase about working and studying at once"
+        },
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is <mark>______ (9)</mark> possibility. This way, you can save up money for your student days, as well as ______ (10) practical work experience.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "also",
+          "ipa": "/ˈɔːlsoʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "again",
+          "ipa": "/əˈgen/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "another",
+          "ipa": "/əˈnʌðər/",
+          "explain": "\"is another possibility\" — fits listing a second option"
+        },
+        {
+          "word": "always",
+          "ipa": "/ˈɔːlweɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer that best fits each blank space.</span>Around the age ______ (1) sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully, go on to university later? Do I leave and start work or begin a training ______ (2)?<br><br>The decision is yours, but it may be ______ (3) remembering two things: There is more unemployment ______ (4) those who haven't been to university, and people ______ (5) have the right skills will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are ______ (6) opportunities for training. Getting qualifications will ______ (7) you get on more quickly in many careers, and evening classes allow you to learn ______ (8) you earn. Starting work and taking a break to study when you are older is ______ (9) possibility. This way, you can save up money for your student days, as well as <mark>______ (10)</mark> practical work experience.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "getting",
+          "ipa": "/ˈgetɪŋ/",
+          "explain": "\"getting practical work experience\" — parallel with \"save up money\""
+        },
+        {
+          "word": "making",
+          "ipa": "/ˈmeɪkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "taking",
+          "ipa": "/ˈteɪkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "doing",
+          "ipa": "/ˈduːɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer.</span><span class=\"passage-block\">The Great Hanshin earthquake, or the Kobe earthquake as it is more commonly known <u>overseas</u>, was an earthquake in Japan that measured 7.3 on the Japan Meteorological Agency magnitude scale. It <u>occurred</u> on January 17th, 1995 at 5:46 a.m. in the southern part of Hyōgo Prefecture, and lasted for approximately 20 seconds. The epicentre of the earthquake was on the northern end of Awaji Island near Kobe, a cosmopolitan city of over 1.5 million people. A total of 6,434 people, mainly in the city of Kobe, lost their lives. Additionally, it caused approximately ten trillion yen in damage. It was the worst earthquake in Japan since the Great Kantō earthquake in 1923, which claimed 140,000 lives.</span><span class=\"cue-line\">The word 'overseas' in the text is closest in meaning to ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "abroad",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "at sea",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "by sea",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer.</span><span class=\"passage-block\">The Great Hanshin earthquake, or the Kobe earthquake as it is more commonly known <u>overseas</u>, was an earthquake in Japan that measured 7.3 on the Japan Meteorological Agency magnitude scale. It <u>occurred</u> on January 17th, 1995 at 5:46 a.m. in the southern part of Hyōgo Prefecture, and lasted for approximately 20 seconds. The epicentre of the earthquake was on the northern end of Awaji Island near Kobe, a cosmopolitan city of over 1.5 million people. A total of 6,434 people, mainly in the city of Kobe, lost their lives. Additionally, it caused approximately ten trillion yen in damage. It was the worst earthquake in Japan since the Great Kantō earthquake in 1923, which claimed 140,000 lives.</span><span class=\"cue-line\">The word 'occurred' in the text is closest in meaning to ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "ended",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "happened",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "started",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer.</span><span class=\"passage-block\">The Great Hanshin earthquake, or the Kobe earthquake as it is more commonly known <u>overseas</u>, was an earthquake in Japan that measured 7.3 on the Japan Meteorological Agency magnitude scale. It <u>occurred</u> on January 17th, 1995 at 5:46 a.m. in the southern part of Hyōgo Prefecture, and lasted for approximately 20 seconds. The epicentre of the earthquake was on the northern end of Awaji Island near Kobe, a cosmopolitan city of over 1.5 million people. A total of 6,434 people, mainly in the city of Kobe, lost their lives. Additionally, it caused approximately ten trillion yen in damage. It was the worst earthquake in Japan since the Great Kantō earthquake in 1923, which claimed 140,000 lives.</span><span class=\"cue-line\">It is stated in the passage that the number of deaths in the city of Kobe ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "was greater than that of the Great Kantō earthquake",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "was not as high as in the Great Kantō earthquake",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "exceeded that of any known earthquake",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer.</span><span class=\"passage-block\">The Great Hanshin earthquake, or the Kobe earthquake as it is more commonly known <u>overseas</u>, was an earthquake in Japan that measured 7.3 on the Japan Meteorological Agency magnitude scale. It <u>occurred</u> on January 17th, 1995 at 5:46 a.m. in the southern part of Hyōgo Prefecture, and lasted for approximately 20 seconds. The epicentre of the earthquake was on the northern end of Awaji Island near Kobe, a cosmopolitan city of over 1.5 million people. A total of 6,434 people, mainly in the city of Kobe, lost their lives. Additionally, it caused approximately ten trillion yen in damage. It was the worst earthquake in Japan since the Great Kantō earthquake in 1923, which claimed 140,000 lives.</span><span class=\"cue-line\">The northern end of Awaji Island was the place where ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "the effects of the earthquake were felt most strongly",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "there was no damage to people and property",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1.5 million people lost their lives",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer.</span><span class=\"passage-block\">The Great Hanshin earthquake, or the Kobe earthquake as it is more commonly known <u>overseas</u>, was an earthquake in Japan that measured 7.3 on the Japan Meteorological Agency magnitude scale. It <u>occurred</u> on January 17th, 1995 at 5:46 a.m. in the southern part of Hyōgo Prefecture, and lasted for approximately 20 seconds. The epicentre of the earthquake was on the northern end of Awaji Island near Kobe, a cosmopolitan city of over 1.5 million people. A total of 6,434 people, mainly in the city of Kobe, lost their lives. Additionally, it caused approximately ten trillion yen in damage. It was the worst earthquake in Japan since the Great Kantō earthquake in 1923, which claimed 140,000 lives.</span><span class=\"cue-line\">We understand from the passage that the Kobe earthquake ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "is internationally known as the Great Hanshin earthquake",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "didn't cause any damage in the neighbourhood of Kobe",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "is not the deadliest earthquake in the history of Japan",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence before it.</span><span class=\"original-sentence\">The match couldn't start because of the heavy snow.</span><span class=\"cue-line\">The heavy snow ......................</span>",
+      "answer": "The heavy snow prevented the match from starting."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence before it.</span><span class=\"original-sentence\">My mother was a worker in a factory when she was young.</span><span class=\"cue-line\">My mother used ......................</span>",
+      "answer": "My mother used to work in a factory when she was young."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence before it.</span><span class=\"original-sentence\">You can improve your English by practicing speaking every day.</span><span class=\"cue-line\">If ......................</span>",
+      "answer": "If you practice speaking English every day, you can improve it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence before it.</span><span class=\"original-sentence\">\"I really must leave now,\" Mr. Fatt said.</span><span class=\"cue-line\">Mr. Fatt insists ......................</span>",
+      "answer": "Mr. Fatt insists on leaving then."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence before it.</span><span class=\"original-sentence\">It often took my mom half an hour to get to work by underground every morning last month.</span><span class=\"cue-line\">My mom spent ......................</span>",
+      "answer": "My mom spent half an hour getting to work by underground every morning last month."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence using the given word — “if”. Do not change the word given.</span><span class=\"original-sentence\">I'm not you, but I think you should recycle these plastic carrier bags.</span>",
+      "answer": "If I were you, I would recycle these plastic carrier bags."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence using the given word — “result”. Do not change the word given.</span><span class=\"original-sentence\">Emma came first because she worked hard.</span>",
+      "answer": "Emma came first as a result of her hard work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence using the given word — “lead”. Do not change the word given.</span><span class=\"original-sentence\">Eating too much sugar can result in health problems.</span>",
+      "answer": "Eating too much sugar can lead to health problems."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence using the given word — “so”. Do not change the word given.</span><span class=\"original-sentence\">All flights had to be cancelled as a result of the pilots' sudden strike.</span>",
+      "answer": "The pilots suddenly went on strike, so all flights had to be cancelled."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence using the given word — “because”. Do not change the word given.</span><span class=\"original-sentence\">If I could swim, I would go scuba diving with Terry.</span>",
+      "answer": "Because I can't swim, I'm not going scuba diving with Terry."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a passage in about 150-180 words.</span>Write a passage about the importance of learning English and suggest some effective ways that help us learn English well.",
+      "rubric": [
+        "Form: easy to read and coherent, organized as a clear passage (5 pts)",
+        "Content: successfully fulfills the task — explains why English matters and gives effective learning tips (15 pts)",
+        "Language: appropriate vocabulary (3 pts), suitable connectors (3 pts), correct grammar (3 pts), accurate punctuation/spelling (1 pt)"
+      ]
+    }
+  ]
+}

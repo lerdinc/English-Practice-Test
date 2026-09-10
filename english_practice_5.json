@@ -1,0 +1,1462 @@
+{
+  "title": "English Practice Test No: 5",
+  "subtitle": "66 questions · Vocabulary, Grammar & Phonetics, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "though",
+          "underline": "gh",
+          "ipa": "/ðoʊ/",
+          "explain": "silent \"gh\" — the odd one out"
+        },
+        {
+          "word": "enough",
+          "underline": "gh",
+          "ipa": "/ɪˈnʌf/",
+          "explain": "\"gh\" said as /f/"
+        },
+        {
+          "word": "cough",
+          "underline": "gh",
+          "ipa": "/kɒf/",
+          "explain": "\"gh\" said as /f/"
+        },
+        {
+          "word": "rough",
+          "underline": "gh",
+          "ipa": "/rʌf/",
+          "explain": "\"gh\" said as /f/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "chair",
+          "underline": "ch",
+          "ipa": "/tʃer/",
+          "explain": "\"ch\" said as /tʃ/"
+        },
+        {
+          "word": "cheap",
+          "underline": "ch",
+          "ipa": "/tʃiːp/",
+          "explain": "\"ch\" said as /tʃ/"
+        },
+        {
+          "word": "chorus",
+          "underline": "ch",
+          "ipa": "/ˈkɔːrəs/",
+          "explain": "\"ch\" said as /k/ — the odd one out"
+        },
+        {
+          "word": "child",
+          "underline": "ch",
+          "ipa": "/tʃaɪld/",
+          "explain": "\"ch\" said as /tʃ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "missed",
+          "underline": "ed",
+          "ipa": "/mɪst/",
+          "explain": "\"ed\" said as /t/ — the odd one out"
+        },
+        {
+          "word": "closed",
+          "underline": "ed",
+          "ipa": "/kloʊzd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "called",
+          "underline": "ed",
+          "ipa": "/kɔːld/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "planned",
+          "underline": "ed",
+          "ipa": "/plænd/",
+          "explain": "\"ed\" said as /d/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "fat",
+          "underline": "a",
+          "ipa": "/fæt/",
+          "explain": "short vowel /æ/"
+        },
+        {
+          "word": "any",
+          "underline": "a",
+          "ipa": "/ˈeni/",
+          "explain": "said as /e/ — the odd one out"
+        },
+        {
+          "word": "gas",
+          "underline": "a",
+          "ipa": "/gæs/",
+          "explain": "short vowel /æ/"
+        },
+        {
+          "word": "hat",
+          "underline": "a",
+          "ipa": "/hæt/",
+          "explain": "short vowel /æ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "physics",
+          "underline": "s",
+          "ipa": "/ˈfɪzɪks/",
+          "explain": "the first \"s\" said as /z/ — the odd one out"
+        },
+        {
+          "word": "basic",
+          "underline": "s",
+          "ipa": "/ˈbeɪsɪk/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "sailor",
+          "underline": "s",
+          "ipa": "/ˈseɪlər/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "subject",
+          "underline": "s",
+          "ipa": "/ˈsʌbdʒɪkt/",
+          "explain": "\"s\" said as /s/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "scissors",
+          "ipa": "/ˈsɪzərz/",
+          "explain": "SCIS-sors — stress on the 1st syllable"
+        },
+        {
+          "word": "object",
+          "ipa": "/ˈɒbdʒɪkt/",
+          "explain": "OB-ject (noun) — stress on the 1st syllable"
+        },
+        {
+          "word": "wardrobe",
+          "ipa": "/ˈwɔːrdroʊb/",
+          "explain": "WARD-robe — stress on the 1st syllable"
+        },
+        {
+          "word": "transmit",
+          "ipa": "/trænsˈmɪt/",
+          "explain": "trans-MIT — stress on the 2nd syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "comfortable",
+          "ipa": "/ˈkʌmftərbəl/",
+          "explain": "COM-fort-a-ble — stress on the 1st syllable"
+        },
+        {
+          "word": "commercial",
+          "ipa": "/kəˈmɜːrʃəl/",
+          "explain": "com-MER-cial — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "generous",
+          "ipa": "/ˈdʒenərəs/",
+          "explain": "GEN-er-ous — stress on the 1st syllable"
+        },
+        {
+          "word": "demonstrate",
+          "ipa": "/ˈdemənstreɪt/",
+          "explain": "DEM-on-strate — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "experiment",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "explain": "ex-PER-i-ment — stress on the 2nd syllable"
+        },
+        {
+          "word": "assistant",
+          "ipa": "/əˈsɪstənt/",
+          "explain": "as-SIS-tant — stress on the 2nd syllable"
+        },
+        {
+          "word": "sociable",
+          "ipa": "/ˈsoʊʃəbəl/",
+          "explain": "SO-cia-ble — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "equipment",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "explain": "e-QUIP-ment — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "advice",
+          "ipa": "/ədˈvaɪs/",
+          "explain": "ad-VICE — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "beauty",
+          "ipa": "/ˈbjuːti/",
+          "explain": "BEAU-ty — stress on the 1st syllable"
+        },
+        {
+          "word": "picture",
+          "ipa": "/ˈpɪktʃər/",
+          "explain": "PIC-ture — stress on the 1st syllable"
+        },
+        {
+          "word": "postcard",
+          "ipa": "/ˈpoʊstkɑːrd/",
+          "explain": "POST-card — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "theater",
+          "ipa": "/ˈθiːətər/",
+          "explain": "THE-a-ter — stress on the 1st syllable"
+        },
+        {
+          "word": "career",
+          "ipa": "/kəˈrɪr/",
+          "explain": "ca-REER — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "cinema",
+          "ipa": "/ˈsɪnəmə/",
+          "explain": "CIN-e-ma — stress on the 1st syllable"
+        },
+        {
+          "word": "gallery",
+          "ipa": "/ˈgæləri/",
+          "explain": "GAL-ler-y — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>David's school ______ is very bad this term.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "report",
+          "ipa": "/rɪˈpɔːrt/",
+          "explain": "\"school report\" — correct fixed collocation"
+        },
+        {
+          "word": "period",
+          "ipa": "/ˈpɪriəd/",
+          "explain": "doesn't fit — a period is a class session, not something that's \"bad\""
+        },
+        {
+          "word": "day",
+          "ipa": "/deɪ/",
+          "explain": "doesn't fit this context"
+        },
+        {
+          "word": "semester",
+          "ipa": "/sɪˈmestər/",
+          "explain": "doesn't fit — a semester isn't described as \"bad\" this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>People go to a ______ to look at the famous works of art.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "stadium",
+          "ipa": "/ˈsteɪdiəm/",
+          "explain": "for sports events, not art"
+        },
+        {
+          "word": "gallery",
+          "ipa": "/ˈgæləri/",
+          "explain": "correct — a gallery displays works of art"
+        },
+        {
+          "word": "theater",
+          "ipa": "/ˈθiːətər/",
+          "explain": "for plays and performances, not art"
+        },
+        {
+          "word": "fair",
+          "ipa": "/fer/",
+          "explain": "doesn't fit — not the standard place for viewing art"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>I'd like to go ______ very much.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "camp",
+          "ipa": "/kæmp/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "to camp",
+          "ipa": "/tə kæmp/",
+          "explain": "wrong form after \"go\""
+        },
+        {
+          "word": "a camp",
+          "ipa": "/ə kæmp/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "camping",
+          "ipa": "/ˈkæmpɪŋ/",
+          "explain": "correct — \"go camping\" (go + gerund for activities)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Hoa is reading short stories ______ Jack London.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't express authorship here"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "doesn't express authorship here"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "correct — \"by\" shows who wrote the stories"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't express authorship here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>John ______ Susan to go out with him but her parents didn't let her out.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "insisted",
+          "ipa": "/ɪnˈsɪstɪd/",
+          "explain": "\"insist\" doesn't take object + infinitive this way"
+        },
+        {
+          "word": "suggested",
+          "ipa": "/səgˈdʒestɪd/",
+          "explain": "\"suggest\" doesn't take object + infinitive this way"
+        },
+        {
+          "word": "invited",
+          "ipa": "/ɪnˈvaɪtɪd/",
+          "explain": "correct — \"invite someone to do something\""
+        },
+        {
+          "word": "helped",
+          "ipa": "/helpt/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>This book is ______ that I try to read it from beginning to end at one time.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "so interesting",
+          "ipa": "/soʊ ˈɪntrəstɪŋ/",
+          "explain": "correct — \"so + adjective + that\" describing the book"
+        },
+        {
+          "word": "so interested",
+          "ipa": "/soʊ ˈɪntrəstɪd/",
+          "explain": "\"interested\" describes a person's feeling, not the book"
+        },
+        {
+          "word": "such interesting",
+          "ipa": "/sʌtʃ ˈɪntrəstɪŋ/",
+          "explain": "\"such\" needs a noun, e.g. \"such an interesting book\""
+        },
+        {
+          "word": "too interesting",
+          "ipa": "/tuː ˈɪntrəstɪŋ/",
+          "explain": "\"too\" doesn't pair with a \"that\"-clause of result this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>\"Let it be\" is a famous song ______. It is one of the best works by this band.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "singing by the Beatles",
+          "ipa": "/ˈsɪŋɪŋ baɪ ðə ˈbiːtəlz/",
+          "explain": "wrong participle — the song doesn't \"sing\""
+        },
+        {
+          "word": "was sung by the Beatles",
+          "ipa": "/wəz sʌŋ baɪ ðə ˈbiːtəlz/",
+          "explain": "a full clause can't follow a noun without a relative pronoun/conjunction"
+        },
+        {
+          "word": "sung by the Beatles",
+          "ipa": "/sʌŋ baɪ ðə ˈbiːtəlz/",
+          "explain": "correct — reduced passive relative clause"
+        },
+        {
+          "word": "sang by the Beatles",
+          "ipa": "/sæŋ baɪ ðə ˈbiːtəlz/",
+          "explain": "wrong form — needs the past participle \"sung\", not \"sang\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>He ______ the train ticket at home.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "took",
+          "ipa": "/tʊk/",
+          "explain": "wrong meaning — he didn't bring it away from home"
+        },
+        {
+          "word": "put",
+          "ipa": "/pʊt/",
+          "explain": "incomplete meaning without more context"
+        },
+        {
+          "word": "brought",
+          "ipa": "/brɔːt/",
+          "explain": "wrong direction — \"bring\" is toward the speaker"
+        },
+        {
+          "word": "left",
+          "ipa": "/left/",
+          "explain": "correct — he forgot it there"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>She was ______ of watching television.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "interested",
+          "ipa": "/ˈɪntrəstɪd/",
+          "explain": "wrong preposition pairing (\"interested in\")"
+        },
+        {
+          "word": "tired",
+          "ipa": "/ˈtaɪərd/",
+          "explain": "correct — \"tired of\" is the fixed collocation"
+        },
+        {
+          "word": "tiring",
+          "ipa": "/ˈtaɪərɪŋ/",
+          "explain": "wrong form — describes something that causes tiredness"
+        },
+        {
+          "word": "pleased",
+          "ipa": "/pliːzd/",
+          "explain": "wrong preposition pairing (\"pleased with/about\")"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>My mother ______ me that I should wake up earlier.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "told to",
+          "ipa": "/toʊld tə/",
+          "explain": "\"tell\" doesn't take \"to\" before the object"
+        },
+        {
+          "word": "said",
+          "ipa": "/sed/",
+          "explain": "\"say\" needs \"to\" before an indirect object"
+        },
+        {
+          "word": "was told",
+          "ipa": "/wəz toʊld/",
+          "explain": "wrong voice — the mother is the one speaking"
+        },
+        {
+          "word": "said to",
+          "ipa": "/sed tə/",
+          "explain": "correct — \"say to someone that...\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Our teacher asked us ______ in class.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "not to talk",
+          "ipa": "/nɒt tə tɔːk/",
+          "explain": "correct — \"ask someone not to do something\""
+        },
+        {
+          "word": "to not talk",
+          "ipa": "/tə nɒt tɔːk/",
+          "explain": "non-standard split infinitive placement"
+        },
+        {
+          "word": "no talk",
+          "ipa": "/noʊ tɔːk/",
+          "explain": "not a grammatical verb pattern here"
+        },
+        {
+          "word": "without talking",
+          "ipa": "/wɪˈðaʊt ˈtɔːkɪŋ/",
+          "explain": "doesn't fit the \"ask someone ___\" pattern"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Peter broke his leg when he fell ______ his bike.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "wrong preposition for falling from something"
+        },
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "correct — \"fall off\" a bike"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "not a preposition of movement"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>You should ______ your lesson before the examination.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "read",
+          "ipa": "/riːd/",
+          "explain": "doesn't capture reviewing for an exam"
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "doesn't fit alone"
+        },
+        {
+          "word": "revise",
+          "ipa": "/rɪˈvaɪz/",
+          "explain": "correct — to review material before an exam"
+        },
+        {
+          "word": "study",
+          "ipa": "/ˈstʌdi/",
+          "explain": "plausible, but \"revise\" is the precise word for exam review here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Hung is ______ do the crossword puzzles.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "intelligent enough to",
+          "ipa": "/ɪnˈtelɪdʒənt ɪˈnʌf tə/",
+          "explain": "correct — \"adjective + enough + to-infinitive\""
+        },
+        {
+          "word": "intelligent enough",
+          "ipa": "/ɪnˈtelɪdʒənt ɪˈnʌf/",
+          "explain": "missing the infinitive needed to complete the sentence"
+        },
+        {
+          "word": "enough intelligent",
+          "ipa": "/ɪˈnʌf ɪnˈtelɪdʒənt/",
+          "explain": "wrong word order — \"enough\" follows the adjective"
+        },
+        {
+          "word": "enough intelligent to",
+          "ipa": "/ɪˈnʌf ɪnˈtelɪdʒənt tə/",
+          "explain": "wrong word order — \"enough\" follows the adjective"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Her math result is ______ than her English result.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "bad",
+          "ipa": "/bæd/",
+          "explain": "not a comparative form"
+        },
+        {
+          "word": "bader",
+          "ipa": "/ˈbædər/",
+          "explain": "not a real word — \"bad\" is irregular"
+        },
+        {
+          "word": "worse",
+          "ipa": "/wɜːrs/",
+          "explain": "correct — irregular comparative of \"bad\""
+        },
+        {
+          "word": "well",
+          "ipa": "/wel/",
+          "explain": "wrong word — not the comparative of \"bad\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>His father is very proud ______ him.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "correct — \"proud of\" is the fixed collocation"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Yesterday I came ______ your brother when I was going to school.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "not a phrasal verb particle here"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "doesn't form the idiom \"meet by chance\""
+        },
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "doesn't form the idiom \"meet by chance\""
+        },
+        {
+          "word": "across",
+          "ipa": "/əˈkrɔːs/",
+          "explain": "correct — \"come across\" means to meet by chance"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Students should work ______ to make their parents happy.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "hard",
+          "ipa": "/hɑːrd/",
+          "explain": "correct — the adverb meaning \"with effort\""
+        },
+        {
+          "word": "hardly",
+          "ipa": "/ˈhɑːrdli/",
+          "explain": "wrong word — \"hardly\" means \"barely\""
+        },
+        {
+          "word": "in hard way",
+          "ipa": "/ɪn hɑːrd weɪ/",
+          "explain": "not a standard adverbial phrase"
+        },
+        {
+          "word": "more hardly",
+          "ipa": "/mɔːr ˈhɑːrdli/",
+          "explain": "doesn't fit — wrong word and comparison"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Keep all dangerous things out of children's ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "hands",
+          "ipa": "/hændz/",
+          "explain": "doesn't fit the fixed idiom"
+        },
+        {
+          "word": "place",
+          "ipa": "/pleɪs/",
+          "explain": "doesn't fit the fixed idiom"
+        },
+        {
+          "word": "reach",
+          "ipa": "/riːtʃ/",
+          "explain": "correct — \"out of reach\" is the fixed idiom"
+        },
+        {
+          "word": "head",
+          "ipa": "/hed/",
+          "explain": "doesn't fit the fixed idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>When I was young, I used ______ on a farm.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to live",
+          "ipa": "/tə lɪv/",
+          "explain": "correct — \"used to + infinitive\" for past habits"
+        },
+        {
+          "word": "live",
+          "ipa": "/lɪv/",
+          "explain": "missing \"to\" for the \"used to\" structure"
+        },
+        {
+          "word": "to living",
+          "ipa": "/tə ˈlɪvɪŋ/",
+          "explain": "wrong form — \"used to\" takes a bare infinitive here"
+        },
+        {
+          "word": "living",
+          "ipa": "/ˈlɪvɪŋ/",
+          "explain": "wrong form for this structure"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>This coffee is too ______ to drink. (HEAT)",
+      "answer": "hot"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>I can't tell the ______ between the twins. (DIFFER)",
+      "answer": "difference"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>A fairy appeared and ______ changed Miss Tam's rags into beautiful clothes. (MAGIC)",
+      "answer": "magically"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>He drove ______ and he had an accident. (CARE)",
+      "answer": "carelessly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>I feel so ______ that I'm going to bed. (SLEEP)",
+      "answer": "sleepy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Why was his lecture so ______? (BORE)",
+      "answer": "boring"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>How many ______ are there in a year in Vietnam? (CELEBRATE)",
+      "answer": "celebrations"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>______ have warned the local people of the disaster. (SCIENCE)",
+      "answer": "scientists"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like<mark>______ (1)</mark> slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 1,
+      "options": [
+        {
+          "word": "to looked",
+          "ipa": "/tə lʊkt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to look",
+          "ipa": "/tə lʊk/",
+          "explain": "\"like + to-infinitive\" — like to look slim"
+        },
+        {
+          "word": "they look",
+          "ipa": "/ðeɪ lʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different<mark>______ (2)</mark> ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "\"different from\" is the fixed collocation"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "as",
+          "ipa": "/æz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays<mark>______ (3)</mark> seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "anymore",
+          "ipa": "/ˌeniˈmɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "none",
+          "ipa": "/nʌn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "everyone",
+          "ipa": "/ˈevriwʌn/",
+          "explain": "\"everyone\" fits the general statement about people's attitudes"
+        },
+        {
+          "word": "no one",
+          "ipa": "/ˈnoʊwʌn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy<mark>______ (4)</mark> fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to look at",
+          "ipa": "/tə lʊk æt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "looking",
+          "ipa": "/ˈlʊkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "looking at",
+          "ipa": "/ˈlʊkɪŋ æt/",
+          "explain": "\"enjoy + gerund\" — enjoy looking at"
+        },
+        {
+          "word": "to look",
+          "ipa": "/tə lʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing<mark>______ (5)</mark> is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 1,
+      "options": [
+        {
+          "word": "it",
+          "ipa": "/ɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "\"that\" as the relative pronoun for \"the only thing that is wrong\""
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a<mark>______ (6)</mark> said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "friend of mine",
+          "ipa": "/frend əv maɪn/",
+          "explain": "\"a friend of mine\" — correct possessive structure"
+        },
+        {
+          "word": "my friend",
+          "ipa": "/maɪ frend/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "friend of me",
+          "ipa": "/frend əv mi/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "friend of my",
+          "ipa": "/frend əv maɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind<mark>______ (7)</mark> these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to eat",
+          "ipa": "/tə iːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "eat",
+          "ipa": "/iːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "eating",
+          "ipa": "/ˈiːtɪŋ/",
+          "explain": "\"mind + gerund\" — don't mind eating"
+        },
+        {
+          "word": "the eating",
+          "ipa": "/ðə ˈiːtɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me<mark>______ (8)</mark> weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 3,
+      "options": [
+        {
+          "word": "gain",
+          "ipa": "/geɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "put on",
+          "ipa": "/pʊt ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "loose",
+          "ipa": "/luːs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lose",
+          "ipa": "/luːz/",
+          "explain": "\"lose weight\" is the correct word (not \"loose\", which is an adjective)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason<mark>______ (9)</mark> this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but______ (10) less.”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "why",
+          "ipa": "/waɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "\"the reason for this\" is the fixed collocation"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer for each gap.</span>These days most people, especially young girls, like______ (1) slim. Our grandparent's tastes were different______ (2) ours but nowadays______ (3) seems to enjoy______ (4) fat people. The only thing______ (5) is wrong with this is what a______ (6) said to me the other day: “I don't mind______ (7) these foods if they will help me______ (8) weight but why do they taste so awful?” The reason______ (9) this is that the manufacturers have to include a lot of vitamins to satisfy the law, so the only sensible advice I could give my friend was “Eat normal food, but<mark>______ (10)</mark> less.”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "eat",
+          "ipa": "/iːt/",
+          "explain": "parallel imperative: \"Eat normal food, but eat less\""
+        },
+        {
+          "word": "to eat",
+          "ipa": "/tə iːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "eating",
+          "ipa": "/ˈiːtɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "be eating",
+          "ipa": "/bi ˈiːtɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the question.</span><span class=\"passage-block\">It is five o'clock in the evening when Rene Wagner comes home from work. She walks into the living room and looks at her three children. They are 14, 13 and 9 years old. They are watching TV. The living room is a mess. There are dirty socks on the floor and cookies on the sofa. Games and toys are everywhere. Rene is angry. “This place is a mess,” she tells her children, “I can't work all day and then do housework all evening. I'm not going to do housework!” Rene doesn't do housework. She doesn't clean or wash dishes. She doesn't wash clothes, either. Every evening she sits on the sofa and watches TV.<br><br>After two weeks, every plate, fork and glass in the house is dirty. All the children's clothes are dirty. Every garbage basket is full. The house is a mess.<br><br>Then, one day Rene comes home from work and gets a big surprise. The kitchen is clean. The children clean the kitchen!<br><br>The next day, the living room is clean, and the children are washing their clothes. Rene tells the children, “OK, I'll do the housework again. But you have to help me.”<br><br>Now Rene and her three children do the housework together. Then they all sit on the sofa and watch TV!</span><span class=\"cue-line\">When Rene came home from work, she found the house ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "clean and dirty",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "dirty and tidy",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "dirty and untidy",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "clean but untidy",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the question.</span><span class=\"passage-block\">It is five o'clock in the evening when Rene Wagner comes home from work. She walks into the living room and looks at her three children. They are 14, 13 and 9 years old. They are watching TV. The living room is a mess. There are dirty socks on the floor and cookies on the sofa. Games and toys are everywhere. Rene is angry. “This place is a mess,” she tells her children, “I can't work all day and then do housework all evening. I'm not going to do housework!” Rene doesn't do housework. She doesn't clean or wash dishes. She doesn't wash clothes, either. Every evening she sits on the sofa and watches TV.<br><br>After two weeks, every plate, fork and glass in the house is dirty. All the children's clothes are dirty. Every garbage basket is full. The house is a mess.<br><br>Then, one day Rene comes home from work and gets a big surprise. The kitchen is clean. The children clean the kitchen!<br><br>The next day, the living room is clean, and the children are washing their clothes. Rene tells the children, “OK, I'll do the housework again. But you have to help me.”<br><br>Now Rene and her three children do the housework together. Then they all sit on the sofa and watch TV!</span><span class=\"cue-line\">Rene told her children ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "to do the housework",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "she couldn't do housework",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "not to do housework",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "she wouldn't do housework",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the question.</span><span class=\"passage-block\">It is five o'clock in the evening when Rene Wagner comes home from work. She walks into the living room and looks at her three children. They are 14, 13 and 9 years old. They are watching TV. The living room is a mess. There are dirty socks on the floor and cookies on the sofa. Games and toys are everywhere. Rene is angry. “This place is a mess,” she tells her children, “I can't work all day and then do housework all evening. I'm not going to do housework!” Rene doesn't do housework. She doesn't clean or wash dishes. She doesn't wash clothes, either. Every evening she sits on the sofa and watches TV.<br><br>After two weeks, every plate, fork and glass in the house is dirty. All the children's clothes are dirty. Every garbage basket is full. The house is a mess.<br><br>Then, one day Rene comes home from work and gets a big surprise. The kitchen is clean. The children clean the kitchen!<br><br>The next day, the living room is clean, and the children are washing their clothes. Rene tells the children, “OK, I'll do the housework again. But you have to help me.”<br><br>Now Rene and her three children do the housework together. Then they all sit on the sofa and watch TV!</span><span class=\"cue-line\">Two weeks later, the house was ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "very clean",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a mess",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "tidy",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "rather dirty",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the question.</span><span class=\"passage-block\">It is five o'clock in the evening when Rene Wagner comes home from work. She walks into the living room and looks at her three children. They are 14, 13 and 9 years old. They are watching TV. The living room is a mess. There are dirty socks on the floor and cookies on the sofa. Games and toys are everywhere. Rene is angry. “This place is a mess,” she tells her children, “I can't work all day and then do housework all evening. I'm not going to do housework!” Rene doesn't do housework. She doesn't clean or wash dishes. She doesn't wash clothes, either. Every evening she sits on the sofa and watches TV.<br><br>After two weeks, every plate, fork and glass in the house is dirty. All the children's clothes are dirty. Every garbage basket is full. The house is a mess.<br><br>Then, one day Rene comes home from work and gets a big surprise. The kitchen is clean. The children clean the kitchen!<br><br>The next day, the living room is clean, and the children are washing their clothes. Rene tells the children, “OK, I'll do the housework again. But you have to help me.”<br><br>Now Rene and her three children do the housework together. Then they all sit on the sofa and watch TV!</span><span class=\"cue-line\">Some days later, the house was clean again because ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "she couldn't let it stay that way",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "her children did housework",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "her children didn't do housework",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "she did housework again",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the question.</span><span class=\"passage-block\">It is five o'clock in the evening when Rene Wagner comes home from work. She walks into the living room and looks at her three children. They are 14, 13 and 9 years old. They are watching TV. The living room is a mess. There are dirty socks on the floor and cookies on the sofa. Games and toys are everywhere. Rene is angry. “This place is a mess,” she tells her children, “I can't work all day and then do housework all evening. I'm not going to do housework!” Rene doesn't do housework. She doesn't clean or wash dishes. She doesn't wash clothes, either. Every evening she sits on the sofa and watches TV.<br><br>After two weeks, every plate, fork and glass in the house is dirty. All the children's clothes are dirty. Every garbage basket is full. The house is a mess.<br><br>Then, one day Rene comes home from work and gets a big surprise. The kitchen is clean. The children clean the kitchen!<br><br>The next day, the living room is clean, and the children are washing their clothes. Rene tells the children, “OK, I'll do the housework again. But you have to help me.”<br><br>Now Rene and her three children do the housework together. Then they all sit on the sofa and watch TV!</span><span class=\"cue-line\">Now Rene does housework again because ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "her children help her",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "they can watch TV together",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "her children wash their clothes",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "her children don't do it",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">The movie was very bad. I couldn't see it.</span><span class=\"cue-line\">The movie was not ......................</span>",
+      "answer": "The movie was not good enough for me to see."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">\"Shut the door but don't lock it,\" he said to us.</span><span class=\"cue-line\">He told ......................</span>",
+      "answer": "He told us to shut the door but not to lock it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">The garage is going to repair our car next week.</span><span class=\"cue-line\">We are going ......................</span>",
+      "answer": "We are going to have our car repaired next week."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">In spite of his intelligence, he doesn't do well at school.</span><span class=\"cue-line\">Although ......................</span>",
+      "answer": "Although he is intelligent, he doesn't do well at school."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">You must see the headmaster.</span><span class=\"cue-line\">You've ......................</span>",
+      "answer": "You've got to see the headmaster."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">Remember to check your flight numbers.</span><span class=\"cue-line\">Don't ......................</span>",
+      "answer": "Don't forget to check your flight numbers."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">It was such bad news that Helen burst into tears.</span><span class=\"cue-line\">The news ......................</span>",
+      "answer": "The news was so bad that Helen burst into tears."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggested words and phrases to make a full sentence.</span><span class=\"cue-line\">Those buses / not going / airport / neither / taxis.</span>",
+      "answer": "Those buses are not going to the airport and neither are taxis."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggested words and phrases to make a full sentence.</span><span class=\"cue-line\">You / not / want / sell / house last year?</span>",
+      "answer": "Didn't you want to sell the house last year?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggested words and phrases to make a full sentence.</span><span class=\"cue-line\">He / stop / smoke / save / money.</span>",
+      "answer": "He stopped smoking to save money."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggested words and phrases to make a full sentence.</span><span class=\"cue-line\">My brother / not drive / carefully / I.</span>",
+      "answer": "My brother doesn't drive as carefully as I do."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggested words and phrases to make a full sentence.</span><span class=\"cue-line\">It / difficult / prevent / people / park here.</span>",
+      "answer": "It is difficult to prevent people from parking here."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a passage in about 200 words.</span>Write a passage in about 200 words about the benefits of doing exercise regularly.",
+      "rubric": [
+        "Structure: has a clear introduction, body, and conclusion (0.5 pt)",
+        "Gives at least 3 specific benefits of regular exercise (physical, mental, social, etc.) with some explanation (2.0 pts)",
+        "Uses relevant vocabulary and reasonably accurate grammar throughout (0.5 pt)"
+      ]
+    }
+  ]
+}

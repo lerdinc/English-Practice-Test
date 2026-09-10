@@ -1,0 +1,1958 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>English Practice Test</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#fbf9f3;
+    --ink:#1f2d28;
+    --teal:#16423c;
+    --teal-soft:#c9ddd6;
+    --mustard:#d99a2b;
+    --plum:#7a4b6b;
+    --slate:#3b6ea5;
+    --slate-soft:#d7e5f3;
+    --rust:#a15c2e;
+    --wrong:#b5433a;
+    --wrong-soft:#f3d9d5;
+    --correct:#2f6b4f;
+    --correct-soft:#d6e7dc;
+    --line:#e3ddcc;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;padding:0; -webkit-text-size-adjust:100%; text-size-adjust:100%;}
+  body{
+    background:
+      repeating-linear-gradient(to bottom, transparent 0px, transparent 34px, var(--line) 35px),
+      var(--paper);
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    min-height:100vh;
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+    padding:40px 16px;
+    padding-left: max(16px, env(safe-area-inset-left));
+    padding-right: max(16px, env(safe-area-inset-right));
+    padding-bottom: max(40px, env(safe-area-inset-bottom));
+  }
+  .wrap{ width:100%; max-width:680px; }
+  header{ margin-bottom:18px; }
+  h1{
+    font-family:'Fraunces',serif;
+    font-weight:700;
+    font-size:1.6rem;
+    margin:0 0 4px 0;
+    color:var(--teal);
+    letter-spacing:-0.01em;
+  }
+  .sub{ font-size:0.92rem; color:#5a6b63; }
+  .test-badge{
+    display:inline-block;
+    margin-top:8px;
+    padding:4px 10px;
+    border-radius:5px;
+    background:var(--teal);
+    color:#fff;
+    font-size:0.75rem;
+    font-weight:700;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+  }
+
+  .loader-bar{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-wrap:wrap;
+    background:#f2efe4;
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:10px 12px;
+    margin:16px 0 4px 0;
+    font-size:0.85rem;
+  }
+  .loader-bar .lbl{ color:#5a6b63; margin-right:2px; }
+  .preset-select{
+    background:#fff;
+    border:1.5px solid #c9c2a8;
+    border-radius:6px;
+    padding:9px 10px;
+    min-height:40px;
+    font-family:'Inter',sans-serif;
+    font-weight:600;
+    font-size:0.85rem;
+    color:var(--teal);
+    cursor:pointer;
+    touch-action:manipulation;
+    max-width:100%;
+  }
+  .file-btn{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    background:#fff;
+    border:1.5px solid #c9c2a8;
+    border-radius:6px;
+    padding:10px 14px;
+    min-height:40px;
+    font-family:'Inter',sans-serif;
+    font-weight:600;
+    font-size:0.85rem;
+    color:var(--teal);
+    cursor:pointer;
+    touch-action:manipulation;
+    -webkit-user-select:none;
+    user-select:none;
+  }
+  @media (hover:hover) and (pointer:fine){
+    .file-btn:hover{ border-color:var(--teal); }
+  }
+  .file-btn:active{ background:#f6f4ec; }
+  #fileInput{ display:none; }
+  .reset-link{
+    background:none;
+    border:none;
+    color:#8a8471;
+    font-size:0.85rem;
+    text-decoration:underline;
+    cursor:pointer;
+    padding:10px 4px;
+    font-family:'Inter',sans-serif;
+    touch-action:manipulation;
+  }
+  .load-msg{ font-size:0.83rem; }
+  .load-msg.ok{ color:var(--correct); }
+  .load-msg.err{ color:var(--wrong); }
+
+  .progress-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:6px 12px;
+    margin:20px 0 10px 0;
+    font-size:0.85rem;
+    color:#5a6b63;
+  }
+  .progress-track{
+    height:6px;
+    background:var(--teal-soft);
+    border-radius:3px;
+    overflow:hidden;
+    margin-bottom:22px;
+  }
+  .progress-fill{ height:100%; background:var(--teal); border-radius:3px; transition:width .35s ease; }
+
+  .card{
+    background:#fffefb;
+    border:1px solid var(--line);
+    border-left:5px solid var(--teal);
+    border-radius:10px;
+    padding:28px 26px 24px 24px;
+    box-shadow:0 1px 3px rgba(31,45,40,0.06);
+  }
+  .card.stress{ border-left-color:var(--mustard); }
+  .card.vocabulary{ border-left-color:var(--plum); }
+  .card.reading{ border-left-color:var(--slate); }
+  .card.writing{ border-left-color:var(--rust); }
+  .part-label{ font-size:0.82rem; font-weight:600; color:var(--teal); margin-bottom:14px; }
+  .card.stress .part-label{ color:var(--mustard); }
+  .card.vocabulary .part-label{ color:var(--plum); }
+  .card.reading .part-label{ color:var(--slate); }
+  .card.writing .part-label{ color:var(--rust); }
+  .prompt{ font-family:'Fraunces',serif; font-size:1.22rem; line-height:1.45; margin:0 0 22px 0; color:var(--ink); }
+  .prompt-passage{
+    font-family:'Inter',sans-serif;
+    font-size:1rem;
+    line-height:1.75;
+    margin:0 0 22px 0;
+    color:var(--ink);
+    text-align:left;
+  }
+  .prompt-passage mark{
+    background:var(--slate-soft);
+    color:var(--ink);
+    padding:2px 6px;
+    border-radius:4px;
+    font-weight:700;
+    font-style:normal;
+  }
+  .card.writing .prompt-passage mark{ background:#f0ddc9; }
+  .prompt-passage .passage-block{
+    display:block;
+    margin-bottom:14px;
+    color:#4b5a54;
+  }
+  .prompt-passage .question-line{
+    font-weight:700;
+    color:var(--ink);
+    margin:10px 0 4px 0;
+    display:block;
+  }
+  .prompt-passage .original-sentence{
+    display:block;
+    font-style:italic;
+    color:#4b5a54;
+    margin-bottom:6px;
+  }
+  .prompt-passage .cue-line{
+    display:block;
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    padding:8px 0 0 0;
+  }
+  .mini-instruction{
+    display:block;
+    font-family:'Inter',sans-serif;
+    font-weight:600;
+    font-size:0.78rem;
+    color:#5a6b63;
+    letter-spacing:0.01em;
+    margin-bottom:8px;
+  }
+
+  .text-input, .essay-input{
+    width:100%;
+    padding:12px 14px;
+    border:1.5px solid #ded6bf;
+    border-radius:8px;
+    font-family:'Inter',sans-serif;
+    font-size:1rem;
+    color:var(--ink);
+    background:#fff;
+    resize:vertical;
+    line-height:1.5;
+  }
+  .text-input{ min-height:52px; }
+  .essay-input{ min-height:220px; }
+  .text-input:focus, .essay-input:focus{ outline:none; border-color:var(--teal); }
+  .word-count{
+    text-align:right;
+    font-size:0.8rem;
+    color:#8a8471;
+    margin-top:6px;
+  }
+  .self-check-note{
+    font-size:0.83rem;
+    color:#5a6b63;
+    margin-top:10px;
+  }
+
+
+  .options{ display:flex; flex-direction:column; gap:10px; }
+  .opt{
+    display:flex; align-items:center; gap:12px; width:100%; text-align:left;
+    background:#fff; border:1.5px solid #ded6bf; border-radius:8px;
+    padding:15px 16px; min-height:44px; font-family:'Inter',sans-serif; font-size:1.02rem; color:var(--ink);
+    cursor:pointer; transition:border-color .15s ease, background .15s ease;
+    touch-action:manipulation; -webkit-user-select:none; user-select:none;
+  }
+  @media (hover:hover) and (pointer:fine){
+    .opt:hover{ border-color:var(--teal); background:#f6f4ec; }
+  }
+  .opt:active{ background:#f0eee2; }
+  .opt.chosen{ background:var(--teal-soft); border-color:var(--teal); }
+  .opt .letter{
+    display:inline-flex; align-items:center; justify-content:center;
+    width:26px; height:26px; border-radius:50%; border:1.5px solid #c9c2a8;
+    font-size:0.84rem; font-weight:600; flex-shrink:0; color:#7a7d75;
+  }
+  .opt.chosen .letter{ background:var(--teal); border-color:var(--teal); color:#fff; }
+  .opt .word u{ text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:2px; }
+
+  .nav-row{ display:flex; justify-content:space-between; align-items:center; margin-top:24px; gap:12px; }
+  button.nav{
+    font-family:'Inter',sans-serif; font-weight:600; font-size:0.95rem;
+    padding:12px 20px; min-height:44px; border-radius:7px; border:1.5px solid var(--teal);
+    background:#fff; color:var(--teal); cursor:pointer;
+    touch-action:manipulation; -webkit-user-select:none; user-select:none;
+  }
+  button.nav:disabled{ opacity:0.35; cursor:not-allowed; }
+  button.nav.primary{ background:var(--teal); color:#fff; }
+  button.nav.primary:disabled{ background:#a9c0b8; border-color:#a9c0b8; }
+  button.nav:active:not(:disabled){ opacity:0.8; }
+
+  .results{ text-align:center; padding:10px 4px; }
+  .score-big{ font-family:'Fraunces',serif; font-weight:700; font-size:3rem; color:var(--teal); margin:6px 0 2px 0; }
+  .score-label{ color:#5a6b63; font-size:0.95rem; margin-bottom:22px; }
+  .name-field{ max-width:320px; margin:0 auto 22px auto; text-align:left; }
+  .name-label{ display:block; font-size:0.85rem; font-weight:600; color:var(--teal); margin-bottom:6px; }
+  .name-input{
+    width:100%; padding:12px 14px; min-height:44px;
+    border:1.5px solid #ded6bf; border-radius:8px;
+    font-family:'Inter',sans-serif; font-size:1rem; color:var(--ink); background:#fff;
+  }
+  .name-input:focus{ outline:none; border-color:var(--teal); }
+
+  .review-list{ text-align:left; display:flex; flex-direction:column; gap:10px; margin-bottom:24px; }
+  .review-block{ border-radius:8px; background:#f6f4ec; padding:12px 14px; }
+  .review-block.wrong{ background:var(--wrong-soft); }
+  .review-head{ display:flex; justify-content:space-between; font-size:0.87rem; margin-bottom:8px; gap:8px; flex-wrap:wrap; }
+  .review-head .qn{ color:#5a6b63; }
+  .review-head .verdict-tag{ font-weight:600; }
+  .review-block.wrong .review-head .verdict-tag{ color:var(--wrong); }
+  .review-block:not(.wrong) .review-head .verdict-tag{ color:var(--correct); }
+  .review-prompt{ font-size:0.9rem; margin-bottom:8px; color:var(--ink); }
+  .review-words{ display:flex; flex-direction:column; gap:6px; }
+  .review-word{ font-size:0.87rem; padding:4px 0; border-top:1px dashed #e3ddcc0f; }
+  .review-word .rw-top{ display:flex; justify-content:space-between; gap:10px; }
+  .review-word.is-correct .rw-top{ font-weight:600; color:var(--correct); }
+  .review-word.is-chosen-wrong .rw-top{ font-weight:600; color:var(--wrong); }
+  .review-word .rw-ipa{ font-style:italic; color:#7d7660; }
+  .review-word .rw-explain{ color:#5a6b63; font-size:0.85rem; margin-top:1px; }
+  .review-word .rw-tag{ font-size:0.75rem; font-weight:700; text-transform:uppercase; letter-spacing:0.03em; }
+  .review-word.is-correct .rw-tag{ color:var(--correct); }
+  .review-word.is-chosen-wrong .rw-tag{ color:var(--wrong); }
+
+  .review-block.self-check{ background:#f0eee2; }
+  .review-block.self-check .verdict-tag{ color:#8a8471; }
+  .self-check-block{ font-size:0.87rem; }
+  .self-check-block .sc-label{
+    font-weight:600;
+    color:var(--teal);
+    display:block;
+    margin-bottom:3px;
+    margin-top:10px;
+  }
+  .self-check-block .sc-your-answer{
+    white-space:pre-wrap;
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:8px 10px;
+    color:var(--ink);
+  }
+  .self-check-block .sc-model-answer{
+    color:var(--correct);
+    font-weight:600;
+  }
+  .self-check-block .sc-ipa{
+    color:#7d7660;
+    font-style:italic;
+    font-weight:400;
+  }
+  .self-check-block .sc-rubric{
+    margin:4px 0 0 18px;
+    padding:0;
+    color:#5a6b63;
+  }
+  .self-check-block .sc-rubric li{ margin-bottom:3px; }
+
+  .results-actions{ display:flex; justify-content:center; gap:10px; flex-wrap:wrap; }
+  .restart-btn{
+    font-family:'Inter',sans-serif; font-weight:600; font-size:0.95rem;
+    padding:13px 24px; min-height:44px; border-radius:7px; border:none;
+    background:var(--teal); color:#fff; cursor:pointer;
+    touch-action:manipulation; -webkit-user-select:none; user-select:none;
+  }
+  .restart-btn:active{ opacity:0.85; }
+  .save-btn{
+    font-family:'Inter',sans-serif; font-weight:600; font-size:0.95rem;
+    padding:13px 24px; min-height:44px; border-radius:7px;
+    border:1.5px solid var(--teal); background:#fff; color:var(--teal); cursor:pointer;
+    touch-action:manipulation; -webkit-user-select:none; user-select:none;
+  }
+  .save-btn:active{ background:#f6f4ec; }
+  .save-msg{ font-size:0.83rem; color:var(--correct); margin-top:10px; min-height:1em; }
+
+  .empty-state{ text-align:center; color:#5a6b63; font-size:0.95rem; padding:30px 10px; }
+  .test-note{
+    font-size:0.85rem;
+    color:#5a6b63;
+    text-align:center;
+    margin-top:6px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 id="pageTitle">English Practice Test</h1>
+    <div class="sub" id="pageSubtitle">30 questions · Phonetics, Vocabulary &amp; Grammar, Reading</div>
+    <span class="test-badge">Test mode — results shown at the end</span>
+  </header>
+
+  <div class="loader-bar">
+    <span class="lbl">Test:</span>
+    <select id="presetSelect" class="preset-select">
+      <option value="">Choose a hosted test…</option>
+    </select>
+    <span class="lbl">or</span>
+    <label class="file-btn" for="fileInput">Load .json file</label>
+    <input type="file" id="fileInput" accept="application/json,.json">
+    <button class="reset-link" id="resetLink" onclick="loadDefault()">use built-in test</button>
+    <span class="load-msg" id="loadMsg"></span>
+  </div>
+
+  <div class="progress-row">
+    <span id="progressText">30 questions</span>
+    <span id="partText">Not started</span>
+  </div>
+  <div class="progress-track"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+
+  <div id="quizArea"></div>
+</div>
+
+<script type="application/json" id="quizDataJson">
+{
+  "title": "English Practice Test",
+  "subtitle": "From your uploaded test · 30 multiple-choice questions (Phonetics, Vocabulary & Grammar, Reading)",
+  "questions": [
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "heritage",
+          "underline": "age",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        },
+        {
+          "word": "shortage",
+          "underline": "age",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        },
+        {
+          "word": "teenage",
+          "underline": "age",
+          "ipa": "/ˈtiːneɪdʒ/",
+          "explain": "\"age\" said as /eɪdʒ/ — the odd one out"
+        },
+        {
+          "word": "luggage",
+          "underline": "age",
+          "ipa": "/ˈlʌgɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "appear",
+          "underline": "ea",
+          "ipa": "/əˈpɪər/",
+          "explain": "\"ea\" said as /ɪə/ — the odd one out"
+        },
+        {
+          "word": "weather",
+          "underline": "ea",
+          "ipa": "/ˈweðər/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "bread",
+          "underline": "ea",
+          "ipa": "/bred/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "headache",
+          "underline": "ea",
+          "ipa": "/ˈhedeɪk/",
+          "explain": "\"ea\" said as /e/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "organize",
+          "underline": "o",
+          "ipa": "/ˈɒrgənaɪz/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "belong",
+          "underline": "o",
+          "ipa": "/bɪˈlɒŋ/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "woman",
+          "underline": "o",
+          "ipa": "/ˈwʊmən/",
+          "explain": "\"o\" said as /ʊ/ — the odd one out"
+        },
+        {
+          "word": "concert",
+          "underline": "o",
+          "ipa": "/ˈkɒnsərt/",
+          "explain": "\"o\" said as /ɒ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "think",
+          "underline": "th",
+          "ipa": "/θɪŋk/",
+          "explain": "\"th\" said as /θ/, voiceless — the odd one out"
+        },
+        {
+          "word": "though",
+          "underline": "th",
+          "ipa": "/ðoʊ/",
+          "explain": "\"th\" said as /ð/, voiced"
+        },
+        {
+          "word": "mother",
+          "underline": "th",
+          "ipa": "/ˈmʌðər/",
+          "explain": "\"th\" said as /ð/, voiced"
+        },
+        {
+          "word": "these",
+          "underline": "th",
+          "ipa": "/ðiːz/",
+          "explain": "\"th\" said as /ð/, voiced"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "eraser",
+          "underline": "a",
+          "ipa": "/ɪˈreɪzər/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "scale",
+          "underline": "a",
+          "ipa": "/skeɪl/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "suitcase",
+          "underline": "a",
+          "ipa": "/ˈsuːtkeɪs/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "waterfall",
+          "underline": "a",
+          "ipa": "/ˈwɔːtərfɔːl/",
+          "explain": "\"a\" said as /ɔː/ — the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "pencil",
+          "ipa": "/ˈpensəl/",
+          "explain": "PEN-cil — stress on the 1st syllable"
+        },
+        {
+          "word": "raincoat",
+          "ipa": "/ˈreɪnkoʊt/",
+          "explain": "RAIN-coat — stress on the 1st syllable"
+        },
+        {
+          "word": "arrive",
+          "ipa": "/əˈraɪv/",
+          "explain": "ar-RIVE — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "notebook",
+          "ipa": "/ˈnoʊtbʊk/",
+          "explain": "NOTE-book — stress on the 1st syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "enjoyable",
+          "ipa": "/ɪnˈdʒɔɪəbəl/",
+          "explain": "en-JOY-a-ble — stress on the 2nd syllable"
+        },
+        {
+          "word": "power",
+          "ipa": "/ˈpaʊər/",
+          "explain": "POW-er — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "permission",
+          "ipa": "/pərˈmɪʃən/",
+          "explain": "per-MIS-sion — stress on the 2nd syllable"
+        },
+        {
+          "word": "explore",
+          "ipa": "/ɪkˈsplɔːr/",
+          "explain": "ex-PLORE — stress on the 2nd syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "photography",
+          "ipa": "/fəˈtɒgrəfi/",
+          "explain": "pho-TOG-ra-phy — stress on the 2nd syllable"
+        },
+        {
+          "word": "minority",
+          "ipa": "/maɪˈnɒrəti/",
+          "explain": "mi-NOR-i-ty — stress on the 2nd syllable"
+        },
+        {
+          "word": "heroic",
+          "ipa": "/hɪˈroʊɪk/",
+          "explain": "he-RO-ic — stress on the 2nd syllable"
+        },
+        {
+          "word": "visit",
+          "ipa": "/ˈvɪzɪt/",
+          "explain": "VIS-it — stress on the 1st syllable, the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "translation",
+          "ipa": "/trænsˈleɪʃən/",
+          "explain": "trans-LA-tion — stress on the 2nd syllable"
+        },
+        {
+          "word": "difficult",
+          "ipa": "/ˈdɪfɪkəlt/",
+          "explain": "DIF-fi-cult — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "unluckily",
+          "ipa": "/ʌnˈlʌkɪli/",
+          "explain": "un-LUCK-i-ly — stress on the 2nd syllable"
+        },
+        {
+          "word": "agree",
+          "ipa": "/əˈgriː/",
+          "explain": "a-GREE — stress on the 2nd syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Vietnamese",
+          "ipa": "/ˌvjetnəˈmiːz/",
+          "explain": "Vi-et-na-MESE — stress on the 3rd (final) syllable"
+        },
+        {
+          "word": "engineer",
+          "ipa": "/ˌendʒɪˈnɪr/",
+          "explain": "en-gi-NEER — stress on the 3rd (final) syllable"
+        },
+        {
+          "word": "celebration",
+          "ipa": "/ˌseləˈbreɪʃən/",
+          "explain": "cel-e-BRA-tion — stress on the 3rd syllable"
+        },
+        {
+          "word": "product",
+          "ipa": "/ˈprɒdʌkt/",
+          "explain": "PROD-uct — stress on the 1st syllable, the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Hoa ______ coins and stamps since she was six.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "was collecting",
+          "explain": "past continuous — doesn't fit with \"since\"",
+          "ipa": "/wəz kəˈlektɪŋ/"
+        },
+        {
+          "word": "has collected",
+          "explain": "present perfect — correct with \"since + a point in time\"",
+          "ipa": "/hæz kəˈlektɪd/"
+        },
+        {
+          "word": "collected",
+          "explain": "simple past — doesn't show the action continuing to now",
+          "ipa": "/kəˈlektɪd/"
+        },
+        {
+          "word": "will collect",
+          "explain": "future tense — wrong time reference",
+          "ipa": "/wɪl kəˈlekt/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>His brother is a ______ boy. He always tells a joke.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "handsome",
+          "explain": "means good-looking — not related to telling jokes",
+          "ipa": "/ˈhænsəm/"
+        },
+        {
+          "word": "humorous",
+          "explain": "means funny — fits \"always tells a joke\"",
+          "ipa": "/ˈhjuːmərəs/"
+        },
+        {
+          "word": "sociable",
+          "explain": "means friendly and outgoing, not about humor",
+          "ipa": "/ˈsoʊʃəbəl/"
+        },
+        {
+          "word": "energetic",
+          "explain": "means full of energy, not about humor",
+          "ipa": "/ˌenərˈdʒetɪk/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Do you mind if I ______ your car to work?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "drive",
+          "explain": "bare present tense after \"if I ...\" in this request pattern",
+          "ipa": "/draɪv/"
+        },
+        {
+          "word": "driving",
+          "explain": "gerund doesn't fit after \"if I\"",
+          "ipa": "/ˈdraɪvɪŋ/"
+        },
+        {
+          "word": "to drive",
+          "explain": "to-infinitive doesn't fit after \"if I\"",
+          "ipa": "/tə draɪv/"
+        },
+        {
+          "word": "drove",
+          "explain": "past tense doesn't fit a present request",
+          "ipa": "/droʊv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>They are ______ that their son won the championship.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "delighted",
+          "explain": "-ed adjective describing how people feel",
+          "ipa": "/dɪˈlaɪtɪd/"
+        },
+        {
+          "word": "pleasing",
+          "explain": "-ing adjective describes the thing causing the feeling, not a person",
+          "ipa": "/ˈpliːzɪŋ/"
+        },
+        {
+          "word": "sad",
+          "explain": "wrong meaning for good news",
+          "ipa": "/sæd/"
+        },
+        {
+          "word": "interesting",
+          "explain": "-ing adjective, wrong form and meaning here",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>My sister regretting ______ Mai's glasses yesterday.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to break",
+          "explain": "\"regret + to-infinitive\" means to regret announcing something — wrong meaning here",
+          "ipa": "/tə breɪk/"
+        },
+        {
+          "word": "broken",
+          "explain": "wrong form — not a gerund",
+          "ipa": "/ˈbroʊkən/"
+        },
+        {
+          "word": "breaking",
+          "explain": "\"regret + gerund\" refers to regretting a past action",
+          "ipa": "/ˈbreɪkɪŋ/"
+        },
+        {
+          "word": "break",
+          "explain": "bare infinitive doesn't fit after \"regret\"",
+          "ipa": "/breɪk/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Hoa dances more ______ than her classmates.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "beauty",
+          "explain": "noun — doesn't modify a verb",
+          "ipa": "/ˈbjuːti/"
+        },
+        {
+          "word": "beautiful",
+          "explain": "adjective — doesn't modify the verb \"dances\"",
+          "ipa": "/ˈbjuːtɪfəl/"
+        },
+        {
+          "word": "beautifully",
+          "explain": "adverb — correctly modifies \"dances\"",
+          "ipa": "/ˈbjuːtɪfəli/"
+        },
+        {
+          "word": "beautify",
+          "explain": "verb — wrong word class here",
+          "ipa": "/ˈbjuːtɪfaɪ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>They will hold a meeting in the large room ______ the morning of next Sunday.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "in",
+          "explain": "used for longer periods (months, years), not this phrase",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "on",
+          "explain": "correct with \"on the morning of + a specific day\"",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "at",
+          "explain": "used with clock times, not this phrase",
+          "ipa": "/æt/"
+        },
+        {
+          "word": "of",
+          "explain": "not a time preposition here",
+          "ipa": "/ʌv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Minh loves playing chess ______ his sister enjoys skipping in their free time.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "when",
+          "explain": "usually marks a specific point in time — less natural for this contrast",
+          "ipa": "/wen/"
+        },
+        {
+          "word": "because",
+          "explain": "wrong meaning — this isn't a cause and effect",
+          "ipa": "/bɪˈkɔːz/"
+        },
+        {
+          "word": "while",
+          "explain": "correct — shows contrast between two activities happening in parallel",
+          "ipa": "/waɪl/"
+        },
+        {
+          "word": "during",
+          "explain": "a preposition, can't be followed by a clause like this",
+          "ipa": "/ˈdʊrɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>One hundred dollars ______ a big amount of money for her.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "is",
+          "explain": "sums of money are treated as one amount, so the verb is singular",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "are",
+          "explain": "wrong — money as an amount takes a singular verb",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "were",
+          "explain": "wrong tense and wrong number",
+          "ipa": "/wɜːr/"
+        },
+        {
+          "word": "is being",
+          "explain": "unnecessarily continuous — not the natural form here",
+          "ipa": "/ɪz ˈbiːɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Don't overheat the victim ______ blankets or coats.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "on",
+          "explain": "wrong preposition — doesn't mean \"using\"",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "for",
+          "explain": "wrong preposition here",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "with",
+          "explain": "correct — means \"using blankets or coats\"",
+          "ipa": "/wɪð/"
+        },
+        {
+          "word": "from",
+          "explain": "wrong preposition — doesn't fit this meaning",
+          "ipa": "/frʌm/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused <mark>______ (1)</mark> ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "from",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/frʌm/"
+        },
+        {
+          "word": "on",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "over",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/ˈoʊvər/"
+        },
+        {
+          "word": "of",
+          "explain": "completes the phrase \"a cause of ill health\"",
+          "ipa": "/ʌv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are <mark>______ (2)</mark> limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "laws",
+          "explain": "rules that limit what factories can produce",
+          "ipa": "/lɔːz/"
+        },
+        {
+          "word": "ideas",
+          "explain": "doesn't fit \"limiting the amount of smoke\"",
+          "ipa": "/aɪˈdiːəz/"
+        },
+        {
+          "word": "problems",
+          "explain": "doesn't fit — laws are what \"limit\", not problems",
+          "ipa": "/ˈprɑːbləmz/"
+        },
+        {
+          "word": "regulations",
+          "explain": "close in meaning, but \"laws\" is the answer given in the key",
+          "ipa": "/ˌregjəˈleɪʃənz/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough <mark>______ (3)</mark> on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "news",
+          "explain": "countable-feeling word, doesn't fit \"not enough ___ on\"",
+          "ipa": "/nuːz/"
+        },
+        {
+          "word": "article",
+          "explain": "a single article, not a general uncountable amount",
+          "ipa": "/ˈɑːrtɪkəl/"
+        },
+        {
+          "word": "information",
+          "explain": "uncountable noun for facts/data — fits \"not enough ___ on\"",
+          "ipa": "/ˌɪnfərˈmeɪʃən/"
+        },
+        {
+          "word": "newspaper",
+          "explain": "a physical object, not data about an effect",
+          "ipa": "/ˈnuːzpeɪpər/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have <mark>______ (4)</mark> that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "agreed",
+          "explain": "doesn't fit \"that air pollution causes...\" as naturally as the key answer",
+          "ipa": "/əˈgriːd/"
+        },
+        {
+          "word": "pointed",
+          "explain": "needs \"pointed out\", not just \"pointed\"",
+          "ipa": "/ˈpɔɪntɪd/"
+        },
+        {
+          "word": "disagreed",
+          "explain": "wrong meaning — doctors are confirming, not disagreeing",
+          "ipa": "/ˌdɪsəˈgriːd/"
+        },
+        {
+          "word": "proved",
+          "explain": "\"have proved that...\" — present perfect showing established fact",
+          "ipa": "/pruːvd/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes <mark>______ (5)</mark> diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "lung",
+          "explain": "the organ air pollution is known to damage",
+          "ipa": "/lʌŋ/"
+        },
+        {
+          "word": "heart",
+          "explain": "not the disease type given in the key",
+          "ipa": "/hɑːrt/"
+        },
+        {
+          "word": "liver",
+          "explain": "not the disease type given in the key",
+          "ipa": "/ˈlɪvər/"
+        },
+        {
+          "word": "stomach",
+          "explain": "not the disease type given in the key",
+          "ipa": "/ˈstʌmək/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars <mark>______ (6)</mark> also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "had",
+          "explain": "wrong tense for this general statement",
+          "ipa": "/hæd/"
+        },
+        {
+          "word": "have",
+          "explain": "plural subject \"gases\" takes \"have\"",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "has",
+          "explain": "wrong — \"gases\" is plural, needs \"have\"",
+          "ipa": "/hæz/"
+        },
+        {
+          "word": "having",
+          "explain": "not a finite verb — the sentence needs a main verb",
+          "ipa": "/ˈhævɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The <mark>______ (7)</mark> of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "water",
+          "explain": "not related to petrol producing poisonous gas",
+          "ipa": "/ˈwɔːtər/"
+        },
+        {
+          "word": "lead",
+          "explain": "the substance in petrol that produces the poisonous gas",
+          "ipa": "/led/"
+        },
+        {
+          "word": "gas",
+          "explain": "circular — the sentence already says it \"produces a poisonous gas\"",
+          "ipa": "/gæs/"
+        },
+        {
+          "word": "exhaust",
+          "explain": "already referenced earlier in the passage as \"exhausts of cars\"",
+          "ipa": "/ɪgˈzɔːst/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children <mark>______ (8)</mark> in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "lived",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/lɪvd/"
+        },
+        {
+          "word": "live",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/lɪv/"
+        },
+        {
+          "word": "to live",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/tə lɪv/"
+        },
+        {
+          "word": "living",
+          "explain": "present participle — \"children living in areas...\"",
+          "ipa": "/ˈlɪvɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as <mark>______ (9)</mark> as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "quick",
+          "explain": "adjective — but an adverb is needed to modify \"think\"",
+          "ipa": "/kwɪk/"
+        },
+        {
+          "word": "slowly",
+          "explain": "wrong meaning — the sentence contrasts with normal thinking speed",
+          "ipa": "/ˈsloʊli/"
+        },
+        {
+          "word": "quickly",
+          "explain": "adverb needed to modify \"think\"",
+          "ipa": "/ˈkwɪkli/"
+        },
+        {
+          "word": "slow",
+          "explain": "adjective, and wrong meaning",
+          "ipa": "/sloʊ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they <mark>______ (10)</mark> their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "touch",
+          "explain": "doesn't fit as naturally as the key answer",
+          "ipa": "/tʌtʃ/"
+        },
+        {
+          "word": "use",
+          "explain": "\"use their hands\" — natural collocation for being clumsy",
+          "ipa": "/juːz/"
+        },
+        {
+          "word": "handle",
+          "explain": "usually takes an object other than \"hands\" themselves",
+          "ipa": "/ˈhændəl/"
+        },
+        {
+          "word": "collect",
+          "explain": "wrong meaning here",
+          "ipa": "/kəˈlekt/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held <mark>______ (1)</mark> December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts <mark>______ (2)</mark> in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "it"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important <mark>______ (3)</mark> in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "part / role"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem <mark>______ (4)</mark> <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "called"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem <mark>______ (5)</mark> a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a <mark>______ (6)</mark> suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "red"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children <mark>______ (7)</mark> on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "presents"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was <mark>______ (8)</mark> by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "written"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular <mark>______ (9)</mark> the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based <mark>______ (10)</mark> the description of Saint Nicholas in this poem.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What happened before printing presses were invented?</span>",
+      "answer": "Only kings and dukes had enough money to buy books."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">Why were books wanted before printing presses were invented?</span>",
+      "answer": "Because books were expensive and magical."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What is a common feature of a book and a computer?</span>",
+      "answer": "They were both large and expensive at first."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What situation has thoroughly changed nowadays?</span>",
+      "answer": "A person who buys a computer knows how to use it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>The</u> house <u>hasn't been repaired</u> <u>since</u> it <u>built</u>.",
+      "answer": "was built"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>Glass</u> is usually <u>made of</u> <u>sand</u>.",
+      "answer": "made from"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>The</u> statue was <u>cut</u> <u>out of</u> <u>stone</u>.",
+      "answer": "carved"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span>She <u>asked</u> the <u>guide</u> <u>where</u> Phong Nha cave was <u>the most</u> beautiful cave in Vietnam.",
+      "answer": "whether"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>When</u> Andrew <u>saw</u> the question, he <u>was knowing</u> the answer <u>immediately</u>.",
+      "answer": "knew"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">People believe that 13 is an unlucky number.</span><span class=\"cue-line\">13 is ..........................................................</span>",
+      "answer": "13 is believed to be an unlucky number."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">\"How many cars are there in front of your house, Mai?\"</span><span class=\"cue-line\">I asked .....................................................................................................</span>",
+      "answer": "I asked Mai how many cars there were in front of her/his house."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">No one introduced me to newcomers in the festival.</span><span class=\"cue-line\">I ............................................................</span>",
+      "answer": "I wasn't introduced to newcomers in the festival."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">The food was too bad for the children to eat.</span><span class=\"cue-line\">The food was so .................................</span>",
+      "answer": "The food was so bad that the children couldn't eat it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">It's no use persuading her to join in that activity.</span><span class=\"cue-line\">There is no ...................................</span>",
+      "answer": "There is no point in persuading her to join in that activity."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "Traditional festivals in Vietnam play a very important role in attracting foreign tourists. In about 150 words, write about one of the traditional festivals in Vietnam.",
+      "rubric": [
+        "Structure: has a clear introduction, body, and conclusion (0.5 pt)",
+        "Mentions the time, place, and at least 3 activities of the festival (2.0 pts)",
+        "Gives your own thoughts on the festival and its role in attracting foreign tourists (0.5 pt)"
+      ]
+    }
+  ]
+}
+</script>
+
+<script>
+const DEFAULT_DATA = JSON.parse(document.getElementById("quizDataJson").textContent);
+let QUIZ_DATA = DEFAULT_DATA;
+let questions = QUIZ_DATA.questions;
+const letters = ["A","B","C","D"];
+
+let current = 0;
+let userAnswers = new Array(questions.length).fill(null);
+let started = false;
+let startTime = null;
+let endTime = null;
+let userName = "";
+
+const quizArea = document.getElementById("quizArea");
+const progressText = document.getElementById("progressText");
+const progressFill = document.getElementById("progressFill");
+const partText = document.getElementById("partText");
+const pageTitle = document.getElementById("pageTitle");
+const pageSubtitle = document.getElementById("pageSubtitle");
+const loadMsg = document.getElementById("loadMsg");
+const fileInput = document.getElementById("fileInput");
+const presetSelect = document.getElementById("presetSelect");
+
+// ---------- hosted tests ----------
+// Add an entry here for every practice-test .json file you upload to this
+// same repo/folder as this HTML file. "file" must match the filename exactly.
+const PRESETS = [
+  { label: "English Practice Test", file: "english_practice_2.json" },
+  { label: "English Practice Test No: 3", file: "english_practice_3.json" },
+  { label: "English Practice Test No: 4", file: "english_practice_4.json" },
+  { label: "English Practice Test No: 5", file: "english_practice_5.json" },
+  { label: "English Practice Test No: 6", file: "english_practice_6.json" }
+];
+PRESETS.forEach(p => {
+  const o = document.createElement("option");
+  o.value = p.file;
+  o.textContent = p.label;
+  presetSelect.appendChild(o);
+});
+
+function applyData(data){
+  QUIZ_DATA = data;
+  questions = data.questions;
+  userAnswers = new Array(questions.length).fill(null);
+  current = 0;
+  started = false;
+  startTime = null;
+  endTime = null;
+  pageTitle.textContent = data.title || "Practice Test";
+  pageSubtitle.textContent = data.subtitle || `${questions.length} questions`;
+  render();
+}
+
+function loadDefault(){
+  loadMsg.textContent = "";
+  loadMsg.className = "load-msg";
+  fileInput.value = "";
+  presetSelect.value = "";
+  applyData(DEFAULT_DATA);
+}
+
+function validate(data){
+  if(!data || !Array.isArray(data.questions) || data.questions.length === 0){
+    return "File must have a non-empty \"questions\" array.";
+  }
+  for(let i = 0; i < data.questions.length; i++){
+    const q = data.questions[i];
+    if(!q.prompt){
+      return `Question ${i+1} is missing a "prompt".`;
+    }
+    const type = q.type || "mcq";
+    if(type === "mcq"){
+      if(!Array.isArray(q.options) || q.options.length < 2 || q.options.length > 4 || typeof q.answer !== "number" || q.answer >= q.options.length){
+        return `Question ${i+1} (mcq) needs 2\u20134 "options" and a valid numeric "answer".`;
+      }
+      for(const opt of q.options){
+        if(!opt.word) return `Question ${i+1} has an option with no "word".`;
+      }
+    }else if(type === "essay"){
+      // no required answer field
+    }else{
+      if(typeof q.answer !== "string"){
+        return `Question ${i+1} (text) needs a string "answer" (model answer).`;
+      }
+    }
+  }
+  return null;
+}
+
+fileInput.addEventListener("change", (e) => {
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = (evt) => {
+    try{
+      const data = JSON.parse(evt.target.result);
+      const err = validate(data);
+      if(err){
+        loadMsg.textContent = err;
+        loadMsg.className = "load-msg err";
+        return;
+      }
+      presetSelect.value = "";
+      applyData(data);
+      loadMsg.textContent = `Loaded "${file.name}" (${data.questions.length} questions)`;
+      loadMsg.className = "load-msg ok";
+    }catch(err){
+      loadMsg.textContent = "Couldn't read that file as valid JSON.";
+      loadMsg.className = "load-msg err";
+    }
+  };
+  reader.readAsText(file);
+});
+
+presetSelect.addEventListener("change", (e) => {
+  const file = e.target.value;
+  if(!file) return;
+  loadMsg.textContent = "Loading…";
+  loadMsg.className = "load-msg";
+  fetch(file)
+    .then(res => {
+      if(!res.ok) throw new Error(`${file} not found (${res.status})`);
+      return res.json();
+    })
+    .then(data => {
+      const err = validate(data);
+      if(err){
+        loadMsg.textContent = err;
+        loadMsg.className = "load-msg err";
+        return;
+      }
+      applyData(data);
+      fileInput.value = "";
+      loadMsg.textContent = `Loaded "${file}" (${data.questions.length} questions)`;
+      loadMsg.className = "load-msg ok";
+    })
+    .catch(() => {
+      loadMsg.textContent = `Couldn't load ${file}. Make sure it's uploaded to the same folder as this page.`;
+      loadMsg.className = "load-msg err";
+    });
+});
+
+function wordHtml(opt){
+  if(!opt.underline) return opt.word;
+  const idx = opt.word.indexOf(opt.underline);
+  if(idx === -1) return opt.word;
+  return opt.word.slice(0, idx) + "<u>" + opt.word.slice(idx, idx + opt.underline.length) + "</u>" + opt.word.slice(idx + opt.underline.length);
+}
+
+function formatElapsed(ms){
+  const totalSec = Math.max(0, Math.round(ms / 1000));
+  const m = Math.floor(totalSec / 60);
+  const s = totalSec % 60;
+  return m > 0 ? `${m}m ${s}s` : `${s}s`;
+}
+
+function renderWelcome(){
+  progressText.textContent = `${questions.length} questions`;
+  progressFill.style.width = "0%";
+  partText.textContent = "Not started";
+
+  const parts = [...new Set(questions.map(q => q.partLabel || q.part).filter(Boolean))];
+  const safeName = userName.replace(/"/g, "&quot;");
+
+  quizArea.innerHTML = `
+    <div class="card">
+      <div class="results">
+        <div class="part-label" style="justify-content:center; display:flex;">Welcome</div>
+        <p class="prompt" style="text-align:center;">${QUIZ_DATA.title || "Practice Test"}</p>
+        <div class="score-label">${questions.length} questions · ${parts.join(" · ")}</div>
+        <div class="name-field">
+          <label for="nameInput" class="name-label">What's your name?</label>
+          <input type="text" id="nameInput" class="name-input" placeholder="e.g. Minh" maxlength="60" autocomplete="name" value="${safeName}">
+        </div>
+        <button class="restart-btn" id="startBtn" onclick="startTest()">Start test</button>
+        <p class="test-note">This is a real test: your answers are hidden until you finish. You can go back and change an answer before you submit.</p>
+      </div>
+    </div>`;
+
+  const nameInput = document.getElementById("nameInput");
+  if(nameInput){
+    nameInput.addEventListener("input", () => { userName = nameInput.value; });
+    nameInput.addEventListener("keydown", (e) => { if(e.key === "Enter") startTest(); });
+    nameInput.focus();
+  }
+}
+
+function startTest(){
+  const nameInput = document.getElementById("nameInput");
+  userName = (nameInput ? nameInput.value : userName).trim();
+  started = true;
+  startTime = Date.now();
+  endTime = null;
+  current = 0;
+  userAnswers = new Array(questions.length).fill(null);
+  render();
+}
+
+function render(){
+  if(!started){
+    renderWelcome();
+    return;
+  }
+  if(current >= questions.length){
+    renderResults();
+    return;
+  }
+
+  const q = questions[current];
+  progressText.textContent = `Question ${current+1} of ${questions.length}`;
+  progressFill.style.width = `${((current+1)/questions.length)*100}%`;
+  partText.textContent = q.partLabel || (q.part ? q.part.charAt(0).toUpperCase() + q.part.slice(1) : "");
+
+  const chosen = userAnswers[current];
+  const cardClass = ["stress","vocabulary","reading","writing"].includes(q.part) ? q.part : "";
+  const promptClass = (q.part === "reading" || q.type === "text" || q.type === "essay") ? "prompt-passage" : "prompt";
+
+  let bodyHtml = "";
+  let nextDisabled = false;
+
+  if(q.type === "essay"){
+    const existing = typeof chosen === "string" ? chosen : "";
+    const wordCount = existing.trim() ? existing.trim().split(/\s+/).length : 0;
+    bodyHtml = `
+      <textarea class="essay-input" id="answerInput" placeholder="Write your essay here…" oninput="updateEssayAnswer(this.value)">${escapeHtml(existing)}</textarea>
+      <div class="word-count" id="wordCount">${wordCount} words</div>`;
+  }else if(q.type === "text"){
+    const existing = typeof chosen === "string" ? chosen : "";
+    bodyHtml = `
+      <textarea class="text-input" id="answerInput" rows="2" placeholder="Type your answer…" oninput="updateTextAnswer(this.value)">${escapeHtml(existing)}</textarea>`;
+  }else{
+    let optionsHtml = "";
+    q.options.forEach((opt, i) => {
+      const cls = "opt" + (i === chosen ? " chosen" : "");
+      optionsHtml += `
+        <button class="${cls}" onclick="selectOption(${i})">
+          <span class="letter">${letters[i]}</span>
+          <span class="word">${wordHtml(opt)}</span>
+        </button>`;
+    });
+    bodyHtml = `<div class="options">${optionsHtml}</div>`;
+    nextDisabled = chosen === null;
+  }
+
+  quizArea.innerHTML = `
+    <div class="card ${cardClass}">
+      <div class="part-label">${q.partLabel || q.part || ""}</div>
+      <p class="${promptClass}">${q.prompt}</p>
+      ${bodyHtml}
+      <div class="nav-row">
+        <button class="nav" onclick="goPrev()" ${current === 0 ? "disabled" : ""}>&larr; Back</button>
+        <button class="nav primary" onclick="goNext()" ${nextDisabled ? "disabled" : ""}>
+          ${current === questions.length - 1 ? "Finish test" : "Next \u2192"}
+        </button>
+      </div>
+    </div>`;
+
+  const input = document.getElementById("answerInput");
+  if(input) input.focus();
+}
+
+function escapeHtml(str){
+  return (str || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function updateTextAnswer(val){
+  userAnswers[current] = val;
+}
+
+function updateEssayAnswer(val){
+  userAnswers[current] = val;
+  const wc = document.getElementById("wordCount");
+  if(wc){
+    const words = val.trim() ? val.trim().split(/\s+/).length : 0;
+    wc.textContent = `${words} words`;
+  }
+}
+
+function selectOption(i){
+  userAnswers[current] = i;
+  render();
+}
+
+function goNext(){
+  const q = questions[current];
+  if(q.type === "mcq" && userAnswers[current] === null) return;
+  current++;
+  if(current >= questions.length){
+    endTime = Date.now();
+  }
+  render();
+}
+
+function goPrev(){
+  if(current === 0) return;
+  current--;
+  render();
+}
+
+function renderResults(){
+  const mcqQuestions = questions.filter(q => q.type === "mcq");
+  const score = questions.reduce((sum, q, i) => sum + (q.type === "mcq" && userAnswers[i] === q.answer ? 1 : 0), 0);
+  const pct = mcqQuestions.length ? Math.round((score / mcqQuestions.length) * 100) : 0;
+  progressText.textContent = "Finished";
+  progressFill.style.width = "100%";
+  partText.textContent = "Results";
+  const elapsedStr = (startTime && endTime) ? formatElapsed(endTime - startTime) : null;
+
+  let reviewHtml = "";
+  questions.forEach((q, i) => {
+    const chosenIdx = userAnswers[i];
+
+    if(q.type === "mcq"){
+      const correct = chosenIdx === q.answer;
+      let wordsHtml = "";
+      q.options.forEach((opt, j) => {
+        const isAns = j === q.answer;
+        const isChosenWrong = j === chosenIdx && !isAns;
+        let cls = "review-word";
+        if(isAns) cls += " is-correct";
+        if(isChosenWrong) cls += " is-chosen-wrong";
+        const tag = isAns ? "Correct answer" : (j === chosenIdx ? "Your answer" : "");
+        wordsHtml += `
+          <div class="${cls}">
+            <div class="rw-top">
+              <span>${letters[j]}. ${opt.word}${opt.ipa ? " " + opt.ipa : ""}</span>
+              ${tag ? `<span class="rw-tag">${tag}</span>` : ""}
+            </div>
+            ${opt.explain ? `<div class="rw-explain">${opt.explain}</div>` : ""}
+          </div>`;
+      });
+      reviewHtml += `
+        <div class="review-block ${correct ? "" : "wrong"}">
+          <div class="review-head">
+            <span class="qn">Question ${i+1}${q.partLabel ? " — " + q.partLabel : ""}</span>
+            <span class="verdict-tag">${correct ? "Correct" : (chosenIdx === null ? "Not answered" : "Incorrect")}</span>
+          </div>
+          <div class="review-prompt">${q.prompt}</div>
+          <div class="review-words">${wordsHtml}</div>
+        </div>`;
+    }else{
+      const hasAnswer = typeof chosenIdx === "string" && chosenIdx.trim().length > 0;
+      let scHtml = `<div class="self-check-block">`;
+      scHtml += `<span class="sc-label">Your answer</span>`;
+      scHtml += `<div class="sc-your-answer">${hasAnswer ? escapeHtml(chosenIdx) : "(not answered)"}</div>`;
+      if(q.type === "essay"){
+        scHtml += `<span class="sc-label">Self-check rubric</span>`;
+        scHtml += `<ul class="sc-rubric">${(q.rubric || []).map(r => `<li>${r}</li>`).join("")}</ul>`;
+      }else{
+        scHtml += `<span class="sc-label">Model answer</span>`;
+        scHtml += `<div class="sc-model-answer">${q.answer}${q.answerIpa ? ` <span class="sc-ipa">${q.answerIpa}</span>` : ""}</div>`;
+      }
+      scHtml += `</div>`;
+      reviewHtml += `
+        <div class="review-block self-check">
+          <div class="review-head">
+            <span class="qn">Question ${i+1}${q.partLabel ? " — " + q.partLabel : ""}</span>
+            <span class="verdict-tag">${q.type === "essay" ? "Self-check" : (hasAnswer ? "Self-check" : "Not answered")}</span>
+          </div>
+          <div class="review-prompt">${q.prompt}</div>
+          ${scHtml}
+        </div>`;
+    }
+  });
+
+  quizArea.innerHTML = `
+    <div class="card">
+      <div class="results">
+        <div class="part-label" style="justify-content:center; display:flex;">${userName ? `Nice work, ${userName}!` : "Nice work!"}</div>
+        <div class="score-big">${score} / ${mcqQuestions.length}</div>
+        <div class="score-label">${pct}% correct on multiple-choice${elapsedStr ? ` · time: ${elapsedStr}` : ""}</div>
+        <p class="self-check-note">The Reading fill-in and Writing sections aren't auto-graded — compare your answers against the model answers and rubric below.</p>
+        <div class="review-list">${reviewHtml}</div>
+        <div class="results-actions">
+          <button class="save-btn" onclick="saveResult()">Save result</button>
+          <button class="restart-btn" onclick="restart()">Try again</button>
+        </div>
+        <div class="save-msg" id="saveMsg"></div>
+      </div>
+    </div>`;
+}
+
+function slugify(str){
+  return (str || "").toString().trim()
+    .replace(/[\\\/:*?"<>|]+/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .slice(0, 50);
+}
+
+function stripHtml(html){
+  return (html || "")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .trim();
+}
+
+function saveResult(){
+  const mcqQuestions = questions.filter(q => q.type === "mcq");
+  const score = questions.reduce((sum, q, i) => sum + (q.type === "mcq" && userAnswers[i] === q.answer ? 1 : 0), 0);
+  const pct = mcqQuestions.length ? Math.round((score / mcqQuestions.length) * 100) : 0;
+  const now = new Date();
+  const displayName = userName || "Student";
+  const lines = [];
+  lines.push(QUIZ_DATA.title || "Practice Test");
+  lines.push(`Name: ${displayName}`);
+  lines.push(`Date: ${now.toLocaleString()}`);
+  lines.push(`Multiple-choice score: ${score} / ${mcqQuestions.length} (${pct}%)`);
+  if(startTime && endTime){
+    lines.push(`Time taken: ${formatElapsed(endTime - startTime)}`);
+  }
+  lines.push("Note: Reading fill-in and Writing sections are not auto-graded. Compare against the model answers / rubric below.");
+  lines.push("");
+  questions.forEach((q, i) => {
+    const chosenIdx = userAnswers[i];
+    const label = q.partLabel ? ` (${q.partLabel})` : "";
+
+    if(q.type === "mcq"){
+      const correct = chosenIdx === q.answer;
+      lines.push(`Question ${i+1}${label}: ${correct ? "Correct" : (chosenIdx === null ? "Not answered" : "Incorrect")}`);
+      lines.push(`  Prompt: ${stripHtml(q.prompt)}`);
+      q.options.forEach((opt, j) => {
+        const tags = [];
+        if(j === q.answer) tags.push("CORRECT");
+        if(j === chosenIdx) tags.push(j === q.answer ? "your answer" : "your answer, incorrect");
+        const tagStr = tags.length ? `  [${tags.join(" \u2014 ")}]` : "";
+        lines.push(`  ${letters[j]}. ${opt.word}${opt.ipa ? " " + opt.ipa : ""}${tagStr}`);
+        if(opt.explain) lines.push(`     ${opt.explain}`);
+      });
+    }else{
+      const hasAnswer = typeof chosenIdx === "string" && chosenIdx.trim().length > 0;
+      lines.push(`Question ${i+1}${label}: ${q.type === "essay" ? "Self-check (essay)" : (hasAnswer ? "Self-check" : "Not answered")}`);
+      lines.push(`  Prompt: ${stripHtml(q.prompt)}`);
+      lines.push(`  Your answer: ${hasAnswer ? chosenIdx : "(not answered)"}`);
+      if(q.type === "essay"){
+        lines.push(`  Rubric:`);
+        (q.rubric || []).forEach(r => lines.push(`    - ${r}`));
+      }else{
+        lines.push(`  Model answer: ${q.answer}${q.answerIpa ? " " + q.answerIpa : ""}`);
+      }
+    }
+    lines.push("");
+  });
+
+  const blob = new Blob([lines.join("\n")], { type: "text/plain" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  const stamp = now.toISOString().slice(0,19).replace(/[:T]/g,"-");
+  const namePart = slugify(displayName) || "Student";
+  const setPart = slugify(QUIZ_DATA.title || "Practice-Test") || "Practice-Test";
+  a.href = url;
+  a.download = `${namePart}-${setPart}-${stamp}.txt`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+
+  const msg = document.getElementById("saveMsg");
+  if(msg){ msg.textContent = `Saved as ${a.download}`; }
+}
+
+function restart(){
+  current = 0;
+  userAnswers = new Array(questions.length).fill(null);
+  started = false;
+  startTime = null;
+  endTime = null;
+  render();
+}
+
+applyData(DEFAULT_DATA);
+</script>
+</body>
+</html>

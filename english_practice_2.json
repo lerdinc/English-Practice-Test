@@ -1,0 +1,1088 @@
+{
+  "title": "English Practice Test",
+  "subtitle": "From your uploaded test · 30 multiple-choice questions (Phonetics, Vocabulary & Grammar, Reading)",
+  "questions": [
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "heritage",
+          "underline": "age",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        },
+        {
+          "word": "shortage",
+          "underline": "age",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        },
+        {
+          "word": "teenage",
+          "underline": "age",
+          "ipa": "/ˈtiːneɪdʒ/",
+          "explain": "\"age\" said as /eɪdʒ/ — the odd one out"
+        },
+        {
+          "word": "luggage",
+          "underline": "age",
+          "ipa": "/ˈlʌgɪdʒ/",
+          "explain": "\"age\" said as /ɪdʒ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "appear",
+          "underline": "ea",
+          "ipa": "/əˈpɪər/",
+          "explain": "\"ea\" said as /ɪə/ — the odd one out"
+        },
+        {
+          "word": "weather",
+          "underline": "ea",
+          "ipa": "/ˈweðər/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "bread",
+          "underline": "ea",
+          "ipa": "/bred/",
+          "explain": "\"ea\" said as /e/"
+        },
+        {
+          "word": "headache",
+          "underline": "ea",
+          "ipa": "/ˈhedeɪk/",
+          "explain": "\"ea\" said as /e/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "organize",
+          "underline": "o",
+          "ipa": "/ˈɒrgənaɪz/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "belong",
+          "underline": "o",
+          "ipa": "/bɪˈlɒŋ/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "woman",
+          "underline": "o",
+          "ipa": "/ˈwʊmən/",
+          "explain": "\"o\" said as /ʊ/ — the odd one out"
+        },
+        {
+          "word": "concert",
+          "underline": "o",
+          "ipa": "/ˈkɒnsərt/",
+          "explain": "\"o\" said as /ɒ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "think",
+          "underline": "th",
+          "ipa": "/θɪŋk/",
+          "explain": "\"th\" said as /θ/, voiceless — the odd one out"
+        },
+        {
+          "word": "though",
+          "underline": "th",
+          "ipa": "/ðoʊ/",
+          "explain": "\"th\" said as /ð/, voiced"
+        },
+        {
+          "word": "mother",
+          "underline": "th",
+          "ipa": "/ˈmʌðər/",
+          "explain": "\"th\" said as /ð/, voiced"
+        },
+        {
+          "word": "these",
+          "underline": "th",
+          "ipa": "/ðiːz/",
+          "explain": "\"th\" said as /ð/, voiced"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "eraser",
+          "underline": "a",
+          "ipa": "/ɪˈreɪzər/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "scale",
+          "underline": "a",
+          "ipa": "/skeɪl/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "suitcase",
+          "underline": "a",
+          "ipa": "/ˈsuːtkeɪs/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "waterfall",
+          "underline": "a",
+          "ipa": "/ˈwɔːtərfɔːl/",
+          "explain": "\"a\" said as /ɔː/ — the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "pencil",
+          "ipa": "/ˈpensəl/",
+          "explain": "PEN-cil — stress on the 1st syllable"
+        },
+        {
+          "word": "raincoat",
+          "ipa": "/ˈreɪnkoʊt/",
+          "explain": "RAIN-coat — stress on the 1st syllable"
+        },
+        {
+          "word": "arrive",
+          "ipa": "/əˈraɪv/",
+          "explain": "ar-RIVE — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "notebook",
+          "ipa": "/ˈnoʊtbʊk/",
+          "explain": "NOTE-book — stress on the 1st syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "enjoyable",
+          "ipa": "/ɪnˈdʒɔɪəbəl/",
+          "explain": "en-JOY-a-ble — stress on the 2nd syllable"
+        },
+        {
+          "word": "power",
+          "ipa": "/ˈpaʊər/",
+          "explain": "POW-er — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "permission",
+          "ipa": "/pərˈmɪʃən/",
+          "explain": "per-MIS-sion — stress on the 2nd syllable"
+        },
+        {
+          "word": "explore",
+          "ipa": "/ɪkˈsplɔːr/",
+          "explain": "ex-PLORE — stress on the 2nd syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "photography",
+          "ipa": "/fəˈtɒgrəfi/",
+          "explain": "pho-TOG-ra-phy — stress on the 2nd syllable"
+        },
+        {
+          "word": "minority",
+          "ipa": "/maɪˈnɒrəti/",
+          "explain": "mi-NOR-i-ty — stress on the 2nd syllable"
+        },
+        {
+          "word": "heroic",
+          "ipa": "/hɪˈroʊɪk/",
+          "explain": "he-RO-ic — stress on the 2nd syllable"
+        },
+        {
+          "word": "visit",
+          "ipa": "/ˈvɪzɪt/",
+          "explain": "VIS-it — stress on the 1st syllable, the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "translation",
+          "ipa": "/trænsˈleɪʃən/",
+          "explain": "trans-LA-tion — stress on the 2nd syllable"
+        },
+        {
+          "word": "difficult",
+          "ipa": "/ˈdɪfɪkəlt/",
+          "explain": "DIF-fi-cult — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "unluckily",
+          "ipa": "/ʌnˈlʌkɪli/",
+          "explain": "un-LUCK-i-ly — stress on the 2nd syllable"
+        },
+        {
+          "word": "agree",
+          "ipa": "/əˈgriː/",
+          "explain": "a-GREE — stress on the 2nd syllable"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Vietnamese",
+          "ipa": "/ˌvjetnəˈmiːz/",
+          "explain": "Vi-et-na-MESE — stress on the 3rd (final) syllable"
+        },
+        {
+          "word": "engineer",
+          "ipa": "/ˌendʒɪˈnɪr/",
+          "explain": "en-gi-NEER — stress on the 3rd (final) syllable"
+        },
+        {
+          "word": "celebration",
+          "ipa": "/ˌseləˈbreɪʃən/",
+          "explain": "cel-e-BRA-tion — stress on the 3rd syllable"
+        },
+        {
+          "word": "product",
+          "ipa": "/ˈprɒdʌkt/",
+          "explain": "PROD-uct — stress on the 1st syllable, the odd one out"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Hoa ______ coins and stamps since she was six.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "was collecting",
+          "explain": "past continuous — doesn't fit with \"since\"",
+          "ipa": "/wəz kəˈlektɪŋ/"
+        },
+        {
+          "word": "has collected",
+          "explain": "present perfect — correct with \"since + a point in time\"",
+          "ipa": "/hæz kəˈlektɪd/"
+        },
+        {
+          "word": "collected",
+          "explain": "simple past — doesn't show the action continuing to now",
+          "ipa": "/kəˈlektɪd/"
+        },
+        {
+          "word": "will collect",
+          "explain": "future tense — wrong time reference",
+          "ipa": "/wɪl kəˈlekt/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>His brother is a ______ boy. He always tells a joke.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "handsome",
+          "explain": "means good-looking — not related to telling jokes",
+          "ipa": "/ˈhænsəm/"
+        },
+        {
+          "word": "humorous",
+          "explain": "means funny — fits \"always tells a joke\"",
+          "ipa": "/ˈhjuːmərəs/"
+        },
+        {
+          "word": "sociable",
+          "explain": "means friendly and outgoing, not about humor",
+          "ipa": "/ˈsoʊʃəbəl/"
+        },
+        {
+          "word": "energetic",
+          "explain": "means full of energy, not about humor",
+          "ipa": "/ˌenərˈdʒetɪk/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Do you mind if I ______ your car to work?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "drive",
+          "explain": "bare present tense after \"if I ...\" in this request pattern",
+          "ipa": "/draɪv/"
+        },
+        {
+          "word": "driving",
+          "explain": "gerund doesn't fit after \"if I\"",
+          "ipa": "/ˈdraɪvɪŋ/"
+        },
+        {
+          "word": "to drive",
+          "explain": "to-infinitive doesn't fit after \"if I\"",
+          "ipa": "/tə draɪv/"
+        },
+        {
+          "word": "drove",
+          "explain": "past tense doesn't fit a present request",
+          "ipa": "/droʊv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>They are ______ that their son won the championship.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "delighted",
+          "explain": "-ed adjective describing how people feel",
+          "ipa": "/dɪˈlaɪtɪd/"
+        },
+        {
+          "word": "pleasing",
+          "explain": "-ing adjective describes the thing causing the feeling, not a person",
+          "ipa": "/ˈpliːzɪŋ/"
+        },
+        {
+          "word": "sad",
+          "explain": "wrong meaning for good news",
+          "ipa": "/sæd/"
+        },
+        {
+          "word": "interesting",
+          "explain": "-ing adjective, wrong form and meaning here",
+          "ipa": "/ˈɪntrəstɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>My sister regretting ______ Mai's glasses yesterday.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to break",
+          "explain": "\"regret + to-infinitive\" means to regret announcing something — wrong meaning here",
+          "ipa": "/tə breɪk/"
+        },
+        {
+          "word": "broken",
+          "explain": "wrong form — not a gerund",
+          "ipa": "/ˈbroʊkən/"
+        },
+        {
+          "word": "breaking",
+          "explain": "\"regret + gerund\" refers to regretting a past action",
+          "ipa": "/ˈbreɪkɪŋ/"
+        },
+        {
+          "word": "break",
+          "explain": "bare infinitive doesn't fit after \"regret\"",
+          "ipa": "/breɪk/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Hoa dances more ______ than her classmates.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "beauty",
+          "explain": "noun — doesn't modify a verb",
+          "ipa": "/ˈbjuːti/"
+        },
+        {
+          "word": "beautiful",
+          "explain": "adjective — doesn't modify the verb \"dances\"",
+          "ipa": "/ˈbjuːtɪfəl/"
+        },
+        {
+          "word": "beautifully",
+          "explain": "adverb — correctly modifies \"dances\"",
+          "ipa": "/ˈbjuːtɪfəli/"
+        },
+        {
+          "word": "beautify",
+          "explain": "verb — wrong word class here",
+          "ipa": "/ˈbjuːtɪfaɪ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>They will hold a meeting in the large room ______ the morning of next Sunday.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "in",
+          "explain": "used for longer periods (months, years), not this phrase",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "on",
+          "explain": "correct with \"on the morning of + a specific day\"",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "at",
+          "explain": "used with clock times, not this phrase",
+          "ipa": "/æt/"
+        },
+        {
+          "word": "of",
+          "explain": "not a time preposition here",
+          "ipa": "/ʌv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Minh loves playing chess ______ his sister enjoys skipping in their free time.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "when",
+          "explain": "usually marks a specific point in time — less natural for this contrast",
+          "ipa": "/wen/"
+        },
+        {
+          "word": "because",
+          "explain": "wrong meaning — this isn't a cause and effect",
+          "ipa": "/bɪˈkɔːz/"
+        },
+        {
+          "word": "while",
+          "explain": "correct — shows contrast between two activities happening in parallel",
+          "ipa": "/waɪl/"
+        },
+        {
+          "word": "during",
+          "explain": "a preposition, can't be followed by a clause like this",
+          "ipa": "/ˈdʊrɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>One hundred dollars ______ a big amount of money for her.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "is",
+          "explain": "sums of money are treated as one amount, so the verb is singular",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "are",
+          "explain": "wrong — money as an amount takes a singular verb",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "were",
+          "explain": "wrong tense and wrong number",
+          "ipa": "/wɜːr/"
+        },
+        {
+          "word": "is being",
+          "explain": "unnecessarily continuous — not the natural form here",
+          "ipa": "/ɪz ˈbiːɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the sentence.</span>Don't overheat the victim ______ blankets or coats.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "on",
+          "explain": "wrong preposition — doesn't mean \"using\"",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "for",
+          "explain": "wrong preposition here",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "with",
+          "explain": "correct — means \"using blankets or coats\"",
+          "ipa": "/wɪð/"
+        },
+        {
+          "word": "from",
+          "explain": "wrong preposition — doesn't fit this meaning",
+          "ipa": "/frʌm/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused <mark>______ (1)</mark> ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "from",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/frʌm/"
+        },
+        {
+          "word": "on",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/ɑːn/"
+        },
+        {
+          "word": "over",
+          "explain": "wrong preposition for this phrase",
+          "ipa": "/ˈoʊvər/"
+        },
+        {
+          "word": "of",
+          "explain": "completes the phrase \"a cause of ill health\"",
+          "ipa": "/ʌv/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are <mark>______ (2)</mark> limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "laws",
+          "explain": "rules that limit what factories can produce",
+          "ipa": "/lɔːz/"
+        },
+        {
+          "word": "ideas",
+          "explain": "doesn't fit \"limiting the amount of smoke\"",
+          "ipa": "/aɪˈdiːəz/"
+        },
+        {
+          "word": "problems",
+          "explain": "doesn't fit — laws are what \"limit\", not problems",
+          "ipa": "/ˈprɑːbləmz/"
+        },
+        {
+          "word": "regulations",
+          "explain": "close in meaning, but \"laws\" is the answer given in the key",
+          "ipa": "/ˌregjəˈleɪʃənz/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough <mark>______ (3)</mark> on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "news",
+          "explain": "countable-feeling word, doesn't fit \"not enough ___ on\"",
+          "ipa": "/nuːz/"
+        },
+        {
+          "word": "article",
+          "explain": "a single article, not a general uncountable amount",
+          "ipa": "/ˈɑːrtɪkəl/"
+        },
+        {
+          "word": "information",
+          "explain": "uncountable noun for facts/data — fits \"not enough ___ on\"",
+          "ipa": "/ˌɪnfərˈmeɪʃən/"
+        },
+        {
+          "word": "newspaper",
+          "explain": "a physical object, not data about an effect",
+          "ipa": "/ˈnuːzpeɪpər/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have <mark>______ (4)</mark> that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "agreed",
+          "explain": "doesn't fit \"that air pollution causes...\" as naturally as the key answer",
+          "ipa": "/əˈgriːd/"
+        },
+        {
+          "word": "pointed",
+          "explain": "needs \"pointed out\", not just \"pointed\"",
+          "ipa": "/ˈpɔɪntɪd/"
+        },
+        {
+          "word": "disagreed",
+          "explain": "wrong meaning — doctors are confirming, not disagreeing",
+          "ipa": "/ˌdɪsəˈgriːd/"
+        },
+        {
+          "word": "proved",
+          "explain": "\"have proved that...\" — present perfect showing established fact",
+          "ipa": "/pruːvd/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes <mark>______ (5)</mark> diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "lung",
+          "explain": "the organ air pollution is known to damage",
+          "ipa": "/lʌŋ/"
+        },
+        {
+          "word": "heart",
+          "explain": "not the disease type given in the key",
+          "ipa": "/hɑːrt/"
+        },
+        {
+          "word": "liver",
+          "explain": "not the disease type given in the key",
+          "ipa": "/ˈlɪvər/"
+        },
+        {
+          "word": "stomach",
+          "explain": "not the disease type given in the key",
+          "ipa": "/ˈstʌmək/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars <mark>______ (6)</mark> also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "had",
+          "explain": "wrong tense for this general statement",
+          "ipa": "/hæd/"
+        },
+        {
+          "word": "have",
+          "explain": "plural subject \"gases\" takes \"have\"",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "has",
+          "explain": "wrong — \"gases\" is plural, needs \"have\"",
+          "ipa": "/hæz/"
+        },
+        {
+          "word": "having",
+          "explain": "not a finite verb — the sentence needs a main verb",
+          "ipa": "/ˈhævɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The <mark>______ (7)</mark> of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "water",
+          "explain": "not related to petrol producing poisonous gas",
+          "ipa": "/ˈwɔːtər/"
+        },
+        {
+          "word": "lead",
+          "explain": "the substance in petrol that produces the poisonous gas",
+          "ipa": "/led/"
+        },
+        {
+          "word": "gas",
+          "explain": "circular — the sentence already says it \"produces a poisonous gas\"",
+          "ipa": "/gæs/"
+        },
+        {
+          "word": "exhaust",
+          "explain": "already referenced earlier in the passage as \"exhausts of cars\"",
+          "ipa": "/ɪgˈzɔːst/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children <mark>______ (8)</mark> in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "lived",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/lɪvd/"
+        },
+        {
+          "word": "live",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/lɪv/"
+        },
+        {
+          "word": "to live",
+          "explain": "wrong form to modify \"children\" here",
+          "ipa": "/tə lɪv/"
+        },
+        {
+          "word": "living",
+          "explain": "present participle — \"children living in areas...\"",
+          "ipa": "/ˈlɪvɪŋ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as <mark>______ (9)</mark> as other children, and are clumsy when they ______ (10) their hands.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "quick",
+          "explain": "adjective — but an adverb is needed to modify \"think\"",
+          "ipa": "/kwɪk/"
+        },
+        {
+          "word": "slowly",
+          "explain": "wrong meaning — the sentence contrasts with normal thinking speed",
+          "ipa": "/ˈsloʊli/"
+        },
+        {
+          "word": "quickly",
+          "explain": "adverb needed to modify \"think\"",
+          "ipa": "/ˈkwɪkli/"
+        },
+        {
+          "word": "slow",
+          "explain": "adjective, and wrong meaning",
+          "ipa": "/sloʊ/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "part": "reading",
+      "partLabel": "Reading (Cloze)",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable answer to complete the passage.</span>Air pollution is caused ______ (1) ill health in human beings. In a lot of countries, there are ______ (2) limiting the amount of smoke factories can produce although there is not enough ______ (3) on the effects of smoke on the atmosphere. Doctors have ______ (4) that air pollution causes ______ (5) diseases. The gases from the exhausts of cars ______ (6) also increased air pollution in most cities. The ______ (7) of petrol produces a poisonous gas, which is often collected in busy streets circled by high buildings. Children ______ (8) in areas where there is a lot of lead in the atmosphere can not think as ______ (9) as other children, and are clumsy when they <mark>______ (10)</mark> their hands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "touch",
+          "explain": "doesn't fit as naturally as the key answer",
+          "ipa": "/tʌtʃ/"
+        },
+        {
+          "word": "use",
+          "explain": "\"use their hands\" — natural collocation for being clumsy",
+          "ipa": "/juːz/"
+        },
+        {
+          "word": "handle",
+          "explain": "usually takes an object other than \"hands\" themselves",
+          "ipa": "/ˈhændəl/"
+        },
+        {
+          "word": "collect",
+          "explain": "wrong meaning here",
+          "ipa": "/kəˈlekt/"
+        }
+      ],
+      "type": "mcq"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held <mark>______ (1)</mark> December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "on",
+      "answerIpa": "/ɑːn/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts <mark>______ (2)</mark> in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "it",
+      "answerIpa": "/ɪt/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important <mark>______ (3)</mark> in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "part / role",
+      "answerIpa": "/pɑːrt/ / /roʊl/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem <mark>______ (4)</mark> <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "called",
+      "answerIpa": "/kɔːld/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem <mark>______ (5)</mark> a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "was",
+      "answerIpa": "/wʌz/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a <mark>______ (6)</mark> suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "red",
+      "answerIpa": "/red/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children <mark>______ (7)</mark> on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "presents",
+      "answerIpa": "/ˈprezənts/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was <mark>______ (8)</mark> by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "written",
+      "answerIpa": "/ˈrɪtən/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular <mark>______ (9)</mark> the USA. Santa Claus is based ______ (10) the description of Saint Nicholas in this poem.",
+      "answer": "with",
+      "answerIpa": "/wɪð/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read and fill in a suitable word in each blank.</span>Christmas is always held ______ (1) December the twenty fifth every year. Every family in England decorates a Christmas tree and puts ______ (2) in the middle of the living room. And Santa Claus plays an important ______ (3) in this festival. There is a poem to relate him. In 1823, the patron saint of children, Saint Nicholas appeared in a poem ______ (4) <em>A Visit Saint Nicholas</em>. The character in the poem ______ (5) a fat jolly man who wore a ______ (6) suit and gave children ______ (7) on Christmas Eve. The poem, which was ______ (8) by Clement Clarke Moore, an American professor, became popular ______ (9) the USA. Santa Claus is based <mark>______ (10)</mark> the description of Saint Nicholas in this poem.",
+      "answer": "on",
+      "answerIpa": "/ɑːn/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What happened before printing presses were invented?</span>",
+      "answer": "Only kings and dukes had enough money to buy books."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">Why were books wanted before printing presses were invented?</span>",
+      "answer": "Because books were expensive and magical."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What is a common feature of a book and a computer?</span>",
+      "answer": "They were both large and expensive at first."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the following questions.</span><span class=\"passage-block\">Computing is now at the same stage as printing was when the first printing presses were used. Before printing presses were invented, only rich people like kings and dukes could afford to buy books. Often these people were unable to read and hadn't enough time to learn. In any case, the books were so big that it was difficult for anyone to relax with a book as we do today. They wanted books because they were expensive and there was something magical about them. Only a few people were able to write, and it took an extremely long time to write a book. Monks and other people who could write said ordinary people could not learn to read.<br><br>The position with computers is very similar today. A few years ago, computers were very large and expensive. Business managers and rich people ordered them but they didn't know how to use them. In many countries, however, the situation has now completely changed. Lots of people not only own a microcomputer but also know how to use them.</span><span class=\"cue-line\">What situation has thoroughly changed nowadays?</span>",
+      "answer": "A person who buys a computer knows how to use it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>The</u> house <u>hasn't been repaired</u> <u>since</u> it <u>built</u>.",
+      "answer": "was built"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>Glass</u> is usually <u>made of</u> <u>sand</u>.",
+      "answer": "made from"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>The</u> statue was <u>cut</u> <u>out of</u> <u>stone</u>.",
+      "answer": "carved",
+      "answerIpa": "/kɑːrvd/"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span>She <u>asked</u> the <u>guide</u> <u>where</u> Phong Nha cave was <u>the most</u> beautiful cave in Vietnam.",
+      "answer": "whether",
+      "answerIpa": "/ˈweðər/"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences based on the given cues.</span><u>When</u> Andrew <u>saw</u> the question, he <u>was knowing</u> the answer <u>immediately</u>.",
+      "answer": "knew",
+      "answerIpa": "/nuː/"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">People believe that 13 is an unlucky number.</span><span class=\"cue-line\">13 is ..........................................................</span>",
+      "answer": "13 is believed to be an unlucky number."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">\"How many cars are there in front of your house, Mai?\"</span><span class=\"cue-line\">I asked .....................................................................................................</span>",
+      "answer": "I asked Mai how many cars there were in front of her/his house."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">No one introduced me to newcomers in the festival.</span><span class=\"cue-line\">I ............................................................</span>",
+      "answer": "I wasn't introduced to newcomers in the festival."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">The food was too bad for the children to eat.</span><span class=\"cue-line\">The food was so .................................</span>",
+      "answer": "The food was so bad that the children couldn't eat it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first sentence.</span><span class=\"original-sentence\">It's no use persuading her to join in that activity.</span><span class=\"cue-line\">There is no ...................................</span>",
+      "answer": "There is no point in persuading her to join in that activity."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "Traditional festivals in Vietnam play a very important role in attracting foreign tourists. In about 150 words, write about one of the traditional festivals in Vietnam.",
+      "rubric": [
+        "Structure: has a clear introduction, body, and conclusion (0.5 pt)",
+        "Mentions the time, place, and at least 3 activities of the festival (2.0 pts)",
+        "Gives your own thoughts on the festival and its role in attracting foreign tourists (0.5 pt)"
+      ]
+    }
+  ]
+}

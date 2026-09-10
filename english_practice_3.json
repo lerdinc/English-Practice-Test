@@ -1,0 +1,892 @@
+{
+  "title": "English Practice Test No: 3",
+  "subtitle": "76 questions · Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Would you mind my ______?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "smoking",
+          "ipa": "/ˈsmoʊkɪŋ/",
+          "explain": "gerund after \"mind my\" — correct pattern \"mind + possessive + -ing\""
+        },
+        {
+          "word": "smoke",
+          "ipa": "/smoʊk/",
+          "explain": "bare infinitive doesn't fit after \"mind my\""
+        },
+        {
+          "word": "smokes",
+          "ipa": "/smoʊks/",
+          "explain": "wrong form — not a gerund"
+        },
+        {
+          "word": "smoked",
+          "ipa": "/smoʊkt/",
+          "explain": "past tense doesn't fit here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>I ______ to see you at the meeting. Why didn't you come?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "waited",
+          "ipa": "/ˈweɪtɪd/",
+          "explain": "means to wait — doesn't fit the context of expecting to meet"
+        },
+        {
+          "word": "expected",
+          "ipa": "/ɪkˈspektɪd/",
+          "explain": "\"expected to see you\" fits — implies you thought they would be there"
+        },
+        {
+          "word": "thought",
+          "ipa": "/θɔːt/",
+          "explain": "\"thought to see\" isn't natural English"
+        },
+        {
+          "word": "looked",
+          "ipa": "/lʊkt/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>All of us were ______ that he came first. He hasn't been working hard so far.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "surprising",
+          "ipa": "/sərˈpraɪzɪŋ/",
+          "explain": "wrong — describes something that causes surprise, not people"
+        },
+        {
+          "word": "to surprise",
+          "ipa": "/tə sərˈpraɪz/",
+          "explain": "wrong form after \"were\""
+        },
+        {
+          "word": "to be surprised",
+          "ipa": "/tə bi sərˈpraɪzd/",
+          "explain": "unnecessary infinitive — \"were surprised\" is the correct form"
+        },
+        {
+          "word": "surprised",
+          "ipa": "/sərˈpraɪzd/",
+          "explain": "\"were surprised that...\" — correct adjective + that-clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Where is Janet? – She's out. She said she ______ back soon.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong tense for reported speech"
+        },
+        {
+          "word": "will be",
+          "ipa": "/wɪl bi/",
+          "explain": "not backshifted for reported speech"
+        },
+        {
+          "word": "would be",
+          "ipa": "/wʊd bi/",
+          "explain": "correct backshift of \"will\" in reported speech"
+        },
+        {
+          "word": "came",
+          "ipa": "/keɪm/",
+          "explain": "wrong meaning and tense"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Several people were hurt in the accident but only one ______ to the hospital.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "has taken",
+          "ipa": "/hæz ˈteɪkən/",
+          "explain": "wrong voice — should be passive here"
+        },
+        {
+          "word": "was taken",
+          "ipa": "/wəz ˈteɪkən/",
+          "explain": "correct passive, past simple, singular subject \"one\""
+        },
+        {
+          "word": "was taking",
+          "ipa": "/wəz ˈteɪkɪŋ/",
+          "explain": "wrong voice — active, but the subject receives the action"
+        },
+        {
+          "word": "are taking",
+          "ipa": "/ɑːr ˈteɪkɪŋ/",
+          "explain": "wrong number and voice"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>The policeman explained to us ______ to get to the airport.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "how",
+          "ipa": "/haʊ/",
+          "explain": "\"explain how to get to the airport\" — correct: \"how\" + infinitive \"to get\" already in the sentence"
+        },
+        {
+          "word": "how can we",
+          "ipa": "/haʊ kæn wi/",
+          "explain": "can't be followed by the infinitive \"to get\" that's already there — creates \"how can we to get\", which is ungrammatical"
+        },
+        {
+          "word": "how we can",
+          "ipa": "/haʊ wi kæn/",
+          "explain": "can't be followed by the infinitive \"to get\" that's already there — creates \"how we can to get\", which is ungrammatical"
+        },
+        {
+          "word": "how can",
+          "ipa": "/haʊ kæn/",
+          "explain": "can't be followed by the infinitive \"to get\" that's already there, and is missing a subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>I telephoned the station to make ______ of the time of the train.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "true",
+          "ipa": "/truː/",
+          "explain": "not part of this fixed expression"
+        },
+        {
+          "word": "real",
+          "ipa": "/ˈriːəl/",
+          "explain": "not part of this fixed expression"
+        },
+        {
+          "word": "right",
+          "ipa": "/raɪt/",
+          "explain": "not part of this fixed expression"
+        },
+        {
+          "word": "sure",
+          "ipa": "/ʃʊr/",
+          "explain": "\"make sure of\" is the correct fixed expression"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>The college got some money by selling one of its ______ old pictures.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "helpful",
+          "ipa": "/ˈhelpfəl/",
+          "explain": "means useful to someone, not about monetary worth"
+        },
+        {
+          "word": "usual",
+          "ipa": "/ˈjuːʒuəl/",
+          "explain": "means common/typical — wrong meaning"
+        },
+        {
+          "word": "valuable",
+          "ipa": "/ˈvæljuəbəl/",
+          "explain": "means worth a lot of money — fits selling pictures for money"
+        },
+        {
+          "word": "useful",
+          "ipa": "/ˈjuːsfəl/",
+          "explain": "wrong meaning for pictures being sold for money"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>– \"Pass me that pen, please!\" – \"______\"",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Here you are",
+          "ipa": "/hɪr juː ɑːr/",
+          "explain": "fixed expression used when handing something to someone"
+        },
+        {
+          "word": "No, it isn't",
+          "ipa": "/noʊ ɪt ˈɪzənt/",
+          "explain": "doesn't respond to a request"
+        },
+        {
+          "word": "It doesn't matter",
+          "ipa": "/ɪt ˈdʌzənt ˈmætər/",
+          "explain": "doesn't fit as a response to a request for an object"
+        },
+        {
+          "word": "Yes, please",
+          "ipa": "/jes pliːz/",
+          "explain": "doesn't fit — this responds to an offer, not a request to pass something"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>He ______ in the cafe when she came in.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "sat",
+          "ipa": "/sæt/",
+          "explain": "simple past doesn't show the action in progress"
+        },
+        {
+          "word": "has sat",
+          "ipa": "/hæz sæt/",
+          "explain": "wrong tense for a past-time context"
+        },
+        {
+          "word": "has been sitting",
+          "ipa": "/hæz bɪn ˈsɪtɪŋ/",
+          "explain": "wrong tense for a past-time context"
+        },
+        {
+          "word": "was sitting",
+          "ipa": "/wəz ˈsɪtɪŋ/",
+          "explain": "past continuous — action in progress when she came in"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>It was raining ______ we cancelled the trip to Mount Faber.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "wrong meaning — this isn't a contrast"
+        },
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "shows result — the rain caused the cancellation"
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "reverses the logic — the cancellation didn't cause the rain"
+        },
+        {
+          "word": "but",
+          "ipa": "/bʌt/",
+          "explain": "wrong meaning — this isn't a contrast"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>How far is it from Ha Noi to Hoa Binh? – It ______ about two hours by bus.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "takes",
+          "ipa": "/teɪks/",
+          "explain": "\"it takes + time\" is the fixed expression for duration"
+        },
+        {
+          "word": "goes",
+          "ipa": "/goʊz/",
+          "explain": "wrong verb for expressing duration"
+        },
+        {
+          "word": "needs",
+          "ipa": "/niːdz/",
+          "explain": "wrong verb for expressing duration"
+        },
+        {
+          "word": "wants",
+          "ipa": "/wɑːnts/",
+          "explain": "wrong verb for expressing duration"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Everybody was there, including ______ Mr. and Mrs. Smith.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "\"including\" doesn't take \"with\""
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "\"including\" doesn't take \"of\""
+        },
+        {
+          "word": "(no word needed)",
+          "ipa": "",
+          "explain": "\"including\" is followed directly by a noun, no preposition needed"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "\"including\" doesn't take \"in\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>She hasn't written to me ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "any longer",
+          "ipa": "/ˈeni ˈlɔːŋgər/",
+          "explain": "wrong meaning — used for something that has stopped"
+        },
+        {
+          "word": "never",
+          "ipa": "/ˈnevər/",
+          "explain": "would need to replace \"hasn't\", not be added after it"
+        },
+        {
+          "word": "already",
+          "ipa": "/ɔːlˈredi/",
+          "explain": "usually used in affirmative sentences, not negative here"
+        },
+        {
+          "word": "yet",
+          "ipa": "/jet/",
+          "explain": "correct with negative present perfect — \"hasn't ... yet\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Surely David's not going to drive, ______ he?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "does",
+          "ipa": "/dʌz/",
+          "explain": "wrong auxiliary — the main verb uses \"is going to\""
+        },
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "correct positive tag matching \"is\" from \"is (not) going to\""
+        },
+        {
+          "word": "isn't",
+          "ipa": "/ˈɪzənt/",
+          "explain": "wrong — needs a positive tag after a negative statement"
+        },
+        {
+          "word": "will",
+          "ipa": "/wɪl/",
+          "explain": "wrong auxiliary for \"is going to\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">1. to go — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "j — to the countryside in the weekend  (“to go to the countryside in the weekend”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">2. to look — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "f — for suitable jobs in the city  (“to look for suitable jobs in the city”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">3. to live — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "a — in an urban area  (“to live in an urban area”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">4. to provide — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "h — facilities for the people  (“to provide facilities for the people”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">5. to watch — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "c — the news  (“to watch the news”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">6. to fix — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "i — the computer  (“to fix the computer”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">7. to have — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "d — a meeting  (“to have a meeting”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">8. to prefer — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "g — the countryside to the city  (“to prefer the countryside to the city”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">9. to need — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "b — more money  (“to need more money”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Verb + Phrase Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a verb in A with a phrase in B to have a complete phrase.</span><span class=\"passage-block\"><b>List A (verbs):</b> 0. to drink &nbsp; 1. to go &nbsp; 2. to look &nbsp; 3. to live &nbsp; 4. to provide &nbsp; 5. to watch &nbsp; 6. to fix &nbsp; 7. to have &nbsp; 8. to prefer &nbsp; 9. to need &nbsp; 10. to arrive<br><br><b>List B (phrases):</b> a. in an urban area &nbsp; b. more money &nbsp; c. the news &nbsp; d. a meeting &nbsp; e. at the station at 5.30 &nbsp; f. for suitable jobs in the city &nbsp; g. the countryside to the city &nbsp; h. facilities for the people &nbsp; i. the computer &nbsp; j. to the countryside in the weekend &nbsp; k. a cup of tea<br><br><i>Example: 0. to drink → k. a cup of tea</i></span><span class=\"cue-line\">10. to arrive — which phrase from List B completes it? Write the letter.</span>",
+      "answer": "e — at the station at 5.30  (“to arrive at the station at 5.30”)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>Some of the (village) ______ have lived here all their lives.",
+      "answer": "villagers",
+      "answerIpa": "/ˈvɪlɪdʒərz/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>The room still has many of its (origin) ______ features.",
+      "answer": "original",
+      "answerIpa": "/əˈrɪdʒənəl/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>He doesn't know the (mean) ______ of the word.",
+      "answer": "meaning",
+      "answerIpa": "/ˈmiːnɪŋ/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>They tried their best to avoid (get) ______ into traffic jams at rush hours.",
+      "answer": "getting",
+      "answerIpa": "/ˈgetɪŋ/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>She had her hair (wash) ______ and styled.",
+      "answer": "washed",
+      "answerIpa": "/wɑːʃt/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>It's only a short trip. We (be) ______ back in an hour.",
+      "answer": "will be"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>He spends most of his free time (play) ______ computer games.",
+      "answer": "playing",
+      "answerIpa": "/ˈpleɪɪŋ/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>We produce cheaper goods than our (compete) ______ do.",
+      "answer": "competitors",
+      "answerIpa": "/kəmˈpetɪtərz/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>He has been (separate) ______ from his wife for a year.",
+      "answer": "separated",
+      "answerIpa": "/ˈsepəreɪtɪd/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct forms of the word in parentheses.</span>His father is a (special) ______ in Vietnamese history.",
+      "answer": "specialist",
+      "answerIpa": "/ˈspeʃəlɪst/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Definitions",
+      "prompt": "<span class=\"mini-instruction\">Find the word which fits the definition. The first has been done for you.</span>You could keep plates in it.",
+      "answer": "cupboard",
+      "answerIpa": "/ˈkʌbərd/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Definitions",
+      "prompt": "<span class=\"mini-instruction\">Find the word which fits the definition. The first has been done for you.</span>You keep your clothes in it.",
+      "answer": "wardrobe / trunk",
+      "answerIpa": "/ˈwɔːrdroʊb/ / /trʌŋk/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Definitions",
+      "prompt": "<span class=\"mini-instruction\">Find the word which fits the definition. The first has been done for you.</span>You can see yourself in it.",
+      "answer": "mirror",
+      "answerIpa": "/ˈmɪrər/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Definitions",
+      "prompt": "<span class=\"mini-instruction\">Find the word which fits the definition. The first has been done for you.</span>You get washed in it.",
+      "answer": "water",
+      "answerIpa": "/ˈwɔːtər/"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Definitions",
+      "prompt": "<span class=\"mini-instruction\">Find the word which fits the definition. The first has been done for you.</span>You bite the food with them.",
+      "answer": "teeth",
+      "answerIpa": "/tiːθ/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph A: \"Pollution is the poisoning of the land, sea and air.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "3 — What is the pollution?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph B: \"Mainly industry and transport. If you go to any city, you will see too many factories, too many cars with not enough people in them, and not enough public transport.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "5 — What causes pollution?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph C: \"Factories and vehicles produce waste which goes into the air and rivers and spreads all over the land. Poisons in the waste build up over the years and harm trees, plants, animals, and people.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "1 — How do industry and transport cause pollution?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph D: \"Waste gases build up in the air, and dissolve into raindrops, forming a weak acid. This “acid rain” can fall far away from the country which produced it, killing trees in forests and fish in lakes and rivers.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "6 — What about air pollution?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph E: \"If companies clean their waste gases before releasing them into the atmosphere, there'll be much less air pollution and no acid rain. But this can be expensive and it needs all the world's companies to do it.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "4 — How can industry help?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Heading Matching",
+      "prompt": "<span class=\"mini-instruction\">Choose ONE appropriate question in the box to each paragraph below:</span><span class=\"passage-block\">1/ How do industry and transport cause pollution?<br>2/ How can I help?<br>3/ What is the pollution?<br>4/ How can industry help?<br>5/ What causes pollution?<br>6/ What about air pollution?</span><span class=\"cue-line\">Paragraph F: \"Cars pollute the atmosphere. Walk, cycle and use public transport as much as possible. Only use your car when you really need to, and use unleaded petrol if you can - lead is one of the most dangerous ingredients in petrol. Join us, and help us to campaign for cleaner air for everybody.\"</span><span class=\"cue-line\">Which question number (1–6) fits this paragraph?</span>",
+      "answer": "2 — How can I help?"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas <mark>(t...) ______ (1)</mark>. In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "trees",
+      "answerIpa": "/triːz/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas <mark>(w...) ______ (2)</mark> Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "without",
+      "answerIpa": "/wɪˈðaʊt/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were <mark>(n...) ______ (3)</mark> at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "nothing / none",
+      "answerIpa": "/ˈnʌθɪŋ/ / /nʌn/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas <mark>(t...) ______ (4)</mark>. This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "time",
+      "answerIpa": "/taɪm/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their <mark>(p...) ______ (5)</mark> so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "parents",
+      "answerIpa": "/ˈperənts/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little <mark>(d...) ______ (6)</mark> on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "drawings",
+      "answerIpa": "/ˈdrɔːɪŋz/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the <mark>(s...) ______ (7)</mark>. They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "same",
+      "answerIpa": "/seɪm/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all <mark>(r...) ______ (8)</mark> the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "round",
+      "answerIpa": "/raʊnd/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more <mark>(i...) ______ (9)</mark> than the writing. These were the (f...) ______ (10) Christmas cards.",
+      "answer": "important / interesting",
+      "answerIpa": "/ɪmˈpɔːrtənt/ / /ˈɪntrəstɪŋ/"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blanks with one suitable word. The first letter has been provided:</span>Every December millions of Christmas cards go through the post. There are pictures of stars and snow or Christmas (t...) ______ (1). In these days it is hard to think of Christmas (w...) ______ (2) Christmas cards. Yet little over a hundred and fifty years ago there were (n...) ______ (3) at all. Here is just one story of the way in which they started.<br><br>Some boys of those days who were at boarding schools had to write a special piece of English at Christmas (t...) ______ (4). This was sent to their (p...) ______ (5) so that they could see how the boys' work was during the year.<br><br>Young people like to make little (d...) ______ (6) on the paper when they write letters or poems. These boys were the (s...) ______ (7). They used to draw little pictures all (r...) ______ (8) the writing. Sometimes they coloured them, and after a time the pictures became more (i...) ______ (9) than the writing. These were the <mark>(f...) ______ (10)</mark> Christmas cards.",
+      "answer": "first",
+      "answerIpa": "/fɜːrst/"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">Why don't you take that English course?</span><span class=\"cue-line\">If ......................</span>",
+      "answer": "If I were you, I would take that English course."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">You forgot to turn off the TV last night, didn't you?</span><span class=\"cue-line\">You didn't ...................... , did you?</span>",
+      "answer": "You didn't turn off the TV last night, did you?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">Despite his age, Mr. Thanh runs five kilometres every morning.</span><span class=\"cue-line\">Even ......................</span>",
+      "answer": "Even though he is old, Mr. Thanh runs five kilometres every morning."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">He didn't finish his work until the bell rang.</span><span class=\"cue-line\">Not until ......................</span>",
+      "answer": "Not until the bell rang did he finish his work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">When he is asked about his past, he hates it.</span><span class=\"cue-line\">He hates ......................</span>",
+      "answer": "He hates being asked about his past."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">Without Tom's help, Bill couldn't have finished the work.</span><span class=\"cue-line\">If it ......................</span>",
+      "answer": "If it hadn't been for Tom's help, Bill couldn't have finished the work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">William said to Mary \"Why don't you put your luggage under the seat?\"</span><span class=\"cue-line\">William suggested ......................</span>",
+      "answer": "William suggested that Mary (should) put her luggage under the seat."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">\"It's time we went to bed\" they said. (Rewrite using reported speech)</span><span class=\"cue-line\">......................</span>",
+      "answer": "They said it was time they went to bed."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">The robbers made the bank manager hand over the money.</span><span class=\"cue-line\">The bank manager ......................</span>",
+      "answer": "The bank manager was made to hand over the money."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">She hasn't been to Ho Chi Minh City for three years.</span><span class=\"cue-line\">The last ......................</span>",
+      "answer": "The last time she went to Ho Chi Minh City was three years ago."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">I cleaned the floor then I went to bed.</span><span class=\"cue-line\">After ......................</span>",
+      "answer": "After cleaning the floor, I went to bed. / After I had cleaned the floor, I went to bed."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">\"Don't forget to send your parents my regards\", she said to me.</span><span class=\"cue-line\">She told ......................</span>",
+      "answer": "She told me not to forget to send my parents her regards."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Rewrite sentences as directed.</span><span class=\"original-sentence\">\"Would you like to dance with me?\" she said to John.</span><span class=\"cue-line\">She ......................</span>",
+      "answer": "She invited John to dance with her."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">1. Thank / much / alarm clock / send me / 15th birthday.</span>",
+      "answer": "Thank you very much for the alarm clock you sent me on my 15th birthday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">2. It just / what / need.</span>",
+      "answer": "It's just what I need."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">3. I / terrible / get up late / every morning.</span>",
+      "answer": "I'm terrible at getting up late every morning."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">4. Thanks / your present / I / wake up / time.</span>",
+      "answer": "Thanks to your present, I can wake up on time."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">5. I / hope / you both well.</span>",
+      "answer": "I hope you're both well."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">6. I / look forward / see / you / Christmas.</span>",
+      "answer": "I'm looking forward to seeing you at Christmas."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write complete sentences using the words given to form a letter:</span><span class=\"passage-block\"><b>Dear Uncle Tom,</b></span><span class=\"cue-line\">7. Thanks also / lovely card.</span>",
+      "answer": "Thanks also for your lovely card."
+    }
+  ]
+}
