@@ -1,0 +1,1225 @@
+{
+  "title": "English Practice Test No: 10",
+  "subtitle": "77 questions · Phonetics, Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "watched",
+          "underline": "ed",
+          "ipa": "/wɒtʃt/",
+          "explain": "\"ed\" said as /t/ — the odd one out"
+        },
+        {
+          "word": "cleaned",
+          "underline": "ed",
+          "ipa": "/kliːnd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "played",
+          "underline": "ed",
+          "ipa": "/pleɪd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "chased",
+          "underline": "ed",
+          "ipa": "/tʃeɪst/",
+          "explain": "\"ed\" said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "usable",
+          "underline": "s",
+          "ipa": "/ˈjuːzəbəl/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "refuse",
+          "underline": "s",
+          "ipa": "/rɪˈfjuːz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "consumption",
+          "underline": "s",
+          "ipa": "/kənˈsʌmpʃən/",
+          "explain": "\"s\" said as /s/ — the odd one out"
+        },
+        {
+          "word": "designer",
+          "underline": "s",
+          "ipa": "/dɪˈzaɪnər/",
+          "explain": "\"s\" said as /z/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "mission",
+          "underline": "ssion",
+          "ipa": "/ˈmɪʃən/",
+          "explain": "\"ssion\" said as /ʃən/"
+        },
+        {
+          "word": "function",
+          "underline": "ction",
+          "ipa": "/ˈfʌŋkʃən/",
+          "explain": "\"ction\" said as /kʃən/"
+        },
+        {
+          "word": "question",
+          "underline": "stion",
+          "ipa": "/ˈkwestʃən/",
+          "explain": "\"stion\" said as /stʃən/ — the odd one out"
+        },
+        {
+          "word": "mention",
+          "underline": "ntion",
+          "ipa": "/ˈmenʃən/",
+          "explain": "\"ntion\" said as /nʃən/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "orchestra",
+          "underline": "ch",
+          "ipa": "/ˈɔːrkɪstrə/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "scenery",
+          "underline": "c",
+          "ipa": "/ˈsiːnəri/",
+          "explain": "\"c\" said as /s/"
+        },
+        {
+          "word": "cycle",
+          "underline": "c",
+          "ipa": "/ˈsaɪkəl/",
+          "explain": "\"c\" said as /s/"
+        },
+        {
+          "word": "scheme",
+          "underline": "ch",
+          "ipa": "/skiːm/",
+          "explain": "\"ch\" said as /k/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "heal",
+          "underline": "e",
+          "ipa": "/hiːl/",
+          "explain": "\"ea\" said as /iː/"
+        },
+        {
+          "word": "vehicle",
+          "underline": "e",
+          "ipa": "/ˈviːɪkəl/",
+          "explain": "\"e\" said as /iː/ before a silent \"h\" — the odd one out"
+        },
+        {
+          "word": "rehearse",
+          "underline": "e",
+          "ipa": "/rɪˈhɜːrs/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "behavior",
+          "underline": "e",
+          "ipa": "/bɪˈheɪvjər/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "explain": "IN-ter-est-ing — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "intelligent",
+          "ipa": "/ɪnˈtelɪdʒənt/",
+          "explain": "in-TEL-li-gent — stress on the 2nd syllable"
+        },
+        {
+          "word": "insurance",
+          "ipa": "/ɪnˈʃʊrəns/",
+          "explain": "in-SUR-ance — stress on the 2nd syllable"
+        },
+        {
+          "word": "infinitive",
+          "ipa": "/ɪnˈfɪnɪtɪv/",
+          "explain": "in-FIN-i-tive — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "divided",
+          "ipa": "/dɪˈvaɪdɪd/",
+          "explain": "di-VI-ded — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "visited",
+          "ipa": "/ˈvɪzɪtɪd/",
+          "explain": "VIS-it-ed — stress on the 1st syllable"
+        },
+        {
+          "word": "entered",
+          "ipa": "/ˈentərd/",
+          "explain": "EN-tered — stress on the 1st syllable"
+        },
+        {
+          "word": "traveled",
+          "ipa": "/ˈtrævəld/",
+          "explain": "TRAV-eled — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "dictation",
+          "ipa": "/dɪkˈteɪʃən/",
+          "explain": "dic-TA-tion — stress on the 2nd syllable"
+        },
+        {
+          "word": "revision",
+          "ipa": "/rɪˈvɪʒən/",
+          "explain": "re-VI-sion — stress on the 2nd syllable"
+        },
+        {
+          "word": "optional",
+          "ipa": "/ˈɒpʃənəl/",
+          "explain": "OP-tion-al — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "invention",
+          "ipa": "/ɪnˈvenʃən/",
+          "explain": "in-VEN-tion — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "engineers",
+          "ipa": "/ˌendʒɪˈnɪrz/",
+          "explain": "en-gi-NEERS — stress on the 3rd (final) syllable, the odd one out"
+        },
+        {
+          "word": "architects",
+          "ipa": "/ˈɑːrkɪtekts/",
+          "explain": "AR-chi-tects — stress on the 1st syllable"
+        },
+        {
+          "word": "scientists",
+          "ipa": "/ˈsaɪəntɪsts/",
+          "explain": "SCI-en-tists — stress on the 1st syllable"
+        },
+        {
+          "word": "carpenters",
+          "ipa": "/ˈkɑːrpəntərz/",
+          "explain": "CAR-pen-ters — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Circle the word that has a different stress pattern from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "hospital",
+          "ipa": "/ˈhɒspɪtəl/",
+          "explain": "HOS-pi-tal — stress on the 1st syllable"
+        },
+        {
+          "word": "possible",
+          "ipa": "/ˈpɒsəbəl/",
+          "explain": "POS-si-ble — stress on the 1st syllable"
+        },
+        {
+          "word": "essential",
+          "ipa": "/ɪˈsenʃəl/",
+          "explain": "es-SEN-tial — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "eatable",
+          "ipa": "/ˈiːtəbəl/",
+          "explain": "EAT-a-ble — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Alice should not stay under the sunshine because her skin is so ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "insensible",
+          "ipa": "/ɪnˈsensəbəl/",
+          "explain": "means unconscious — wrong meaning"
+        },
+        {
+          "word": "sensitive",
+          "ipa": "/ˈsensətɪv/",
+          "explain": "correct — skin that reacts easily to sun"
+        },
+        {
+          "word": "senseless",
+          "ipa": "/ˈsensləs/",
+          "explain": "means unconscious/foolish — wrong meaning"
+        },
+        {
+          "word": "sensible",
+          "ipa": "/ˈsensəbəl/",
+          "explain": "means showing good judgement — wrong meaning for skin"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>There is a ______ of water in many parts of the world, so we should save water.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "shortage",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "explain": "correct — \"shortage of water\" is the fixed collocation"
+        },
+        {
+          "word": "plenty",
+          "ipa": "/ˈplenti/",
+          "explain": "wrong meaning — contradicts \"we should save water\""
+        },
+        {
+          "word": "lots",
+          "ipa": "/lɒts/",
+          "explain": "doesn't fit the sentence's warning tone"
+        },
+        {
+          "word": "lackage",
+          "ipa": "/ˈlækɪdʒ/",
+          "explain": "not a standard English word"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Ha Long Bay, ______ one of the new seven wonders of the world, consists of 1,969 big and small islands.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "knows",
+          "ipa": "/noʊz/",
+          "explain": "wrong form — not a reduced relative clause"
+        },
+        {
+          "word": "known as",
+          "ipa": "/noʊn æz/",
+          "explain": "correct — reduced non-restrictive clause (‘which is known as’)"
+        },
+        {
+          "word": "is known",
+          "ipa": "/ɪz noʊn/",
+          "explain": "a full finite verb can't fit this non-restrictive slot"
+        },
+        {
+          "word": "that known as",
+          "ipa": "/ðæt noʊn æz/",
+          "explain": "not a valid structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Would you like some more sugar for your coffee? – ______",
+      "answer": 2,
+      "options": [
+        {
+          "word": "No, I don't.",
+          "ipa": "",
+          "explain": "doesn't fit a yes/no offer response naturally"
+        },
+        {
+          "word": "Yes, I do.",
+          "ipa": "",
+          "explain": "doesn't fit an offer of more sugar"
+        },
+        {
+          "word": "No, thanks.",
+          "ipa": "",
+          "explain": "correct — natural way to decline an offer"
+        },
+        {
+          "word": "Yes, I would.",
+          "ipa": "",
+          "explain": "doesn't fit this specific offer phrasing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Can you give me a favor? I have some difficulties in doing this exercise. – ______",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Please do.",
+          "ipa": "",
+          "explain": "doesn't fit as a response to a request for help"
+        },
+        {
+          "word": "Yes, let.",
+          "ipa": "",
+          "explain": "not a grammatical response"
+        },
+        {
+          "word": "Certainly.",
+          "ipa": "",
+          "explain": "correct — natural affirmative response to a request"
+        },
+        {
+          "word": "Thank you.",
+          "ipa": "",
+          "explain": "doesn't fit as a response to someone asking for help"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Up to now, we have finished ______ assignment.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "twice three",
+          "ipa": "",
+          "explain": "not a valid fraction expression"
+        },
+        {
+          "word": "two third",
+          "ipa": "",
+          "explain": "correct — fraction “two-thirds”"
+        },
+        {
+          "word": "second third",
+          "ipa": "",
+          "explain": "not a valid fraction expression"
+        },
+        {
+          "word": "third twice",
+          "ipa": "",
+          "explain": "not a valid fraction expression"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Mary is wearing a ______ T-shirt and a green shorts.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "blue cotton beautiful large",
+          "ipa": "",
+          "explain": "wrong adjective order"
+        },
+        {
+          "word": "cotton large blue beautiful",
+          "ipa": "",
+          "explain": "wrong adjective order"
+        },
+        {
+          "word": "beautiful large blue cotton",
+          "ipa": "",
+          "explain": "correct order: opinion → size → color → material"
+        },
+        {
+          "word": "beautiful cotton blue large",
+          "ipa": "",
+          "explain": "wrong adjective order"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Her parents never ______ her to go out after 8 p.m.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "see",
+          "ipa": "/siː/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "let",
+          "ipa": "/let/",
+          "explain": "\"let\" takes a bare infinitive, not \"to go\""
+        },
+        {
+          "word": "allow",
+          "ipa": "/əˈlaʊ/",
+          "explain": "correct — \"allow someone to do something\""
+        },
+        {
+          "word": "agree",
+          "ipa": "/əˈgriː/",
+          "explain": "doesn't take an object + infinitive this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>I caught ______ of a lion lying under the tree, and my heart jumped.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "view",
+          "ipa": "/vjuː/",
+          "explain": "not part of this fixed idiom"
+        },
+        {
+          "word": "scene",
+          "ipa": "/siːn/",
+          "explain": "not part of this fixed idiom"
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "not part of this fixed idiom"
+        },
+        {
+          "word": "sight",
+          "ipa": "/saɪt/",
+          "explain": "correct — \"catch sight of\" is the fixed idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>The students are used to ______ in the school library.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "work",
+          "ipa": "/wɜːrk/",
+          "explain": "wrong form after \"be used to\""
+        },
+        {
+          "word": "working",
+          "ipa": "/ˈwɜːrkɪŋ/",
+          "explain": "correct — \"be used to\" + gerund"
+        },
+        {
+          "word": "worked",
+          "ipa": "/wɜːrkt/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "workes",
+          "ipa": "/wɜːrks/",
+          "explain": "not a valid word"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition.</span>Alexander Graham Bell finally came up ______ a new device called telephone.",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition.</span>You shouldn't live ______ saying \"goodbye\" to your parents.",
+      "answer": "without"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition.</span>She always goes to her office ______ her own car.",
+      "answer": "by / in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition.</span>This mobile phone is still ______ warranty of our company.",
+      "answer": "under"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition.</span>Her son almost takes ______ her husband. Sometimes I can't distinguish them.",
+      "answer": "after"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in parentheses.</span>Jack (work) ______ for this company so far.",
+      "answer": "has worked / has been working"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in parentheses.</span>The man (look) ______ at himself in the mirror is Mr. Brown.",
+      "answer": "looking"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in parentheses.</span>All of the rooms in our school (decorate) ______ before the school festival started.",
+      "answer": "had been decorated"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in parentheses.</span>He would rather his friends (leave) ______ him alone now.",
+      "answer": "left"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in parentheses.</span>Mr. Green had his house (paint) ______ last month.",
+      "answer": "painted"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>My form teacher has a good sense of ______. (HUMOROUS)",
+      "answer": "humor"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>______ are one of the animals which are harmful to our crops. (MOUSE)",
+      "answer": "Mice"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>There are three ______ flights to Hanoi from Da Nang. (DAY)",
+      "answer": "daily"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Mekong river is the greatest in ______ in Viet Nam. (LONG)",
+      "answer": "length"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>He doesn't eat meat or fish because he is a ______. (VEGETABLE)",
+      "answer": "vegetarian"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Tan Trao is the ______ place where uncle beloved Ho Chi Minh had worked during the early years of 1940s. (HISTORY)",
+      "answer": "historical"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>You shouldn't drink wine because it is ______ for your health at all. (HEALTH)",
+      "answer": "unhealthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>A lot of children are becoming ______ at the age of ten. (INVENT)",
+      "answer": "inventors"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Please give me some ______ to solve this problem. (ADVISE)",
+      "answer": "advice"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>He devoted in the full ______ of his youth to the struggle for the liberation of our country. (PROUD)",
+      "answer": "pride"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. <mark>______ (1)</mark> a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Despite",
+          "ipa": "/dɪˈspaɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "During",
+          "ipa": "/ˈdʊrɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Be",
+          "ipa": "/bi/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "As",
+          "ipa": "/æz/",
+          "explain": "\"As a boy\" — when he was a boy"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to <mark>______ (2)</mark> to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "leave",
+          "ipa": "/liːv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "move",
+          "ipa": "/muːv/",
+          "explain": "\"decided to move to America\""
+        },
+        {
+          "word": "return",
+          "ipa": "/rɪˈtɜːrn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, <mark>______ (3)</mark> Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "where",
+          "ipa": "/wer/",
+          "explain": "\"where\" — relative adverb for the place \"Boston\""
+        },
+        {
+          "word": "why",
+          "ipa": "/waɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine <mark>______ (4)</mark> help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "in order",
+          "ipa": "/ɪn ˈɔːrdər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "\"a machine to help\" — infinitive of purpose"
+        },
+        {
+          "word": "so that",
+          "ipa": "/soʊ ðæt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to <mark>______ (5)</mark> the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 3,
+      "options": [
+        {
+          "word": "go",
+          "ipa": "/goʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "get",
+          "ipa": "/get/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "change",
+          "ipa": "/tʃeɪndʒ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "send",
+          "ipa": "/send/",
+          "explain": "\"send the human voice\" fits the idea of transmitting sound"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new <mark>______ (6)</mark>. For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "invention",
+          "ipa": "/ɪnˈvenʃən/",
+          "explain": "\"work on a new invention\" — noun needed"
+        },
+        {
+          "word": "inventor",
+          "ipa": "/ɪnˈventər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "inventive",
+          "ipa": "/ɪnˈventɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "invent",
+          "ipa": "/ɪnˈvent/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day <mark>______ (7)</mark> night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 0,
+      "options": [
+        {
+          "word": "and",
+          "ipa": "/ænd/",
+          "explain": "\"day and night\" — fixed phrase"
+        },
+        {
+          "word": "after",
+          "ipa": "/ˈæftər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "or",
+          "ipa": "/ɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on <mark>______ (8)</mark>. They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "others",
+          "ipa": "/ˈʌðərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "the others",
+          "ipa": "/ðə ˈʌðərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "another",
+          "ipa": "/əˈnʌðər/",
+          "explain": "\"another\" floor — a different one from Bell's"
+        },
+        {
+          "word": "other",
+          "ipa": "/ˈʌðər/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send <mark>______ (9)</mark> through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran ______ (10) Bell's room, and shouted, “I heard you!”",
+      "answer": 2,
+      "options": [
+        {
+          "word": "speaking",
+          "ipa": "/ˈspiːkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "letters",
+          "ipa": "/ˈletərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "speech",
+          "ipa": "/spiːtʃ/",
+          "explain": "\"send speech through a wire\" — matches the telephone experiment"
+        },
+        {
+          "word": "telegram",
+          "ipa": "/ˈteləgræm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which is the best answer.</span><b>The Inventor</b><br><br>Alexander Graham Bell was born in 1847 in Edinburgh, Scotland. His father was an expert in phonetics. ______ (1) a boy, Alexander became interested in sounds and speech in 1870, The Bells decided to ______ (2) to America. They lived in Boston, ______ (3) Alexander taught in a school for the deaf. There he began experimenting with a machine ______ (4) help the deaf hear. While experimenting with this machine, Bell had an idea, “Why do not use electricity to ______ (5) the human voice from one place to another?” He began to work on a new ______ (6). For years, Bell and his assistant, Thomas Watson, worked day ______ (7) night. They rented rooms in a boarding house. Bell was on one floor, and Watson was on ______ (8). They tried to send ______ (9) through a wire. Finally, on March 19th, 1876, Watson heard these words very clearly: “Mr Watson, come here. I want you.” Watson rushed upstairs, ran <mark>______ (10)</mark> Bell's room, and shouted, “I heard you!”",
+      "answer": 1,
+      "options": [
+        {
+          "word": "onto",
+          "ipa": "/ˈɒntuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "into",
+          "ipa": "/ˈɪntuː/",
+          "explain": "\"ran into Bell's room\" — phrasal verb for entering quickly"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi <mark>______ (1)</mark> March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese <mark>______ (2)</mark> South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "and"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two <mark>______ (3)</mark> will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "singers"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to <mark>______ (4)</mark> the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "celebrate"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. <mark>______ (5)</mark> the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "During"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain <mark>______ (6)</mark> nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "has"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. <mark>______ (7)</mark> in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "Born"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career <mark>______ (8)</mark> expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "has"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as <mark>______ (9)</mark> of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be ______ (10) on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "one"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with a suitable word.</span><b>Bi Rain to return to Vietnam</b><br><br>Two famous Korean singers — Bi Rain and Park Hyo Shin — are expected to be in Hanoi ______ (1) March 17 to 23, to perform in the meeting between officials of the Vietnamese ______ (2) South Korean Ministries of Defense at the Hanoi Opera House on March 21. The two ______ (3) will go to Vietnam with a company of 97 officers and soldiers from the theatrical wing of the Republic of Korea's (RoK) Army, at the invitation of the Vietnamese Ministry of National Defense.<br><br>The tour is a part of a series of events to ______ (4) the 20th anniversary of Vietnamese-RoK diplomatic ties. ______ (5) the tour, the troupe will visit the popular tourist destinations of Hanoi and Ha Long Bay. Since joining the army last October, Bi Rain ______ (6) nearly disappeared from the stage. ______ (7) in 1982, Bi Rain is a highly accomplished dancer, singer and actor whose acting and music career ______ (8) expanded beyond Asian boundaries. In 2006, Bi Rain was named by Time magazine as ______ (9) of the 100 Most Influential People Who Shape Our World.<br><br>Bi Rain's concert will be <mark>______ (10)</mark> on March 21 at the Hanoi Opera House at 1 Trang Tien, Hoan Kiem, Hanoi.",
+      "answer": "held"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">Because he is tired he can't finish the work in time.</span><span class=\"cue-line\">Because of ......................</span>",
+      "answer": "Because of being tired / his tiredness, he can't finish the work in time."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">\"Why don't you see your doctor regularly?\" said Susan.</span><span class=\"cue-line\">Susan advised ......................</span>",
+      "answer": "Susan advised me to see my doctor regularly."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">I had my nephew repair my new watch but it hasn't worked any more.</span><span class=\"cue-line\">My new watch ......................</span>",
+      "answer": "My new watch was repaired by my nephew but it hasn't worked any more."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">The train from Lao Cai to Ha Noi lasted 5 hours.</span><span class=\"cue-line\">It is a ......................</span>",
+      "answer": "It is a 5 (five)-hour train from Lao Cai to Ha Noi."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">Although Mr. Tom is quite old, he runs seven miles before breakfast.</span><span class=\"cue-line\">In spite ......................</span>",
+      "answer": "In spite of Mr. Tom's age, he runs seven miles before breakfast. / In spite of the fact that Mr. Tom is quite old, he runs seven miles before breakfast."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">I would like to choose my own clothes for my brother's wedding.</span><span class=\"cue-line\">What ......................</span>",
+      "answer": "What I would like (to do) is to choose my own clothes for my brother's wedding."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">David has read a lot of books, however, he can not find a good solution.</span><span class=\"cue-line\">Although ......................</span>",
+      "answer": "Although David has read a lot of books, he cannot find a good solution."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">It is not necessary for you to finish the assignment today.</span><span class=\"cue-line\">You ......................</span>",
+      "answer": "You don't need to finish the assignment today. / You don't have to finish the assignment today. / You needn't finish the assignment today."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence so that its meaning is similar to the original.</span><span class=\"original-sentence\">Whenever he is asked about his past, he feels uncomfortable.</span><span class=\"cue-line\">He hates ......................</span>",
+      "answer": "He hates being asked about his past."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>Mr. John, with two architects and an assistant, are scheduled to arrive in New York in five days.",
+      "answer": "are → is"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>Nobody agrees with these solutions for reducing garbage, does he?",
+      "answer": "does he → do they"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>I'd like some more informations about the course, please.",
+      "answer": "informations → information"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>There's nothing to do about it now, except tell police about the truth.",
+      "answer": "tell → telling"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>Come up in my place and we will discuss about it.",
+      "answer": "in → to"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>Many students were able of find good jobs from three to six months after graduation.",
+      "answer": "of → to"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>The more he tries hard, the best successful he becomes.",
+      "answer": "best → more"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find the mistake in the sentence. Underline it and write the correction.</span>There are a little activities that we can do after the meeting.",
+      "answer": "little → few"
+    }
+  ]
+}

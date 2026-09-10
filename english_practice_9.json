@@ -1,0 +1,1241 @@
+{
+  "title": "English Practice Test No: 9",
+  "subtitle": "85 questions · Phonetics, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "climate",
+          "underline": "i",
+          "ipa": "/ˈklaɪmət/",
+          "explain": "\"i\" said as /aɪ/"
+        },
+        {
+          "word": "comic",
+          "underline": "i",
+          "ipa": "/ˈkɒmɪk/",
+          "explain": "\"i\" said as /ɪ/ — the odd one out"
+        },
+        {
+          "word": "hike",
+          "underline": "i",
+          "ipa": "/haɪk/",
+          "explain": "\"i\" said as /aɪ/"
+        },
+        {
+          "word": "website",
+          "underline": "i",
+          "ipa": "/ˈwebsaɪt/",
+          "explain": "\"i\" said as /aɪ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "worked",
+          "underline": "ed",
+          "ipa": "/wɜːrkt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "laughed",
+          "underline": "ed",
+          "ipa": "/læft/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "hoped",
+          "underline": "ed",
+          "ipa": "/hoʊpt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "naked",
+          "underline": "ed",
+          "ipa": "/ˈneɪkɪd/",
+          "explain": "\"ed\" said as /ɪd— the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "cover",
+          "underline": "c",
+          "ipa": "/ˈkʌvər/",
+          "explain": "\"c\" said as /k/"
+        },
+        {
+          "word": "category",
+          "underline": "c",
+          "ipa": "/ˈkætəgɔːri/",
+          "explain": "\"c\" said as /k/"
+        },
+        {
+          "word": "ancient",
+          "underline": "c",
+          "ipa": "/ˈeɪnʃənt/",
+          "explain": "\"c\" said as /ʃ/ — the odd one out"
+        },
+        {
+          "word": "decorate",
+          "underline": "c",
+          "ipa": "/ˈdekəreɪt/",
+          "explain": "\"c\" said as /k/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "erupt",
+          "underline": "u",
+          "ipa": "/ɪˈrʌpt/",
+          "explain": "\"u\" said as /ʌ/ — the odd one out"
+        },
+        {
+          "word": "humor",
+          "underline": "u",
+          "ipa": "/ˈhjuːmər/",
+          "explain": "\"u\" said as /juː/"
+        },
+        {
+          "word": "UFO",
+          "underline": "U",
+          "ipa": "/ˌjuː ef ˈoʊ/",
+          "explain": "\"U\" said as /juː/"
+        },
+        {
+          "word": "communicate",
+          "underline": "u",
+          "ipa": "/kəˈmjuːnɪkeɪt/",
+          "explain": "\"u\" said as /juː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Buddhism",
+          "underline": "B",
+          "ipa": "/ˈbʊdɪzəm/",
+          "explain": "initial \"b\" pronounced"
+        },
+        {
+          "word": "bomb",
+          "underline": "b",
+          "ipa": "/bɒm/",
+          "explain": "final \"b\" is silent — the odd one out"
+        },
+        {
+          "word": "viable",
+          "underline": "b",
+          "ipa": "/ˈvaɪəbəl/",
+          "explain": "\"b\" pronounced"
+        },
+        {
+          "word": "bulb",
+          "underline": "b",
+          "ipa": "/bʌlb/",
+          "explain": "both \"b\"s pronounced"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the stress pattern different from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "comprise",
+          "ipa": "/kəmˈpraɪz/",
+          "explain": "com-PRISE — stress on the 2nd syllable"
+        },
+        {
+          "word": "depend",
+          "ipa": "/dɪˈpend/",
+          "explain": "de-PEND — stress on the 2nd syllable"
+        },
+        {
+          "word": "design",
+          "ipa": "/dɪˈzaɪn/",
+          "explain": "de-SIGN — stress on the 2nd syllable"
+        },
+        {
+          "word": "novel",
+          "ipa": "/ˈnɒvəl/",
+          "explain": "NOV-el — stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the stress pattern different from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "tropical",
+          "ipa": "/ˈtrɒpɪkəl/",
+          "explain": "TROP-i-cal — stress on the 1st syllable"
+        },
+        {
+          "word": "collection",
+          "ipa": "/kəˈlekʃən/",
+          "explain": "col-LEC-tion — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "tendency",
+          "ipa": "/ˈtendənsi/",
+          "explain": "TEN-den-cy — stress on the 1st syllable"
+        },
+        {
+          "word": "charity",
+          "ipa": "/ˈtʃærəti/",
+          "explain": "CHAR-i-ty — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the stress pattern different from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "friendliness",
+          "ipa": "/ˈfrendlinəs/",
+          "explain": "FRIEND-li-ness — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "occasion",
+          "ipa": "/əˈkeɪʒən/",
+          "explain": "oc-CA-sion — stress on the 2nd syllable"
+        },
+        {
+          "word": "pagoda",
+          "ipa": "/pəˈgoʊdə/",
+          "explain": "pa-GO-da — stress on the 2nd syllable"
+        },
+        {
+          "word": "deposit",
+          "ipa": "/dɪˈpɒzɪt/",
+          "explain": "de-POS-it — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the stress pattern different from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "importing",
+          "ipa": "/ɪmˈpɔːrtɪŋ/",
+          "explain": "im-PORT-ing — stress on the 2nd syllable"
+        },
+        {
+          "word": "specific",
+          "ipa": "/spəˈsɪfɪk/",
+          "explain": "spe-CIF-ic — stress on the 2nd syllable"
+        },
+        {
+          "word": "impolite",
+          "ipa": "/ˌɪmpəˈlaɪt/",
+          "explain": "im-po-LITE — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "im-POR-tant — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the stress pattern different from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "federation",
+          "ipa": "/ˌfedəˈreɪʃən/",
+          "explain": "fed-er-A-tion — stress on the 3rd syllable"
+        },
+        {
+          "word": "unpolluted",
+          "ipa": "/ˌʌnpəˈluːtɪd/",
+          "explain": "un-pol-LUT-ed — stress on the 3rd syllable"
+        },
+        {
+          "word": "disappearing",
+          "ipa": "/ˌdɪsəˈpɪrɪŋ/",
+          "explain": "dis-ap-PEAR-ing — stress on the 3rd syllable"
+        },
+        {
+          "word": "profitable",
+          "ipa": "/ˈprɒfɪtəbəl/",
+          "explain": "PROF-it-a-ble — stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>All the sentences below use \"the\". Which one is correct?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Can you pass the sugar please?",
+          "ipa": "",
+          "explain": "correct — \"the\" refers to a specific, known sugar (e.g. on the table)"
+        },
+        {
+          "word": "The crime is a problem in many big cities.",
+          "ipa": "",
+          "explain": "\"crime\" in general shouldn't take \"the\" here"
+        },
+        {
+          "word": "The apples are good for you.",
+          "ipa": "",
+          "explain": "apples in general (a category) shouldn't take \"the\""
+        },
+        {
+          "word": "I love the skiing.",
+          "ipa": "",
+          "explain": "\"skiing\" as a general activity shouldn't take \"the\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Our friends have lived in Ho Chi Minh City ______ 2002.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "\"for\" pairs with a duration, not a specific year"
+        },
+        {
+          "word": "since",
+          "ipa": "/sɪns/",
+          "explain": "correct — \"since\" + a point in time"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition with present perfect \"have lived\""
+        },
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>He prefers soccer ______ tennis.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "than",
+          "ipa": "/ðæn/",
+          "explain": "\"prefer\" doesn't pair with \"than\""
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "correct — \"prefer X to Y\""
+        },
+        {
+          "word": "or",
+          "ipa": "/ɔːr/",
+          "explain": "wrong word — not a choice/comparison structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>If they worked more carefully, they ______ so many mistakes.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "won't make",
+          "ipa": "/woʊnt meɪk/",
+          "explain": "wrong tense for a second conditional"
+        },
+        {
+          "word": "don't make",
+          "ipa": "/doʊnt meɪk/",
+          "explain": "wrong tense for a second conditional"
+        },
+        {
+          "word": "wouldn't make",
+          "ipa": "/ˈwʊdənt meɪk/",
+          "explain": "correct — second conditional result clause"
+        },
+        {
+          "word": "didn't make",
+          "ipa": "/ˈdɪdənt meɪk/",
+          "explain": "wrong form for a conditional result clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>He ______ to his friend's party when his parents asked him to go home.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "goes",
+          "ipa": "/goʊz/",
+          "explain": "wrong tense for a past narrative"
+        },
+        {
+          "word": "was going",
+          "ipa": "/wəz ˈgoʊɪŋ/",
+          "explain": "correct — past continuous for the background action"
+        },
+        {
+          "word": "went",
+          "ipa": "/went/",
+          "explain": "simple past doesn't show the action in progress"
+        },
+        {
+          "word": "has gone",
+          "ipa": "/hæz gɒn/",
+          "explain": "wrong tense for a past narrative"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>There's a strange man behind us. I think ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "we are followed",
+          "ipa": "/wi ɑːr ˈfɒloʊd/",
+          "explain": "wrong aspect — needs continuous for an ongoing action"
+        },
+        {
+          "word": "we are being followed",
+          "ipa": "/wi ɑːr ˈbiːɪŋ ˈfɒloʊd/",
+          "explain": "correct — present continuous passive"
+        },
+        {
+          "word": "we are being following",
+          "ipa": "/wi ɑːr ˈbiːɪŋ ˈfɒloʊɪŋ/",
+          "explain": "wrong form — not a valid passive structure"
+        },
+        {
+          "word": "we are following",
+          "ipa": "/wi ɑːr ˈfɒloʊɪŋ/",
+          "explain": "wrong voice — \"we\" are receiving the action"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Which of the following is the strongest advice?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "You should get a hair-cut.",
+          "ipa": "",
+          "explain": "a mild suggestion"
+        },
+        {
+          "word": "If I were you I'd get a hair-cut.",
+          "ipa": "",
+          "explain": "a mild, indirect suggestion"
+        },
+        {
+          "word": "You ought to get a hair-cut.",
+          "ipa": "",
+          "explain": "similar strength to \"should\""
+        },
+        {
+          "word": "You really must get a hair-cut.",
+          "ipa": "",
+          "explain": "correct — \"must\" + \"really\" is the strongest of these"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>______ you mind if I use your dictionary?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Will",
+          "ipa": "/wɪl/",
+          "explain": "doesn't fit \"mind\" this way"
+        },
+        {
+          "word": "Do",
+          "ipa": "/duː/",
+          "explain": "correct — \"Do you mind if...\" is the fixed question form"
+        },
+        {
+          "word": "Can",
+          "ipa": "/kæn/",
+          "explain": "doesn't fit \"mind\" this way"
+        },
+        {
+          "word": "Did",
+          "ipa": "/dɪd/",
+          "explain": "wrong tense for a present request"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>Mr. Vo Van Kiet, ______ was our former Prime Minister, was born in Vinh Long.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "\"that\" can't introduce a non-restrictive clause about a person after a comma"
+        },
+        {
+          "word": "whose",
+          "ipa": "/huːz/",
+          "explain": "shows possession, doesn't fit here"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "correct — non-restrictive relative pronoun for a person"
+        },
+        {
+          "word": "whom",
+          "ipa": "/huːm/",
+          "explain": "used as an object, not a subject, of the clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete each sentence.</span>All that rubbish will have to be ______ at once.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "get rid of",
+          "ipa": "/get rɪd ʌv/",
+          "explain": "wrong form after \"be\""
+        },
+        {
+          "word": "got rid of",
+          "ipa": "/gɒt rɪd ʌv/",
+          "explain": "correct — passive \"be got rid of\""
+        },
+        {
+          "word": "got rid",
+          "ipa": "/gɒt rɪd/",
+          "explain": "missing \"of\""
+        },
+        {
+          "word": "getting rid of",
+          "ipa": "/ˈgetɪŋ rɪd ʌv/",
+          "explain": "wrong form after \"will have to be\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>My friend was (make) ______ to pay back the book. (make)",
+      "answer": "made"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>My friend was made (pay) ______ back the book. (pay)",
+      "answer": "to pay"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Hardly (he take) ______ up the book when the phone rang. (take — inverted structure)",
+      "answer": "had he taken"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Hardly had he taken up the book when the phone (ring) ______. (ring)",
+      "answer": "rang"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Can you imagine what I (come) ______ across when I was rolling up the carpet yesterday? (come)",
+      "answer": "came"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Can you imagine what I came across when I (roll) ______ up the carpet yesterday? (roll)",
+      "answer": "was rolling"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>If she wins the prize, it (be) ______ because she writes very well. (be)",
+      "answer": "will be"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>If she wins the prize, it will be because she (write) ______ very well. (write)",
+      "answer": "writes"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>He resented (ask) ______ to wait. He had expected the minister to see him at once. (ask)",
+      "answer": "being asked"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>He resented being asked (wait) ______. He had expected the minister to see him at once. (wait)",
+      "answer": "to wait"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>A lot of toys encourage children's ______. (IMAGINE)",
+      "answer": "imagination"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The factory has provided cheaper ______ lately. (PRODUCE)",
+      "answer": "products"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Burning coal is an ______ way of heating a house. Gas is much cheaper. (ECONOMY)",
+      "answer": "uneconomical / uneconomic"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>According to some scientists the earth is losing its outer atmosphere because of ______. (POLLUTE)",
+      "answer": "pollution"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>She has one of the biggest art ______ in Britain. (COLLECT)",
+      "answer": "collections"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>______ has caused many so-called man-made disasters. (FOREST)",
+      "answer": "Deforestation"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>______ often walk through the streets shouting or singing about something they sell. (CRY)",
+      "answer": "Criers"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Gas and oil ______ always increases in cold weather. (CONSUME)",
+      "answer": "consumption"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The police are interested in the sudden ______ of the valuable painting. (APPEAR)",
+      "answer": "disappearance / re-appearance"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>He claimed that his ______ had caused him to become a criminal. (BRING UP)",
+      "answer": "upbringing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a beginning in column A with the most suitable ending in column B. Write the letter.</span><span class=\"passage-block\"><b>Column B:</b><br>a. That's right, I am.<br>b. which is the capital city of California.<br>c. we will have no fresh water to use.<br>d. otherwise I'll get the sack.<br>e. It depends on where you are and what you are doing, surely?</span><span class=\"cue-line\">I must get back to work,</span>",
+      "answer": "d — otherwise I'll get the sack."
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a beginning in column A with the most suitable ending in column B. Write the letter.</span><span class=\"passage-block\"><b>Column B:</b><br>a. That's right, I am.<br>b. which is the capital city of California.<br>c. we will have no fresh water to use.<br>d. otherwise I'll get the sack.<br>e. It depends on where you are and what you are doing, surely?</span><span class=\"cue-line\">Hello. You must be Maryam.</span>",
+      "answer": "a — That's right, I am."
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a beginning in column A with the most suitable ending in column B. Write the letter.</span><span class=\"passage-block\"><b>Column B:</b><br>a. That's right, I am.<br>b. which is the capital city of California.<br>c. we will have no fresh water to use.<br>d. otherwise I'll get the sack.<br>e. It depends on where you are and what you are doing, surely?</span><span class=\"cue-line\">Andrew is flying to Sacramento,</span>",
+      "answer": "b — which is the capital city of California."
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a beginning in column A with the most suitable ending in column B. Write the letter.</span><span class=\"passage-block\"><b>Column B:</b><br>a. That's right, I am.<br>b. which is the capital city of California.<br>c. we will have no fresh water to use.<br>d. otherwise I'll get the sack.<br>e. It depends on where you are and what you are doing, surely?</span><span class=\"cue-line\">Do you know that you can only live without water for four days?</span>",
+      "answer": "e — It depends on where you are and what you are doing, surely?"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Matching",
+      "prompt": "<span class=\"mini-instruction\">Match a beginning in column A with the most suitable ending in column B. Write the letter.</span><span class=\"passage-block\"><b>Column B:</b><br>a. That's right, I am.<br>b. which is the capital city of California.<br>c. we will have no fresh water to use.<br>d. otherwise I'll get the sack.<br>e. It depends on where you are and what you are doing, surely?</span><span class=\"cue-line\">If we pollute the water,</span>",
+      "answer": "c — we will have no fresh water to use."
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the one underlined word or phrase that should be corrected.</span><u>Preserving</u> natural resources <u>mean</u> <u>reserving</u> them <u>for</u> our future.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Preserving",
+          "explain": "correct as written"
+        },
+        {
+          "word": "mean",
+          "explain": "incorrect — should be “means” — the odd one out"
+        },
+        {
+          "word": "reserving",
+          "explain": "correct as written"
+        },
+        {
+          "word": "for",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the one underlined word or phrase that should be corrected.</span><u>Despite of</u> the increase in air fares, most people <u>still</u> <u>prefer</u> <u>to travel</u> by plane.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Despite of",
+          "explain": "incorrect — should be “Despite (or ‘In spite of’)” — the odd one out"
+        },
+        {
+          "word": "still",
+          "explain": "correct as written"
+        },
+        {
+          "word": "prefer",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to travel",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the one underlined word or phrase that should be corrected.</span><u>Regardless of</u> your teaching method, the objective of any conversation class <u>should be</u> for students <u>to practice</u> <u>speaking words</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Regardless of",
+          "explain": "correct as written"
+        },
+        {
+          "word": "should be",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to practice",
+          "explain": "correct as written"
+        },
+        {
+          "word": "speaking words",
+          "explain": "incorrect — should be “speaking” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the one underlined word or phrase that should be corrected.</span><u>The</u> <u>injured</u> man was <u>taken</u> to <u>the hospital</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "The",
+          "explain": "correct as written"
+        },
+        {
+          "word": "injured",
+          "explain": "correct as written"
+        },
+        {
+          "word": "taken",
+          "explain": "correct as written"
+        },
+        {
+          "word": "the hospital",
+          "explain": "incorrect — should be “hospital (British usage: ‘taken to hospital’, no ‘the’)” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the one underlined word or phrase that should be corrected.</span>In order for one to achieve the desired results in this experiment, it is necessary that <u>he</u> <u>work</u> as <u>fastly</u> <u>as</u> possible.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "he",
+          "explain": "correct as written"
+        },
+        {
+          "word": "work",
+          "explain": "correct as written"
+        },
+        {
+          "word": "fastly",
+          "explain": "incorrect — should be “fast (‘fast’ has no -ly adverb form)” — the odd one out"
+        },
+        {
+          "word": "as",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Few people can embody the spirit of early America as much as Benjamin Franklin. He lived through almost the whole of the eighteenth century, being born six years after it began, and dying ten years before it ended. In this time he saw the American colonies grow from tiny settlements into a nation, and he also contributed much to the development of the new state.<br><br>At the age of 17 Franklin ran away to Philadelphia. He had already received some training as a printer's apprentice, and this helped him seven years later, with his first publication, the Pennsylvania Gazette. He also received a contract to do government printing work, which helped him to rise from his poor background to become a successful entrepreneur. Some of his experience in business was shared in his famous Poor Richard's Almanak, which established his reputation throughout the American colonies. In another of his works, the Autobiography, which was written toward the end of his life, he shows the same quiet common sense.<br><br>He was deeply interested in science and natural history, and his experiments with electricity and lightning led directly to the invention of the lightning rod. He was also interested in improving the conditions of his fellow men. He was involved in a number of projects in his native Philadelphia, including the setting up of a library, a university, a philosophical society, and — because he was a pragmatic man — a fire prevention service. In 1753 he became Postmaster-General of the colonies. Through this experience he began to develop the idea that the colonies of North America should be a single nation. Later, he went to London to try to persuade the British government to change the conditions, especially the taxes, that later led the American colonists into rebellion.<br><br>Whatever Benjamin Franklin's personal feelings about the rebellion of the American states, he worked hard to make it succeed. As ambassador to France, he encouraged the French to help George Washington. After the war he attended the American constitutional congress. This was his last contribution, for he died later that year. He is still fondly remembered by Americans as one of the creators of the United States.</span><span class=\"cue-line\">What is a good description for this text?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "An autobiography of Benjamin Franklin.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The life of Benjamin Franklin",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "The works of Benjamin Franklin.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Franklin and American Independence.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Few people can embody the spirit of early America as much as Benjamin Franklin. He lived through almost the whole of the eighteenth century, being born six years after it began, and dying ten years before it ended. In this time he saw the American colonies grow from tiny settlements into a nation, and he also contributed much to the development of the new state.<br><br>At the age of 17 Franklin ran away to Philadelphia. He had already received some training as a printer's apprentice, and this helped him seven years later, with his first publication, the Pennsylvania Gazette. He also received a contract to do government printing work, which helped him to rise from his poor background to become a successful entrepreneur. Some of his experience in business was shared in his famous Poor Richard's Almanak, which established his reputation throughout the American colonies. In another of his works, the Autobiography, which was written toward the end of his life, he shows the same quiet common sense.<br><br>He was deeply interested in science and natural history, and his experiments with electricity and lightning led directly to the invention of the lightning rod. He was also interested in improving the conditions of his fellow men. He was involved in a number of projects in his native Philadelphia, including the setting up of a library, a university, a philosophical society, and — because he was a pragmatic man — a fire prevention service. In 1753 he became Postmaster-General of the colonies. Through this experience he began to develop the idea that the colonies of North America should be a single nation. Later, he went to London to try to persuade the British government to change the conditions, especially the taxes, that later led the American colonists into rebellion.<br><br>Whatever Benjamin Franklin's personal feelings about the rebellion of the American states, he worked hard to make it succeed. As ambassador to France, he encouraged the French to help George Washington. After the war he attended the American constitutional congress. This was his last contribution, for he died later that year. He is still fondly remembered by Americans as one of the creators of the United States.</span><span class=\"cue-line\">When was Benjamin Franklin born?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "1806",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1794",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1717",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1706",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Few people can embody the spirit of early America as much as Benjamin Franklin. He lived through almost the whole of the eighteenth century, being born six years after it began, and dying ten years before it ended. In this time he saw the American colonies grow from tiny settlements into a nation, and he also contributed much to the development of the new state.<br><br>At the age of 17 Franklin ran away to Philadelphia. He had already received some training as a printer's apprentice, and this helped him seven years later, with his first publication, the Pennsylvania Gazette. He also received a contract to do government printing work, which helped him to rise from his poor background to become a successful entrepreneur. Some of his experience in business was shared in his famous Poor Richard's Almanak, which established his reputation throughout the American colonies. In another of his works, the Autobiography, which was written toward the end of his life, he shows the same quiet common sense.<br><br>He was deeply interested in science and natural history, and his experiments with electricity and lightning led directly to the invention of the lightning rod. He was also interested in improving the conditions of his fellow men. He was involved in a number of projects in his native Philadelphia, including the setting up of a library, a university, a philosophical society, and — because he was a pragmatic man — a fire prevention service. In 1753 he became Postmaster-General of the colonies. Through this experience he began to develop the idea that the colonies of North America should be a single nation. Later, he went to London to try to persuade the British government to change the conditions, especially the taxes, that later led the American colonists into rebellion.<br><br>Whatever Benjamin Franklin's personal feelings about the rebellion of the American states, he worked hard to make it succeed. As ambassador to France, he encouraged the French to help George Washington. After the war he attended the American constitutional congress. This was his last contribution, for he died later that year. He is still fondly remembered by Americans as one of the creators of the United States.</span><span class=\"cue-line\">Which of these happened first?</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Franklin trains as a printer.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "Franklin runs away to Philadelphia.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The American colonies rebel.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Franklin starts his first publication.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Few people can embody the spirit of early America as much as Benjamin Franklin. He lived through almost the whole of the eighteenth century, being born six years after it began, and dying ten years before it ended. In this time he saw the American colonies grow from tiny settlements into a nation, and he also contributed much to the development of the new state.<br><br>At the age of 17 Franklin ran away to Philadelphia. He had already received some training as a printer's apprentice, and this helped him seven years later, with his first publication, the Pennsylvania Gazette. He also received a contract to do government printing work, which helped him to rise from his poor background to become a successful entrepreneur. Some of his experience in business was shared in his famous Poor Richard's Almanak, which established his reputation throughout the American colonies. In another of his works, the Autobiography, which was written toward the end of his life, he shows the same quiet common sense.<br><br>He was deeply interested in science and natural history, and his experiments with electricity and lightning led directly to the invention of the lightning rod. He was also interested in improving the conditions of his fellow men. He was involved in a number of projects in his native Philadelphia, including the setting up of a library, a university, a philosophical society, and — because he was a pragmatic man — a fire prevention service. In 1753 he became Postmaster-General of the colonies. Through this experience he began to develop the idea that the colonies of North America should be a single nation. Later, he went to London to try to persuade the British government to change the conditions, especially the taxes, that later led the American colonists into rebellion.<br><br>Whatever Benjamin Franklin's personal feelings about the rebellion of the American states, he worked hard to make it succeed. As ambassador to France, he encouraged the French to help George Washington. After the war he attended the American constitutional congress. This was his last contribution, for he died later that year. He is still fondly remembered by Americans as one of the creators of the United States.</span><span class=\"cue-line\">What was Poor Richard's Almanak about?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Franklin's reputation.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "How to succeed in business.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "How to do government printing.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The text does not say.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Few people can embody the spirit of early America as much as Benjamin Franklin. He lived through almost the whole of the eighteenth century, being born six years after it began, and dying ten years before it ended. In this time he saw the American colonies grow from tiny settlements into a nation, and he also contributed much to the development of the new state.<br><br>At the age of 17 Franklin ran away to Philadelphia. He had already received some training as a printer's apprentice, and this helped him seven years later, with his first publication, the Pennsylvania Gazette. He also received a contract to do government printing work, which helped him to rise from his poor background to become a successful entrepreneur. Some of his experience in business was shared in his famous Poor Richard's Almanak, which established his reputation throughout the American colonies. In another of his works, the Autobiography, which was written toward the end of his life, he shows the same quiet common sense.<br><br>He was deeply interested in science and natural history, and his experiments with electricity and lightning led directly to the invention of the lightning rod. He was also interested in improving the conditions of his fellow men. He was involved in a number of projects in his native Philadelphia, including the setting up of a library, a university, a philosophical society, and — because he was a pragmatic man — a fire prevention service. In 1753 he became Postmaster-General of the colonies. Through this experience he began to develop the idea that the colonies of North America should be a single nation. Later, he went to London to try to persuade the British government to change the conditions, especially the taxes, that later led the American colonists into rebellion.<br><br>Whatever Benjamin Franklin's personal feelings about the rebellion of the American states, he worked hard to make it succeed. As ambassador to France, he encouraged the French to help George Washington. After the war he attended the American constitutional congress. This was his last contribution, for he died later that year. He is still fondly remembered by Americans as one of the creators of the United States.</span><span class=\"cue-line\">In which countries did Franklin live?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "England and France.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Philadelphia and England.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "London and America.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "England, America and France.",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and <mark>______ (1)</mark> Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "the"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set <mark>______ (2)</mark> “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "up"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign <mark>______ (3)</mark> save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks <mark>______ (4)</mark> that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "so"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region <mark>______ (5)</mark> was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "that / which"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert <mark>______ (6)</mark> too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "since / as / because / for"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there <mark>______ (7)</mark> just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "were"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land <mark>______ (8)</mark> be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "might / could"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall <mark>______ (9)</mark> for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "enough"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at <mark>______ (10)</mark> forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "least"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them <mark>______ (11)</mark> the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many <mark>______ (12)</mark> deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "more"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people <mark>______ (13)</mark> were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "who / that"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away <mark>______ (14)</mark> the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks ______ (15) little safer.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the text and think of the word which best fits each space. Use only one word per space.</span>In 1973, when the tiger appeared to <b>be</b> facing extinction, the World Wide Fund for Nature and ______ (1) Indian Government agreed to set ______ (2) “Operation Tiger” — a campaign ______ (3) save this threatened creature. They started by creating nine special parks ______ (4) that tigers could live in safety. The first was at Ranthambhore, a region ______ (5) was quickly turning into a desert ______ (6) too much of the grass was being eaten by the local people's cattle. At the time there ______ (7) just fourteen tigers left there. The government had to clear twelve small villages, which mean moving nearly 1,000 people and 10,000 cattle so the land ______ (8) be handed back to nature.<br><br>Today, Ranthambhore is a very different place, with grass tall ______ (9) for tigers to hide in, and there are now at ______ (10) forty of them ______ (11) the park, wandering freely about. Other animals have also benefited. For example, there are many ______ (12) deer and monkeys than before. The people ______ (13) were moved are now living in better conditions. They live in new villages away ______ (14) the tiger park, with schools, temples and fresh water supplies. There are now sixteen such tiger parks in India and the animals' future looks <mark>______ (15)</mark> little safer.",
+      "answer": "a"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">You should review your lessons for the exam.</span><span class=\"cue-line\">It's time ......................</span>",
+      "answer": "It's time you reviewed your lessons for the exam."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">That man used to work with me when I lived in New York.</span><span class=\"cue-line\">That's ......................</span>",
+      "answer": "That's the man who used to work with me when I lived in New York."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">What a pity they close the shops at lunch-time.</span><span class=\"cue-line\">I wish ......................</span>",
+      "answer": "I wish they would open the shops at lunch time. / I wish they wouldn't close the shops at lunch time."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">We like ice-cream but we don't have it every day.</span><span class=\"cue-line\">Although ......................</span>",
+      "answer": "Although we like ice-cream, we don't have it every day."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">When did you start working in that factory?</span><span class=\"cue-line\">How long ......................</span>",
+      "answer": "How long have you been working in that factory?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">Oil was slowly covering the sand of the beach.</span><span class=\"cue-line\">The sand ......................</span>",
+      "answer": "The sand of the beach was being slowly covered by oil."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">\"Where is the station car-park?\" Mrs. Smith asked.</span><span class=\"cue-line\">Mrs. Smith asked ......................</span>",
+      "answer": "Mrs. Smith asked me where the station car-park was."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">He was sorry he hadn't said goodbye to her at the airport.</span><span class=\"cue-line\">He regretted ......................</span>",
+      "answer": "He regretted not saying goodbye to her at the airport. / not having said goodbye to her at the airport."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">I advise you not to buy that car.</span><span class=\"cue-line\">If ......................</span>",
+      "answer": "If I were you, I wouldn't buy that car."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, beginning with the given word(s).</span><span class=\"original-sentence\">Why don't you ask her yourself?</span><span class=\"cue-line\">I suggest that ......................</span>",
+      "answer": "I suggest that you (should) ask her yourself."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make full sentences based on the given cues.</span><span class=\"cue-line\">If you/ not go / the party /I /go / either.</span>",
+      "answer": "If you don't go to the party, I won't go either."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make full sentences based on the given cues.</span><span class=\"cue-line\">Unless/ I / have/ quiet room/ I / not/ able /do / work.</span>",
+      "answer": "Unless I have a quiet room, I won't be able to do my work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make full sentences based on the given cues.</span><span class=\"cue-line\">nurse/ kind enough/ help him/ walk</span>",
+      "answer": "The nurse is kind enough to help him walk."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make full sentences based on the given cues.</span><span class=\"cue-line\">He/ rather spend/ holidays/ a farm/ seaside</span>",
+      "answer": "He would rather spend his holidays on a farm than at the seaside."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make full sentences based on the given cues.</span><span class=\"cue-line\">I/ return/ visit/ Japan. It/ wonderful trip.</span>",
+      "answer": "I have just returned from a visit to Japan. It was a wonderful trip."
+    }
+  ]
+}

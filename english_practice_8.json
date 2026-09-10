@@ -1,0 +1,1813 @@
+{
+  "title": "English Practice Test No: 8",
+  "subtitle": "116 questions · Phonetics, Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "looked",
+          "underline": "ed",
+          "ipa": "/lʊkt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "watched",
+          "underline": "ed",
+          "ipa": "/wɒtʃt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "stopped",
+          "underline": "ed",
+          "ipa": "/stɒpt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "carried",
+          "underline": "ed",
+          "ipa": "/ˈkærid/",
+          "explain": "\"ed\" said as /d/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "bath",
+          "underline": "th",
+          "ipa": "/bæθ/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "father",
+          "underline": "th",
+          "ipa": "/ˈfɑːðər/",
+          "explain": "\"th\" said as /ð/ — the odd one out"
+        },
+        {
+          "word": "theater",
+          "underline": "th",
+          "ipa": "/ˈθiːətər/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "health",
+          "underline": "th",
+          "ipa": "/helθ/",
+          "explain": "\"th\" said as /θ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "danger",
+          "underline": "a",
+          "ipa": "/ˈdeɪndʒər/",
+          "explain": "\"a\" said as /eɪ/ — the odd one out"
+        },
+        {
+          "word": "angry",
+          "underline": "a",
+          "ipa": "/ˈæŋgri/",
+          "explain": "\"a\" said as /æ/"
+        },
+        {
+          "word": "language",
+          "underline": "a",
+          "ipa": "/ˈlæŋgwɪdʒ/",
+          "explain": "\"a\" said as /æ/"
+        },
+        {
+          "word": "passage",
+          "underline": "a",
+          "ipa": "/ˈpæsɪdʒ/",
+          "explain": "\"a\" said as /æ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "whole",
+          "underline": "wh",
+          "ipa": "/hoʊl/",
+          "explain": "\"wh\" said as /h/, \"w\" silent — the odd one out"
+        },
+        {
+          "word": "when",
+          "underline": "wh",
+          "ipa": "/wen/",
+          "explain": "\"wh\" said as /w/"
+        },
+        {
+          "word": "where",
+          "underline": "wh",
+          "ipa": "/wer/",
+          "explain": "\"wh\" said as /w/"
+        },
+        {
+          "word": "while",
+          "underline": "wh",
+          "ipa": "/waɪl/",
+          "explain": "\"wh\" said as /w/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "improvement",
+          "underline": "ment",
+          "ipa": "/ɪmˈpruːvmənt/",
+          "explain": "unstressed \"ment\" said as /mənt/"
+        },
+        {
+          "word": "equipment",
+          "underline": "ment",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "explain": "unstressed \"ment\" said as /mənt/"
+        },
+        {
+          "word": "comment",
+          "underline": "ment",
+          "ipa": "/ˈkɒment/",
+          "explain": "stressed \"ment\" said as /ment/ — the odd one out"
+        },
+        {
+          "word": "development",
+          "underline": "ment",
+          "ipa": "/dɪˈveləpmənt/",
+          "explain": "unstressed \"ment\" said as /mənt/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>My mother is ______ tired to cook tonight.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "enough",
+          "ipa": "/ɪˈnʌf/",
+          "explain": "\"enough\" follows the adjective, doesn't precede it"
+        },
+        {
+          "word": "too",
+          "ipa": "/tuː/",
+          "explain": "correct — \"too + adjective + to-infinitive\""
+        },
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "\"so\" needs a \"that\"-clause, not a to-infinitive here"
+        },
+        {
+          "word": "very",
+          "ipa": "/ˈveri/",
+          "explain": "doesn't combine with a to-infinitive of result this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>They haven't seen each other ______ Christmas.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "since",
+          "ipa": "/sɪns/",
+          "explain": "correct — \"since\" + a point in time"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "\"for\" pairs with a duration, not a point in time like \"Christmas\""
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Alexander Graham Bell invented the ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "washing machine",
+          "ipa": "/ˈwɒʃɪŋ məˈʃiːn/",
+          "explain": "not what Bell invented"
+        },
+        {
+          "word": "computer",
+          "ipa": "/kəmˈpjuːtər/",
+          "explain": "not what Bell invented"
+        },
+        {
+          "word": "television set",
+          "ipa": "/ˈtelɪvɪʒən set/",
+          "explain": "not what Bell invented"
+        },
+        {
+          "word": "telephone",
+          "ipa": "/ˈtelɪfoʊn/",
+          "explain": "correct — Bell is credited with inventing the telephone"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Mr Hoang is used ______ nothing before going to work.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "eat",
+          "ipa": "/iːt/",
+          "explain": "wrong form after \"used to\" (be accustomed to)"
+        },
+        {
+          "word": "to eat",
+          "ipa": "/tə iːt/",
+          "explain": "wrong form — this would mean \"used to\" as a past habit, not \"be used to\""
+        },
+        {
+          "word": "to eating",
+          "ipa": "/tə ˈiːtɪŋ/",
+          "explain": "correct — \"be used to\" + gerund"
+        },
+        {
+          "word": "ate",
+          "ipa": "/eɪt/",
+          "explain": "wrong form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Tim saw his friends while he ______ the street.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "cross",
+          "ipa": "/krɒs/",
+          "explain": "wrong tense for a past narrative"
+        },
+        {
+          "word": "was crossing",
+          "ipa": "/wəz ˈkrɒsɪŋ/",
+          "explain": "correct — past continuous for the background action"
+        },
+        {
+          "word": "is crossing",
+          "ipa": "/ɪz ˈkrɒsɪŋ/",
+          "explain": "wrong tense — not present time"
+        },
+        {
+          "word": "crossed",
+          "ipa": "/krɒst/",
+          "explain": "simple past doesn't show the action in progress"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>He asked me ______ a driving licence.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "if I have",
+          "ipa": "/ɪf aɪ hæv/",
+          "explain": "wrong tense for reported speech"
+        },
+        {
+          "word": "whether I have",
+          "ipa": "/ˈweðər aɪ hæv/",
+          "explain": "wrong tense for reported speech"
+        },
+        {
+          "word": "if I had",
+          "ipa": "/ɪf aɪ hæd/",
+          "explain": "correct — backshifted tense in reported speech"
+        },
+        {
+          "word": "whether I have had",
+          "ipa": "/ˈweðər aɪ hæv hæd/",
+          "explain": "wrong tense form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Cool the burn immediately ______ to minimize tissue damage.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "so as",
+          "ipa": "/soʊ æz/",
+          "explain": "correct — \"so as to\" expresses purpose"
+        },
+        {
+          "word": "so that",
+          "ipa": "/soʊ ðæt/",
+          "explain": "needs a full clause, not a to-infinitive"
+        },
+        {
+          "word": "in order to",
+          "ipa": "/ɪn ˈɔːrdər tə/",
+          "explain": "would create a repeated \"to\" with the following \"to minimize\""
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "wrong meaning — not a reason, a purpose"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>She promises she ______ back in about ten minutes.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong tense for a future promise"
+        },
+        {
+          "word": "be",
+          "ipa": "/bi/",
+          "explain": "not a valid finite verb form here"
+        },
+        {
+          "word": "has been",
+          "ipa": "/hæz bɪn/",
+          "explain": "wrong tense for a future promise"
+        },
+        {
+          "word": "will be",
+          "ipa": "/wɪl bi/",
+          "explain": "correct — future tense for a promise"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>This project ______ next month.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is carried out",
+          "ipa": "/ɪz ˈkærid aʊt/",
+          "explain": "wrong tense — \"next month\" needs future"
+        },
+        {
+          "word": "will carried out",
+          "ipa": "/wɪl ˈkærid aʊt/",
+          "explain": "incomplete passive — missing \"be\""
+        },
+        {
+          "word": "carries out",
+          "ipa": "/ˈkæriz aʊt/",
+          "explain": "wrong voice — the project doesn't carry itself out"
+        },
+        {
+          "word": "will be carried out",
+          "ipa": "/wɪl bi ˈkærid aʊt/",
+          "explain": "correct — future passive"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>I saw him ______ the flowers in the garden.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "watering",
+          "ipa": "/ˈwɔːtərɪŋ/",
+          "explain": "correct — \"see someone doing something\""
+        },
+        {
+          "word": "water",
+          "ipa": "/ˈwɔːtər/",
+          "explain": "also possible, but \"watering\" better emphasizes the action in progress"
+        },
+        {
+          "word": "is watering",
+          "ipa": "/ɪz ˈwɔːtərɪŋ/",
+          "explain": "wrong form after \"saw him\""
+        },
+        {
+          "word": "to water",
+          "ipa": "/tə ˈwɔːtər/",
+          "explain": "less natural than the -ing form for an action witnessed in progress"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Angkor Wat is the ______ temple in the world.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "large",
+          "ipa": "/lɑːrdʒ/",
+          "explain": "not a superlative form"
+        },
+        {
+          "word": "largest",
+          "ipa": "/ˈlɑːrdʒɪst/",
+          "explain": "correct superlative"
+        },
+        {
+          "word": "larger",
+          "ipa": "/ˈlɑːrdʒər/",
+          "explain": "comparative, not superlative, needed here"
+        },
+        {
+          "word": "most largest",
+          "ipa": "/moʊst ˈlɑːrdʒɪst/",
+          "explain": "double superlative — incorrect"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>In the rice-cooking festival, a fire is made in the ______ way.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "modern",
+          "ipa": "/ˈmɒdərn/",
+          "explain": "wrong meaning — festivals usually follow old customs"
+        },
+        {
+          "word": "new",
+          "ipa": "/nuː/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "traditional",
+          "ipa": "/trəˈdɪʃənəl/",
+          "explain": "correct — fits a festival's customary practice"
+        },
+        {
+          "word": "old time",
+          "ipa": "/oʊld taɪm/",
+          "explain": "not a standard adjective form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Hoa told me that she ______ hungry.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong tense for reported speech"
+        },
+        {
+          "word": "was",
+          "ipa": "/wəz/",
+          "explain": "correct — backshifted tense in reported speech"
+        },
+        {
+          "word": "were",
+          "ipa": "/wər/",
+          "explain": "wrong subject-verb agreement"
+        },
+        {
+          "word": "had been",
+          "ipa": "/hæd bɪn/",
+          "explain": "past perfect isn't required for this simple backshift"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>It ______ interesting. How does it work?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "sounds",
+          "ipa": "/saʊndz/",
+          "explain": "correct — \"sound\" + adjective, like \"seem\""
+        },
+        {
+          "word": "hears",
+          "ipa": "/hɪrz/",
+          "explain": "wrong verb — \"hear\" doesn't work this way"
+        },
+        {
+          "word": "says",
+          "ipa": "/sez/",
+          "explain": "wrong verb for this meaning"
+        },
+        {
+          "word": "listens",
+          "ipa": "/ˈlɪsənz/",
+          "explain": "wrong verb for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>It isn't good for children ______ too many sweets.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to eat",
+          "ipa": "/tə iːt/",
+          "explain": "correct — \"it is + adjective + for someone + to-infinitive\""
+        },
+        {
+          "word": "eating",
+          "ipa": "/ˈiːtɪŋ/",
+          "explain": "wrong form after \"for children\" in this pattern"
+        },
+        {
+          "word": "for eating",
+          "ipa": "/fɔːr ˈiːtɪŋ/",
+          "explain": "redundant \"for\" — already used before \"children\""
+        },
+        {
+          "word": "eat",
+          "ipa": "/iːt/",
+          "explain": "missing \"to\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>She went to market without ______ anything.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "buy",
+          "ipa": "/baɪ/",
+          "explain": "bare verb doesn't fit after \"without\""
+        },
+        {
+          "word": "to buy",
+          "ipa": "/tə baɪ/",
+          "explain": "to-infinitive doesn't fit after \"without\""
+        },
+        {
+          "word": "bought",
+          "ipa": "/bɔːt/",
+          "explain": "past tense doesn't fit after \"without\""
+        },
+        {
+          "word": "buying",
+          "ipa": "/ˈbaɪɪŋ/",
+          "explain": "correct — \"without\" + gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>______ she plays the piano!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "How well",
+          "ipa": "/haʊ wel/",
+          "explain": "correct — \"how\" + adverb in an exclamation about a verb"
+        },
+        {
+          "word": "How good",
+          "ipa": "/haʊ gʊd/",
+          "explain": "\"good\" is an adjective, doesn't modify the verb \"plays\""
+        },
+        {
+          "word": "What well",
+          "ipa": "/wʌt wel/",
+          "explain": "\"what\" needs a noun, not an adverb"
+        },
+        {
+          "word": "What good",
+          "ipa": "/wʌt gʊd/",
+          "explain": "\"what\" needs a noun phrase, not just an adjective"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>The new shopping mall is quite ______ the present shopping area.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "different from",
+          "ipa": "/ˈdɪfərənt frʌm/",
+          "explain": "correct — \"different from\" is grammatically complete"
+        },
+        {
+          "word": "the same",
+          "ipa": "/ðə seɪm/",
+          "explain": "needs \"as\" to complete the comparison"
+        },
+        {
+          "word": "like to",
+          "ipa": "/laɪk tə/",
+          "explain": "not a standard comparison structure"
+        },
+        {
+          "word": "similar",
+          "ipa": "/ˈsɪmɪlər/",
+          "explain": "needs \"to\" to complete the comparison"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>There were ______ flowers that I couldn't decide what to buy.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "so many",
+          "ipa": "/soʊ ˈmeni/",
+          "explain": "correct — \"flowers\" is countable plural, and abundance fits the context"
+        },
+        {
+          "word": "so few",
+          "ipa": "/soʊ fjuː/",
+          "explain": "wrong meaning — implies scarcity, contradicting the context"
+        },
+        {
+          "word": "so little",
+          "ipa": "/soʊ ˈlɪtəl/",
+          "explain": "\"little\" pairs with uncountable nouns, not \"flowers\""
+        },
+        {
+          "word": "so much",
+          "ipa": "/soʊ mʌtʃ/",
+          "explain": "\"much\" pairs with uncountable nouns, not \"flowers\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>Of my parents, my father is ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "the stricter",
+          "ipa": "/ðə ˈstrɪktər/",
+          "explain": "comparing two people doesn't need \"the\" here"
+        },
+        {
+          "word": "the strictest",
+          "ipa": "/ðə ˈstrɪktɪst/",
+          "explain": "superlative is for 3+; only two parents are compared"
+        },
+        {
+          "word": "strict",
+          "ipa": "/strɪkt/",
+          "explain": "plain adjective doesn't show comparison"
+        },
+        {
+          "word": "stricter",
+          "ipa": "/ˈstrɪktər/",
+          "explain": "correct comparative for comparing two people"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>Would you ______ cleaning the floor for me?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "explain": "\"would you like\" needs a to-infinitive, not a gerund"
+        },
+        {
+          "word": "please",
+          "ipa": "/pliːz/",
+          "explain": "not a verb that takes a gerund this way"
+        },
+        {
+          "word": "mind",
+          "ipa": "/maɪnd/",
+          "explain": "correct — \"would you mind\" + gerund"
+        },
+        {
+          "word": "rather",
+          "ipa": "/ˈræðər/",
+          "explain": "\"would rather\" needs a bare infinitive, not a gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>I've never seen such an interesting ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "performing",
+          "ipa": "/pərˈfɔːrmɪŋ/",
+          "explain": "not a noun that fits after \"an interesting\""
+        },
+        {
+          "word": "performer",
+          "ipa": "/pərˈfɔːrmər/",
+          "explain": "means a person — less natural with \"such an interesting\" alone"
+        },
+        {
+          "word": "performance",
+          "ipa": "/pərˈfɔːrməns/",
+          "explain": "correct — noun fitting \"an interesting ___\""
+        },
+        {
+          "word": "performed",
+          "ipa": "/pərˈfɔːrmd/",
+          "explain": "past participle, not a noun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>I'm sorry. I'm not ______ to help you lift the table.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "enough strong",
+          "ipa": "/ɪˈnʌf strɒŋ/",
+          "explain": "wrong word order — \"enough\" follows the adjective"
+        },
+        {
+          "word": "too strong",
+          "ipa": "/tuː strɒŋ/",
+          "explain": "wrong meaning — \"too\" would suggest an excess, not a lack"
+        },
+        {
+          "word": "strong enough",
+          "ipa": "/strɒŋ ɪˈnʌf/",
+          "explain": "correct — \"adjective + enough + to-infinitive\""
+        },
+        {
+          "word": "enough strength",
+          "ipa": "/ɪˈnʌf strengkθ/",
+          "explain": "wrong word class — \"strength\" is a noun here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>I usually go to work by bus, but ______ and then I use my motorbike.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "again",
+          "ipa": "/əˈgen/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        },
+        {
+          "word": "once",
+          "ipa": "/wʌns/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        },
+        {
+          "word": "now",
+          "ipa": "/naʊ/",
+          "explain": "correct — \"now and then\" is the fixed idiom meaning occasionally"
+        },
+        {
+          "word": "ever",
+          "ipa": "/ˈevər/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Best Option",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete each sentence.</span>There are not ______ jobs for all of us.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "\"so\" doesn't directly precede a plural noun like this"
+        },
+        {
+          "word": "such",
+          "ipa": "/sʌtʃ/",
+          "explain": "\"such\" would need \"such a lack of jobs\", not this structure"
+        },
+        {
+          "word": "too",
+          "ipa": "/tuː/",
+          "explain": "\"too\" doesn't fit this pattern with a plural noun alone"
+        },
+        {
+          "word": "enough",
+          "ipa": "/ɪˈnʌf/",
+          "explain": "correct — \"enough\" + plural noun meaning sufficient"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>Robert Wilson (be) ______ a politician.",
+      "answer": "is"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He (go) ______ to Oxford University in 1960, and in 1976 he became a Member of Parliament. (go)",
+      "answer": "went"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He went to Oxford University in 1960, and in 1976 he (become) ______ a Member of Parliament (an MP). (become)",
+      "answer": "became"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He (be) ______ an MP since then. (be)",
+      "answer": "has been"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He (be) ______ Minister of Education from 1980 to 1985. (be)",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He (write) ______ many books. (write)",
+      "answer": "has written"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He (get) ______ married and has two children. (get)",
+      "answer": "gets"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>He gets married and (have) ______ two children. (have)",
+      "answer": "has"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>His family lived in Oxford for 15 years, then they (move) ______ to London in 1980. (move)",
+      "answer": "moved"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense of the verb in brackets.</span>They now (live) ______ in a house in Kensington Street, London. (live)",
+      "answer": "live / are now living"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">She studies English so that she can improve her knowledge.</span><span class=\"cue-line\">She studies English so as ......................</span>",
+      "answer": "She studies English so as to improve her knowledge."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">The last time I went to Ho Chi Minh City was 6 years ago.</span><span class=\"cue-line\">I haven't ......................</span>",
+      "answer": "I haven't gone / been to Ho Chi Minh City for 6 years."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">\"Where is the post office?\" A visitor asked Lan.</span><span class=\"cue-line\">A visitor asked Lan ......................</span>",
+      "answer": "A visitor asked Lan where the post office was."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">May I borrow your ruler?</span><span class=\"cue-line\">Would you mind ......................</span>",
+      "answer": "Would you mind lending me your ruler? / Would you mind if I borrowed your ruler?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">We spent five hours getting to London.</span><span class=\"cue-line\">It took us ......................</span>",
+      "answer": "It took us five hours to get to London."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">Someone is going to tune my piano tomorrow.</span><span class=\"cue-line\">I am going ......................</span>",
+      "answer": "I am going to have my piano tuned tomorrow."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">Nam keeps forgetting his homework.</span><span class=\"cue-line\">Nam is ......................</span>",
+      "answer": "Nam is always forgetting his homework."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">My mother gave me a very nice watch yesterday.</span><span class=\"cue-line\">I was ......................</span>",
+      "answer": "I was given a very nice watch yesterday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">We'd prefer you not to smoke.</span><span class=\"cue-line\">We'd rather ......................</span>",
+      "answer": "We'd rather you didn't smoke."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite these sentences so that they have the same meaning.</span><span class=\"original-sentence\">\"You should not believe him, Minh,\" said Toan.</span><span class=\"cue-line\">Toan advised ......................</span>",
+      "answer": "Toan advised Minh not to believe him."
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Mrs Vui always prides ______ herself on her cooking.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>It is safe to keep medicine ______ locked cupboards.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Lipton tea is different ______ Dilmah tea.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>How ______ going to Vinh Market this afternoon?",
+      "answer": "about"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Mr John is very interested ______ the history of Viet Nam.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>When my parents arrived home, I was waiting ______ a phone call.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Mary regretted not bringing a lot of clothes ______ her. It was very cold.",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Hoa got up late as her alarm clock didn't go ______.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Would you mind if I had a look ______ your luggage?",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in a suitable preposition in each blank.</span>Because of the heavy storm, the ship moved up and ______ the water.",
+      "answer": "down"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>The lecturer is giving us first-aid ______. (INSTRUCT)",
+      "answer": "instructions"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>Relax for some minutes and you'll feel more ______. (COMFORT)",
+      "answer": "comfortable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>He said \"Good morning\" in a most ______ way. (FRIEND)",
+      "answer": "friendly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>This book is ______ enough for me to read. (INTEREST)",
+      "answer": "interesting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>Sa Pa is a wonderful ______ resort in Viet Nam. (MOUNTAIN)",
+      "answer": "mountainous"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>Nam's sister has been an ______ for seven years. (ACT)",
+      "answer": "actress"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>Diana is a ______. She sells flowers at a shop in New York. (FLOWER)",
+      "answer": "florist"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>The view of this mountain is ______. (BEAUTY)",
+      "answer": "beautiful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>My mother doesn't like me to wear short skirts to church. She thinks they are ______. (SUITABLE)",
+      "answer": "unsuitable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in brackets.</span>Christmas songs were ______ for people in towns and villages. (PERFORM)",
+      "answer": "performed"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>She isn't here ______ the moment.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>Warm clothes protect us ______ bad weather.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>What do you often do ______ weekends?",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>We haven't seen him ______ last month.",
+      "answer": "since"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>He had an accident and was taken ______ hospital.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>We regarded him ______ a famous doctor.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>You'd better ask ______ the information desk.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>He borrowed $100 ______ his father.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>\"Hamlet\" is written ______ Shakespeare.",
+      "answer": "by"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete each question with the correct preposition.</span>Jane fell ______ her bike and hit her head on the road.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>Their children have quite ______ characters. (DIFFERENCE)",
+      "answer": "different"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>What is the correct ______ of this word? (PRONOUNCE)",
+      "answer": "pronunciation"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>Relax for some minutes and you'll feel more ______. (COMFORT)",
+      "answer": "comfortable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>She is one of the greatest ______ to appear in this theater. (PERFORM)",
+      "answer": "performers"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>My house is on the top of a hill. It's very ______ there in the fall. (WIND)",
+      "answer": "windy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>It is ______ to eat too much sugar and fatty food. (HEALTH)",
+      "answer": "unhealthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>During his ______ the family lived in Cornwall. (CHILD)",
+      "answer": "childhood"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>Bell ______ demonstrated his invention. (SUCCESS)",
+      "answer": "successfully"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>Every day, there are two ______ from Da Nang to Ho Chi Minh City. (FLY)",
+      "answer": "flights"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in the blank with the right form of the word in capitals.</span>______, dark clouds appeared and it began to rain. (SUDDEN)",
+      "answer": "Suddenly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Will you wait a minute while I (look) ______ through the text?",
+      "answer": "look"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>\"I hear you've bought a new house.\" \"Yes, I (move) ______ in next week.\"",
+      "answer": "am moving"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Look at those black clouds. It (rain) ______.",
+      "answer": "is going to rain"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The film (begin) ______ at 7.30 or 8.00 this evening?",
+      "answer": "does the film begin"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mai (telephone) ______ you when she comes back.",
+      "answer": "will telephone"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The pens (produce) ______ by Thien Long Company are usually cheap and good.",
+      "answer": "produced"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>\"Do you mind if I sit here?\" \"I'd rather you (sit) ______ over there.\"",
+      "answer": "sat"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The price (become) ______ more and more expensive these days.",
+      "answer": "is becoming"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mr Binh (know) ______ how to drive a car although he (not learn) ______ it yet. (know)",
+      "answer": "knows"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mr Binh knows how to drive a car although he (not learn) ______ it yet. (not learn)",
+      "answer": "hasn't learned"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was <mark>______ (1)</mark> by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "imagined",
+          "ipa": "/ɪˈmædʒɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "invented",
+          "ipa": "/ɪnˈventɪd/",
+          "explain": "\"invented\" fits the historical origin of paper"
+        },
+        {
+          "word": "thought",
+          "ipa": "/θɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "brought",
+          "ipa": "/brɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made <mark>______ (2)</mark> wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "\"made from\" wood is the fixed collocation"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are <mark>______ (3)</mark>, they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "cut in",
+          "ipa": "/kʌt ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut of",
+          "ipa": "/kʌt ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut down",
+          "ipa": "/kʌt daʊn/",
+          "explain": "\"cut down\" is the phrasal verb for felling trees"
+        },
+        {
+          "word": "cut up",
+          "ipa": "/kʌt ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported <mark>______ (4)</mark> land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "\"transported by land or water\" — means of transport"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut <mark>______ (5)</mark> and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "\"cut up\" — broken into smaller pieces"
+        },
+        {
+          "word": "all",
+          "ipa": "/ɔːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are <mark>______ (6)</mark> with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "turned",
+          "ipa": "/tɜːrnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "mixed",
+          "ipa": "/mɪkst/",
+          "explain": "\"mixed with water and chemicals\""
+        },
+        {
+          "word": "beaten",
+          "ipa": "/ˈbiːtən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "joined",
+          "ipa": "/dʒɔɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and <mark>______ (7)</mark> into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "making",
+          "ipa": "/ˈmeɪkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "\"made into paper\" — passive result"
+        },
+        {
+          "word": "to make",
+          "ipa": "/tə meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 <mark>______ (8)</mark> of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "covers",
+          "ipa": "/ˈkʌvərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "texts",
+          "ipa": "/teksts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "sheets",
+          "ipa": "/ʃiːts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "copies",
+          "ipa": "/ˈkɒpiz/",
+          "explain": "\"copies\" of a newspaper — matches \"one tree...for every 400 copies\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being <mark>______ (9)</mark>, so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "set up",
+          "ipa": "/set ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "replaced",
+          "ipa": "/rɪˈpleɪst/",
+          "explain": "\"replaced\" — trees cut down faster than they're replanted"
+        },
+        {
+          "word": "grown up",
+          "ipa": "/groʊn ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "found",
+          "ipa": "/faʊnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read and choose the words or phrases that best fit each blank space.</span>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) <mark>______ (10)</mark> paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "able",
+          "ipa": "/ˈeɪbəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "serious",
+          "ipa": "/ˈsɪriəs/",
+          "explain": "\"a serious paper shortage\" fits the warning tone"
+        },
+        {
+          "word": "essential",
+          "ipa": "/ɪˈsenʃəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is a mistake in the four underlined parts of each sentence. Find it.</span>Have you <u>ever</u> seen a <u>painting</u> <u>of</u> Picasso <u>yet</u>?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "ever",
+          "explain": "correct as written"
+        },
+        {
+          "word": "painting",
+          "explain": "correct as written"
+        },
+        {
+          "word": "of",
+          "explain": "incorrect — should be “by” — the odd one out"
+        },
+        {
+          "word": "yet",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is a mistake in the four underlined parts of each sentence. Find it.</span>\"<u>Do</u> you think <u>anyone</u> <u>saw</u> us?\" she <u>told</u> nervously.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Do",
+          "explain": "correct as written"
+        },
+        {
+          "word": "anyone",
+          "explain": "correct as written"
+        },
+        {
+          "word": "saw",
+          "explain": "correct as written"
+        },
+        {
+          "word": "told",
+          "explain": "incorrect — should be “said” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is a mistake in the four underlined parts of each sentence. Find it.</span><u>The</u> plays <u>writing</u> by Shakespeare <u>are</u> very popular <u>in</u> the world.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "The",
+          "explain": "correct as written"
+        },
+        {
+          "word": "writing",
+          "explain": "incorrect — should be “written” — the odd one out"
+        },
+        {
+          "word": "are",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is a mistake in the four underlined parts of each sentence. Find it.</span>The employer said <u>that</u> he <u>would</u> give them a <u>two-day</u> trip to Phu Tho <u>next week</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "that",
+          "explain": "correct as written"
+        },
+        {
+          "word": "would",
+          "explain": "correct as written"
+        },
+        {
+          "word": "two-day",
+          "explain": "correct as written"
+        },
+        {
+          "word": "next week",
+          "explain": "incorrect — should be “the following week” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is a mistake in the four underlined parts of each sentence. Find it.</span>My sister is <u>studying</u> very hard <u>in</u> order to pass the exam and <u>getting</u> scholarship <u>at</u> university.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "studying",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "getting",
+          "explain": "incorrect — should be “get” — the odd one out"
+        },
+        {
+          "word": "at",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a description of 100-120 words.</span>Write a description of 100-120 words with the title \"My holidays\".",
+      "rubric": [
+        "Uses mainly past tenses to describe the holiday (as the source material specifies)",
+        "Structure: has a clear introduction, body, and conclusion",
+        "Describes where you went, what you did, and how you felt with reasonable detail",
+        "Uses appropriate vocabulary and reasonably accurate grammar throughout"
+      ]
+    }
+  ]
+}
