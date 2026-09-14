@@ -1,0 +1,1614 @@
+{
+  "title": "English Practice Test No: 21",
+  "subtitle": "90 questions · Phonetics, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "excursion",
+          "underline": "ur",
+          "ipa": "/ɪkˈskɜːrʒən/",
+          "explain": "\"ur\" said as /ɜːr/"
+        },
+        {
+          "word": "fur",
+          "underline": "ur",
+          "ipa": "/fɜːr/",
+          "explain": "\"ur\" said as /ɜːr/"
+        },
+        {
+          "word": "hurt",
+          "underline": "ur",
+          "ipa": "/hɜːrt/",
+          "explain": "\"ur\" said as /ɜːr/"
+        },
+        {
+          "word": "bury",
+          "underline": "ur",
+          "ipa": "/ˈberi/",
+          "explain": "\"ur\" said as /e/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "seizure",
+          "underline": "s",
+          "ipa": "/ˈsiːʒər/",
+          "explain": "\"s\" said as /ʒ/"
+        },
+        {
+          "word": "measure",
+          "underline": "s",
+          "ipa": "/ˈmeʒər/",
+          "explain": "\"s\" said as /ʒ/"
+        },
+        {
+          "word": "confusion",
+          "underline": "s",
+          "ipa": "/kənˈfjuːʒən/",
+          "explain": "\"s\" said as /ʒ/"
+        },
+        {
+          "word": "tension",
+          "underline": "s",
+          "ipa": "/ˈtenʃən/",
+          "explain": "\"s\" said as /ʃ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "food",
+          "underline": "oo",
+          "ipa": "/fuːd/",
+          "explain": "\"oo\" said as /uː/"
+        },
+        {
+          "word": "mood",
+          "underline": "oo",
+          "ipa": "/muːd/",
+          "explain": "\"oo\" said as /uː/"
+        },
+        {
+          "word": "foot",
+          "underline": "oo",
+          "ipa": "/fʊt/",
+          "explain": "\"oo\" said as /ʊ/ — the odd one out"
+        },
+        {
+          "word": "shoot",
+          "underline": "oo",
+          "ipa": "/ʃuːt/",
+          "explain": "\"oo\" said as /uː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "thus",
+          "underline": "th",
+          "ipa": "/ðʌs/",
+          "explain": "\"th\" said as /ð/ — the odd one out"
+        },
+        {
+          "word": "thick",
+          "underline": "th",
+          "ipa": "/θɪk/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "thing",
+          "underline": "th",
+          "ipa": "/θɪŋ/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "thin",
+          "underline": "th",
+          "ipa": "/θɪn/",
+          "explain": "\"th\" said as /θ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "off",
+          "underline": "f",
+          "ipa": "/ɒf/",
+          "explain": "\"f\" said as /f/"
+        },
+        {
+          "word": "of",
+          "underline": "f",
+          "ipa": "/ʌv/",
+          "explain": "\"f\" said as /v/ — the odd one out"
+        },
+        {
+          "word": "safe",
+          "underline": "f",
+          "ipa": "/seɪf/",
+          "explain": "\"f\" said as /f/"
+        },
+        {
+          "word": "knife",
+          "underline": "f",
+          "ipa": "/naɪf/",
+          "explain": "\"f\" said as /f/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "daughter",
+          "underline": "augh",
+          "ipa": "/ˈdɔːtər/",
+          "explain": "\"augh\" said as /ɔː/"
+        },
+        {
+          "word": "laughter",
+          "underline": "augh",
+          "ipa": "/ˈlæftər/",
+          "explain": "\"augh\" said as /æf/ — the odd one out"
+        },
+        {
+          "word": "taught",
+          "underline": "augh",
+          "ipa": "/tɔːt/",
+          "explain": "\"augh\" said as /ɔː/"
+        },
+        {
+          "word": "caught",
+          "underline": "augh",
+          "ipa": "/kɔːt/",
+          "explain": "\"augh\" said as /ɔː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from that of the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "promise",
+          "underline": "ise",
+          "ipa": "/ˈprɒmɪs/",
+          "explain": "\"ise\" said as /ɪs/ — the odd one out"
+        },
+        {
+          "word": "devise",
+          "underline": "ise",
+          "ipa": "/dɪˈvaɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        },
+        {
+          "word": "surprise",
+          "underline": "ise",
+          "ipa": "/sərˈpraɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        },
+        {
+          "word": "realise",
+          "underline": "ise",
+          "ipa": "/ˈriːəlaɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern in each line.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "suggest",
+          "ipa": "/səgˈdʒest/",
+          "explain": "sug-GEST — stress on the 2nd syllable"
+        },
+        {
+          "word": "report",
+          "ipa": "/rɪˈpɔːrt/",
+          "explain": "re-PORT — stress on the 2nd syllable"
+        },
+        {
+          "word": "profit",
+          "ipa": "/ˈprɒfɪt/",
+          "explain": "PROF-it — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "career",
+          "ipa": "/kəˈrɪr/",
+          "explain": "ca-REER — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern in each line.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "volcano",
+          "ipa": "/vɒlˈkeɪnoʊ/",
+          "explain": "vol-CA-no — stress on the 2nd syllable"
+        },
+        {
+          "word": "jungle",
+          "ipa": "/ˈdʒʌŋgəl/",
+          "explain": "JUN-gle — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "marine",
+          "ipa": "/məˈriːn/",
+          "explain": "ma-RINE — stress on the 2nd syllable"
+        },
+        {
+          "word": "surround",
+          "ipa": "/səˈraʊnd/",
+          "explain": "sur-ROUND — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has a different stress pattern in each line.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "attend",
+          "ipa": "/əˈtend/",
+          "explain": "at-TEND — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "public",
+          "ipa": "/ˈpʌblɪk/",
+          "explain": "PUB-lic — stress on the 1st syllable"
+        },
+        {
+          "word": "damage",
+          "ipa": "/ˈdæmɪdʒ/",
+          "explain": "DAM-age — stress on the 1st syllable"
+        },
+        {
+          "word": "practice",
+          "ipa": "/ˈpræktɪs/",
+          "explain": "PRAC-tice — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>\"Who sings best in your school?\" – \"Mai ______.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "sings",
+          "ipa": "/sɪŋz/",
+          "explain": "would repeat the verb, but standard short answer uses do-support"
+        },
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong auxiliary — doesn't match \"sings\""
+        },
+        {
+          "word": "has",
+          "ipa": "/hæz/",
+          "explain": "wrong auxiliary"
+        },
+        {
+          "word": "does",
+          "ipa": "/dʌz/",
+          "explain": "correct — do-support substitutes for \"sings\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>\"Will you come to the party tomorrow?\" – \"I will if I ______ no visitors.\"",
+      "answer": 0,
+      "options": [
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "correct — present simple in a first-conditional if-clause"
+        },
+        {
+          "word": "will have",
+          "ipa": "/wɪl hæv/",
+          "explain": "wrong tense for an if-clause referring to the future"
+        },
+        {
+          "word": "had",
+          "ipa": "/hæd/",
+          "explain": "wrong tense — doesn't match \"I will\""
+        },
+        {
+          "word": "am having",
+          "ipa": "/æm ˈhævɪŋ/",
+          "explain": "wrong aspect for this general condition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Please, ask them ______ in this area.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "don't smoke",
+          "ipa": "/doʊnt smoʊk/",
+          "explain": "wrong form after \"ask them\""
+        },
+        {
+          "word": "not smoke",
+          "ipa": "/nɒt smoʊk/",
+          "explain": "missing \"to\" for the infinitive"
+        },
+        {
+          "word": "to not smoke",
+          "ipa": "/tə nɒt smoʊk/",
+          "explain": "non-standard split infinitive placement"
+        },
+        {
+          "word": "not to smoke",
+          "ipa": "/nɒt tə smoʊk/",
+          "explain": "correct — \"ask someone not to do something\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I think he ______ better not encourage the students to take extra lessons.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "will",
+          "ipa": "/wɪl/",
+          "explain": "doesn't fit the fixed phrase \"had better\""
+        },
+        {
+          "word": "should",
+          "ipa": "/ʃʊd/",
+          "explain": "doesn't fit the fixed phrase \"had better\""
+        },
+        {
+          "word": "could",
+          "ipa": "/kʊd/",
+          "explain": "doesn't fit the fixed phrase \"had better\""
+        },
+        {
+          "word": "had",
+          "ipa": "/hæd/",
+          "explain": "correct — \"had better\" is the fixed idiom for advice"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Everybody in both cars ______ injured in the accident last night.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong tense — the accident was in the past"
+        },
+        {
+          "word": "are",
+          "ipa": "/ɑːr/",
+          "explain": "wrong agreement and tense — \"everybody\" is singular"
+        },
+        {
+          "word": "was",
+          "ipa": "/wəz/",
+          "explain": "correct — \"everybody\" takes a singular verb, past tense for \"last night\""
+        },
+        {
+          "word": "were",
+          "ipa": "/wər/",
+          "explain": "wrong agreement — \"everybody\" is grammatically singular"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>______ to have lunch with us today?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Do you like",
+          "ipa": "/duː juː laɪk/",
+          "explain": "wrong form — \"do you like\" asks about general preference, not a specific invitation"
+        },
+        {
+          "word": "Would you like",
+          "ipa": "/wʊd juː laɪk/",
+          "explain": "correct — polite invitation structure"
+        },
+        {
+          "word": "Will you like",
+          "ipa": "/wɪl juː laɪk/",
+          "explain": "not a standard invitation structure"
+        },
+        {
+          "word": "Have you like",
+          "ipa": "/hæv juː laɪk/",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Let's go out for a walk, ______?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "do we",
+          "ipa": "/duː wi/",
+          "explain": "wrong tag form for \"let's\""
+        },
+        {
+          "word": "don't we",
+          "ipa": "/doʊnt wi/",
+          "explain": "wrong tag form for \"let's\""
+        },
+        {
+          "word": "won't we",
+          "ipa": "/woʊnt wi/",
+          "explain": "wrong tag form for \"let's\""
+        },
+        {
+          "word": "shall we",
+          "ipa": "/ʃæl wi/",
+          "explain": "correct — \"shall we\" is the standard tag for a \"let's\" suggestion"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Drinking and smoking will do great harm ______ people's health.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "correct — \"do harm to\" is the fixed collocation"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>He always ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "avoids to meet me",
+          "ipa": "",
+          "explain": "\"avoid\" doesn't take a to-infinitive"
+        },
+        {
+          "word": "avoiding to meet me",
+          "ipa": "",
+          "explain": "not a finite verb form"
+        },
+        {
+          "word": "avoids meeting me",
+          "ipa": "",
+          "explain": "correct — \"avoid\" + gerund"
+        },
+        {
+          "word": "to avoid meeting me",
+          "ipa": "",
+          "explain": "not a finite verb form after \"always\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>My parents are going to take three days ______ next month to help my brother move his house.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "correct — \"take days off\" is the fixed collocation for time away from work"
+        },
+        {
+          "word": "out",
+          "ipa": "/aʊt/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>In my class, Trung was responsible ______ the teacher ______ keeping the class in order while she went out.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to/ for",
+          "ipa": "/tuː fɔːr/",
+          "explain": "correct — \"responsible to someone for something\""
+        },
+        {
+          "word": "to/ in",
+          "ipa": "/tuː ɪn/",
+          "explain": "wrong second preposition"
+        },
+        {
+          "word": "with/ for",
+          "ipa": "/wɪð fɔːr/",
+          "explain": "wrong first preposition"
+        },
+        {
+          "word": "for/ for",
+          "ipa": "/fɔːr fɔːr/",
+          "explain": "wrong first preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>The scheme allows students from many countries to communicate ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "with other",
+          "ipa": "/wɪð ˈʌðər/",
+          "explain": "incomplete phrase"
+        },
+        {
+          "word": "themselves",
+          "ipa": "/ðəmˈselvz/",
+          "explain": "wrong meaning — implies talking to oneself"
+        },
+        {
+          "word": "each other",
+          "ipa": "/iːtʃ ˈʌðər/",
+          "explain": "grammatically fine, but \"with one another\" is the more standard choice for 3+ people/countries"
+        },
+        {
+          "word": "with one another",
+          "ipa": "/wɪð wʌn əˈnʌðər/",
+          "explain": "correct — \"one another\" for interaction among many (multiple countries)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Have you ever read anything ______ Earnest Hemingway?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "correct — \"by\" + author's name for authorship"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "wrong preposition for authorship"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition for authorship"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Not a good movie, ______?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "did it",
+          "ipa": "/dɪd ɪt/",
+          "explain": "wrong auxiliary tense"
+        },
+        {
+          "word": "didn't it",
+          "ipa": "/ˈdɪdənt ɪt/",
+          "explain": "wrong polarity — needs a positive tag after this negative statement"
+        },
+        {
+          "word": "was it",
+          "ipa": "/wəz ɪt/",
+          "explain": "correct — positive tag matching the implicit \"it was not\""
+        },
+        {
+          "word": "wasn't it",
+          "ipa": "/ˈwʌzənt ɪt/",
+          "explain": "wrong polarity"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Hurry up! They have only got ______ seats left.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "a lot of",
+          "ipa": "/ə lɒt ʌv/",
+          "explain": "wrong meaning — contradicts \"hurry up\""
+        },
+        {
+          "word": "a few",
+          "ipa": "/ə fjuː/",
+          "explain": "correct — \"a few\" with a countable plural noun, fitting the urgency"
+        },
+        {
+          "word": "a little",
+          "ipa": "/ə ˈlɪtəl/",
+          "explain": "wrong — \"a little\" pairs with uncountable nouns, not \"seats\""
+        },
+        {
+          "word": "plenty of",
+          "ipa": "/ˈplenti ʌv/",
+          "explain": "wrong meaning — contradicts \"hurry up\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake in each sentence. Find it.</span>Would <u>you</u> mind if I <u>help</u> her <u>solve</u> these <u>mathematics problems</u>?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "you",
+          "explain": "correct as written"
+        },
+        {
+          "word": "help",
+          "explain": "incorrect — should be “helped” — the odd one out"
+        },
+        {
+          "word": "solve",
+          "explain": "correct as written"
+        },
+        {
+          "word": "mathematics problems",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake in each sentence. Find it.</span>Christmas songs <u>are performed</u> for <u>people</u> in towns and <u>villages</u> <u>eight hundred years ago</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "are performed",
+          "explain": "incorrect — should be “were performed” — the odd one out"
+        },
+        {
+          "word": "people",
+          "explain": "correct as written"
+        },
+        {
+          "word": "villages",
+          "explain": "correct as written"
+        },
+        {
+          "word": "eight hundred years ago",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake in each sentence. Find it.</span><u>Do</u> you remember <u>to try</u> this <u>kind of</u> food <u>somewhere else</u> before?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Do",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to try",
+          "explain": "incorrect — should be “trying” — the odd one out"
+        },
+        {
+          "word": "kind of",
+          "explain": "correct as written"
+        },
+        {
+          "word": "somewhere else",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake in each sentence. Find it.</span>The police <u>have</u> not <u>found</u> the <u>stealing jewels</u> <u>since</u> last Monday.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "have",
+          "explain": "correct as written"
+        },
+        {
+          "word": "found",
+          "explain": "correct as written"
+        },
+        {
+          "word": "stealing jewels",
+          "explain": "incorrect — should be “stolen jewels” — the odd one out"
+        },
+        {
+          "word": "since",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake in each sentence. Find it.</span>There was no <u>explaination</u> <u>for</u> his <u>absence</u> <u>from</u> class yesterday.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "explaination",
+          "explain": "incorrect — should be “explanation” — the odd one out"
+        },
+        {
+          "word": "for",
+          "explain": "correct as written"
+        },
+        {
+          "word": "absence",
+          "explain": "correct as written"
+        },
+        {
+          "word": "from",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>When Mary (arrive) ______ here, you (show) her to her room? (arrive)",
+      "answer": "arrives"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>When Mary arrives here, you (show) ______ her to her room? (show)",
+      "answer": "will ... show"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>The last time she (see) ______ in public she was wearing a white blouse. (see)",
+      "answer": "was seen"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>The last time she was seen in public she (wear) ______ a white blouse. (wear)",
+      "answer": "was wearing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>I (search) ______ everywhere for the pen I lost yesterday. (search)",
+      "answer": "have searched"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>I have searched everywhere for the pen I (lose) ______ yesterday. (lose)",
+      "answer": "lost"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>He (have) ______ a bad fall while he was repairing his roof. (have)",
+      "answer": "had"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>He had a bad fall while he (repair) ______ his roof. (repair)",
+      "answer": "was repairing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>Nam (sit) ______ in a corner with a book. (sit)",
+      "answer": "was sitting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct tense or form of the verb given in brackets.</span>I told him that he (read) ______ in very bad light. (read)",
+      "answer": "was reading"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence by filling in the blank with the correct form of the word in brackets.</span>The evening was ______ spent playing cards and talking. (ENJOY)",
+      "answer": "enjoyably"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence by filling in the blank with the correct form of the word in brackets.</span>These shoes look quite smart but they're terribly ______. (COMFORT)",
+      "answer": "uncomfortable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence by filling in the blank with the correct form of the word in brackets.</span>I don't want my money back. He wants a ______. (PLACE)",
+      "answer": "replacement"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence by filling in the blank with the correct form of the word in brackets.</span>Sorry about the mistakes, I ______ the instructions you gave me. (UNDERSTAND)",
+      "answer": "misunderstood"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence by filling in the blank with the correct form of the word in brackets.</span>Ba and I played for our school team. We were ______. (TEAM)",
+      "answer": "teammates"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and mark the letter A, B, C or D to indicate the correct answer.</span><span class=\"passage-block\">Many people continue to skip breakfast despite its being the most important meal of the day.<br><br>Busy people often rush out the door in the mornings without giving their bodies the <i>fuel</i> they need to handle a long day at work. They end up feeling tired by the afternoon and resort to the office snack machine or biscuit tin.<br><br>Loysa Hourigan, from Nutrition Australia, said that catching up on food at lunch time did not provide the body with enough sustenance to keep it going for the rest of the day. “Even if you have had lunch, you won't have as much food as you need. Your brain gets depleted of glucose and you feel tired,” Ms Hourigan said. According to Ms Hourigan, wholegrain bread and cereals provide endurance. Milk, eggs and baked beans provide protein, which helps people to stay alert. Rolled oats are also an excellent endurance food.</span><span class=\"cue-line\">According to the passage, people should ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "have breakfast",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "skip lunch",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "not eat snacks",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "not have breakfast",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and mark the letter A, B, C or D to indicate the correct answer.</span><span class=\"passage-block\">Many people continue to skip breakfast despite its being the most important meal of the day.<br><br>Busy people often rush out the door in the mornings without giving their bodies the <i>fuel</i> they need to handle a long day at work. They end up feeling tired by the afternoon and resort to the office snack machine or biscuit tin.<br><br>Loysa Hourigan, from Nutrition Australia, said that catching up on food at lunch time did not provide the body with enough sustenance to keep it going for the rest of the day. “Even if you have had lunch, you won't have as much food as you need. Your brain gets depleted of glucose and you feel tired,” Ms Hourigan said. According to Ms Hourigan, wholegrain bread and cereals provide endurance. Milk, eggs and baked beans provide protein, which helps people to stay alert. Rolled oats are also an excellent endurance food.</span><span class=\"cue-line\">The word \"fuel\" in line 2 means ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "food",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "meal",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "nutrition",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "energy",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and mark the letter A, B, C or D to indicate the correct answer.</span><span class=\"passage-block\">Many people continue to skip breakfast despite its being the most important meal of the day.<br><br>Busy people often rush out the door in the mornings without giving their bodies the <i>fuel</i> they need to handle a long day at work. They end up feeling tired by the afternoon and resort to the office snack machine or biscuit tin.<br><br>Loysa Hourigan, from Nutrition Australia, said that catching up on food at lunch time did not provide the body with enough sustenance to keep it going for the rest of the day. “Even if you have had lunch, you won't have as much food as you need. Your brain gets depleted of glucose and you feel tired,” Ms Hourigan said. According to Ms Hourigan, wholegrain bread and cereals provide endurance. Milk, eggs and baked beans provide protein, which helps people to stay alert. Rolled oats are also an excellent endurance food.</span><span class=\"cue-line\">Ms Hourigan said that if we did not have breakfast, we would feel tired because ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "our brain ran out of glucose",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "our brain was full of glucose",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "there was no oxygen in our brain",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "we did not have lunch",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and mark the letter A, B, C or D to indicate the correct answer.</span><span class=\"passage-block\">Many people continue to skip breakfast despite its being the most important meal of the day.<br><br>Busy people often rush out the door in the mornings without giving their bodies the <i>fuel</i> they need to handle a long day at work. They end up feeling tired by the afternoon and resort to the office snack machine or biscuit tin.<br><br>Loysa Hourigan, from Nutrition Australia, said that catching up on food at lunch time did not provide the body with enough sustenance to keep it going for the rest of the day. “Even if you have had lunch, you won't have as much food as you need. Your brain gets depleted of glucose and you feel tired,” Ms Hourigan said. According to Ms Hourigan, wholegrain bread and cereals provide endurance. Milk, eggs and baked beans provide protein, which helps people to stay alert. Rolled oats are also an excellent endurance food.</span><span class=\"cue-line\">According to Ms Hourigan, which of the following is NOT mentioned as endurance foods?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "rolled oats",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "cereals",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "wholegrain bread",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "bananas",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and mark the letter A, B, C or D to indicate the correct answer.</span><span class=\"passage-block\">Many people continue to skip breakfast despite its being the most important meal of the day.<br><br>Busy people often rush out the door in the mornings without giving their bodies the <i>fuel</i> they need to handle a long day at work. They end up feeling tired by the afternoon and resort to the office snack machine or biscuit tin.<br><br>Loysa Hourigan, from Nutrition Australia, said that catching up on food at lunch time did not provide the body with enough sustenance to keep it going for the rest of the day. “Even if you have had lunch, you won't have as much food as you need. Your brain gets depleted of glucose and you feel tired,” Ms Hourigan said. According to Ms Hourigan, wholegrain bread and cereals provide endurance. Milk, eggs and baked beans provide protein, which helps people to stay alert. Rolled oats are also an excellent endurance food.</span><span class=\"cue-line\">Loysa Hourigan might work as ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "a teacher",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a nutritionist",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "a writer",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a business woman",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there <mark>______ (1)</mark> I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "while",
+          "ipa": "/waɪl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "since",
+          "ipa": "/sɪns/",
+          "explain": "\"since I was a little girl\" — point in time"
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, <mark>______ (2)</mark> the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "\"in the spring of 2012\" — season + year"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and <mark>______ (3)</mark> much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "spent",
+          "ipa": "/spent/",
+          "explain": "\"spent much of that time\" — fixed collocation"
+        },
+        {
+          "word": "took",
+          "ipa": "/tʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "did",
+          "ipa": "/dɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "used",
+          "ipa": "/juːzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even <mark>______ (4)</mark> a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "did",
+          "ipa": "/dɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "got",
+          "ipa": "/gɒt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "spent",
+          "ipa": "/spent/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "\"made a side trip\" — fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful <mark>______ (5)</mark> the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "then",
+          "ipa": "/ðen/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "as",
+          "ipa": "/æz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "than",
+          "ipa": "/ðæn/",
+          "explain": "\"more beautiful than the last\" — comparative"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most <mark>______ (6)</mark>. The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "explain": "\"the most interesting\" — superlative adjective"
+        },
+        {
+          "word": "interested",
+          "ipa": "/ˈɪntrəstɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "interest",
+          "ipa": "/ˈɪntrəst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "interestingly",
+          "ipa": "/ˈɪntrəstɪŋli/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, <mark>______ (7)</mark>, get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "at first",
+          "ipa": "/æt fɜːrst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "at all",
+          "ipa": "/æt ɔːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "at least",
+          "ipa": "/æt liːst/",
+          "explain": "\"at least\" softens the claim despite \"just a glimpse\""
+        },
+        {
+          "word": "at that",
+          "ipa": "/æt ðæt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the <mark>______ (8)</mark> famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "more",
+          "ipa": "/mɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "much",
+          "ipa": "/mʌtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "most",
+          "ipa": "/moʊst/",
+          "explain": "\"most famous places\" — superlative"
+        },
+        {
+          "word": "many",
+          "ipa": "/ˈmeni/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After <mark>______ (9)</mark> days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will ______ (10) you to sites that can fill you in.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "few",
+          "ipa": "/fjuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "some",
+          "ipa": "/sʌm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "a couple",
+          "ipa": "/ə ˈkʌpəl/",
+          "explain": "\"a couple of days\" — fixed quantity expression"
+        },
+        {
+          "word": "little",
+          "ipa": "/ˈlɪtəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><b>Britain</b><br><br>Have you ever been to Britain? I've dreamed of going there ______ (1) I was a little girl and finally, ______ (2) the spring of 2012, it happened. I was there three weeks and ______ (3) much of that time soaking up the culture, history, and scenery of this incredible island. I visited several districts in England, Wales and Scotland and even ______ (4) a side trip to Ireland. Every place I went to seemed to be more interesting and more beautiful ______ (5) the last.<br><br>The tour I was with began in London. Of all the sights I saw there, the Tower of London was the most ______ (6). The Tower is a building complex of incredibly rich history.<br><br>Also on the Thames are the Houses of Parliament and, of course, the clock tower housing “Big Ben”. I saw so many landmarks I can hardly remember them all. Although it was just a glimpse of London I did, ______ (7), get a chance to see all the ______ (8) famous places.<br><br>After ______ (9) days in London we traveled to the south of England stopping to visit Stonehenge. If you don't know about Stonehenge there are a couple of links on my links page that will <mark>______ (10)</mark> you to sites that can fill you in.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "reach",
+          "ipa": "/riːtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "\"take you to sites\" — fits \"links...that will take you to\""
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "send",
+          "ipa": "/send/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary <mark>______ (1)</mark>, I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "school"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was <mark>______ (2)</mark>. I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "worse"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve <mark>______ (3)</mark>. I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "them"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about <mark>______ (4)</mark>. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "this"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher <mark>______ (5)</mark> English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait <mark>______ (6)</mark> her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to <mark>______ (7)</mark> my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "improve"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made <mark>______ (8)</mark> progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "much"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first <mark>______ (9)</mark> in the English Speaking Contest ______ (10) for secondary school students in my home town.",
+      "answer": "prize"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation was really bad and my English grammar was ______ (2). I did not know how to improve ______ (3). I didn't want my father and mother to know about ______ (4). One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took me to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (7) my English grammar. “Now I think you know what you should do” she said. I made ______ (8) progress and only one year later, I won the first ______ (9) in the English Speaking Contest <mark>______ (10)</mark> for secondary school students in my home town.",
+      "answer": "held"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">\"Do you remember what you have to do?\" the teacher asked her class.</span><span class=\"cue-line\">The teacher asked her class ......................</span>",
+      "answer": "The teacher asked her class if they remembered what they had to do."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Couldn't you find a better restaurant?</span><span class=\"cue-line\">Is this ......................?</span>",
+      "answer": "Is this the best restaurant you could find?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">John began playing chess half an hour ago.</span><span class=\"cue-line\">John's ......................</span>",
+      "answer": "John's played chess for half an hour."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">They won't be able to come on Sunday.</span><span class=\"cue-line\">It will ......................</span>",
+      "answer": "It will be impossible for them to come on Sunday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">I only paid a few hundred pounds for the car.</span><span class=\"cue-line\">The car ......................</span>",
+      "answer": "The car cost me only a few hundred pounds."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">My mother made these curtains, didn't she?</span><span class=\"cue-line\">These ......................?</span>",
+      "answer": "These curtains were made by your mother, weren't they?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Most people can understand him when he speaks English.</span><span class=\"cue-line\">He can make ......................</span>",
+      "answer": "He can make most people understand him when he speaks English."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">We arrived too late to see the first film.</span><span class=\"cue-line\">We did ......................</span>",
+      "answer": "We didn't arrive in time / early enough to see the first film."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Leave now or we will miss the train.</span><span class=\"cue-line\">Unless ......................</span>",
+      "answer": "Unless we leave now, we will miss the train."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence in such a way that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">This is his first visit to England.</span><span class=\"cue-line\">He's ......................</span>",
+      "answer": "He's visiting England for the first time."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">Our teachers/ always/ ask/ not/ make/ noise/ during/ lessons.</span>",
+      "answer": "Our teachers always ask us not to make noise during our lessons."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">We/ not think/ play/ write/ Shakespeare.</span>",
+      "answer": "We don't think (that) this play was written by Shakespeare."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">You / tell/ how/ do it/ as soon/ you/ get there.</span>",
+      "answer": "You will be told how to do it as soon as you get there."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">Nam/ say/ me/ if it/ rain/ that night/ he/ not go/ anywhere.</span>",
+      "answer": "Nam said to me that if it rained that night he would not go anywhere."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">it/ be/ necessary/ book tickets/ soccer match/ in advance?</span>",
+      "answer": "Is it necessary to book tickets for the soccer match in advance?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">When/ Peter/ be/ child/ Australia/ he/ go swimming/ almost every day.</span>",
+      "answer": "When Peter was a child in Australia, he went swimming almost every day."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">Mai/ find/ hard/ concentrate/ her book/ because/ noise.</span>",
+      "answer": "Mai found it hard to concentrate on her book because of the noise."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">My brother/ want/ buy/ laptop/ advertise/ television/ early this morning.</span>",
+      "answer": "My brother wanted to buy the laptop advertised on television early this morning."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">She/ not say/ thing/ order/ not make/ him/ angry.</span>",
+      "answer": "She did not say anything in order not to make him angry."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Make complete sentences from the following sets of words and phrases.</span><span class=\"cue-line\">boy/ talk/ your mother/ there/ be/ my classmate.</span>",
+      "answer": "The boy talking to your mother there is my classmate."
+    }
+  ]
+}

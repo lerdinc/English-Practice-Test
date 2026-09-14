@@ -1,0 +1,1746 @@
+{
+  "title": "English Practice Test No: 25",
+  "subtitle": "90 questions - Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>She looked very ______ when I told her the good news.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "happily",
+          "ipa": "/ˈhæpəli/",
+          "explain": "adverb, wrong word class after \"looked\" (a linking verb)"
+        },
+        {
+          "word": "happiness",
+          "ipa": "/ˈhæpinəs/",
+          "explain": "noun, wrong word class"
+        },
+        {
+          "word": "happy",
+          "ipa": "/ˈhæpi/",
+          "explain": "correct — adjective after the linking verb \"looked\""
+        },
+        {
+          "word": "was happy",
+          "ipa": "/wəz ˈhæpi/",
+          "explain": "would duplicate the verb \"looked\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>I don't want much sugar in my coffee. Just ______, please.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "few",
+          "ipa": "/fjuː/",
+          "explain": "pairs with countable nouns, not \"sugar\""
+        },
+        {
+          "word": "a few",
+          "ipa": "/ə fjuː/",
+          "explain": "pairs with countable nouns, not \"sugar\""
+        },
+        {
+          "word": "little",
+          "ipa": "/ˈlɪtəl/",
+          "explain": "means \"almost none\", which doesn't fit a polite request"
+        },
+        {
+          "word": "a little",
+          "ipa": "/ə ˈlɪtəl/",
+          "explain": "correct — \"a little\" (a small amount) fits an uncountable noun like sugar"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>He's left his book at home; he's always so ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "forgetful",
+          "ipa": "/fərˈgetfəl/",
+          "explain": "correct — describes a person's tendency to forget things"
+        },
+        {
+          "word": "forgettable",
+          "ipa": "/fərˈgetəbəl/",
+          "explain": "means \"easy to forget\", describing a thing, not a person's trait"
+        },
+        {
+          "word": "forgotten",
+          "ipa": "/fərˈgɒtən/",
+          "explain": "past participle, describes something that has been forgotten"
+        },
+        {
+          "word": "forgetting",
+          "ipa": "/fərˈgetɪŋ/",
+          "explain": "not a finite descriptive adjective here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>'I'm very ______ to you for putting in so much hard work,' the boss said.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "thanking",
+          "ipa": "/ˈθæŋkɪŋ/",
+          "explain": "not a standard adjective form"
+        },
+        {
+          "word": "grateful",
+          "ipa": "/ˈgreɪtfəl/",
+          "explain": "correct — \"grateful to someone for something\""
+        },
+        {
+          "word": "considerate",
+          "ipa": "/kənˈsɪdərət/",
+          "explain": "wrong meaning — describes thoughtfulness toward others"
+        },
+        {
+          "word": "careful",
+          "ipa": "/ˈkerfəl/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>Steel ______ with chromium to produce a noncorrosive substance known as stainless steel.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "is combined",
+          "ipa": "/ɪz kəmˈbaɪnd/",
+          "explain": "correct — passive voice for a general scientific process"
+        },
+        {
+          "word": "that is combined",
+          "ipa": "/ðæt ɪz kəmˈbaɪnd/",
+          "explain": "would need a different sentence structure with a clear main verb"
+        },
+        {
+          "word": "combining",
+          "ipa": "/kəmˈbaɪnɪŋ/",
+          "explain": "not a finite verb, leaves the sentence without a main verb"
+        },
+        {
+          "word": "when combined",
+          "ipa": "/wen kəmˈbaɪnd/",
+          "explain": "not a finite verb, leaves the sentence without a main verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>Joe seemed to be in a good mood, ______ he snapped at me angrily when I asked him to join us.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "yet",
+          "ipa": "/jet/",
+          "explain": "correct — shows contrast between seeming good-mooded and snapping angrily"
+        },
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "wrong meaning — implies a consequence, not a contrast"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong meaning — implies a reason, not a contrast"
+        },
+        {
+          "word": "and",
+          "ipa": "/ænd/",
+          "explain": "doesn't capture the contrast between the two clauses"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>A fire must have a readily available supply of oxygen. ______, it will stop burning.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Consequently",
+          "ipa": "/kənˈsekwəntli/",
+          "explain": "wrong logical connector — doesn't fit a conditional-like contrast"
+        },
+        {
+          "word": "Furthermore",
+          "ipa": "/ˈfɜːrðərmɔːr/",
+          "explain": "wrong — doesn't add a contrasting condition"
+        },
+        {
+          "word": "Otherwise",
+          "ipa": "/ˈʌðərwaɪz/",
+          "explain": "correct — \"otherwise\" introduces what happens if the condition (oxygen) isn't met"
+        },
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "doesn't capture the conditional \"if not\" meaning of \"otherwise\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>\"Who has brothers and sisters?\" \"Everyone ______ Virginia who's an only child.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "except to",
+          "ipa": "/ɪkˈsept tə/",
+          "explain": "\"except to\" isn't a standalone exclusion phrase this way"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong meaning — doesn't express exclusion"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "but",
+          "ipa": "/bʌt/",
+          "explain": "correct — \"but\" meaning \"except\" fits this exclusion"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>He is the manager of the factory. He's ______ it.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "charged with",
+          "ipa": "/tʃɑːrdʒd wɪð/",
+          "explain": "wrong preposition combination for this meaning"
+        },
+        {
+          "word": "charged",
+          "ipa": "/tʃɑːrdʒd/",
+          "explain": "incomplete — missing the necessary preposition"
+        },
+        {
+          "word": "in charge",
+          "ipa": "/ɪn tʃɑːrdʒ/",
+          "explain": "missing \"of\" before the object"
+        },
+        {
+          "word": "in charge of",
+          "ipa": "/ɪn tʃɑːrdʒ ʌv/",
+          "explain": "correct — \"be in charge of something\" is the fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>He was new on the job, but he quickly fit himself into the ______ routine of the office.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "establishing",
+          "ipa": "/ɪˈstæblɪʃɪŋ/",
+          "explain": "wrong form — not a standard adjective here"
+        },
+        {
+          "word": "established",
+          "ipa": "/ɪˈstæblɪʃt/",
+          "explain": "correct — past participle as adjective, meaning \"already set up\""
+        },
+        {
+          "word": "establishes",
+          "ipa": "/ɪˈstæblɪʃɪz/",
+          "explain": "verb form, wrong word class before a noun"
+        },
+        {
+          "word": "establish",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "explain": "bare verb, wrong word class before a noun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>Florida, ______ the Sunshine State, attracts many tourists every year.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "would create two main verbs without a connector"
+        },
+        {
+          "word": "is known as",
+          "ipa": "/ɪz noʊn æz/",
+          "explain": "would create two main verbs without a connector"
+        },
+        {
+          "word": "known as",
+          "ipa": "/noʊn æz/",
+          "explain": "correct — reduced non-restrictive clause (‘which is known as’)"
+        },
+        {
+          "word": "that is known as",
+          "ipa": "/ðæt ɪz noʊn æz/",
+          "explain": "a full relative clause here would need commas differently and creates awkward repetition of structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>______ becoming extinct is of great concern to zoologists.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "That giant pandas are",
+          "ipa": "",
+          "explain": "correct — a noun clause (‘that...are’) as the subject of ‘is of great concern’"
+        },
+        {
+          "word": "Giant pandas are",
+          "ipa": "",
+          "explain": "would leave two verbs (‘are’ and ‘is’) without a connector"
+        },
+        {
+          "word": "Are giant pandas",
+          "ipa": "",
+          "explain": "question word order doesn't fit as a sentence subject"
+        },
+        {
+          "word": "Giant panda is",
+          "ipa": "",
+          "explain": "singular — doesn't match ‘becoming extinct’ describing the group generally, and still leaves a double-verb issue"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>Her parents gave her everything she asked for. She's a completed ______ child.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "wounded",
+          "ipa": "/ˈwuːndɪd/",
+          "explain": "wrong meaning — refers to physical/emotional injury"
+        },
+        {
+          "word": "spoilt",
+          "ipa": "/spɔɪlt/",
+          "explain": "correct — describes a child given everything they want"
+        },
+        {
+          "word": "damaged",
+          "ipa": "/ˈdæmɪdʒd/",
+          "explain": "wrong meaning for describing an overindulged child"
+        },
+        {
+          "word": "destroyed",
+          "ipa": "/dɪˈstrɔɪd/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>______ my experience, very few people really understand the problem.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "To",
+          "ipa": "/tuː/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "In",
+          "ipa": "/ɪn/",
+          "explain": "correct — \"in my experience\" is the fixed phrase"
+        },
+        {
+          "word": "With",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "From",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer among four options.</span>When she died, she gave ______ all her money to a charity for cats.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "away",
+          "ipa": "/əˈweɪ/",
+          "explain": "correct — \"give away\" is the fixed phrasal verb for donating"
+        },
+        {
+          "word": "out",
+          "ipa": "/aʊt/",
+          "explain": "wrong phrasal verb for this meaning"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "not part of this phrasal verb"
+        },
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "not part of this phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>The increase in city crime is a global phenomenon. Some people say that a lot of crime in this country is because of ______ and the new people arriving from other countries bring different cultural values and attitudes to the law. (MIGRATE)",
+      "answer": "immigration"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>...the new people arriving from other countries bring different ______ values and attitudes to the law. (CULTURE)",
+      "answer": "cultural"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>I don't agree with this idea because the most common crimes are ______ produced and not imported from other countries. (LOCAL)",
+      "answer": "locally"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>______ is one of the biggest crimes in my city with bus shelters and shop windows being popular targets. (VANDAL)",
+      "answer": "Vandalism"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>Another popular crime is ______ parking fines, which is unlikely to be because of immigrants because most of them do not own cars. (PAY)",
+      "answer": "unpaid"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>The ______ point of view is that young local people feel angry when they can't get a job. (OPPOSE)",
+      "answer": "opposing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>...in order to ______ the change in their environment, they strike out at easy targets. (HAND)",
+      "answer": "handle"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>This would explain why bicycle ______ is more common than car crime these days. (THIEF)",
+      "answer": "theft"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>...especially in rich ______ where most cars are protected with electronic alarms. (NEIGHBORS)",
+      "answer": "neighborhoods"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word to fill in each blank.</span>Another reason, though, for so many bicycles getting stolen might be that the ______ is not very severe compared to car stealing. (PUNISH)",
+      "answer": "punishment"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with one suitable preposition.</span>Most American men earn ______ average about $110 a week.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with one suitable preposition.</span>He was walking through the park when a strange dog suddenly went ______ him.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with one suitable preposition.</span>My car is not worth much — ______ most $50.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with one suitable preposition.</span>I'd better not drink that milk, Joe. It's gone ______.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with one suitable preposition.</span>Clive was really cut ______ when he failed his proficiency exam.",
+      "answer": "up"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>The children forgot <u>picking</u> up the <u>note</u> from the office and <u>now</u> they <u>are</u> worried.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "picking",
+          "explain": "incorrect — should be “to pick” — the odd one out"
+        },
+        {
+          "word": "note",
+          "explain": "correct as written"
+        },
+        {
+          "word": "now",
+          "explain": "correct as written"
+        },
+        {
+          "word": "are",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>Helen <u>has</u> never met such <u>good</u> person <u>who</u> is ready <u>to</u> help others.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "has",
+          "explain": "correct as written"
+        },
+        {
+          "word": "good",
+          "explain": "incorrect — should be “a good” — the odd one out"
+        },
+        {
+          "word": "who",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>If only I <u>have done</u> the test <u>better</u> than <u>other</u> students <u>did</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "have done",
+          "explain": "correct as written (per the source key)"
+        },
+        {
+          "word": "better",
+          "explain": "correct as written"
+        },
+        {
+          "word": "other",
+          "explain": "correct as written"
+        },
+        {
+          "word": "did",
+          "explain": "incorrect — should be “had done” — to match the hypothetical structure in parallel — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>If <u>you</u> want to <u>borrow</u> my car, <u>promise</u> to drive <u>careful</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "you",
+          "explain": "correct as written"
+        },
+        {
+          "word": "borrow",
+          "explain": "correct as written"
+        },
+        {
+          "word": "promise",
+          "explain": "correct as written"
+        },
+        {
+          "word": "careful",
+          "explain": "incorrect — should be “carefully” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>Rumors <u>began</u> <u>circulating</u> that the Prime Minister <u>was</u> seriously <u>illness</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "began",
+          "explain": "correct as written"
+        },
+        {
+          "word": "circulating",
+          "explain": "correct as written"
+        },
+        {
+          "word": "was",
+          "explain": "correct as written"
+        },
+        {
+          "word": "illness",
+          "explain": "incorrect — should be “ill” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>Everybody in class <u>has</u> to choose a <u>topic</u> of <u>your own</u> to write an essay <u>of</u> 500 words.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "has",
+          "explain": "correct as written"
+        },
+        {
+          "word": "topic",
+          "explain": "correct as written"
+        },
+        {
+          "word": "your own",
+          "explain": "incorrect — should be “his/her own” — the odd one out"
+        },
+        {
+          "word": "of",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>Neither of the boys <u>had ever been</u> out of town <u>before</u>, so <u>they</u> were really <u>exciting</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "had ever been",
+          "explain": "correct as written"
+        },
+        {
+          "word": "before",
+          "explain": "correct as written"
+        },
+        {
+          "word": "they",
+          "explain": "correct as written"
+        },
+        {
+          "word": "exciting",
+          "explain": "incorrect — should be “excited” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>I hope <u>that</u> I <u>can</u> help you with the <u>with</u> questions.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "that",
+          "explain": "correct as written"
+        },
+        {
+          "word": "can",
+          "explain": "correct as written"
+        },
+        {
+          "word": "with",
+          "explain": "correct as written"
+        },
+        {
+          "word": "historic",
+          "explain": "incorrect — should be “historical” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>My son <u>learned</u> to <u>talk</u> the time before he <u>was</u> 5 <u>years old</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "learned",
+          "explain": "correct as written — simple past is standard here"
+        },
+        {
+          "word": "talk",
+          "explain": "incorrect — should be “tell” — “tell the time” (read a clock) is the fixed collocation — the odd one out"
+        },
+        {
+          "word": "was",
+          "explain": "correct as written"
+        },
+        {
+          "word": "years old",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the error in each sentence.</span>Jim <u>offers</u> us <u>presents</u> as if <u>it</u> <u>had been</u> Xmas.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "offers",
+          "explain": "correct as written"
+        },
+        {
+          "word": "presents",
+          "explain": "correct as written"
+        },
+        {
+          "word": "it",
+          "explain": "correct as written"
+        },
+        {
+          "word": "had been",
+          "explain": "incorrect — should be “it were / was” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">According to the passage, cell phones are especially popular with young people because ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "they are indispensable in everyday communication",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "they make them look more stylish",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "they keep the users alert all the time",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "they cannot be replaced by regular phones",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">The changes possibly caused by cell phones are mainly concerned with ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "the mobility of the mind and the body",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the smallest units of brain",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "the arteries of the brain",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the resident memory",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">The word \"means\" in the passage most closely means ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "meanings",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "expression",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "method",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "transmission",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">The word \"potentially\" in the passage most closely means ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "obviously",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "possibly",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "certainly",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "privately",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">\"Negative publicity\" in the passage most likely means ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "information on the lethal effects of cell phones",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "widespread opinion about bad effects of cell phones",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "the negative public use of cell phones",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "poor ideas about the effects of cell phones",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">Doctors have tentatively concluded that cell phones may ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "damage their users' emotions",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "cause some mental malfunction",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "change their users' temperament",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "change their users' social behavior",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">The man mentioned in the passage, who used his cell phone too often, ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "suffered serious loss of mental ability",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "could no longer think lucidly",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "abandoned his family",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "had a problem with memory",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">According to the passage, what makes mobile phones potentially harmful is ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "their radiant light",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "their power of attraction",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "their raiding power",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "their invisible rays",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">According to the writer, people should ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "only use mobile phones in urgent cases",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "only use mobile phones in medical emergencies",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "keep off mobile phones regularly",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "never use mobile phones in all cases",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the questions.</span><span class=\"passage-block\">Millions of people are using cell phones today. In many places, it is actually considered unusual not to use one. In many countries, cell phones are very popular with young people. They find that the phones are a <i>means</i> of communication — having a mobile phone shows that they are cool and connected.<br><br>The explosion in mobile phone use around the world has made some health professionals worried. Some doctors are concerned that in the future many people may suffer health problems from the use of mobile phones. In England, there has been a serious debate about this issue. Mobile phone companies are worried about the <i>negative publicity</i> of such ideas. They say that there is no proof that mobile phones are bad for your health.<br><br>On the other hand, medical studies have shown changes in the brain cells of some people who use mobile phones. Signs of change in the tissues of the brain and head can be detected with modern scanning equipment. In one case, a traveling salesman had to retire at a young age because of serious memory loss. He couldn't remember even simple tasks. He would often forget the name of his own son. This man used to talk on his mobile phone for about six hours a day, every day of his working week, for a couple of years. His family doctor blamed his mobile phone use, but his employer's doctor didn't agree.<br><br>What is it that makes mobile phones <i>potentially</i> harmful? The answer is radiation. High-tech machines can detect very small amounts of radiation from mobile phones. Mobile phone companies agree that there is some radiation, but they say the amount is too small to worry about.<br><br>As the discussion about their safety continues, it appears that it's best to use mobile phones less often. Use your regular phone if you want to talk for a long time. Use your mobile phone only when you really need it. Mobile phones can be very useful and convenient, especially in emergencies. In the future, mobile phones may have a warning label that says they are bad for your health. So for now, it's wise not to use your mobile phone too often.</span><span class=\"cue-line\">The most suitable title for the passage could be ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "\"The reasons why mobile phones are regular\"",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "\"Technological Innovation and their price\"",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "\"The way mobile phones work\"",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "\"Mobile phones — a must of our time\"",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to <mark>______ (1)</mark> for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "stare",
+          "ipa": "/ster/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "watch",
+          "ipa": "/wɒtʃ/",
+          "explain": "\"watch for the postman's arrival\""
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "peer",
+          "ipa": "/pɪr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always <mark>______ (2)</mark> to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "glad",
+          "ipa": "/glæd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pleased",
+          "ipa": "/pliːzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "eager",
+          "ipa": "/ˈiːgər/",
+          "explain": "\"eager to seize\" — fits the child's excitement"
+        },
+        {
+          "word": "excited",
+          "ipa": "/ɪkˈsaɪtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post <mark>______ (3)</mark> on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "came",
+          "ipa": "/keɪm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "was",
+          "ipa": "/wəz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lay",
+          "ipa": "/leɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "arrived",
+          "ipa": "/əˈraɪvd/",
+          "explain": "\"the post arrived on the doormat\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to <mark>______ (4)</mark>. There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "investigate",
+          "ipa": "/ɪnˈvestɪgeɪt/",
+          "explain": "\"went to investigate\" — fits a child's curiosity"
+        },
+        {
+          "word": "observe",
+          "ipa": "/əbˈzɜːrv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "see",
+          "ipa": "/siː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "notice",
+          "ipa": "/ˈnoʊtɪs/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the <mark>______ (5)</mark> age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "junior",
+          "ipa": "/ˈdʒuːnjər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "tender",
+          "ipa": "/ˈtendər/",
+          "explain": "\"tender age of five\" — fixed phrase for a young age"
+        },
+        {
+          "word": "small",
+          "ipa": "/smɔːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "little",
+          "ipa": "/ˈlɪtəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes <mark>______ (6)</mark> me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "struck",
+          "ipa": "/strʌk/",
+          "explain": "\"struck me as fair\" — fixed phrase meaning \"seemed to me\""
+        },
+        {
+          "word": "seemed",
+          "ipa": "/siːmd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "appeared",
+          "ipa": "/əˈpɪrd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "felt",
+          "ipa": "/felt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as <mark>______ (7)</mark> to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "nearby",
+          "ipa": "/ˈnɪrbaɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "close",
+          "ipa": "/kloʊs/",
+          "explain": "\"as close to the stamps as possible\""
+        },
+        {
+          "word": "next",
+          "ipa": "/nekst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "round",
+          "ipa": "/raʊnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as <mark>______ (8)</mark>, feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "able",
+          "ipa": "/ˈeɪbəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "possibly",
+          "ipa": "/ˈpɒsəbli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "possible",
+          "ipa": "/ˈpɒsəbəl/",
+          "explain": "\"as close...as possible\" — completing the fixed comparative structure"
+        },
+        {
+          "word": "could",
+          "ipa": "/kʊd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with <mark>______ (9)</mark>.<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "gentleness",
+          "ipa": "/ˈdʒentəlnəs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "caution",
+          "ipa": "/ˈkɔːʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "honor",
+          "ipa": "/ˈɒnər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "respect",
+          "ipa": "/rɪˈspekt/",
+          "explain": "\"treated with respect\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any <mark>______ (10)</mark> in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "trouble",
+          "ipa": "/ˈtrʌbəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "wrong",
+          "ipa": "/rɒŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "bad",
+          "ipa": "/bæd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "harm",
+          "ipa": "/hɑːrm/",
+          "explain": "\"any harm in it\" — fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me <mark>______ (11)</mark> the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "tear",
+          "ipa": "/ter/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut",
+          "ipa": "/kʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "remove",
+          "ipa": "/rɪˈmuːv/",
+          "explain": "\"let me remove the corners\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, <mark>______ (12)</mark> in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "having",
+          "ipa": "/ˈhævɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "holding",
+          "ipa": "/ˈhoʊldɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "bearing",
+          "ipa": "/ˈberɪŋ/",
+          "explain": "\"bearing in mind that\" — fixed phrase"
+        },
+        {
+          "word": "keeping",
+          "ipa": "/ˈkiːpɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be <mark>______ (13)</mark>? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "consulted",
+          "ipa": "/kənˈsʌltɪd/",
+          "explain": "\"to be consulted\" — asked for their opinion"
+        },
+        {
+          "word": "advised",
+          "ipa": "/ədˈvaɪzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "queried",
+          "ipa": "/ˈkwɪrid/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "requested",
+          "ipa": "/rɪˈkwestɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br><mark>______ (14)</mark>, though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to ______ (15) what I'd done.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "After",
+          "ipa": "/ˈæftər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Then",
+          "ipa": "/ðen/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Later",
+          "ipa": "/ˈleɪtər/",
+          "explain": "\"Later, though, my father...\" — shift in time"
+        },
+        {
+          "word": "Soon",
+          "ipa": "/suːn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing A, B, C or D to fill in each blank.</span><b>Stamp Collecting</b><br><br>Stamp collecting! What a wonderful hobby! I began when I was only five. I used to ______ (1) for the postman's arrival, always ______ (2) to seize unwanted envelopes and tear off the corner with the stamp stuck on it.<br><br>Once — I remember it too clearly — my mother and father were sunning themselves in the garden when the post ______ (3) on the doormat. I heard the clatter of the letter flap and hurriedly went to ______ (4). There were four or five envelopes, all with very exciting stamps.<br><br>Even at the ______ (5) age of five I knew one doesn't open mail addressed to other people. However, tearing just the corners off the envelopes ______ (6) me as perfectly fair and allowable, and just what I did. I carefully tore as ______ (7) to the stamps as ______ (8), feeling that even the envelopes, which were addressed to my parents and not to me, should be treated with ______ (9).<br><br>There was nothing furtive in what I did. I knew my parents would see what I'd done, and I didn't think there was any ______ (10) in it. They always let me ______ (11) the corners after they'd opened them. Why should I think there was any harm in doing it first, ______ (12) in mind that they weren't on hand to be ______ (13)? Wouldn't they rather be left to doze in their summer deckchairs?<br><br>______ (14), though, my father solemnly showed me his letters. They looked distinctly moth-eaten, with bites taken out of the corners and sides. I began to <mark>______ (15)</mark> what I'd done.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "accept",
+          "ipa": "/əkˈsept/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "realize",
+          "ipa": "/ˈriːəlaɪz/",
+          "explain": "\"began to realize what I'd done\""
+        },
+        {
+          "word": "admit",
+          "ipa": "/ədˈmɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "confess",
+          "ipa": "/kənˈfes/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and answer the questions that follow.</span><span class=\"passage-block\">Every drop of water in the ocean, even in the deepest parts, responds to the forces that create the tides. No other force that affects the sea is so strong. Compared with the tides, the waves created by the wind are surface movements felt no more than a hundred fathoms below the surface. The currents also seldom involve more than the upper several hundred fathoms despite their impressive sweep.<br><br>The tides are a response of the waters of the ocean to the pull of the Moon and the more distant Sun. In theory, there is a gravitational attraction between the water and even the outermost star of the universe. In reality, however, the pull of remote stars is so slight as to be obliterated by the control of the Moon and, to a lesser extent, the Sun. Just as the Moon rises later each day by fifty minutes, on the average, so, in most places, the time of high tide is correspondingly later each day. And as the Moon waxes and wanes in its monthly cycle, so the height of the tide varies. The tidal movements are strongest when the Moon is a sliver in the sky, and when it is full. These are the highest flood tides and the lowest ebb tides of the lunar month and are called the spring tides. At these times the Sun, Moon, and Earth are nearly in line and the pull of the two heavenly bodies is added together to bring the water high on the beaches, to send its surf upward against the sea cliffs, and to draw a high tide into the harbors. Twice each month, at the quarters of the Moon, when the Sun, Moon and Earth lie at the apexes of a triangular configuration and the pull of the Sun and Moon are opposed, the moderate tidal movements called neap tides occur. Then the difference between high and low water is less than at any other time during the month.</span><span class=\"cue-line\">What is the main point of the first paragraph?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "The waves created by ocean currents are very large.",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Despite the strength of the wind, it only moves surface water.",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Deep ocean water is seldom affected by forces that move water.",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "The tides are the most powerful force to affect the movement of ocean water.",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and answer the questions that follow.</span><span class=\"passage-block\">Every drop of water in the ocean, even in the deepest parts, responds to the forces that create the tides. No other force that affects the sea is so strong. Compared with the tides, the waves created by the wind are surface movements felt no more than a hundred fathoms below the surface. The currents also seldom involve more than the upper several hundred fathoms despite their impressive sweep.<br><br>The tides are a response of the waters of the ocean to the pull of the Moon and the more distant Sun. In theory, there is a gravitational attraction between the water and even the outermost star of the universe. In reality, however, the pull of remote stars is so slight as to be obliterated by the control of the Moon and, to a lesser extent, the Sun. Just as the Moon rises later each day by fifty minutes, on the average, so, in most places, the time of high tide is correspondingly later each day. And as the Moon waxes and wanes in its monthly cycle, so the height of the tide varies. The tidal movements are strongest when the Moon is a sliver in the sky, and when it is full. These are the highest flood tides and the lowest ebb tides of the lunar month and are called the spring tides. At these times the Sun, Moon, and Earth are nearly in line and the pull of the two heavenly bodies is added together to bring the water high on the beaches, to send its surf upward against the sea cliffs, and to draw a high tide into the harbors. Twice each month, at the quarters of the Moon, when the Sun, Moon and Earth lie at the apexes of a triangular configuration and the pull of the Sun and Moon are opposed, the moderate tidal movements called neap tides occur. Then the difference between high and low water is less than at any other time during the month.</span><span class=\"cue-line\">The words \"In reality\" in the passage is closest in meaning to ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "surprisingly",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "actually",
+          "explain": "correct"
+        },
+        {
+          "word": "characteristically",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "similarly",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and answer the questions that follow.</span><span class=\"passage-block\">Every drop of water in the ocean, even in the deepest parts, responds to the forces that create the tides. No other force that affects the sea is so strong. Compared with the tides, the waves created by the wind are surface movements felt no more than a hundred fathoms below the surface. The currents also seldom involve more than the upper several hundred fathoms despite their impressive sweep.<br><br>The tides are a response of the waters of the ocean to the pull of the Moon and the more distant Sun. In theory, there is a gravitational attraction between the water and even the outermost star of the universe. In reality, however, the pull of remote stars is so slight as to be obliterated by the control of the Moon and, to a lesser extent, the Sun. Just as the Moon rises later each day by fifty minutes, on the average, so, in most places, the time of high tide is correspondingly later each day. And as the Moon waxes and wanes in its monthly cycle, so the height of the tide varies. The tidal movements are strongest when the Moon is a sliver in the sky, and when it is full. These are the highest flood tides and the lowest ebb tides of the lunar month and are called the spring tides. At these times the Sun, Moon, and Earth are nearly in line and the pull of the two heavenly bodies is added together to bring the water high on the beaches, to send its surf upward against the sea cliffs, and to draw a high tide into the harbors. Twice each month, at the quarters of the Moon, when the Sun, Moon and Earth lie at the apexes of a triangular configuration and the pull of the Sun and Moon are opposed, the moderate tidal movements called neap tides occur. Then the difference between high and low water is less than at any other time during the month.</span><span class=\"cue-line\">It can be inferred from the passage that the most important factor in determining how much gravitational effect one object in space has on the tides is ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "size",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "distance",
+          "explain": "correct"
+        },
+        {
+          "word": "temperature",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "density",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and answer the questions that follow.</span><span class=\"passage-block\">Every drop of water in the ocean, even in the deepest parts, responds to the forces that create the tides. No other force that affects the sea is so strong. Compared with the tides, the waves created by the wind are surface movements felt no more than a hundred fathoms below the surface. The currents also seldom involve more than the upper several hundred fathoms despite their impressive sweep.<br><br>The tides are a response of the waters of the ocean to the pull of the Moon and the more distant Sun. In theory, there is a gravitational attraction between the water and even the outermost star of the universe. In reality, however, the pull of remote stars is so slight as to be obliterated by the control of the Moon and, to a lesser extent, the Sun. Just as the Moon rises later each day by fifty minutes, on the average, so, in most places, the time of high tide is correspondingly later each day. And as the Moon waxes and wanes in its monthly cycle, so the height of the tide varies. The tidal movements are strongest when the Moon is a sliver in the sky, and when it is full. These are the highest flood tides and the lowest ebb tides of the lunar month and are called the spring tides. At these times the Sun, Moon, and Earth are nearly in line and the pull of the two heavenly bodies is added together to bring the water high on the beaches, to send its surf upward against the sea cliffs, and to draw a high tide into the harbors. Twice each month, at the quarters of the Moon, when the Sun, Moon and Earth lie at the apexes of a triangular configuration and the pull of the Sun and Moon are opposed, the moderate tidal movements called neap tides occur. Then the difference between high and low water is less than at any other time during the month.</span><span class=\"cue-line\">The word \"configuration\" in the passage is closest in meaning to ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "unit",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "center",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "surface",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "arrangement",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and answer the questions that follow.</span><span class=\"passage-block\">Every drop of water in the ocean, even in the deepest parts, responds to the forces that create the tides. No other force that affects the sea is so strong. Compared with the tides, the waves created by the wind are surface movements felt no more than a hundred fathoms below the surface. The currents also seldom involve more than the upper several hundred fathoms despite their impressive sweep.<br><br>The tides are a response of the waters of the ocean to the pull of the Moon and the more distant Sun. In theory, there is a gravitational attraction between the water and even the outermost star of the universe. In reality, however, the pull of remote stars is so slight as to be obliterated by the control of the Moon and, to a lesser extent, the Sun. Just as the Moon rises later each day by fifty minutes, on the average, so, in most places, the time of high tide is correspondingly later each day. And as the Moon waxes and wanes in its monthly cycle, so the height of the tide varies. The tidal movements are strongest when the Moon is a sliver in the sky, and when it is full. These are the highest flood tides and the lowest ebb tides of the lunar month and are called the spring tides. At these times the Sun, Moon, and Earth are nearly in line and the pull of the two heavenly bodies is added together to bring the water high on the beaches, to send its surf upward against the sea cliffs, and to draw a high tide into the harbors. Twice each month, at the quarters of the Moon, when the Sun, Moon and Earth lie at the apexes of a triangular configuration and the pull of the Sun and Moon are opposed, the moderate tidal movements called neap tides occur. Then the difference between high and low water is less than at any other time during the month.</span><span class=\"cue-line\">Neap tides occur when ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "the Sun counteracts the Moon's gravitational attraction",
+          "explain": "correct"
+        },
+        {
+          "word": "the Moon is full",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "the Moon is farthest from the Sun",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "waves created by the wind combine with the Moon's gravitational attraction",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">We are afraid that the next train to Cardiff has been cancelled.</span><span class=\"cue-line\">We ...................... (REGRET)</span>",
+      "answer": "We regret to inform/to tell you/announce that the next train to Cardiff has been cancelled."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">'I was going to phone Sarah but I had too much homework to do,' said John.</span><span class=\"cue-line\">John said that ...................... (MEANT)</span>",
+      "answer": "John said that he had meant to phone Sarah but he'd had too much homework to do."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">Many people think that Gone with the Wind is one of the greatest films ever made.</span><span class=\"cue-line\">Gone with the Wind ...................... (BE)</span>",
+      "answer": "Gone with the Wind is considered/thought to be one of the greatest films ever made."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">If you hold your breath for a few seconds it might get rid of your hiccups.</span><span class=\"cue-line\">You might be able to get rid of your hiccups if you ...................... (HOLDING)</span>",
+      "answer": "You might be able to get rid of your hiccups if you try holding your breath for a few seconds."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">Anna didn't like it at all when one of her colleagues got the promotion instead of her.</span><span class=\"cue-line\">Anna ...................... (RESENTED)</span>",
+      "answer": "Anna resented one of her colleagues getting the promotion instead of her."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">I have a good relationship with my neighbors.</span><span class=\"cue-line\">My neighbors ...................... well together. (ON)</span>",
+      "answer": "My neighbors and I get on well together."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">It wasn't a good idea for me to spend all my money on beer and cigarettes, but I did.</span><span class=\"cue-line\">I wish ...................... my money on beer and cigarettes. (UP)</span>",
+      "answer": "I wish I hadn't used up my money on beer and cigarettes."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">The police left and then all the journalists arrived.</span><span class=\"cue-line\">The police ...................... all the journalists arrived. (ALREADY)</span>",
+      "answer": "The police had already left when/before all the journalists arrived."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">Although Sarah wasn't wearing a helmet, she wasn't injured in the accident.</span><span class=\"cue-line\">Sarah wasn't injured in the accident, ...................... a helmet. (OF)</span>",
+      "answer": "Sarah wasn't injured in the accident, in spite of not wearing a helmet."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the new sentences using the word given. Do not change the word given in any way.</span><span class=\"original-sentence\">She felt she had achieved a lot in life, despite her disadvantaged background.</span><span class=\"cue-line\">Despite her disadvantaged background, she felt ...................... about her life. (SENSE)</span>",
+      "answer": "Despite her disadvantaged background, she felt a sense of achievement about her life."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">Thank/ much/ French/ cookery book/ you/ give/ me.</span>",
+      "answer": "Thank you very much for the French cookery book you gave me."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">recipes/ look/ wonderful/, and/ I/ certainly/ enjoy/ use/ it.</span>",
+      "answer": "The recipes look wonderful, and I'll certainly enjoy using it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">I/ hope/ you/ and/ Auntie Susan/ have/ good/ Christmas.</span>",
+      "answer": "I hope you and Auntie Susan had a good Christmas."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">we/ stay/ at/ home/, but/ have/ couple/ day/ trips/ out/ nearby.</span>",
+      "answer": "We stayed at home, but had a couple of day trips out nearby."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">our/ local/ theatre/ put/ on/ production/ \"A Christmas Carol\"/, which/ fun.</span>",
+      "answer": "Our local theatre put on a production of \"A Christmas Carol\", which was fun."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">I/ go/ back/ University/ next/ week/, and/ this/ year/ I/have/ to/ study/ hard/ final/ exams.</span>",
+      "answer": "I am going back to University next week, and this year I'm going to have to study hard for the final exams."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">I/ really/ enjoy/ the/ course/ so/ far/, but/ I/ not/ sure/ what/ do/ once/ I/ get/degree.</span>",
+      "answer": "I've really enjoyed the course so far, but I'm not sure what to do once I get my degree."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">university/ arrange/ career/ interviews/, but/ I/ not/really/ have/clear/ idea/what/ I/ want/ do.</span>",
+      "answer": "The University arranges career interviews, but I don't really have a clear idea of what I want to do."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">hopefully/ it/ all/ become/ clearer/ during/ course/ the/ year.</span>",
+      "answer": "Hopefully it will all become clearer during the course of the year."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Write a complete letter using the given words/phrases as cues. You should change the form of words if necessary.</span><span class=\"passage-block\"><b>Dear Alex,</b></span><span class=\"cue-line\">Thank/ again/ lovely/ present/, and/ Happy/ New/ Year/</span>",
+      "answer": "Thank you again for the lovely present, and Happy New Year!"
+    }
+  ]
+}

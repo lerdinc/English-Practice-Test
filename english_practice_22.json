@@ -1,0 +1,1206 @@
+{
+  "title": "English Practice Test No: 22",
+  "subtitle": "90 questions · Pronunciation, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Select the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "study",
+          "underline": "s",
+          "ipa": "/ˈstʌdi/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "success",
+          "underline": "s",
+          "ipa": "/səkˈses/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "surprise",
+          "underline": "s",
+          "ipa": "/sərˈpraɪz/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "sugar",
+          "underline": "s",
+          "ipa": "/ˈʃʊgər/",
+          "explain": "\"s\" said as /ʃ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Select the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "bath",
+          "underline": "th",
+          "ipa": "/bæθ/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "father",
+          "underline": "th",
+          "ipa": "/ˈfɑːðər/",
+          "explain": "\"th\" said as /ð/ — the odd one out"
+        },
+        {
+          "word": "theater",
+          "underline": "th",
+          "ipa": "/ˈθiːətər/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "health",
+          "underline": "th",
+          "ipa": "/helθ/",
+          "explain": "\"th\" said as /θ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Select the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "unite",
+          "underline": "u",
+          "ipa": "/juˈnaɪt/",
+          "explain": "\"u\" said as /juː/"
+        },
+        {
+          "word": "underline",
+          "underline": "u",
+          "ipa": "/ˈʌndərlaɪn/",
+          "explain": "\"u\" said as /ʌ/ — the odd one out"
+        },
+        {
+          "word": "university",
+          "underline": "u",
+          "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+          "explain": "\"u\" said as /juː/"
+        },
+        {
+          "word": "uniform",
+          "underline": "u",
+          "ipa": "/ˈjuːnɪfɔːrm/",
+          "explain": "\"u\" said as /juː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Select the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "whole",
+          "underline": "wh",
+          "ipa": "/hoʊl/",
+          "explain": "\"wh\" said as /h/ (the \"w\" is silent) — the odd one out"
+        },
+        {
+          "word": "when",
+          "underline": "wh",
+          "ipa": "/wen/",
+          "explain": "\"wh\" said as /w/"
+        },
+        {
+          "word": "where",
+          "underline": "wh",
+          "ipa": "/wer/",
+          "explain": "\"wh\" said as /w/"
+        },
+        {
+          "word": "while",
+          "underline": "wh",
+          "ipa": "/waɪl/",
+          "explain": "\"wh\" said as /w/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Select the word whose bold and underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "socket",
+          "underline": "o",
+          "ipa": "/ˈsɒkɪt/",
+          "explain": "\"o\" said as /ɒ/ — the odd one out"
+        },
+        {
+          "word": "notice",
+          "underline": "o",
+          "ipa": "/ˈnoʊtɪs/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "enroll",
+          "underline": "o",
+          "ipa": "/ɪnˈroʊl/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "mobile",
+          "underline": "o",
+          "ipa": "/ˈmoʊbaɪl/",
+          "explain": "\"o\" said as /oʊ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>She went to market without ______ anything.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "buy",
+          "ipa": "/baɪ/",
+          "explain": "wrong form after \"without\""
+        },
+        {
+          "word": "to buy",
+          "ipa": "/tə baɪ/",
+          "explain": "wrong form — \"without\" is a preposition, needs a gerund"
+        },
+        {
+          "word": "bought",
+          "ipa": "/bɔːt/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "Buying",
+          "ipa": "/ˈbaɪɪŋ/",
+          "explain": "correct — \"without\" + gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>______ she plays the piano!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "How well",
+          "ipa": "/haʊ wel/",
+          "explain": "correct — \"how\" + adverb for an exclamation about a verb"
+        },
+        {
+          "word": "How good",
+          "ipa": "/haʊ gʊd/",
+          "explain": "wrong word class — needs an adverb, not adjective, to modify \"plays\""
+        },
+        {
+          "word": "What well",
+          "ipa": "/wʌt wel/",
+          "explain": "wrong exclamation word for an adverb"
+        },
+        {
+          "word": "What good",
+          "ipa": "/wʌt gʊd/",
+          "explain": "wrong structure — \"what\" pairs with a noun phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>The new shopping mall is quite ______ the present shopping area.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "different from",
+          "ipa": "/ˈdɪfərənt frʌm/",
+          "explain": "correct — \"different from\" is the fixed collocation"
+        },
+        {
+          "word": "the same",
+          "ipa": "/ðə seɪm/",
+          "explain": "needs \"as\", and doesn't fit \"quite\" as naturally"
+        },
+        {
+          "word": "like to",
+          "ipa": "/laɪk tə/",
+          "explain": "not a standard comparison structure"
+        },
+        {
+          "word": "similar",
+          "ipa": "/ˈsɪmələr/",
+          "explain": "needs \"to\" to complete the comparison"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>There were ______ flowers that I couldn't decide what to buy.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "so many",
+          "ipa": "/soʊ ˈmeni/",
+          "explain": "correct — \"so many\" + countable plural noun + \"that\" clause"
+        },
+        {
+          "word": "so few",
+          "ipa": "/soʊ fjuː/",
+          "explain": "wrong meaning — contradicts having trouble choosing among many"
+        },
+        {
+          "word": "so little",
+          "ipa": "/soʊ ˈlɪtəl/",
+          "explain": "\"little\" pairs with uncountable nouns, not \"flowers\""
+        },
+        {
+          "word": "so much",
+          "ipa": "/soʊ mʌtʃ/",
+          "explain": "\"much\" pairs with uncountable nouns, not \"flowers\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Of my parents, my father is ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "the stricter",
+          "ipa": "/ðə ˈstrɪktər/",
+          "explain": "comparing two people doesn't take \"the\" before the comparative here"
+        },
+        {
+          "word": "the strictest",
+          "ipa": "/ðə ˈstrɪktɪst/",
+          "explain": "superlative is for 3+ people; only two parents are compared"
+        },
+        {
+          "word": "strict",
+          "ipa": "/strɪkt/",
+          "explain": "plain adjective doesn't show comparison"
+        },
+        {
+          "word": "stricter",
+          "ipa": "/ˈstrɪktər/",
+          "explain": "correct — comparative for comparing two people"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Would you ______ cleaning the floor for me?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "explain": "wrong form — \"would you like\" takes a to-infinitive, not gerund"
+        },
+        {
+          "word": "please",
+          "ipa": "/pliːz/",
+          "explain": "doesn't fit this question structure"
+        },
+        {
+          "word": "mind",
+          "ipa": "/maɪnd/",
+          "explain": "correct — \"would you mind\" + gerund, a polite request"
+        },
+        {
+          "word": "rather",
+          "ipa": "/ˈræðər/",
+          "explain": "doesn't fit this question structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>I've never seen such an interesting ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "performing",
+          "ipa": "/pərˈfɔːrmɪŋ/",
+          "explain": "not a noun form fitting \"an interesting ___\""
+        },
+        {
+          "word": "performer",
+          "ipa": "/pərˈfɔːrmər/",
+          "explain": "refers to a person, less fitting than the show/event itself"
+        },
+        {
+          "word": "performance",
+          "ipa": "/pərˈfɔːrməns/",
+          "explain": "correct — noun for the event/show itself"
+        },
+        {
+          "word": "performed",
+          "ipa": "/pərˈfɔːrmd/",
+          "explain": "past participle, wrong word class after \"an interesting\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>I'm sorry. I'm not ______ to help you lift the table.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "enough strong",
+          "ipa": "/ɪˈnʌf strɒŋ/",
+          "explain": "wrong word order — \"enough\" follows the adjective"
+        },
+        {
+          "word": "too strong",
+          "ipa": "/tuː strɒŋ/",
+          "explain": "wrong meaning — \"too\" would suggest an excess, not a lack"
+        },
+        {
+          "word": "strong enough",
+          "ipa": "/strɒŋ ɪˈnʌf/",
+          "explain": "correct — adjective + \"enough\" + to-infinitive"
+        },
+        {
+          "word": "enough strength",
+          "ipa": "/ɪˈnʌf strengθ/",
+          "explain": "wrong word class — \"strength\" is a noun, doesn't fit \"not ___ to help\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>I usually go to work by bus, but ______ and then I use my motorbike.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "again",
+          "ipa": "/əˈgen/",
+          "explain": "doesn't form the fixed expression with \"and then\""
+        },
+        {
+          "word": "Once",
+          "ipa": "/wʌns/",
+          "explain": "doesn't form the fixed expression with \"and then\""
+        },
+        {
+          "word": "now",
+          "ipa": "/naʊ/",
+          "explain": "correct — \"now and then\" is the fixed idiom meaning occasionally"
+        },
+        {
+          "word": "ever",
+          "ipa": "/ˈevər/",
+          "explain": "doesn't form the fixed expression with \"and then\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>There are not ______ jobs for all of us.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "\"so\" doesn't directly precede a plural noun like this"
+        },
+        {
+          "word": "such",
+          "ipa": "/sʌtʃ/",
+          "explain": "\"such\" would need \"such jobs\" without \"not... enough\" meaning"
+        },
+        {
+          "word": "too",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit — \"too jobs\" isn't grammatical"
+        },
+        {
+          "word": "Enough",
+          "ipa": "/ɪˈnʌf/",
+          "explain": "correct — \"not enough jobs\" expresses insufficient quantity"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>She isn't here ______ the moment.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>Warm clothes protect us ______ bad weather.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>What do you often do ______ weekends?",
+      "answer": "at / on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>We haven't seen him ______ last month.",
+      "answer": "since"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>He had an accident and was taken ______ hospital.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>We regarded him ______ a famous doctor.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>You're better ask ______ the information desk.",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>He borrowed $100 ______ his father.",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>\"Hamlet\" is written ______ Shakespeare.",
+      "answer": "by"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Complete the following sentences with the correct preposition.</span>Jane fell ______ her bike and hit her head on the road.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>Sugar is not an ______ food because we need it to live. (HEALTH)",
+      "answer": "healthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>The nurse wanted to know Nga's ______ and weight. (HIGH)",
+      "answer": "height"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>Mr. Hung has a very ______ tooth. (PAIN)",
+      "answer": "painful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>Last year Mr. Hoang drove very ______. (CARE)",
+      "answer": "carefully"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>This room is very ______. (COMFORT)",
+      "answer": "comfortable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>What is the correct ______ of this word? (PRONOUNCE)",
+      "answer": "pronunciation"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>More and more young people want a university ______. (EDUCATE)",
+      "answer": "education"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>When I go to the library, I sit and read about ______ things. (WONDER)",
+      "answer": "wonderful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>The most popular ______ at recess is talking. (ACT)",
+      "answer": "activity"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill the blank with the right form of the capitalized word provided.</span>A fairy appeared and ______ changed her old clothes. (MAGIC)",
+      "answer": "magically"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Will you wait a minute while I (look) ______ through the text?",
+      "answer": "am looking"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>\"I hear you've bought a new house.\" – \"Yes, I (move) ______ in next week.\"",
+      "answer": "am going to move"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Look at those black clouds. It (rain) ______.",
+      "answer": "is going to rain"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The film (begin) ______ at 7.30 or 8.00 this evening?",
+      "answer": "does ... begin"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mai (telephone) ______ you when she comes back.",
+      "answer": "will telephone"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The pens (produce) ______ by Thien Long Company are usually cheap and good.",
+      "answer": "produced"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>\"Do you mind if I sit here?\" – \"I'd rather you (sit) ______ over there.\"",
+      "answer": "sat"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The price (become) ______ more and more expensive these days.",
+      "answer": "is becoming"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mr Binh (know) ______ how to drive a car although he (not learn) ______ it yet. (know)",
+      "answer": "knows"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Mr Binh knows how to drive a car although he (not learn) ______ it yet. (not learn)",
+      "answer": "hasn't learned"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, <mark>______ (1)</mark> flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "\"although\" contrasts \"terrifying\" with flying's actual safety"
+        },
+        {
+          "word": "too",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "and",
+          "ipa": "/ænd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous <mark>______ (2)</mark> any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "than",
+          "ipa": "/ðæn/",
+          "explain": "\"no more dangerous than\" — comparative structure"
+        },
+        {
+          "word": "as",
+          "ipa": "/æz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "then",
+          "ipa": "/ðen/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur <mark>______ (3)</mark> taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "while",
+          "ipa": "/waɪl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "during",
+          "ipa": "/ˈdʊrɪŋ/",
+          "explain": "\"during taking off and landing\" — time period"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a <mark>______ (4)</mark> decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "leader's",
+          "ipa": "/ˈliːdərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "chief's",
+          "ipa": "/tʃiːfs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "driver's",
+          "ipa": "/ˈdraɪvərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pilot's",
+          "ipa": "/ˈpaɪləts/",
+          "explain": "\"a pilot's decisions\" fits the context of flying"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, <mark>______ (5)</mark> job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "whose",
+          "ipa": "/huːz/",
+          "explain": "\"whose job is to look after\" — possessive relative pronoun"
+        },
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "their",
+          "ipa": "/ðer/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look <mark>______ (6)</mark> the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "after",
+          "ipa": "/ˈæftər/",
+          "explain": "\"look after the passengers\" — phrasal verb"
+        },
+        {
+          "word": "round",
+          "ipa": "/raʊnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to <mark>______ (7)</mark> safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "feel",
+          "ipa": "/fiːl/",
+          "explain": "\"help passengers to feel safe\" — fits the caring tone"
+        },
+        {
+          "word": "rest",
+          "ipa": "/rest/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "experience",
+          "ipa": "/ɪkˈspɪriəns/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lie",
+          "ipa": "/laɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being <mark>______ (8)</mark> such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "given",
+          "ipa": "/ˈgɪvən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "kept",
+          "ipa": "/kept/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "shown",
+          "ipa": "/ʃoʊn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "taken",
+          "ipa": "/ˈteɪkən/",
+          "explain": "\"being taken such care of\" — passive of \"take care of\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. <mark>______ (9)</mark> other form of travel involves waiting for people in quite the same ______ (10), with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Any",
+          "ipa": "/ˈeni/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "No",
+          "ipa": "/noʊ/",
+          "explain": "\"no other form of travel\" — negation"
+        },
+        {
+          "word": "All",
+          "ipa": "/ɔːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Not",
+          "ipa": "/nɒt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Complete the following passage by choosing the best option.</span>For many people, traveling by plane is an exciting experience. Others, however, find the whole idea quite terrifying, ______ (1) flying is no more dangerous ______ (2) any other form of travel and some experts say it is considerably safer. It is known, however, that most accidents occur ______ (3) taking off and landing when a ______ (4) decisions are vitally important.<br><br>The people, ______ (5) job is to look ______ (6) the passengers, the stewards and stewardesses play an important part in helping passengers to ______ (7) safe and comfortable. Indeed for many passengers being ______ (8) such care of is all part of the total experience. ______ (9) other form of travel involves waiting for people in quite the same <mark>______ (10)</mark>, with food, drink, newspapers, magazines, music, and even video films.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "way",
+          "ipa": "/weɪ/",
+          "explain": "\"in quite the same way\" — fixed phrase"
+        },
+        {
+          "word": "kind",
+          "ipa": "/kaɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "sort",
+          "ipa": "/sɔːrt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "part",
+          "ipa": "/pɑːrt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I <mark>______ (1)</mark> a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used <mark>______ (2)</mark> go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was <mark>______ (3)</mark> beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "very"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. <mark>______ (4)</mark> I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "When"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew <mark>______ (5)</mark> the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "up"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and <mark>______ (6)</mark> seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "garden"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played <mark>______ (7)</mark> the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At <mark>______ (8)</mark> times, I looked ______ (9) books which were ______ (10) interesting than my children's book at home.",
+      "answer": "that"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked <mark>______ (9)</mark> books which were ______ (10) interesting than my children's book at home.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and complete each numbered blank with one suitable word.</span>When I ______ (1) a child I used ______ (2) go to see my grandmother. I thought her house was ______ (3) beautiful as a palace and the garden seemed bigger than a park. ______ (4) I grew ______ (5) the house and ______ (6) seemed smaller but I still loved visiting the old lady. There were so many beautiful things in the house. Sometimes, I played ______ (7) the doll's house which was older than grandmother herself. At ______ (8) times, I looked ______ (9) books which were <mark>______ (10)</mark> interesting than my children's book at home.",
+      "answer": "more"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Have you ever seen a painting <mark>of</mark> Picasso yet?",
+      "answer": "by"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>\"Do you think anyone saw us?\" she <mark>told</mark> nervously.",
+      "answer": "tells / said"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>The plays <mark>writing</mark> by Shakespeare are very popular in the world.",
+      "answer": "written"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>The employer said that he would give them a two-day trip to Phu Tho <mark>next week</mark>.",
+      "answer": "the following week"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>My sister is studying very hard in order to pass the exam and <mark>getting</mark> scholarship at university.",
+      "answer": "get"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">Peter spent three hours repainting his house.</span><span class=\"cue-line\">It ......................</span>",
+      "answer": "It took Peter 3 hours to repaint his house."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">Old car tires are recycled to make shoes and sandals.</span><span class=\"cue-line\">People ......................</span>",
+      "answer": "People recycle old car tires to make shoes and sandals."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">We arrived too late to see the film.</span><span class=\"cue-line\">We didn't ......................</span>",
+      "answer": "We didn't arrive early enough to see the film."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">\"Do you know how to speak English?\" He asked me.</span><span class=\"cue-line\">He asked me ......................</span>",
+      "answer": "He asked me if I knew how to speak English."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">The last time we met each other was ten years ago.</span><span class=\"cue-line\">We haven't ......................</span>",
+      "answer": "We haven't met each other for 10 years."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">It was such a boring film that she fell asleep.</span><span class=\"cue-line\">The film was so ......................</span>",
+      "answer": "The film was so boring that she fell asleep."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">The furniture was so expensive that I didn't buy it.</span><span class=\"cue-line\">The furniture was too ......................</span>",
+      "answer": "The furniture was too expensive for me to buy."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">He can touch the light because he is very tall.</span><span class=\"cue-line\">He is ......................</span>",
+      "answer": "He is tall enough to touch the light."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">It is such good weather that they are going for a picnic.</span><span class=\"cue-line\">The weather ......................</span>",
+      "answer": "The weather is so good that they are going for a picnic."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentence so that it has the same meaning as the first.</span><span class=\"original-sentence\">Somebody repaired his car yesterday.</span><span class=\"cue-line\">He had ......................</span>",
+      "answer": "He had his car repaired yesterday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">Last year / I / spend / week / My Son / and / I / not want / leave.</span>",
+      "answer": "Last year I spent a week in My Son and I didn't want to leave."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">He / said / be / most / intelligent / student / the class.</span>",
+      "answer": "He is said to be the most intelligent student in the class."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">It / interesting / have / vacation / abroad.</span>",
+      "answer": "It is interesting to have a vacation abroad."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">The waste paper / will / recycle / local factory?</span>",
+      "answer": "The waste paper will be recycled in the local factory."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">Hoa / burnt / hand / when / she / cooking / dinner.</span>",
+      "answer": "Hoa burnt her hand when she was cooking dinner."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">you / mind / I / turned on / television?</span>",
+      "answer": "Would you mind if I turned on the television?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">Old car tires / recycled / make / shoes / sandals / nowadays.</span>",
+      "answer": "Old car tires are recycled to make shoes and sandals nowadays."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">I / look / forward / see / you / soon.</span>",
+      "answer": "I am looking forward to seeing you soon."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">My daughter / dislike / travel / coach / so / we / will go / plane.</span>",
+      "answer": "My daughter dislikes traveling by coach, so we will go by plane."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the suggestions to make meaningful sentences.</span><span class=\"cue-line\">We / not see / her / since / we / be / holiday / Ha Long Bay.</span>",
+      "answer": "We haven't seen her since we were on holiday in Ha Long Bay."
+    }
+  ]
+}

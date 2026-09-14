@@ -1,0 +1,2040 @@
+{
+  "title": "English Practice Test No: 23",
+  "subtitle": "94 questions · Pronunciation, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "taste",
+          "underline": "as",
+          "ipa": "/teɪst/",
+          "explain": "\"as\" said as /eɪ/ — the odd one out"
+        },
+        {
+          "word": "fast",
+          "underline": "as",
+          "ipa": "/fæst/",
+          "explain": "\"as\" said as /æ/"
+        },
+        {
+          "word": "last",
+          "underline": "as",
+          "ipa": "/læst/",
+          "explain": "\"as\" said as /æ/"
+        },
+        {
+          "word": "task",
+          "underline": "as",
+          "ipa": "/tæsk/",
+          "explain": "\"as\" said as /æ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "watched",
+          "underline": "ed",
+          "ipa": "/wɒtʃt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "mixed",
+          "underline": "ed",
+          "ipa": "/mɪkst/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "earned",
+          "underline": "ed",
+          "ipa": "/ɜːrnd/",
+          "explain": "\"ed\" said as /d/ — the odd one out"
+        },
+        {
+          "word": "washed",
+          "underline": "ed",
+          "ipa": "/wɒʃt/",
+          "explain": "\"ed\" said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "hot",
+          "underline": "o",
+          "ipa": "/hɒt/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "both",
+          "underline": "o",
+          "ipa": "/boʊθ/",
+          "explain": "\"o\" said as /oʊ/ — the odd one out"
+        },
+        {
+          "word": "bottle",
+          "underline": "o",
+          "ipa": "/ˈbɒtəl/",
+          "explain": "\"o\" said as /ɒ/"
+        },
+        {
+          "word": "cotton",
+          "underline": "o",
+          "ipa": "/ˈkɒtən/",
+          "explain": "\"o\" said as /ɒ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word which has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "benches",
+          "underline": "es",
+          "ipa": "/ˈbentʃɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        },
+        {
+          "word": "boxes",
+          "underline": "es",
+          "ipa": "/ˈbɒksɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        },
+        {
+          "word": "watches",
+          "underline": "es",
+          "ipa": "/ˈwɒtʃɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        },
+        {
+          "word": "tables",
+          "underline": "es",
+          "ipa": "/ˈteɪbəlz/",
+          "explain": "\"s\" said as /z/, no extra syllable — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>______ these guidelines and enjoy the food you eat.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Go",
+          "ipa": "/goʊ/",
+          "explain": "doesn't fit with \"guidelines\" as an object"
+        },
+        {
+          "word": "Take",
+          "ipa": "/teɪk/",
+          "explain": "doesn't fit — you don't \"take\" guidelines this way"
+        },
+        {
+          "word": "Follow",
+          "ipa": "/ˈfɒloʊ/",
+          "explain": "correct — \"follow guidelines\" is the fixed collocation"
+        },
+        {
+          "word": "Do",
+          "ipa": "/duː/",
+          "explain": "doesn't fit with \"guidelines\" as an object"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>This apartment is ______ for us because it is rather cheap and near the city center.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "easy",
+          "ipa": "/ˈiːzi/",
+          "explain": "wrong word — doesn't describe an apartment's fit for tenants"
+        },
+        {
+          "word": "suitable",
+          "ipa": "/ˈsuːtəbəl/",
+          "explain": "correct — \"suitable for\" fits the reasons given (cheap, near center)"
+        },
+        {
+          "word": "best",
+          "ipa": "/best/",
+          "explain": "superlative doesn't fit \"is ___ for us\" without \"the\""
+        },
+        {
+          "word": "ready",
+          "ipa": "/ˈredi/",
+          "explain": "wrong meaning for describing a home's fit"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Mr Brown goes ______ work ______ bus every day.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to/ by",
+          "ipa": "/tuː baɪ/",
+          "explain": "correct — \"go to work\" + \"by bus\" (means of transport)"
+        },
+        {
+          "word": "to / in",
+          "ipa": "/tuː ɪn/",
+          "explain": "\"in bus\" isn't standard — should be \"by bus\""
+        },
+        {
+          "word": "for / by",
+          "ipa": "/fɔːr baɪ/",
+          "explain": "wrong first preposition — should be \"to work\""
+        },
+        {
+          "word": "for / in",
+          "ipa": "/fɔːr ɪn/",
+          "explain": "wrong on both prepositions"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>We may know the land well, but we know very ______ about the oceans.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "few",
+          "ipa": "/fjuː/",
+          "explain": "\"few\" pairs with countable nouns, not \"about the oceans\" this way"
+        },
+        {
+          "word": "a few",
+          "ipa": "/ə fjuː/",
+          "explain": "same issue — wrong for an uncountable sense of \"know\""
+        },
+        {
+          "word": "a little",
+          "ipa": "/ə ˈlɪtəl/",
+          "explain": "would suggest \"a small amount\", contradicting the contrast intended"
+        },
+        {
+          "word": "little",
+          "ipa": "/ˈlɪtəl/",
+          "explain": "correct — \"know little about\" means \"know almost nothing\", fitting the contrast with \"know the land well\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Do the following things ______ healthy teeth.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "to have",
+          "ipa": "/tə hæv/",
+          "explain": "correct — infinitive of purpose"
+        },
+        {
+          "word": "having",
+          "ipa": "/ˈhævɪŋ/",
+          "explain": "wrong form — doesn't express purpose this way"
+        },
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "wrong form after \"things\""
+        },
+        {
+          "word": "for having",
+          "ipa": "/fɔːr ˈhævɪŋ/",
+          "explain": "less natural than the plain infinitive of purpose here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Today Dien Bien Phu is a ______ destination.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "tour",
+          "ipa": "/tʊr/",
+          "explain": "noun, wrong word class before another noun this way"
+        },
+        {
+          "word": "touring",
+          "ipa": "/ˈtʊrɪŋ/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "tourist",
+          "ipa": "/ˈtʊrɪst/",
+          "explain": "correct — \"tourist destination\" is the fixed compound noun"
+        },
+        {
+          "word": "toured",
+          "ipa": "/tʊrd/",
+          "explain": "past participle, wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>There is always ______ traffic in the city center at rush hour.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "strong",
+          "ipa": "/strɒŋ/",
+          "explain": "wrong word — doesn't collocate with \"traffic\""
+        },
+        {
+          "word": "heavy",
+          "ipa": "/ˈhevi/",
+          "explain": "correct — \"heavy traffic\" is the fixed collocation"
+        },
+        {
+          "word": "full",
+          "ipa": "/fʊl/",
+          "explain": "wrong word — doesn't fit \"traffic\" as an uncountable noun this way"
+        },
+        {
+          "word": "many",
+          "ipa": "/ˈmeni/",
+          "explain": "\"many\" pairs with countable plural nouns, not \"traffic\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Excuse me. Can I make a(n) ______ to see the dentist?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "meeting",
+          "ipa": "/ˈmiːtɪŋ/",
+          "explain": "wrong word — not used for a scheduled visit like this"
+        },
+        {
+          "word": "experiment",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "gathering",
+          "ipa": "/ˈgæðərɪŋ/",
+          "explain": "wrong meaning — refers to a group event"
+        },
+        {
+          "word": "appointment",
+          "ipa": "/əˈpɔɪntmənt/",
+          "explain": "correct — \"make an appointment\" is the fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Keep fit and stay healthy. That's the best ______ to prevent a common cold.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "means",
+          "ipa": "/miːnz/",
+          "explain": "less natural collocation with \"best ___ to\" here"
+        },
+        {
+          "word": "way",
+          "ipa": "/weɪ/",
+          "explain": "correct — \"the best way to do something\""
+        },
+        {
+          "word": "thing",
+          "ipa": "/θɪŋ/",
+          "explain": "too vague, and grammatically wouldn't take \"to prevent\" as naturally"
+        },
+        {
+          "word": "road",
+          "ipa": "/roʊd/",
+          "explain": "wrong word — literal, not figurative, meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>______ I take you to the airport? – That would be nice, thanks.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Do",
+          "ipa": "/duː/",
+          "explain": "wrong auxiliary for a polite offer"
+        },
+        {
+          "word": "Would",
+          "ipa": "/wʊd/",
+          "explain": "would need \"like to\" to complete this form"
+        },
+        {
+          "word": "Shall",
+          "ipa": "/ʃæl/",
+          "explain": "correct — \"shall I...?\" is the standard polite-offer structure"
+        },
+        {
+          "word": "Take",
+          "ipa": "/teɪk/",
+          "explain": "not a valid question-starting auxiliary"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Some students just sit and ______ with friends at recess.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "talk",
+          "ipa": "/tɔːk/",
+          "explain": "correct — parallel verb with \"sit\" (\"sit and talk\")"
+        },
+        {
+          "word": "talking",
+          "ipa": "/ˈtɔːkɪŋ/",
+          "explain": "wrong form — not parallel with \"sit\""
+        },
+        {
+          "word": "to talk",
+          "ipa": "/tə tɔːk/",
+          "explain": "wrong form — not parallel with \"sit\""
+        },
+        {
+          "word": "for talking",
+          "ipa": "/fɔːr ˈtɔːkɪŋ/",
+          "explain": "wrong form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Tom is good at ______ models of things such as cars or planes.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "doing",
+          "ipa": "/ˈduːɪŋ/",
+          "explain": "less natural collocation than \"making\" for building models"
+        },
+        {
+          "word": "working",
+          "ipa": "/ˈwɜːrkɪŋ/",
+          "explain": "wrong verb for constructing models"
+        },
+        {
+          "word": "making",
+          "ipa": "/ˈmeɪkɪŋ/",
+          "explain": "correct — \"make models\" is the fixed collocation"
+        },
+        {
+          "word": "giving",
+          "ipa": "/ˈgɪvɪŋ/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Hospital volunteers wear striped pink and white ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "uniform",
+          "ipa": "/ˈjuːnɪfɔːrm/",
+          "explain": "correct — \"uniform\" used as an uncountable noun (British usage, like “wear school uniform”), no article needed"
+        },
+        {
+          "word": "suit",
+          "ipa": "/suːt/",
+          "explain": "wrong word — a suit isn't typically striped like this"
+        },
+        {
+          "word": "clothes",
+          "ipa": "/kloʊðz/",
+          "explain": "possible but less precise than \"uniform\" for a specific work outfit"
+        },
+        {
+          "word": "dresses",
+          "ipa": "/ˈdresɪz/",
+          "explain": "too specific — not all volunteers would wear dresses"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Teenagers like to listen to the ______ pop music.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "late",
+          "ipa": "/leɪt/",
+          "explain": "wrong word class — not a standard modifier for music this way"
+        },
+        {
+          "word": "later",
+          "ipa": "/ˈleɪtər/",
+          "explain": "wrong word class"
+        },
+        {
+          "word": "latest",
+          "ipa": "/ˈleɪtɪst/",
+          "explain": "correct — \"the latest pop music\" means the newest"
+        },
+        {
+          "word": "last",
+          "ipa": "/læst/",
+          "explain": "wrong meaning — means \"final\", not \"newest\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Thank you for the invitation. What time would you like ______?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "we come",
+          "ipa": "/wi kʌm/",
+          "explain": "missing \"to\" — not a valid infinitive structure"
+        },
+        {
+          "word": "we to come",
+          "ipa": "/wi tə kʌm/",
+          "explain": "wrong word order — \"would like\" takes an object before the infinitive"
+        },
+        {
+          "word": "that we come",
+          "ipa": "/ðæt wi kʌm/",
+          "explain": "wrong structure after \"would like\""
+        },
+        {
+          "word": "us to come",
+          "ipa": "/ʌs tə kʌm/",
+          "explain": "correct — \"would like + object + to-infinitive\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>A journalist ______ for a newspaper.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "sends",
+          "ipa": "/sendz/",
+          "explain": "wrong verb for a journalist's main activity"
+        },
+        {
+          "word": "posts",
+          "ipa": "/poʊsts/",
+          "explain": "wrong verb for this context"
+        },
+        {
+          "word": "types",
+          "ipa": "/taɪps/",
+          "explain": "too literal/mechanical, doesn't capture the journalist's role"
+        },
+        {
+          "word": "writes",
+          "ipa": "/raɪts/",
+          "explain": "correct — a journalist writes for a newspaper"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>I couldn't go to school. I ______ a bad cold.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "wrong tense — doesn't match the past tense \"couldn't go\""
+        },
+        {
+          "word": "had",
+          "ipa": "/hæd/",
+          "explain": "correct — simple past matching \"couldn't go\""
+        },
+        {
+          "word": "am having",
+          "ipa": "/æm ˈhævɪŋ/",
+          "explain": "wrong tense"
+        },
+        {
+          "word": "was having",
+          "ipa": "/wəz ˈhævɪŋ/",
+          "explain": "less natural than simple past for stating a reason like this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>______ the people in the area live in neighboring villages.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Most of",
+          "ipa": "/moʊst ʌv/",
+          "explain": "correct — \"most of the people\" is needed since \"the people\" already has a definite article"
+        },
+        {
+          "word": "Most",
+          "ipa": "/moʊst/",
+          "explain": "would need to be followed directly by a noun with no article — \"Most the people\" is ungrammatical"
+        },
+        {
+          "word": "Almost",
+          "ipa": "/ɔːlˈmoʊst/",
+          "explain": "wrong word class — \"almost\" needs \"all\" to modify a noun this way"
+        },
+        {
+          "word": "The most",
+          "ipa": "/ðə moʊst/",
+          "explain": "superlative form, wrong usage here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>The school library opens at any time between two o'clock ______ half past three.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "doesn't fit — \"from\" was already used earlier logically, not needed again here"
+        },
+        {
+          "word": "and",
+          "ipa": "/ænd/",
+          "explain": "correct — \"between X and Y\" is the fixed structure"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit the \"between...and\" structure"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "doesn't fit — duplicate option, same issue"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Would you please ______ me where the city post office is?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "tell",
+          "ipa": "/tel/",
+          "explain": "correct — \"tell someone where something is\""
+        },
+        {
+          "word": "say",
+          "ipa": "/seɪ/",
+          "explain": "wrong verb — \"say\" doesn't take an indirect object like \"me\" this way"
+        },
+        {
+          "word": "show",
+          "ipa": "/ʃoʊ/",
+          "explain": "would need a map/gesture, less fitting for a spoken direction request"
+        },
+        {
+          "word": "point",
+          "ipa": "/pɔɪnt/",
+          "explain": "would need \"point out\" or \"point to\", not fit standalone this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>A farm has ______ real vacations.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "none",
+          "ipa": "/nʌn/",
+          "explain": "would stand alone as a pronoun, not fit directly before a noun like this"
+        },
+        {
+          "word": "no",
+          "ipa": "/noʊ/",
+          "explain": "correct — \"no\" + noun for the fixed negative quantifier structure"
+        },
+        {
+          "word": "never",
+          "ipa": "/ˈnevər/",
+          "explain": "wrong word class — an adverb, doesn't fit before a noun this way"
+        },
+        {
+          "word": "nothing",
+          "ipa": "/ˈnʌθɪŋ/",
+          "explain": "wrong word — doesn't fit directly before a noun this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>What do we have ______ dinner? I'm really hungry.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "correct — \"have something for dinner\" is the fixed collocation"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>There ______ very few people in the shop.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "wrong agreement — \"few people\" is plural"
+        },
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "not a valid existential structure here"
+        },
+        {
+          "word": "being",
+          "ipa": "/ˈbiːɪŋ/",
+          "explain": "not a finite verb form"
+        },
+        {
+          "word": "are",
+          "ipa": "/ɑːr/",
+          "explain": "correct — plural existential \"there are\" for \"few people\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Try again. Don't give ______ hope.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "out",
+          "ipa": "/aʊt/",
+          "explain": "not part of this phrasal verb"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct — \"give up hope\" is the fixed phrasal verb"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "not part of this phrasal verb"
+        },
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "not part of this phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>We ______ poor when we ______ to America 5 years ago.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "are / move",
+          "ipa": "/ɑːr muːv/",
+          "explain": "wrong tense for both verbs — doesn't match \"5 years ago\""
+        },
+        {
+          "word": "were / moved",
+          "ipa": "/wər muːvd/",
+          "explain": "correct — simple past for both, matching \"5 years ago\""
+        },
+        {
+          "word": "are / moved",
+          "ipa": "/ɑːr muːvd/",
+          "explain": "first verb wrong tense"
+        },
+        {
+          "word": "were / move",
+          "ipa": "/wər muːv/",
+          "explain": "second verb wrong tense"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Liz liked ______ the dolphin and the color of the cap.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "either",
+          "ipa": "/ˈiːðər/",
+          "explain": "wrong meaning — \"either\" suggests a choice between two, not liking both"
+        },
+        {
+          "word": "neither",
+          "ipa": "/ˈniːðər/",
+          "explain": "wrong meaning — implies disliking both"
+        },
+        {
+          "word": "both",
+          "ipa": "/boʊθ/",
+          "explain": "correct — \"liked both X and Y\" means liking two things together"
+        },
+        {
+          "word": "none",
+          "ipa": "/nʌn/",
+          "explain": "wrong meaning — implies liking neither"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>My father never drinks beer. He ______ like it.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "doesn't",
+          "ipa": "/ˈdʌzənt/",
+          "explain": "correct — present simple negative matching \"never drinks\""
+        },
+        {
+          "word": "don't",
+          "ipa": "/doʊnt/",
+          "explain": "wrong subject-verb agreement for \"he\""
+        },
+        {
+          "word": "didn't",
+          "ipa": "/ˈdɪdənt/",
+          "explain": "wrong tense — doesn't match the present habitual \"never drinks\""
+        },
+        {
+          "word": "can't",
+          "ipa": "/kænt/",
+          "explain": "wrong meaning — changes from dislike to inability"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>In today's newspaper there ______ a lot of news about the earthquake.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "has",
+          "ipa": "/hæz/",
+          "explain": "not a valid existential structure with \"there\""
+        },
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "not a valid existential structure with \"there\""
+        },
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "correct — \"news\" is uncountable, takes a singular verb"
+        },
+        {
+          "word": "are",
+          "ipa": "/ɑːr/",
+          "explain": "wrong agreement — \"news\" is grammatically singular"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>When I was a child, I always ______ a bike to school.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "drove",
+          "ipa": "/droʊv/",
+          "explain": "wrong verb — used for cars, not bikes"
+        },
+        {
+          "word": "rode",
+          "ipa": "/roʊd/",
+          "explain": "correct — \"ride a bike\" is the fixed collocation"
+        },
+        {
+          "word": "ran",
+          "ipa": "/ræn/",
+          "explain": "wrong verb — doesn't fit \"a bike\" as an object"
+        },
+        {
+          "word": "took",
+          "ipa": "/tʊk/",
+          "explain": "possible but less precise than \"rode\" for a bike specifically"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>I don't like tests. Neither ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "I do",
+          "ipa": "/aɪ duː/",
+          "explain": "wrong word order for \"neither\" inversion"
+        },
+        {
+          "word": "I don't",
+          "ipa": "/aɪ doʊnt/",
+          "explain": "wrong — \"neither\" already carries the negative, and needs inversion"
+        },
+        {
+          "word": "I like",
+          "ipa": "/aɪ laɪk/",
+          "explain": "wrong form — needs an auxiliary and inversion"
+        },
+        {
+          "word": "do I",
+          "ipa": "/duː aɪ/",
+          "explain": "correct — \"neither\" + inverted auxiliary + subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>I'd like to make a ______ to 1256734, please.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "ring",
+          "ipa": "/rɪŋ/",
+          "explain": "wrong word — \"give a ring\" is the idiom, not \"make a ring\""
+        },
+        {
+          "word": "call",
+          "ipa": "/kɔːl/",
+          "explain": "correct — \"make a call\" is the fixed collocation"
+        },
+        {
+          "word": "phone",
+          "ipa": "/foʊn/",
+          "explain": "wrong word class — \"phone\" is usually the verb or device, not paired with \"make a\""
+        },
+        {
+          "word": "sound",
+          "ipa": "/saʊnd/",
+          "explain": "wrong word entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>______ will it last? – About two hours.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "When",
+          "ipa": "/wen/",
+          "explain": "wrong question word — doesn't fit an answer about duration"
+        },
+        {
+          "word": "How much",
+          "ipa": "/haʊ mʌtʃ/",
+          "explain": "wrong — pairs with uncountable quantities, not duration this way"
+        },
+        {
+          "word": "What",
+          "ipa": "/wʌt/",
+          "explain": "wrong question word for asking about duration"
+        },
+        {
+          "word": "How long",
+          "ipa": "/haʊ lɔːŋ/",
+          "explain": "correct — standard question for duration, matching \"about two hours\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Sorry, he isn't here. Can I ______ a message then?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "leave",
+          "ipa": "/liːv/",
+          "explain": "correct — \"leave a message\" is the fixed collocation"
+        },
+        {
+          "word": "let",
+          "ipa": "/let/",
+          "explain": "wrong verb entirely"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "wrong verb — doesn't collocate with \"message\" this way"
+        },
+        {
+          "word": "ask him",
+          "ipa": "/æsk hɪm/",
+          "explain": "contradicts the context — he isn't there to ask"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>My English is not very good. I want to ______ it often.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "keep",
+          "ipa": "/kiːp/",
+          "explain": "wrong verb for improving a skill"
+        },
+        {
+          "word": "work",
+          "ipa": "/wɜːrk/",
+          "explain": "would need \"on\" to fit — \"work on it\", not standalone"
+        },
+        {
+          "word": "practise",
+          "ipa": "/ˈpræktɪs/",
+          "explain": "correct — \"practise\" a language skill to improve it"
+        },
+        {
+          "word": "get",
+          "ipa": "/get/",
+          "explain": "wrong verb entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>Listen, who ______ the guitar in the next room, Alice?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "does play",
+          "ipa": "/dʌz pleɪ/",
+          "explain": "wrong form — doesn't fit \"listen\", which signals an ongoing action"
+        },
+        {
+          "word": "is playing",
+          "ipa": "/ɪz ˈpleɪɪŋ/",
+          "explain": "correct — present continuous for an action happening right now"
+        },
+        {
+          "word": "plays",
+          "ipa": "/pleɪz/",
+          "explain": "wrong tense — doesn't fit the immediate \"listen\" context"
+        },
+        {
+          "word": "are playing",
+          "ipa": "/ɑːr ˈpleɪɪŋ/",
+          "explain": "wrong agreement — \"who\" here refers to one person"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>The yard is very noisy ______ the bell rings.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "up to",
+          "ipa": "/ʌp tuː/",
+          "explain": "wrong — doesn't fit a full clause like \"the bell rings\""
+        },
+        {
+          "word": "into",
+          "ipa": "/ˈɪntuː/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "until",
+          "ipa": "/ənˈtɪl/",
+          "explain": "correct — \"noisy until the bell rings\" describes the duration of the noise"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>This CD player is very small. It is ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "portable",
+          "ipa": "/ˈpɔːrtəbəl/",
+          "explain": "correct — adjective describing something easy to carry"
+        },
+        {
+          "word": "porting",
+          "ipa": "/ˈpɔːrtɪŋ/",
+          "explain": "not a standard adjective form"
+        },
+        {
+          "word": "easy to port",
+          "ipa": "/ˈiːzi tə pɔːrt/",
+          "explain": "\"port\" isn't used this way for physical objects"
+        },
+        {
+          "word": "portably",
+          "ipa": "/ˈpɔːrtəbli/",
+          "explain": "adverb, wrong word class after \"is\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits the space in each sentence.</span>There is one channel that only ______ pop videos.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "performs",
+          "ipa": "/pərˈfɔːrmz/",
+          "explain": "wrong verb — channels don't \"perform\" videos"
+        },
+        {
+          "word": "displays",
+          "ipa": "/dɪˈspleɪz/",
+          "explain": "less natural than \"shows\" for broadcast content"
+        },
+        {
+          "word": "plays",
+          "ipa": "/pleɪz/",
+          "explain": "possible, but \"shows\" is the more standard term for TV channel content"
+        },
+        {
+          "word": "shows",
+          "ipa": "/ʃoʊz/",
+          "explain": "correct — \"a channel that shows videos\" is the natural collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which is closest in meaning to the original sentence.</span>Each football team has eleven players.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "It has eleven people in a football team.",
+          "explain": "changes the meaning"
+        },
+        {
+          "word": "Eleven people come to a football team.",
+          "explain": "changes the meaning"
+        },
+        {
+          "word": "There are eleven members in a football team.",
+          "explain": "correct — keeps the same meaning"
+        },
+        {
+          "word": "A football team gets eleven people.",
+          "explain": "changes the meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which is closest in meaning to the original sentence.</span>\"Police story\" is Nga's favorite program.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Nga likes \"Police story\" best.",
+          "explain": "correct — keeps the same meaning (source text says “May”, a likely typo for “Nga”)"
+        },
+        {
+          "word": "They are many programs on TV.",
+          "explain": "changes the meaning"
+        },
+        {
+          "word": "\"Police story\" is among other programs on TV.",
+          "explain": "doesn't capture that it's her favorite — just says it exists among others"
+        },
+        {
+          "word": "Nga likes all programs, except for \"Police story\".",
+          "explain": "changes the meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always <mark>______ (1)</mark> that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "complain",
+          "ipa": "/kəmˈpleɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "complaining",
+          "ipa": "/kəmˈpleɪnɪŋ/",
+          "explain": "\"parents are always complaining\" — present continuous"
+        },
+        {
+          "word": "complains",
+          "ipa": "/kəmˈpleɪnz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "complained",
+          "ipa": "/kəmˈpleɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time <mark>______ (2)</mark> TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to watch",
+          "ipa": "/tə wɒtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "watch",
+          "ipa": "/wɒtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "watching",
+          "ipa": "/ˈwɒtʃɪŋ/",
+          "explain": "\"spend time watching TV\" — gerund after \"spend time\""
+        },
+        {
+          "word": "watched",
+          "ipa": "/wɒtʃt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A <mark>______ (3)</mark> survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "recent",
+          "ipa": "/ˈriːsənt/",
+          "explain": "\"a recent survey\" — adjective before the noun"
+        },
+        {
+          "word": "recently",
+          "ipa": "/ˈriːsəntli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "late",
+          "ipa": "/leɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lately",
+          "ipa": "/ˈleɪtli/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities <mark>______ (4)</mark> that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "show",
+          "ipa": "/ʃoʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to show",
+          "ipa": "/tə ʃoʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "showing",
+          "ipa": "/ˈʃoʊɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "shows",
+          "ipa": "/ʃoʊz/",
+          "explain": "\"survey...shows\" — singular subject, present tense"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in <mark>______ (5)</mark> of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "back",
+          "ipa": "/bæk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "front",
+          "ipa": "/frʌnt/",
+          "explain": "\"in front of the television set\""
+        },
+        {
+          "word": "side",
+          "ipa": "/saɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "behind",
+          "ipa": "/bɪˈhaɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours <mark>______ (6)</mark>.<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "a day",
+          "ipa": "/ə deɪ/",
+          "explain": "\"over 3 hours a day\" (matching 23 hours a week ≈ 3+ hours/day)"
+        },
+        {
+          "word": "a week",
+          "ipa": "/ə wiːk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "a month",
+          "ipa": "/ə mʌnθ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "a year",
+          "ipa": "/ə jɪr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is <mark>______ (7)</mark> that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "surprise",
+          "ipa": "/sərˈpraɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "surprised",
+          "ipa": "/sərˈpraɪzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "surprising",
+          "ipa": "/sərˈpraɪzɪŋ/",
+          "explain": "\"it is surprising that\" — adjective describing the fact"
+        },
+        {
+          "word": "to surprise",
+          "ipa": "/tə sərˈpraɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. <mark>______ (8)</mark> to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Addition",
+          "ipa": "/əˈdɪʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Beside",
+          "ipa": "/bɪˈsaɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "According",
+          "ipa": "/əˈkɔːrdɪŋ/",
+          "explain": "\"According to the survey\" — fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also <mark>______ (9)</mark> some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered ______ (10) results in studying at school.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "having",
+          "ipa": "/ˈhævɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "has",
+          "ipa": "/hæz/",
+          "explain": "\"television also has some negative effects\" — singular subject \"television\""
+        },
+        {
+          "word": "had",
+          "ipa": "/hæd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each blank.</span>British parents are always ______ (1) that their children spend too much time ______ (2) TV and not enough time doing other activities like sports and reading. A ______ (3) survey of people's free time activities ______ (4) that young people spend about 23 hours a week in ______ (5) of the television set, that means over 3 hours ______ (6).<br><br>It is ______ (7) that the average adult watches even more: 28 hours a week. Every household in the county has a TV set and over half have two or more. ______ (8) to the survey people do not only watch sitting in their living room, they watch it in the kitchen and in bed as well.<br><br>We cannot deny that television also ______ (9) some negative effects especially on children, because many films shown on TV contain violence, crime and other bad things. Excessive watching of TV by children has lowered <mark>______ (10)</mark> results in studying at school.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Its",
+          "ipa": "/ɪts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "their",
+          "ipa": "/ðer/",
+          "explain": "\"lowered their results\" — possessive referring back to \"children\""
+        },
+        {
+          "word": "his",
+          "ipa": "/hɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "her",
+          "ipa": "/hər/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>I <u>had not</u> <u>to work</u> yesterday <u>because</u> it was my day <u>off.</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "had not",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to work",
+          "explain": "incorrect — should be “to have worked / to work → the whole modal phrase should read \"didn't have to work\"” — the odd one out"
+        },
+        {
+          "word": "because",
+          "explain": "correct as written"
+        },
+        {
+          "word": "off.",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>You must <u>try</u> <u>to make</u> these children <u>clean</u> their <u>tooth</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "try",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to make",
+          "explain": "correct as written"
+        },
+        {
+          "word": "clean",
+          "explain": "correct as written"
+        },
+        {
+          "word": "tooth",
+          "explain": "incorrect — should be “teeth” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span><u>There is</u> <u>many</u> furniture <u>made of</u> wood <u>in</u> the sitting room.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "There is",
+          "explain": "correct as written"
+        },
+        {
+          "word": "many",
+          "explain": "incorrect — should be “much” — the odd one out"
+        },
+        {
+          "word": "made of",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>Eric now <u>drives</u> his bike to school <u>instead</u> of <u>traveling</u> <u>by bus</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "drives",
+          "explain": "incorrect — should be “rides” — the odd one out"
+        },
+        {
+          "word": "instead",
+          "explain": "correct as written"
+        },
+        {
+          "word": "traveling",
+          "explain": "correct as written"
+        },
+        {
+          "word": "by bus",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>Life is <u>more</u> <u>comfortably</u> now and people enjoy <u>watching</u> TV at their <u>own</u> home.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "more",
+          "explain": "correct as written"
+        },
+        {
+          "word": "comfortably",
+          "explain": "incorrect — should be “comfortable” — the odd one out"
+        },
+        {
+          "word": "watching",
+          "explain": "correct as written"
+        },
+        {
+          "word": "own",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span><u>Look at</u> these two beautiful vases. <u>Which</u> one <u>do</u> you like <u>best</u>?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Look at",
+          "explain": "correct as written"
+        },
+        {
+          "word": "Which",
+          "explain": "correct as written"
+        },
+        {
+          "word": "do",
+          "explain": "correct as written"
+        },
+        {
+          "word": "best",
+          "explain": "incorrect — should be “better” — only two vases are being compared, so the comparative form is needed, not the superlative"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>Nowadays people <u>are living</u> <u>longer</u> so <u>they</u> are more <u>elderly</u> people.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "are living",
+          "explain": "correct as written"
+        },
+        {
+          "word": "longer",
+          "explain": "correct as written"
+        },
+        {
+          "word": "they",
+          "explain": "incorrect — should be “there” — the odd one out"
+        },
+        {
+          "word": "elderly",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span><u>What</u> <u>do</u> you usually do <u>at recess</u>? Do you play <u>some</u> games?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "What",
+          "explain": "correct as written"
+        },
+        {
+          "word": "do",
+          "explain": "correct as written"
+        },
+        {
+          "word": "at recess",
+          "explain": "correct as written"
+        },
+        {
+          "word": "some",
+          "explain": "incorrect — should be “any” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span>I <u>am</u> <u>terrible</u> sorry. I <u>didn't</u> mean to break your <u>windows</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "am",
+          "explain": "correct as written"
+        },
+        {
+          "word": "terrible",
+          "explain": "incorrect — should be “terribly” — the odd one out"
+        },
+        {
+          "word": "didn't",
+          "explain": "correct as written"
+        },
+        {
+          "word": "windows",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Find the wrong underlined part (A, B, C, or D) in each sentence.</span><u>On</u> the back <u>of</u> the school yard <u>there</u> <u>is</u> a big apple tree.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "On",
+          "explain": "incorrect — should be “At” — the odd one out"
+        },
+        {
+          "word": "of",
+          "explain": "correct as written"
+        },
+        {
+          "word": "there",
+          "explain": "correct as written"
+        },
+        {
+          "word": "is",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the <mark>______ (1)</mark> city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "capital"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the <mark>______ (2)</mark> is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "city"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the <mark>______ (3)</mark> arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "biggest"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with <mark>______ (4)</mark> and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "music"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting <mark>______ (5)</mark> on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "pictures"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of <mark>______ (6)</mark> come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "tourists"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by <mark>______ (7)</mark> musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "famous"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred <mark>______ (8)</mark> with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "performances"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite <mark>______ (9)</mark>, and it is usually easier to see your ______ (10) star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "cheap"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span><b>Visit the Edinburgh Festival</b><br><br>Every year, thousands of people come to Edinburgh, the ______ (1) city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the ______ (2) is filled with actors and artists from all over the world. They come to Edinburgh for the ______ (3) arts festival in Britain. During this time, the streets of the city are alive with ______ (4) and dance from early in the morning until late at night. You can even see artists painting ______ (5) on the streets!<br><br>Tens of thousands of ______ (6) come to the Festival to see new films and plays and to hear music played by ______ (7) musicians. This year, you can see over five hundred ______ (8) with actors from more than forty countries.<br><br>The tickets for these performances are quite ______ (9), and it is usually easier to see your <mark>______ (10)</mark> star in Edinburgh than it is in London. So come to Edinburgh next summer.",
+      "answer": "favorite"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>Television is one of the cheapest forms of ______. (ENTERTAIN)",
+      "answer": "entertainment"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>I think the most ______ idea is to go by train. (SENSE)",
+      "answer": "sensible"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>You must be careful when playing electronic games because they can be ______. (ADDICT)",
+      "answer": "addictive"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>Videos are also very useful in ______. (EDUCATE)",
+      "answer": "education"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>In ______ to that, my bike tires were flat. (ADD)",
+      "answer": "addition"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>Mr. Hung has a very ______ tooth. (PAIN)",
+      "answer": "painful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>Catching the common cold is ______ for everybody. (PLEASE)",
+      "answer": "unpleasant"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>Do you know a good ______ to decorate my house? (DECORATE)",
+      "answer": "decorator"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>In most countries, there are organizations especially for ______. (TEEN)",
+      "answer": "teenagers"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word given.</span>The ______ students often play soccer or basketball. (ENERGY)",
+      "answer": "energetic"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">He is a slower and more careful driver than I am.</span><span class=\"cue-line\">He drives ......................</span>",
+      "answer": "He drives more slowly and carefully than me."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">The trip lasted two weeks.</span><span class=\"cue-line\">It was ......................</span>",
+      "answer": "It was a two-week trip."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">Khanh is a fluent English speaker.</span><span class=\"cue-line\">Khanh speaks ......................</span>",
+      "answer": "Khanh speaks English fluently."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">There are over eight hundred stamps in Tam's collection.</span><span class=\"cue-line\">Tam's collection ......................</span>",
+      "answer": "Tam's collection has over eight hundred stamps."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">They prefer computer games to video games.</span><span class=\"cue-line\">They like ......................</span>",
+      "answer": "They like computer games better than video games."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">Thu often uses English to talk to Dave and Mary.</span><span class=\"cue-line\">Thu often ......................</span>",
+      "answer": "Thu often talks to Dave and Mary in English."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">Lan likes chicken most.</span><span class=\"cue-line\">Chicken is ......................</span>",
+      "answer": "Chicken is Lan's favorite food."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">Hoa doesn't like fish as much as beef.</span><span class=\"cue-line\">Hoa likes ......................</span>",
+      "answer": "Hoa likes beef more than fish."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">My cap had a picture of a buffalo on it.</span><span class=\"cue-line\">There ......................</span>",
+      "answer": "There was a picture of a buffalo on my cap."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences so that they mean almost the same as the ones printed before them.</span><span class=\"original-sentence\">Nam plays for his school badminton team.</span><span class=\"cue-line\">Nam is ......................</span>",
+      "answer": "Nam is a member of his school badminton team."
+    }
+  ]
+}

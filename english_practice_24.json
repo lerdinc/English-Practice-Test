@@ -1,0 +1,1308 @@
+{
+  "title": "English Practice Test No: 24",
+  "subtitle": "81 questions · Phonetics, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from that of the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "revive",
+          "underline": "i",
+          "ipa": "/rɪˈvaɪv/",
+          "explain": "\"i\" said as /aɪ/"
+        },
+        {
+          "word": "tight",
+          "underline": "i",
+          "ipa": "/taɪt/",
+          "explain": "\"i\" said as /aɪ/"
+        },
+        {
+          "word": "describe",
+          "underline": "i",
+          "ipa": "/dɪˈskraɪb/",
+          "explain": "\"i\" said as /aɪ/"
+        },
+        {
+          "word": "victim",
+          "underline": "i",
+          "ipa": "/ˈvɪktɪm/",
+          "explain": "\"i\" said as /ɪ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from that of the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "husband",
+          "underline": "u",
+          "ipa": "/ˈhʌzbənd/",
+          "explain": "\"u\" said as /ʌ/"
+        },
+        {
+          "word": "surrounding",
+          "underline": "u",
+          "ipa": "/səˈraʊndɪŋ/",
+          "explain": "\"u\" said as /ə/ — the odd one out"
+        },
+        {
+          "word": "rubbish",
+          "underline": "u",
+          "ipa": "/ˈrʌbɪʃ/",
+          "explain": "\"u\" said as /ʌ/"
+        },
+        {
+          "word": "plumber",
+          "underline": "u",
+          "ipa": "/ˈplʌmər/",
+          "explain": "\"u\" said as /ʌ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from that of the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "burned",
+          "underline": "ed",
+          "ipa": "/bɜːrnd/",
+          "explain": "\"ed\" said as /d/ — the odd one out"
+        },
+        {
+          "word": "stopped",
+          "underline": "ed",
+          "ipa": "/stɒpt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "asked",
+          "underline": "ed",
+          "ipa": "/æskt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "promised",
+          "underline": "ed",
+          "ipa": "/ˈprɒmɪst/",
+          "explain": "\"ed\" said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from that of the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "seat",
+          "underline": "s",
+          "ipa": "/siːt/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "sugar",
+          "underline": "s",
+          "ipa": "/ˈʃʊgər/",
+          "explain": "\"s\" said as /ʃ/ — the odd one out"
+        },
+        {
+          "word": "sight",
+          "underline": "s",
+          "ipa": "/saɪt/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "sand",
+          "underline": "s",
+          "ipa": "/sænd/",
+          "explain": "\"s\" said as /s/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from that of the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "stamps",
+          "underline": "s",
+          "ipa": "/stæmps/",
+          "explain": "\"s\" said as /s/ — the odd one out"
+        },
+        {
+          "word": "trains",
+          "underline": "s",
+          "ipa": "/treɪnz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "hotels",
+          "underline": "s",
+          "ipa": "/hoʊˈtelz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "caves",
+          "underline": "s",
+          "ipa": "/keɪvz/",
+          "explain": "\"s\" said as /z/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "directory",
+          "ipa": "/dəˈrektəri/",
+          "explain": "di-REC-to-ry — stress on the 2nd syllable"
+        },
+        {
+          "word": "telephone",
+          "ipa": "/ˈtelɪfoʊn/",
+          "explain": "TEL-e-phone — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "invention",
+          "ipa": "/ɪnˈvenʃən/",
+          "explain": "in-VEN-tion — stress on the 2nd syllable"
+        },
+        {
+          "word": "experiment",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "explain": "ex-PER-i-ment — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "furniture",
+          "ipa": "/ˈfɜːrnɪtʃər/",
+          "explain": "FUR-ni-ture — stress on the 1st syllable"
+        },
+        {
+          "word": "university",
+          "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+          "explain": "u-ni-VER-si-ty — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "patient",
+          "ipa": "/ˈpeɪʃənt/",
+          "explain": "PA-tient — stress on the 1st syllable"
+        },
+        {
+          "word": "hospital",
+          "ipa": "/ˈhɒspɪtəl/",
+          "explain": "HOS-pi-tal — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "sociable",
+          "ipa": "/ˈsoʊʃəbəl/",
+          "explain": "SO-cia-ble — stress on the 1st syllable"
+        },
+        {
+          "word": "humorous",
+          "ipa": "/ˈhjuːmərəs/",
+          "explain": "HU-mor-ous — stress on the 1st syllable"
+        },
+        {
+          "word": "generous",
+          "ipa": "/ˈdʒenərəs/",
+          "explain": "GEN-er-ous — stress on the 1st syllable"
+        },
+        {
+          "word": "reserved",
+          "ipa": "/rɪˈzɜːrvd/",
+          "explain": "re-SERVED — stress on the 2nd syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "delivery",
+          "ipa": "/dɪˈlɪvəri/",
+          "explain": "de-LIV-er-y — stress on the 2nd syllable"
+        },
+        {
+          "word": "equipment",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "explain": "e-QUIP-ment — stress on the 2nd syllable"
+        },
+        {
+          "word": "electricity",
+          "ipa": "/ɪˌlekˈtrɪsəti/",
+          "explain": "e-lec-TRIC-i-ty — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "experiment",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "explain": "ex-PER-i-ment — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "enroll",
+          "ipa": "/ɪnˈroʊl/",
+          "explain": "en-ROLL — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "summer",
+          "ipa": "/ˈsʌmər/",
+          "explain": "SUM-mer — stress on the 1st syllable"
+        },
+        {
+          "word": "hobby",
+          "ipa": "/ˈhɒbi/",
+          "explain": "HOB-by — stress on the 1st syllable"
+        },
+        {
+          "word": "favor",
+          "ipa": "/ˈfeɪvər/",
+          "explain": "FA-vor — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>______ he is rich and famous, he lives in a modest house in the village.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "wrong meaning — doesn't show contrast"
+        },
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "can't join two clauses this way"
+        },
+        {
+          "word": "Therefore",
+          "ipa": "/ˈðerfɔːr/",
+          "explain": "wrong meaning — doesn't show contrast"
+        },
+        {
+          "word": "Although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "correct — shows contrast between being rich and living modestly"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Bill Gates is probably the best known and most successful ______ in computer software.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "pioneer",
+          "ipa": "/ˌpaɪəˈnɪr/",
+          "explain": "correct — someone who leads the way in a field"
+        },
+        {
+          "word": "volunteer",
+          "ipa": "/ˌvɒlənˈtɪr/",
+          "explain": "wrong meaning — unrelated to being a leader in an industry"
+        },
+        {
+          "word": "generator",
+          "ipa": "/ˈdʒenəreɪtər/",
+          "explain": "wrong meaning — refers to a machine or process"
+        },
+        {
+          "word": "inventor",
+          "ipa": "/ɪnˈventər/",
+          "explain": "possible, but \"pioneer\" better fits \"best known and most successful ___ in\" a whole field"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>If you are a student, you can get 20 percent ______ in this shop.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "discount",
+          "ipa": "/ˈdɪskaʊnt/",
+          "explain": "correct — \"get a discount\" is the fixed collocation"
+        },
+        {
+          "word": "effect",
+          "ipa": "/ɪˈfekt/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "selection",
+          "ipa": "/səˈlekʃən/",
+          "explain": "wrong meaning — doesn't fit a percentage"
+        },
+        {
+          "word": "resident",
+          "ipa": "/ˈrezɪdənt/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>The alarm clock didn't ______ so Uyen got up late.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "rang",
+          "ipa": "/ræŋ/",
+          "explain": "wrong form — not a bare infinitive"
+        },
+        {
+          "word": "go on",
+          "ipa": "/goʊ ɒn/",
+          "explain": "wrong phrasal verb for an alarm sounding"
+        },
+        {
+          "word": "go up",
+          "ipa": "/goʊ ʌp/",
+          "explain": "wrong phrasal verb — means to increase"
+        },
+        {
+          "word": "go off",
+          "ipa": "/goʊ ɔːf/",
+          "explain": "correct — \"go off\" is the fixed phrasal verb for an alarm sounding"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>On Sundays in England, most shops were closed and ______ the theaters and cinemas.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "so were",
+          "ipa": "/soʊ wər/",
+          "explain": "correct — \"so were the theaters\" agrees with the previous clause about being closed"
+        },
+        {
+          "word": "neither were",
+          "ipa": "/ˈniːðər wər/",
+          "explain": "wrong — \"neither\" would contradict the parallel meaning intended here"
+        },
+        {
+          "word": "were too",
+          "ipa": "/wər tuː/",
+          "explain": "wrong word order — doesn't fit this inverted agreement structure"
+        },
+        {
+          "word": "so weren't",
+          "ipa": "/soʊ ˈwɜːrənt/",
+          "explain": "wrong — double negative doesn't fit"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Could you do me a favor? – ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Yes, that's very kind of you",
+          "ipa": "",
+          "explain": "this response would fit accepting an offer, not agreeing to do a favor"
+        },
+        {
+          "word": "No problem",
+          "ipa": "",
+          "explain": "correct — a natural way to agree to help"
+        },
+        {
+          "word": "No, thank you",
+          "ipa": "",
+          "explain": "declines an offer, doesn't fit agreeing to a favor"
+        },
+        {
+          "word": "Yes, please",
+          "ipa": "",
+          "explain": "fits accepting an offer, not agreeing to help"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Horace went home and went to ______ bed to change the sheets.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "the",
+          "ipa": "/ðə/",
+          "explain": "correct — \"go to the bed\" (the physical furniture) fits \"to change the sheets\", unlike the idiom \"go to bed\" (to sleep)"
+        },
+        {
+          "word": "ø (no article)",
+          "ipa": "",
+          "explain": "\"go to bed\" (no article) means to sleep, which doesn't fit \"to change the sheets\""
+        },
+        {
+          "word": "a",
+          "ipa": "/ə/",
+          "explain": "less natural than \"the\" for referring to his own, specific bed"
+        },
+        {
+          "word": "a",
+          "ipa": "/ə/",
+          "explain": "duplicate option, same issue"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>How long ago ______ Mai?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "have you seen",
+          "ipa": "/hæv juː siːn/",
+          "explain": "wrong tense — \"how long ago\" pairs with simple past, not present perfect"
+        },
+        {
+          "word": "you saw",
+          "ipa": "/juː sɔː/",
+          "explain": "wrong word order — missing the auxiliary for a question"
+        },
+        {
+          "word": "would you see",
+          "ipa": "/wʊd juː siː/",
+          "explain": "wrong tense for a factual past question"
+        },
+        {
+          "word": "did you see",
+          "ipa": "/dɪd juː siː/",
+          "explain": "correct — simple past question with \"how long ago\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>Household and garden waste ______ collected ______ compost.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "is / to make",
+          "ipa": "/ɪz tə meɪk/",
+          "explain": "correct — \"waste\" is singular/uncountable, \"to make\" is the infinitive of purpose"
+        },
+        {
+          "word": "are/ to do",
+          "ipa": "/ɑːr tə duː/",
+          "explain": "wrong agreement and wrong verb (\"do compost\" isn't standard)"
+        },
+        {
+          "word": "is/ to do",
+          "ipa": "/ɪz tə duː/",
+          "explain": "wrong verb — \"do compost\" isn't standard; should be \"make compost\""
+        },
+        {
+          "word": "are/ to make",
+          "ipa": "/ɑːr tə meɪk/",
+          "explain": "wrong agreement — \"waste\" takes a singular verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option to complete the following sentences.</span>I don't mind ______ the phone as long as you pay for your calls.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "you used",
+          "ipa": "/juː juːzd/",
+          "explain": "wrong form after \"mind\""
+        },
+        {
+          "word": "you to use",
+          "ipa": "/juː tə juːz/",
+          "explain": "wrong form — \"mind\" doesn't take an object + to-infinitive"
+        },
+        {
+          "word": "your to using",
+          "ipa": "/jɔːr tə ˈjuːzɪŋ/",
+          "explain": "not a valid grammatical form"
+        },
+        {
+          "word": "your using",
+          "ipa": "/jɔːr ˈjuːzɪŋ/",
+          "explain": "correct — possessive + gerund after \"mind\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>We should save ______ resources. (NATURE)",
+      "answer": "natural"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>People in the country are very open and ______. (FRIEND)",
+      "answer": "friendly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Air ______ is a big problem in the city. (POLLUTE)",
+      "answer": "pollution"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Her father soon died of a ______ heart. (BREAK)",
+      "answer": "broken"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Every week, there are two ______ from Ha Noi to Nha Trang. (FLY)",
+      "answer": "flights"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>We are waiting for the ______ of his plane. (ARRIVE)",
+      "answer": "arrival"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Bell ______ demonstrated his invention. (SUCCESS)",
+      "answer": "successfully"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Children need to have a good ______. (EDUCATE)",
+      "answer": "education"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Because of the ______ of her teacher, she decided to study law. (ENCOURAGE)",
+      "answer": "encouragement"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the word given in brackets to form a word that fits in the space.</span>Some of my ______ live in the countryside. (RELATE)",
+      "answer": "relatives"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in brackets.</span>(you/do) ______ the homework yet?",
+      "answer": "Have you done"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in brackets.</span>I was not used to (drive) ______ on the left when I was in London.",
+      "answer": "driving"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in brackets.</span>English and French (teach) ______ in our school.",
+      "answer": "are taught"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in brackets.</span>As I came to Lan's yesterday, she (watch) ______ TV.",
+      "answer": "was watching"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with the correct form of the verb in brackets.</span>Many people buy suitcases (carry) ______ their luggage.",
+      "answer": "carrying"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition.</span>Could I help you ______ your bag?",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition.</span>Na got up late this morning because her alarm clock didn't go ______.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition.</span>I'm looking forward ______ seeing you in June.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition.</span>In the competition, everyone fell ______ the deep and dangerous water.",
+      "answer": "into"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition.</span>Ha Long Bay is recognized ______ UNESCO as a World Heritage Site.",
+      "answer": "by"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was <mark>______ (1)</mark> by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "imagined",
+          "ipa": "/ɪˈmædʒɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "invented",
+          "ipa": "/ɪnˈventɪd/",
+          "explain": "\"paper was invented by the Chinese\""
+        },
+        {
+          "word": "thought",
+          "ipa": "/θɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "brought",
+          "ipa": "/brɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made <mark>______ (2)</mark> wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "\"made from wood\" — raw material"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are <mark>______ (3)</mark>, they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "cut in",
+          "ipa": "/kʌt ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut of",
+          "ipa": "/kʌt ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut down",
+          "ipa": "/kʌt daʊn/",
+          "explain": "\"cut down\" — fixed phrasal verb for felling trees"
+        },
+        {
+          "word": "cut up",
+          "ipa": "/kʌt ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported <mark>______ (4)</mark> land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "\"transported by land or water\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut <mark>______ (5)</mark> and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct — \"cut up\" means chopped into small pieces, fitting the wood being processed into pulp"
+        },
+        {
+          "word": "all",
+          "ipa": "/ɔːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are <mark>______ (6)</mark> with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "turned",
+          "ipa": "/tɜːrnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "mixed",
+          "ipa": "/mɪkst/",
+          "explain": "\"mixed with water and chemicals\""
+        },
+        {
+          "word": "beaten",
+          "ipa": "/ˈbiːtən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "joined",
+          "ipa": "/dʒɔɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and <mark>______ (7)</mark> into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "making",
+          "ipa": "/ˈmeɪkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "\"dried...and made into paper\" — passive, parallel with \"dried\""
+        },
+        {
+          "word": "to make",
+          "ipa": "/tə meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 <mark>______ (8)</mark> of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "covers",
+          "ipa": "/ˈkʌvərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "texts",
+          "ipa": "/teksts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "sheets",
+          "ipa": "/ʃiːts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "copies",
+          "ipa": "/ˈkɒpiz/",
+          "explain": "\"400 copies of a newspaper\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being <mark>______ (9)</mark>, so there may be a(n) ______ (10) paper shortage before the year 2010.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "set up",
+          "ipa": "/set ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "replaced",
+          "ipa": "/rɪˈpleɪst/",
+          "explain": "\"cut down faster than they are being replaced\" — contrast"
+        },
+        {
+          "word": "grown up",
+          "ipa": "/groʊn ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "found",
+          "ipa": "/faʊnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Circle the best option to complete the following passage.</span><b>Paper</b><br><br>Paper was ______ (1) by the Chinese in the first century AD. Most paper is made ______ (2) wood. When trees are ______ (3), they are transported ______ (4) land or water to a paper mill. Here they are cut ______ (5) and the wood is broken up into fibres, which are ______ (6) with water and chemicals. This wood pulp is then dried on a machine and ______ (7) into paper.<br><br>One tree is needed for every 400 ______ (8) of a typical forty-page newspaper. If half the adults in Britain each buy one daily paper, this uses up over 40,000 trees a day. Trees are being cut down faster than they are being ______ (9), so there may be a(n) <mark>______ (10)</mark> paper shortage before the year 2010.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "able",
+          "ipa": "/ˈeɪbəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "serious",
+          "ipa": "/ˈsɪriəs/",
+          "explain": "\"a serious paper shortage\""
+        },
+        {
+          "word": "essential",
+          "ipa": "/ɪˈsenʃəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary <mark>______ (1)</mark>, I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "school"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation <mark>______ (2)</mark> really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not <mark>______ (3)</mark> how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "know"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father <mark>______ (4)</mark> mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "and"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher <mark>______ (5)</mark> English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait <mark>______ (6)</mark> her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took <mark>______ (7)</mark> to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "me"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to <mark>______ (8)</mark> my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "improve"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first <mark>______ (9)</mark> in the English Speaking Contest ______ (10) for secondary school students in my hometown.",
+      "answer": "prize"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span><b>How Hai has improved his English</b><br><br>In the first year of lower secondary ______ (1), I had some difficulties in learning English. My English pronunciation ______ (2) really bad and my English grammar was worse. I did not ______ (3) how to improve them. I didn't want my father ______ (4) mother to know about this. One afternoon after the lesson, my teacher ______ (5) English told me to wait ______ (6) her outside the classroom. She took ______ (7) to the school library and showed me tapes of pronunciation drills kept in a glass bookcase. She also told me how to use an English-English dictionary to ______ (8) my English grammar. “Now I think you know what you should do” she said. I made much progress and only one year later, I won the first ______ (9) in the English Speaking Contest <mark>______ (10)</mark> for secondary school students in my hometown.",
+      "answer": "held"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">The Vietnamese people celebrate the New Year (Tet) on the first three days of January according to the lunar calendar. On these days, they often paint and decorate their houses. They buy a lot of fruit, flowers and they also make many delicious dishes. They make sticky rice cakes because they are their traditional cakes. People who work far away try to get home on these days. On the first day of Tet, people often offer these good fruit and food to their ancestors and after that the whole families enjoy the food. They also visit pagodas, temples and their relatives or friends. Children are given lucky money which represents the adults' good wishes to them. There are a lot of traditional games and contests at Tet, such as rice-cooking, fire-making, water-fetching and buffalo-fighting. These are really interesting. People are playing and enjoying themselves very much on this occasion.</span><span class=\"cue-line\">Vietnamese people celebrate their New Year on the first day of January according to the lunar calendar.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">The Vietnamese people celebrate the New Year (Tet) on the first three days of January according to the lunar calendar. On these days, they often paint and decorate their houses. They buy a lot of fruit, flowers and they also make many delicious dishes. They make sticky rice cakes because they are their traditional cakes. People who work far away try to get home on these days. On the first day of Tet, people often offer these good fruit and food to their ancestors and after that the whole families enjoy the food. They also visit pagodas, temples and their relatives or friends. Children are given lucky money which represents the adults' good wishes to them. There are a lot of traditional games and contests at Tet, such as rice-cooking, fire-making, water-fetching and buffalo-fighting. These are really interesting. People are playing and enjoying themselves very much on this occasion.</span><span class=\"cue-line\">They make sticky rice cakes at Tet because they are traditional ones.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">The Vietnamese people celebrate the New Year (Tet) on the first three days of January according to the lunar calendar. On these days, they often paint and decorate their houses. They buy a lot of fruit, flowers and they also make many delicious dishes. They make sticky rice cakes because they are their traditional cakes. People who work far away try to get home on these days. On the first day of Tet, people often offer these good fruit and food to their ancestors and after that the whole families enjoy the food. They also visit pagodas, temples and their relatives or friends. Children are given lucky money which represents the adults' good wishes to them. There are a lot of traditional games and contests at Tet, such as rice-cooking, fire-making, water-fetching and buffalo-fighting. These are really interesting. People are playing and enjoying themselves very much on this occasion.</span><span class=\"cue-line\">People try to get home at Tet because they earn a lot of money.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">The Vietnamese people celebrate the New Year (Tet) on the first three days of January according to the lunar calendar. On these days, they often paint and decorate their houses. They buy a lot of fruit, flowers and they also make many delicious dishes. They make sticky rice cakes because they are their traditional cakes. People who work far away try to get home on these days. On the first day of Tet, people often offer these good fruit and food to their ancestors and after that the whole families enjoy the food. They also visit pagodas, temples and their relatives or friends. Children are given lucky money which represents the adults' good wishes to them. There are a lot of traditional games and contests at Tet, such as rice-cooking, fire-making, water-fetching and buffalo-fighting. These are really interesting. People are playing and enjoying themselves very much on this occasion.</span><span class=\"cue-line\">Adults often give children lucky money because lucky money represents good wishes.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">The Vietnamese people celebrate the New Year (Tet) on the first three days of January according to the lunar calendar. On these days, they often paint and decorate their houses. They buy a lot of fruit, flowers and they also make many delicious dishes. They make sticky rice cakes because they are their traditional cakes. People who work far away try to get home on these days. On the first day of Tet, people often offer these good fruit and food to their ancestors and after that the whole families enjoy the food. They also visit pagodas, temples and their relatives or friends. Children are given lucky money which represents the adults' good wishes to them. There are a lot of traditional games and contests at Tet, such as rice-cooking, fire-making, water-fetching and buffalo-fighting. These are really interesting. People are playing and enjoying themselves very much on this occasion.</span><span class=\"cue-line\">There are no traditional games at Tet.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find and correct the mistake (highlighted) in each sentence.</span>A flower growing in the garden is more beautiful than a flower <mark>stands</mark> in a vase.",
+      "answer": "standing"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find and correct the mistake (highlighted) in each sentence.</span>He <mark>slept</mark> soundly in his bed when the bomb went off.",
+      "answer": "was sleeping"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find and correct the mistake (highlighted) in each sentence.</span>Although both of them are trying to get the scholarship, she has the <mark>highest</mark> grades.",
+      "answer": "higher"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find and correct the mistake (highlighted) in each sentence.</span>If a person really wants to succeed, <mark>they</mark> must always work hard.",
+      "answer": "he / she"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Find and correct the mistake (highlighted) in each sentence.</span>She suggested taking the plane this evening or <mark>that we go</mark> by train tomorrow.",
+      "answer": "going"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">We are all keyed up about the trip to Da Lat.</span><span class=\"cue-line\">We ...................... (excited)</span>",
+      "answer": "We are all excited about the trip to Da Lat."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">It is over twenty years since he last went back to his hometown.</span><span class=\"cue-line\">He ...................... (hasn't)</span>",
+      "answer": "He hasn't been back to his hometown for over twenty years."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">\"Why do you want to learn English?\" Liz asked Hoa.</span><span class=\"cue-line\">Liz ...................... (wondered)</span>",
+      "answer": "Liz wondered why Hoa wanted to learn English."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">A train leaves at eight o'clock every morning.</span><span class=\"cue-line\">There ...................... (an)</span>",
+      "answer": "There is an eight-o'clock train every morning."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">The food was too bad for the children to eat.</span><span class=\"cue-line\">The food ...................... (so)</span>",
+      "answer": "The food was so bad that the children could not eat it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">We must pay the bill at once.</span><span class=\"cue-line\">The bill ...................... (be)</span>",
+      "answer": "The bill must be paid at once by us."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">Working in those conditions is impossible.</span><span class=\"cue-line\">It's ...................... (to)</span>",
+      "answer": "It's impossible to work in those conditions."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">May I turn off the television?</span><span class=\"cue-line\">Would you ...................... (mind)</span>",
+      "answer": "Would you mind if I turned off the television?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">The girls who are playing chess are Nga and Hoa.</span><span class=\"cue-line\">The girls ...................... (playing)</span>",
+      "answer": "The girls playing chess are Nga and Hoa."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one, using the word given. Do not change the given word in any way.</span><span class=\"original-sentence\">I have my brother repair my bike.</span><span class=\"cue-line\">I have ...................... (repaired)</span>",
+      "answer": "I have my bike repaired (by my brother)."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write about 150 words.</span>Write about \"The Mid-Autumn Festival.\"",
+      "rubric": [
+        "Content: covers what the festival is, when it happens, and key traditions/activities (1.25 pts)",
+        "Vocabulary: uses appropriate, varied vocabulary (0.25 pt)",
+        "Grammar: reasonably accurate grammar (0.25 pt)",
+        "Coherence, cohesion, and length: well-organized, flows logically, and meets the ~150 word target (0.25 pt)"
+      ]
+    }
+  ]
+}
