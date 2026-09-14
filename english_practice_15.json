@@ -1,0 +1,1386 @@
+{
+  "title": "English Practice Test No: 15",
+  "subtitle": "66 questions · Multiple Choice, Word Forms, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "perform",
+          "underline": "o",
+          "ipa": "/pərˈfɔːrm/",
+          "explain": "\"o\" said as /ɔːr/"
+        },
+        {
+          "word": "colour",
+          "underline": "o",
+          "ipa": "/ˈkʌlər/",
+          "explain": "\"o\" said as /ʌ/ — the odd one out"
+        },
+        {
+          "word": "boring",
+          "underline": "o",
+          "ipa": "/ˈbɔːrɪŋ/",
+          "explain": "\"o\" said as /ɔːr/"
+        },
+        {
+          "word": "your",
+          "underline": "o",
+          "ipa": "/jɔːr/",
+          "explain": "\"our\" said as /ɔːr/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "bath",
+          "underline": "a",
+          "ipa": "/bæθ/",
+          "explain": "\"a\" said as /æ/ — the odd one out"
+        },
+        {
+          "word": "watch",
+          "underline": "a",
+          "ipa": "/wɒtʃ/",
+          "explain": "\"a\" said as /ɒ/"
+        },
+        {
+          "word": "want",
+          "underline": "a",
+          "ipa": "/wɒnt/",
+          "explain": "\"a\" said as /ɒ/"
+        },
+        {
+          "word": "water",
+          "underline": "a",
+          "ipa": "/ˈwɔːtər/",
+          "explain": "\"a\" said as /ɔː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "thank",
+          "underline": "th",
+          "ipa": "/θæŋk/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "think",
+          "underline": "th",
+          "ipa": "/θɪŋk/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "father",
+          "underline": "th",
+          "ipa": "/ˈfɑːðər/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "them",
+          "underline": "th",
+          "ipa": "/ðem/",
+          "explain": "\"th\" said as /ð/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "happen",
+          "underline": "h",
+          "ipa": "/ˈhæpən/",
+          "explain": "\"h\" pronounced"
+        },
+        {
+          "word": "house",
+          "underline": "h",
+          "ipa": "/haʊs/",
+          "explain": "\"h\" pronounced"
+        },
+        {
+          "word": "hour",
+          "underline": "h",
+          "ipa": "/aʊər/",
+          "explain": "\"h\" is silent — the odd one out"
+        },
+        {
+          "word": "horse",
+          "underline": "h",
+          "ipa": "/hɔːrs/",
+          "explain": "\"h\" pronounced"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "filled",
+          "underline": "ed",
+          "ipa": "/fɪld/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "destroyed",
+          "underline": "ed",
+          "ipa": "/dɪˈstrɔɪd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "wished",
+          "underline": "ed",
+          "ipa": "/wɪʃt/",
+          "explain": "\"ed\" said as /t/ — the odd one out"
+        },
+        {
+          "word": "prepared",
+          "underline": "ed",
+          "ipa": "/prɪˈperd/",
+          "explain": "\"ed\" said as /d/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Multiple Choice — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "flow",
+          "underline": "ow",
+          "ipa": "/floʊ/",
+          "explain": "\"ow\" said as /oʊ/ — the odd one out"
+        },
+        {
+          "word": "crow",
+          "underline": "ow",
+          "ipa": "/kroʊ/",
+          "explain": "\"ow\" said as /oʊ/"
+        },
+        {
+          "word": "cloud",
+          "underline": "ou",
+          "ipa": "/klaʊd/",
+          "explain": "\"ou\" said as /aʊ/"
+        },
+        {
+          "word": "scout",
+          "underline": "ou",
+          "ipa": "/skaʊt/",
+          "explain": "\"ou\" said as /aʊ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Multiple Choice — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose stress pattern is different from the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "chemical",
+          "ipa": "/ˈkemɪkəl/",
+          "explain": "CHEM-i-cal — stress on the 1st syllable"
+        },
+        {
+          "word": "upset",
+          "ipa": "/ʌpˈset/",
+          "explain": "up-SET — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "steamer",
+          "ipa": "/ˈstiːmər/",
+          "explain": "STEAM-er — stress on the 1st syllable"
+        },
+        {
+          "word": "cupboard",
+          "ipa": "/ˈkʌbərd/",
+          "explain": "CUP-board — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Multiple Choice — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose stress pattern is different from the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "jungle",
+          "ipa": "/ˈdʒʌŋgəl/",
+          "explain": "JUN-gle — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "volcano",
+          "ipa": "/vɒlˈkeɪnoʊ/",
+          "explain": "vol-CA-no — stress on the 2nd syllable"
+        },
+        {
+          "word": "surround",
+          "ipa": "/səˈraʊnd/",
+          "explain": "sur-ROUND — stress on the 2nd syllable"
+        },
+        {
+          "word": "marine",
+          "ipa": "/məˈriːn/",
+          "explain": "ma-RINE — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Multiple Choice — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose stress pattern is different from the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "foreman",
+          "ipa": "/ˈfɔːrmən/",
+          "explain": "FORE-man — stress on the 1st syllable"
+        },
+        {
+          "word": "microwave",
+          "ipa": "/ˈmaɪkroʊweɪv/",
+          "explain": "MI-cro-wave — stress on the 1st syllable"
+        },
+        {
+          "word": "manufacture",
+          "ipa": "/ˌmænjuˈfæktʃər/",
+          "explain": "man-u-FAC-ture — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "mortar",
+          "ipa": "/ˈmɔːrtər/",
+          "explain": "MOR-tar — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Multiple Choice — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out one word whose stress pattern is different from the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "powder",
+          "ipa": "/ˈpaʊdər/",
+          "explain": "POW-der — stress on the 1st syllable"
+        },
+        {
+          "word": "process",
+          "ipa": "/ˈprɒses/",
+          "explain": "PRO-cess — stress on the 1st syllable"
+        },
+        {
+          "word": "flavour",
+          "ipa": "/ˈfleɪvər/",
+          "explain": "FLA-vour — stress on the 1st syllable"
+        },
+        {
+          "word": "defrost",
+          "ipa": "/diːˈfrɒst/",
+          "explain": "de-FROST — stress on the 2nd syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>Please ask them ______ in this area.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "don't smoke",
+          "ipa": "/doʊnt smoʊk/",
+          "explain": "wrong form after \"ask them\""
+        },
+        {
+          "word": "not smoking",
+          "ipa": "/nɒt ˈsmoʊkɪŋ/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "to not smoke",
+          "ipa": "/tə nɒt smoʊk/",
+          "explain": "non-standard split infinitive placement"
+        },
+        {
+          "word": "not to smoke",
+          "ipa": "/nɒt tə smoʊk/",
+          "explain": "correct — \"ask someone not to do something\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>Come and ______ badminton, Nam!",
+      "answer": 3,
+      "options": [
+        {
+          "word": "do",
+          "ipa": "/duː/",
+          "explain": "wrong verb for a racquet sport played this way"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "wrong verb for a sport"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "wrong verb for a sport"
+        },
+        {
+          "word": "play",
+          "ipa": "/pleɪ/",
+          "explain": "correct — \"play badminton\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>Timson ______ 13 films and I think her latest is the best.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "wrong tense — doesn't connect to the present relevance"
+        },
+        {
+          "word": "had made",
+          "ipa": "/hæd meɪd/",
+          "explain": "wrong tense for this context"
+        },
+        {
+          "word": "has made",
+          "ipa": "/hæz meɪd/",
+          "explain": "correct — present perfect for an ongoing career total"
+        },
+        {
+          "word": "was making",
+          "ipa": "/wəz ˈmeɪkɪŋ/",
+          "explain": "wrong tense"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>My birthday is ______ February 2nd.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "correct — \"on\" + a specific date"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition for a specific date"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition for a date"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>You should learn your lesson ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "careful",
+          "ipa": "/ˈkerfəl/",
+          "explain": "adjective, wrong word class after a verb"
+        },
+        {
+          "word": "carefully",
+          "ipa": "/ˈkerfəli/",
+          "explain": "correct — adverb modifying \"learn\""
+        },
+        {
+          "word": "careless",
+          "ipa": "/ˈkerləs/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "carelessly",
+          "ipa": "/ˈkerləsli/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>\"The students went on a canoe trip yesterday.\" \"I heard it was ______.\"",
+      "answer": 1,
+      "options": [
+        {
+          "word": "excited",
+          "ipa": "/ɪkˈsaɪtɪd/",
+          "explain": "describes a person's feeling, not the trip"
+        },
+        {
+          "word": "exciting",
+          "ipa": "/ɪkˈsaɪtɪŋ/",
+          "explain": "correct — describes the trip itself"
+        },
+        {
+          "word": "exciteful",
+          "ipa": "/ɪkˈsaɪtfəl/",
+          "explain": "not a standard English word"
+        },
+        {
+          "word": "an excitement",
+          "ipa": "/ən ɪkˈsaɪtmənt/",
+          "explain": "wrong word class after \"was\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>\"Do you think your father will worry if we're late?\" \"Maybe we'd better ______ him.\"",
+      "answer": 0,
+      "options": [
+        {
+          "word": "call",
+          "ipa": "/kɔːl/",
+          "explain": "correct — \"had better\" + bare infinitive"
+        },
+        {
+          "word": "be calling to",
+          "ipa": "/bi ˈkɔːlɪŋ tə/",
+          "explain": "wrong form after \"had better\""
+        },
+        {
+          "word": "to call",
+          "ipa": "/tə kɔːl/",
+          "explain": "wrong form — \"had better\" takes a bare infinitive"
+        },
+        {
+          "word": "will call",
+          "ipa": "/wɪl kɔːl/",
+          "explain": "wrong form after \"had better\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>I said \"Happy Birthday\" before ______ Lan a present.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "give",
+          "ipa": "/gɪv/",
+          "explain": "wrong form after \"before\""
+        },
+        {
+          "word": "will give",
+          "ipa": "/wɪl gɪv/",
+          "explain": "wrong form after \"before\""
+        },
+        {
+          "word": "gave",
+          "ipa": "/geɪv/",
+          "explain": "wrong form — \"before\" here takes a gerund"
+        },
+        {
+          "word": "giving",
+          "ipa": "/ˈgɪvɪŋ/",
+          "explain": "correct — \"before\" + gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>Tam ______ last night when the telephone ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "slept-rang",
+          "ipa": "/slept ræŋ/",
+          "explain": "simple past doesn't show the background action in progress"
+        },
+        {
+          "word": "slept-was ringing",
+          "ipa": "/slept wəz ˈrɪŋɪŋ/",
+          "explain": "reversed — the sleeping should be the background action"
+        },
+        {
+          "word": "was sleeping-rang",
+          "ipa": "/wəz ˈsliːpɪŋ ræŋ/",
+          "explain": "correct — past continuous (background) + simple past (interrupting event)"
+        },
+        {
+          "word": "was sleeping-was ringing",
+          "ipa": "/wəz ˈsliːpɪŋ wəz ˈrɪŋɪŋ/",
+          "explain": "both continuous doesn't show a clear interrupting event"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>\"Would you like to go to the movie with me tonight?\" \"______\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Yes, please.",
+          "ipa": "",
+          "explain": "doesn't fit — used for accepting an offer of something tangible"
+        },
+        {
+          "word": "I'm sorry. I'd love to.",
+          "ipa": "",
+          "explain": "contradictory — \"sorry\" suggests declining, but \"I'd love to\" suggests accepting"
+        },
+        {
+          "word": "No, thanks.",
+          "ipa": "",
+          "explain": "declines the invitation, doesn't fit as the best answer here"
+        },
+        {
+          "word": "Yes, I'd love to.",
+          "ipa": "",
+          "explain": "correct — clear, natural acceptance of an invitation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>John doesn't play tennis. David doesn't play tennis.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Both John and David doesn't play tennis.",
+          "ipa": "",
+          "explain": "subject-verb agreement error — \"both...doesn't\" is wrong"
+        },
+        {
+          "word": "Neither John nor David plays tennis.",
+          "ipa": "",
+          "explain": "correct — \"neither...nor\" + singular verb"
+        },
+        {
+          "word": "Not either John or David plays tennis.",
+          "ipa": "",
+          "explain": "not a standard English structure"
+        },
+        {
+          "word": "Not only John but also David doesn't play tennis.",
+          "ipa": "",
+          "explain": "\"not only...but also\" doesn't fit two negative statements this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>The coach said, \"It's time for you to go home, boys!\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "The coach told the boys that it was time for you to go home.",
+          "ipa": "",
+          "explain": "\"you\" should be backshifted to \"them\" in reported speech"
+        },
+        {
+          "word": "The coach tells the boys that it was time for them to go home.",
+          "ipa": "",
+          "explain": "tense mismatch — \"tells\" (present) with \"was\" (past)"
+        },
+        {
+          "word": "The coach told the boys that it is time for them to go home.",
+          "ipa": "",
+          "explain": "\"is\" should be backshifted to \"was\""
+        },
+        {
+          "word": "The coach told the boys that it was time for them to go home.",
+          "ipa": "",
+          "explain": "correct — full backshift: told/was/them"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>______ the old man spoke very slowly and clearly, I couldn't understand him at all.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "If",
+          "ipa": "/ɪf/",
+          "explain": "wrong meaning — not a condition"
+        },
+        {
+          "word": "Because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "wrong meaning — doesn't show contrast"
+        },
+        {
+          "word": "Since",
+          "ipa": "/sɪns/",
+          "explain": "wrong meaning — doesn't show contrast"
+        },
+        {
+          "word": "Although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "correct — shows contrast between speaking clearly and not understanding"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>She started learning English ten years ago.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "She has not learnt English before.",
+          "ipa": "",
+          "explain": "contradicts the original sentence's meaning"
+        },
+        {
+          "word": "She has started learning English for ten years.",
+          "ipa": "",
+          "explain": "\"started\" doesn't combine with \"for\" this way"
+        },
+        {
+          "word": "She has learnt English for ten years.",
+          "ipa": "",
+          "explain": "correct — present perfect + \"for\" + duration"
+        },
+        {
+          "word": "She has learnt English since ten years.",
+          "ipa": "",
+          "explain": "\"since\" doesn't pair with a duration like \"ten years\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>They spent a lot of money on food and clothes.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "A lot of money was spent on food and clothes.",
+          "ipa": "",
+          "explain": "correct — passive voice, singular \"money\" takes \"was\""
+        },
+        {
+          "word": "A lot of money were spent on food and clothes.",
+          "ipa": "",
+          "explain": "wrong verb agreement — \"money\" is uncountable/singular"
+        },
+        {
+          "word": "A lot of money on food and clothes were spent.",
+          "ipa": "",
+          "explain": "wrong verb agreement and awkward word order"
+        },
+        {
+          "word": "A lot of money on food and clothes was spent.",
+          "ipa": "",
+          "explain": "awkward word order compared to the more natural option"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>There is a detective film ______ at the Thang Long Theater.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "correct — \"on\" for a film showing at a venue"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "inside",
+          "ipa": "/ɪnˈsaɪd/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "outside",
+          "ipa": "/aʊtˈsaɪd/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>She got used to ______ her bike.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "ride",
+          "ipa": "/raɪd/",
+          "explain": "wrong form after \"used to\" (be accustomed to)"
+        },
+        {
+          "word": "riding",
+          "ipa": "/ˈraɪdɪŋ/",
+          "explain": "correct — \"get used to\" + gerund"
+        },
+        {
+          "word": "rode",
+          "ipa": "/roʊd/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "rides",
+          "ipa": "/raɪdz/",
+          "explain": "wrong form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>You need a good pair of paddles to play ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "tennis",
+          "ipa": "/ˈtenɪs/",
+          "explain": "tennis uses rackets, not paddles"
+        },
+        {
+          "word": "football",
+          "ipa": "/ˈfʊtbɔːl/",
+          "explain": "football doesn't use paddles"
+        },
+        {
+          "word": "table tennis",
+          "ipa": "/ˈteɪbəl ˈtenɪs/",
+          "explain": "correct — table tennis is played with paddles"
+        },
+        {
+          "word": "badminton",
+          "ipa": "/ˈbædmɪntən/",
+          "explain": "badminton uses rackets, not paddles"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>Ha Long Bay is a ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "World Natural Heritage.",
+          "ipa": "",
+          "explain": "correct — Ha Long Bay is a UNESCO World Natural Heritage Site (inscribed 1994/2000), recognized for its limestone karst scenery"
+        },
+        {
+          "word": "Natural World Heritage.",
+          "ipa": "",
+          "explain": "wrong word order"
+        },
+        {
+          "word": "World Cultural Heritage.",
+          "ipa": "",
+          "explain": "wrong type — Ha Long Bay is recognized for its natural scenery, not cultural significance"
+        },
+        {
+          "word": "Cultural World Heritage.",
+          "ipa": "",
+          "explain": "wrong word order and wrong type"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Multiple Choice — Grammar & Vocabulary",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer for each sentence.</span>A(n) ______ can take a patient to hospital quickly.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "emergency",
+          "ipa": "/ɪˈmɜːrdʒənsi/",
+          "explain": "describes a situation, not a vehicle"
+        },
+        {
+          "word": "bleeding",
+          "ipa": "/ˈbliːdɪŋ/",
+          "explain": "describes an injury, not a vehicle"
+        },
+        {
+          "word": "wound",
+          "ipa": "/wuːnd/",
+          "explain": "describes an injury, not a vehicle"
+        },
+        {
+          "word": "ambulance",
+          "ipa": "/ˈæmbjələns/",
+          "explain": "correct — a vehicle that transports patients"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>Life is more ______ now. (COMFORT)",
+      "answer": "comfortable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>Would you like to go ______? (SWIM)",
+      "answer": "swimming"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>He speaks French very ______. (GOOD)",
+      "answer": "well"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>Life in the city is ______ from life in the country. (DIFFERENCE)",
+      "answer": "different"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>Meat is not a ______ food if we know how much to eat. (HEALTH)",
+      "answer": "healthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>These medicines can work well with your ______. (ILL)",
+      "answer": "illness"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>My sister has a beautiful ______ of stamps. (COLLECT)",
+      "answer": "collection"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the sentence with an appropriate form of the word in brackets.</span>There was no ______ for his absence from class yesterday. (EXPLAIN)",
+      "answer": "explanation"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>Some people <u>grow</u> so <u>taller</u> <u>that</u> their health <u>may</u> become endangered.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "grow",
+          "explain": "correct as written"
+        },
+        {
+          "word": "taller",
+          "explain": "incorrect — should be “tall” — the odd one out"
+        },
+        {
+          "word": "that",
+          "explain": "correct as written"
+        },
+        {
+          "word": "may",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span><u>After said</u> goodbye <u>to</u> my parents, I <u>went</u> to school <u>with</u> my sister.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "After said",
+          "explain": "incorrect — should be “After saying” — the odd one out"
+        },
+        {
+          "word": "to",
+          "explain": "correct as written"
+        },
+        {
+          "word": "went",
+          "explain": "correct as written"
+        },
+        {
+          "word": "with",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>The <u>phone</u> <u>rung</u> while I <u>was washing</u> the <u>dishes</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "phone",
+          "explain": "correct as written"
+        },
+        {
+          "word": "rung",
+          "explain": "incorrect — should be “rang” — the odd one out"
+        },
+        {
+          "word": "was washing",
+          "explain": "correct as written"
+        },
+        {
+          "word": "dishes",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>Henry's <u>friends</u> told <u>themselves</u> <u>his</u> coat on the rack in <u>their</u> hall.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "friends",
+          "explain": "correct as written"
+        },
+        {
+          "word": "themselves",
+          "explain": "incorrect — should be “him” — the odd one out"
+        },
+        {
+          "word": "his",
+          "explain": "correct as written"
+        },
+        {
+          "word": "their",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>She <u>isn't</u> old <u>enough</u> to <u>done</u> this <u>job</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "isn't",
+          "explain": "correct as written"
+        },
+        {
+          "word": "enough",
+          "explain": "correct as written"
+        },
+        {
+          "word": "done",
+          "explain": "incorrect — should be “do” — the odd one out"
+        },
+        {
+          "word": "job",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>Eight hundred <u>years ago</u> Christmas songs <u>are performed</u> for <u>people in</u> towns and <u>villages</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "years ago",
+          "explain": "correct as written"
+        },
+        {
+          "word": "are performed",
+          "explain": "incorrect — should be “were performed” — the odd one out"
+        },
+        {
+          "word": "people in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "villages",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span><u>Would</u> you mind <u>help</u> me solve these mathematics <u>problems</u>? I can hardly understand <u>how</u> to do them.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Would",
+          "explain": "correct as written"
+        },
+        {
+          "word": "help",
+          "explain": "incorrect — should be “helping” — the odd one out"
+        },
+        {
+          "word": "problems",
+          "explain": "correct as written"
+        },
+        {
+          "word": "how",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Find the Mistake",
+      "prompt": "<span class=\"mini-instruction\">Circle the underlined portion of the sentence that is incorrect.</span>She was <u>having dinner</u> <u>when</u> a man <u>was coming and giving</u> her a <u>bunch</u> of flowers.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "having dinner",
+          "explain": "correct as written"
+        },
+        {
+          "word": "when",
+          "explain": "correct as written"
+        },
+        {
+          "word": "was coming and giving",
+          "explain": "incorrect — should be “came and gave” — the odd one out"
+        },
+        {
+          "word": "bunch",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">The sister asked: \"Are you hungry, Tom?\"</span><span class=\"cue-line\">The sister ......................</span>",
+      "answer": "The sister asked Tom if he was hungry."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">A lot of effort has been put in the work by the little girl.</span><span class=\"cue-line\">The little girl ......................</span>",
+      "answer": "The little girl has put a lot of effort in the work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">How long have you studied medicine?</span><span class=\"cue-line\">When ......................</span>",
+      "answer": "When did you start to learn medicine?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">John was too ill to go to school.</span><span class=\"cue-line\">John wasn't ......................</span>",
+      "answer": "John wasn't well enough to go to school."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">Tom is not as tall as Peter.</span><span class=\"cue-line\">Peter ......................</span>",
+      "answer": "Peter is taller than Tom."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air <mark>______ (1)</mark> can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "pollution"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people <mark>______ (2)</mark>. Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "ill"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass <mark>______ (3)</mark> to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "laws"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of <mark>______ (4)</mark> in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "smoke"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the <mark>______ (5)</mark>. ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "lungs"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). <mark>______ (6)</mark> should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "Lead"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's <mark>______ (7)</mark> and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "brains / health"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from <mark>______ (8)</mark> collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "lead / exhausts"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's <mark>______ (9)</mark>. The ice may melt near the North and South Poles, resulting in very bad ______ (10).",
+      "answer": "climate"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Complete the summary by writing the correct word in each blank (one word only).</span>Air ______ (1) can make people ______ (2). Consequently, some countries pass ______ (3) to control the quantity of ______ (4) in the air. Air pollution causes particular damage to the body by harming the ______ (5). ______ (6) should not be used in petrol because it is bad for children's ______ (7) and makes them clumsy in using their hands. Poisonous gas from ______ (8) collects in those parts of cities where there are tall buildings. Pollution can also have an influence on the earth's ______ (9). The ice may melt near the North and South Poles, resulting in very bad <mark>______ (10)</mark>.",
+      "answer": "floods"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.<br><br>Many boys and girls learn English at school because it is one of their subjects. They study their own language, and mathematics... and English. In England, America or Australia, many boys and girls study their own language, which is English, and mathematics... and another language, perhaps French or German or Spanish.<br><br>Many adults learn English, because it is useful for their work. Teenagers often learn English for their higher studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.</span><span class=\"cue-line\">According to the writer, ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "only adults learn English.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "no children like to learn English.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "English is useful only for teenagers.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "English is popular in most of the world.",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.<br><br>Many boys and girls learn English at school because it is one of their subjects. They study their own language, and mathematics... and English. In England, America or Australia, many boys and girls study their own language, which is English, and mathematics... and another language, perhaps French or German or Spanish.<br><br>Many adults learn English, because it is useful for their work. Teenagers often learn English for their higher studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.</span><span class=\"cue-line\">Most people learn English by ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "watching videos only.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "hearing the language in the office.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "talking with foreigners.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "working hard on their lessons.",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.<br><br>Many boys and girls learn English at school because it is one of their subjects. They study their own language, and mathematics... and English. In England, America or Australia, many boys and girls study their own language, which is English, and mathematics... and another language, perhaps French or German or Spanish.<br><br>Many adults learn English, because it is useful for their work. Teenagers often learn English for their higher studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.</span><span class=\"cue-line\">Many boys and girls learn English because ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "English can give them a job.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "it is included in their study courses.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "they are forced to learn it.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "they have to study their own language.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.<br><br>Many boys and girls learn English at school because it is one of their subjects. They study their own language, and mathematics... and English. In England, America or Australia, many boys and girls study their own language, which is English, and mathematics... and another language, perhaps French or German or Spanish.<br><br>Many adults learn English, because it is useful for their work. Teenagers often learn English for their higher studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.</span><span class=\"cue-line\">In America or Australia, many school children study ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "English as a foreign language.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "English and mathematics only.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "such foreign languages as French, German and Spanish.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "their own language and no foreign language.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the best answer.</span><span class=\"passage-block\">Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.<br><br>Many boys and girls learn English at school because it is one of their subjects. They study their own language, and mathematics... and English. In England, America or Australia, many boys and girls study their own language, which is English, and mathematics... and another language, perhaps French or German or Spanish.<br><br>Many adults learn English, because it is useful for their work. Teenagers often learn English for their higher studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.</span><span class=\"cue-line\">Many adults learn English because ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "English is spoken in their office.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "they want to go abroad.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "most of their books are in English.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "it helps them in their work.",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    }
+  ]
+}

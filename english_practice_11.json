@@ -1,0 +1,1215 @@
+{
+  "title": "English Practice Test No: 11",
+  "subtitle": "75 questions · Phonetics, Lexical-Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "checked",
+          "underline": "ed",
+          "ipa": "/tʃekt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "looked",
+          "underline": "ed",
+          "ipa": "/lʊkt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "naked",
+          "underline": "ed",
+          "ipa": "/ˈneɪkɪd/",
+          "explain": "\"ed\" said as /ɪd/ — the odd one out"
+        },
+        {
+          "word": "cooked",
+          "underline": "ed",
+          "ipa": "/kʊkt/",
+          "explain": "\"ed\" said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "theatre",
+          "underline": "th",
+          "ipa": "/ˈθiːətər/",
+          "explain": "\"th\" said as /θ/ — the odd one out"
+        },
+        {
+          "word": "bathing",
+          "underline": "th",
+          "ipa": "/ˈbeɪðɪŋ/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "breathe",
+          "underline": "th",
+          "ipa": "/briːð/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "southern",
+          "underline": "th",
+          "ipa": "/ˈsʌðərn/",
+          "explain": "\"th\" said as /ð/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "devise",
+          "underline": "ise",
+          "ipa": "/dɪˈvaɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        },
+        {
+          "word": "promise",
+          "underline": "ise",
+          "ipa": "/ˈprɒmɪs/",
+          "explain": "\"ise\" said as /ɪs/ — the odd one out"
+        },
+        {
+          "word": "surprise",
+          "underline": "ise",
+          "ipa": "/sərˈpraɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        },
+        {
+          "word": "advise",
+          "underline": "ise",
+          "ipa": "/ədˈvaɪz/",
+          "explain": "\"ise\" said as /aɪz/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "cholera",
+          "underline": "ch",
+          "ipa": "/ˈkɒlərə/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "character",
+          "underline": "ch",
+          "ipa": "/ˈkærɪktər/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "mechanic",
+          "underline": "ch",
+          "ipa": "/məˈkænɪk/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "charity",
+          "underline": "ch",
+          "ipa": "/ˈtʃærəti/",
+          "explain": "\"ch\" said as /tʃ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "emigrate",
+          "underline": "e",
+          "ipa": "/ˈemɪgreɪt/",
+          "explain": "stressed \"e\" said as /e/"
+        },
+        {
+          "word": "success",
+          "underline": "e",
+          "ipa": "/səkˈses/",
+          "explain": "stressed \"e\" said as /e/"
+        },
+        {
+          "word": "detail",
+          "underline": "e",
+          "ipa": "/ˈdiːteɪl/",
+          "explain": "\"e\" said as /iː/ — the odd one out"
+        },
+        {
+          "word": "invent",
+          "underline": "e",
+          "ipa": "/ɪnˈvent/",
+          "explain": "stressed \"e\" said as /e/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word whose stress is placed differently from the others in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "expectation",
+          "ipa": "/ˌekspekˈteɪʃən/",
+          "explain": "ex-pec-TA-tion — stress on the 3rd (penultimate) syllable"
+        },
+        {
+          "word": "introduction",
+          "ipa": "/ˌɪntrəˈdʌkʃən/",
+          "explain": "in-tro-DUC-tion — stress on the 3rd (penultimate) syllable"
+        },
+        {
+          "word": "volunteer",
+          "ipa": "/ˌvɒlənˈtɪr/",
+          "explain": "vol-un-TEER — stress on the 3rd (final) syllable, the odd one out"
+        },
+        {
+          "word": "foundation",
+          "ipa": "/faʊnˈdeɪʃən/",
+          "explain": "foun-DA-tion — stress on the 2nd (penultimate) syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word whose stress is placed differently from the others in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "extensive",
+          "ipa": "/ɪkˈstensɪv/",
+          "explain": "ex-TEN-sive — stress on the 2nd syllable"
+        },
+        {
+          "word": "exciting",
+          "ipa": "/ɪkˈsaɪtɪŋ/",
+          "explain": "ex-CI-ting — stress on the 2nd syllable"
+        },
+        {
+          "word": "excellent",
+          "ipa": "/ˈeksələnt/",
+          "explain": "EX-cel-lent — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "existent",
+          "ipa": "/ɪgˈzɪstənt/",
+          "explain": "ex-IS-tent — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word whose stress is placed differently from the others in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "successful",
+          "ipa": "/səkˈsesfəl/",
+          "explain": "suc-CESS-ful — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "wonderful",
+          "ipa": "/ˈwʌndərfəl/",
+          "explain": "WON-der-ful — stress on the 1st syllable"
+        },
+        {
+          "word": "beautiful",
+          "ipa": "/ˈbjuːtɪfəl/",
+          "explain": "BEAU-ti-ful — stress on the 1st syllable"
+        },
+        {
+          "word": "plentiful",
+          "ipa": "/ˈplentɪfəl/",
+          "explain": "PLEN-ti-ful — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word whose stress is placed differently from the others in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "mechanic",
+          "ipa": "/məˈkænɪk/",
+          "explain": "me-CHAN-ic — stress on the 2nd syllable"
+        },
+        {
+          "word": "official",
+          "ipa": "/əˈfɪʃəl/",
+          "explain": "of-FI-cial — stress on the 2nd syllable"
+        },
+        {
+          "word": "preference",
+          "ipa": "/ˈprefərəns/",
+          "explain": "PREF-er-ence — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "convenience",
+          "ipa": "/kənˈviːniəns/",
+          "explain": "con-VEN-ience — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word whose stress is placed differently from the others in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "attract",
+          "ipa": "/əˈtrækt/",
+          "explain": "at-TRACT — stress on the 2nd syllable"
+        },
+        {
+          "word": "service",
+          "ipa": "/ˈsɜːrvɪs/",
+          "explain": "SER-vice — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "appeal",
+          "ipa": "/əˈpiːl/",
+          "explain": "ap-PEAL — stress on the 2nd syllable"
+        },
+        {
+          "word": "revolve",
+          "ipa": "/rɪˈvɒlv/",
+          "explain": "re-VOLVE — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>The animals gathered closely together for ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "warmed",
+          "ipa": "/wɔːrmd/",
+          "explain": "verb, wrong word class after \"for\""
+        },
+        {
+          "word": "warm",
+          "ipa": "/wɔːrm/",
+          "explain": "adjective, wrong word class after \"for\""
+        },
+        {
+          "word": "warmth",
+          "ipa": "/wɔːrmθ/",
+          "explain": "correct — noun after the preposition \"for\""
+        },
+        {
+          "word": "warmly",
+          "ipa": "/ˈwɔːrmli/",
+          "explain": "adverb, wrong word class after \"for\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>The house caught fire while they ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "are sleeping",
+          "ipa": "/ɑːr ˈsliːpɪŋ/",
+          "explain": "wrong tense — not present time"
+        },
+        {
+          "word": "have slept",
+          "ipa": "/hæv slept/",
+          "explain": "wrong tense for a past narrative"
+        },
+        {
+          "word": "sleep",
+          "ipa": "/sliːp/",
+          "explain": "simple present doesn't fit a past narrative"
+        },
+        {
+          "word": "were sleeping",
+          "ipa": "/wər ˈsliːpɪŋ/",
+          "explain": "correct — past continuous for the background action"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>In our school library, there are several large tables ______ we can sit to read books.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "\"that\" doesn't normally follow a comma-free place reference this way as smoothly as \"where\""
+        },
+        {
+          "word": "where",
+          "ipa": "/wer/",
+          "explain": "correct — relative adverb for a place"
+        },
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "wrong meaning — not a time reference"
+        },
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "needs a preposition (\"at which\"), not on its own here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>He manages to visit his mother ______ Saturday.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "every other",
+          "ipa": "/ˈevri ˈʌðər/",
+          "explain": "correct — \"every other Saturday\" = every two weeks"
+        },
+        {
+          "word": "every the other",
+          "ipa": "/ˈevri ðə ˈʌðər/",
+          "explain": "not a valid phrase"
+        },
+        {
+          "word": "another every",
+          "ipa": "/əˈnʌðər ˈevri/",
+          "explain": "not a valid word order"
+        },
+        {
+          "word": "other every",
+          "ipa": "/ˈʌðər ˈevri/",
+          "explain": "not a valid word order"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>She loved tennis and could watch it till the ______ came home.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "she",
+          "ipa": "/ʃi/",
+          "explain": "not a noun, doesn't fit the idiom"
+        },
+        {
+          "word": "everyone",
+          "ipa": "/ˈevriwʌn/",
+          "explain": "doesn't fit the fixed idiom"
+        },
+        {
+          "word": "horses",
+          "ipa": "/ˈhɔːrsɪz/",
+          "explain": "doesn't fit the fixed idiom"
+        },
+        {
+          "word": "cows",
+          "ipa": "/kaʊz/",
+          "explain": "correct — \"till the cows come home\" is the fixed idiom for \"indefinitely\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>The ceiling fans were on, but unfortunately they only ______ the hot, humid air.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "stirred up",
+          "ipa": "/stɜːrd ʌp/",
+          "explain": "correct — fans stir up (circulate) the air without cooling it"
+        },
+        {
+          "word": "poured through",
+          "ipa": "/pɔːrd θruː/",
+          "explain": "doesn't fit — air isn't \"poured\""
+        },
+        {
+          "word": "turned into",
+          "ipa": "/tɜːrnd ˈɪntuː/",
+          "explain": "wrong meaning — implies transformation"
+        },
+        {
+          "word": "cut back",
+          "ipa": "/kʌt bæk/",
+          "explain": "wrong meaning — means to reduce"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>The car was badly smashed up, but the driver escaped without serious ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "injury",
+          "ipa": "/ˈɪndʒəri/",
+          "explain": "correct — describes harm to a person"
+        },
+        {
+          "word": "pain",
+          "ipa": "/peɪn/",
+          "explain": "doesn't fit — \"without serious pain\" is less natural than \"injury\" here"
+        },
+        {
+          "word": "wound",
+          "ipa": "/wuːnd/",
+          "explain": "usually refers to a specific cut, less natural in this general phrase"
+        },
+        {
+          "word": "damage",
+          "ipa": "/ˈdæmɪdʒ/",
+          "explain": "\"damage\" applies to the car, not the driver escaping unhurt"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>It was only ______ he told me his surname that I realized that we had been to the same school.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "then",
+          "ipa": "/ðen/",
+          "explain": "doesn't fit the \"it was only ___ that\" cleft structure"
+        },
+        {
+          "word": "until",
+          "ipa": "/ənˈtɪl/",
+          "explain": "doesn't fit this cleft structure with \"that\""
+        },
+        {
+          "word": "as soon as",
+          "ipa": "/æz suːn æz/",
+          "explain": "doesn't fit this cleft structure with \"that\""
+        },
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "correct — \"it was only when...that\" cleft structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>It turned out that we ______ rushed to the airport as the plane was delayed by several hours.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "hadn't",
+          "ipa": "/ˈhædənt/",
+          "explain": "doesn't capture the idea of unnecessary action"
+        },
+        {
+          "word": "needn't have",
+          "ipa": "/ˈniːdənt hæv/",
+          "explain": "correct — \"needn't have done\" = did something unnecessarily"
+        },
+        {
+          "word": "mustn't",
+          "ipa": "/ˈmʌsənt/",
+          "explain": "wrong meaning — expresses prohibition, not hindsight"
+        },
+        {
+          "word": "should have",
+          "ipa": "/ʃʊd hæv/",
+          "explain": "wrong meaning — opposite of what the sentence describes"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose from the four options given to complete the following sentences.</span>Nobody will go there, ______?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "will he",
+          "ipa": "/wɪl hi/",
+          "explain": "wrong pronoun for \"nobody\""
+        },
+        {
+          "word": "won't he",
+          "ipa": "/woʊnt hi/",
+          "explain": "wrong polarity and pronoun"
+        },
+        {
+          "word": "will they",
+          "ipa": "/wɪl ðeɪ/",
+          "explain": "correct — positive tag for the negative-ish \"nobody\", referred to as \"they\""
+        },
+        {
+          "word": "won't they",
+          "ipa": "/woʊnt ðeɪ/",
+          "explain": "wrong polarity — needs a positive tag after \"nobody\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with the suitable form of the word in brackets.</span>The increase of carbon dioxide in the atmosphere has ______ greatly on the earth climate recently. (EFFECT)",
+      "answer": "affected"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with the suitable form of the word in brackets.</span>Recycling of waste is one of the ______ solutions for pollution. (PRACTICE)",
+      "answer": "practical"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with the suitable form of the word in brackets.</span>Most ______ at the international workshop in Tokyo focused on the increase of the earth temperature. (ENVIRONMENT)",
+      "answer": "environmentalists"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with the suitable form of the word in brackets.</span>Several families were ______ on the beach. (PICNIC)",
+      "answer": "picnicking"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with the suitable form of the word in brackets.</span>Sir Isaac Newton was an English ______ scientist. (STAND)",
+      "answer": "outstanding"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>She has made up her mind (have) ______ a garage built next to the house. (have)",
+      "answer": "to have"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>She has made up her mind to have a garage (build) ______ next to the house. (build)",
+      "answer": "built"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>The statue (break) ______ while it was being moved to another room in the museum. (break)",
+      "answer": "broke"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>The statue broke while it (move) ______ to another room in the museum. (move)",
+      "answer": "was being moved"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>The bell is ringing. I must stop (do) ______ my homework to answer the phone. (do)",
+      "answer": "doing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>The bell is ringing. I must stop doing my homework (answer) ______ the phone. (answer)",
+      "answer": "to answer"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>Why (you all / laugh) ______? Has Roger told you his funny stories? (laugh)",
+      "answer": "are you all laughing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>Why are you all laughing? (Roger / tell) ______ you his funny stories? (tell)",
+      "answer": "has Roger told"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Tenses",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form or tense of the verb in brackets.</span>Don't worry. We (finish) ______ the report by 11. (finish)",
+      "answer": "will have finished"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #1 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have <mark>not</mark> longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "no"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #2 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in <mark>to keep</mark> informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "keeping"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #3 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen <mark>them</mark> cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "their"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #4 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly <mark>developing</mark> nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "developed"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #5 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, <mark>that</mark> is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "it"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #6 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language <mark>like</mark> a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #7 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has <mark>being</mark> chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "been"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #8 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by <mark>almost</mark> people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "most"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #9 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who <mark>learns</mark> English as a foreign language has been increased so rapidly that it is the highest nowadays.",
+      "answer": "learn"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this passage. Find mistake #10 (highlighted) and write the correction.</span>Language is considered a significant means for communication in international relations. People in modern world have not longer been bound to their own countries. Moreover, in to keep informed with speedly scientific developments nowadays, they must widen them cooperative relations with those highly developing nations in other parts of the world. Due to the fact that no one is able to communicate with any natives in the world, that is necessary for people to choose to learn a foreign language like a worldwide common means of communication. That is why English has being chosen by almost people to be a foreign language to master. More and more people use English and the number of those who learns English as a foreign language has been <mark>increased</mark> so rapidly that it is the highest nowadays.",
+      "answer": "increasing"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important <mark>______ (1)</mark> in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "things"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends <mark>______ (2)</mark> the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "share"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be <mark>______ (3)</mark> you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "someone"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of <mark>______ (4)</mark> and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "ups"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the <mark>______ (5)</mark> of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "result"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, <mark>______ (6)</mark> if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to <mark>______ (7)</mark> to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "get"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of <mark>______ (8)</mark> this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "us"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us <mark>______ (9)</mark> than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on ______ (10) life gets you down.",
+      "answer": "better"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered blank with ONE suitable word.</span>To many people, their friends are most important ______ (1) in their life. Really good friends ______ (2) the good times and the bad times, help you when you've got problems, never judge you and never turn their back on you. Your best friend may be ______ (3) you've known all your life, someone you've grown up with and been through lots of ______ (4) and downs with. There are all sorts of things that can bring about this special relationship. It may be the ______ (5) of enjoying the same activities, having the outlook on life, or sharing similar experiences. Most of us have met someone that we've immediately felt relaxed with, ______ (6) if we've known them for years. However, usually it really does take you years to ______ (7) to know someone well enough to consider him your best friend. To the majority of ______ (8) this is someone we trust completely and who understands us ______ (9) than anyone else. It's the person you can turn to for impartial advice and a shoulder to cry on <mark>______ (10)</mark> life gets you down.",
+      "answer": "when"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many <mark>______ (1)</mark> students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "National",
+          "ipa": "/ˈnæʃənəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "nation",
+          "ipa": "/ˈneɪʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "international",
+          "ipa": "/ˌɪntərˈnæʃənəl/",
+          "explain": "\"international students\" fits the context of coming to the US to study"
+        },
+        {
+          "word": "different",
+          "ipa": "/ˈdɪfərənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting <mark>______ (2)</mark>, especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "experience",
+          "ipa": "/ɪkˈspɪriəns/",
+          "explain": "\"a daunting experience\" — fixed collocation"
+        },
+        {
+          "word": "improvement",
+          "ipa": "/ɪmˈpruːvmənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "search",
+          "ipa": "/sɜːrtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "training",
+          "ipa": "/ˈtreɪnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a <mark>______ (3)</mark> of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "difference",
+          "ipa": "/ˈdɪfərəns/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "various",
+          "ipa": "/ˈveriəs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "variety",
+          "ipa": "/vəˈraɪəti/",
+          "explain": "\"a variety of options\" — fixed collocation"
+        },
+        {
+          "word": "vary",
+          "ipa": "/ˈveri/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first <mark>______ (4)</mark> all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Above",
+          "ipa": "/əˈbʌv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "\"first of all\" — fixed expression"
+        },
+        {
+          "word": "among",
+          "ipa": "/əˈmʌŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security <mark>______ (5)</mark> its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "because of",
+          "ipa": "/bɪˈkɔːz ʌv/",
+          "explain": "\"because of its proximity\" — needs a noun phrase, not a clause"
+        },
+        {
+          "word": "owning",
+          "ipa": "/ˈoʊnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "thank for",
+          "ipa": "/θæŋk fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can <mark>______ (6)</mark> students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Let",
+          "ipa": "/let/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "allow",
+          "ipa": "/əˈlaʊ/",
+          "explain": "\"allow students to devote time\" — correct verb + object + infinitive"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cause",
+          "ipa": "/kɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus <mark>______ (7)</mark> in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Living",
+          "ipa": "/ˈlɪvɪŋ/",
+          "explain": "\"living in apartments\" — gerund as the subject complement"
+        },
+        {
+          "word": "live",
+          "ipa": "/lɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lived",
+          "ipa": "/lɪvd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lives",
+          "ipa": "/lɪvz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in <mark>______ (8)</mark> roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Finding",
+          "ipa": "/ˈfaɪndɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "choosing",
+          "ipa": "/ˈtʃuːzɪŋ/",
+          "explain": "\"flexibility in choosing roommates\" — gerund after preposition"
+        },
+        {
+          "word": "getting",
+          "ipa": "/ˈgetɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "making",
+          "ipa": "/ˈmeɪkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible <mark>______ (9)</mark> furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be ______ (10) to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "In",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "\"responsible for furnishing\" — fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer to complete the numbered blanks.</span>For many ______ (1) students, coming to the United States and living here and studying can be quite a daunting ______ (2), especially when finding housing on campus or off campus. And fortunately, there are a ______ (3) of options that students can look to. And I'd like to talk just briefly a little about on-campus living, off-campus living, and some of the advantages and disadvantages of each.<br><br>Well I think first ______ (4) all for first-time students, coming and living on campus in dormitories can provide a certain level of security ______ (5) its proximity to campus facilities since commuting without a car can be quite an experience, especially when you have to commute long distances. Often in dormitories, meals might be provided, and this can ______ (6) students to devote time to their academics, rather than housekeeping.<br><br>Another option is off campus ______ (7) in apartments, and like living in dormitories, living in an apartment requires little or no maintenance specifically because usually it is handled by someone else. Also, when you might live off campus, there might be a certain amount of flexibility in ______ (8) roommates that you might not have living on campus. But you should be aware that tenants may be responsible ______ (9) furnishing their own apartments.<br><br>Well, of course, the choice is up to you, but be <mark>______ (10)</mark> to review both the advantages and disadvantages of living on campus and off campus. Good luck.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Lucky",
+          "ipa": "/ˈlʌki/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "careful",
+          "ipa": "/ˈkerfəl/",
+          "explain": "\"be careful to review\" fits the advice-giving tone"
+        },
+        {
+          "word": "warning",
+          "ipa": "/ˈwɔːrnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "easy",
+          "ipa": "/ˈiːzi/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Arthur said he was sorry he had hurt her feeling.</span><span class=\"cue-line\">Arthur apologised ......................</span>",
+      "answer": "Arthur apologised for hurting her feeling / for having hurt her feeling."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">I am amazed by the mistakes he makes.</span><span class=\"cue-line\">What ......................</span>",
+      "answer": "What amazes me is the mistakes he makes."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">He is my friend as well as yours.</span><span class=\"cue-line\">Not only ......................</span>",
+      "answer": "Not only is he your friend, but he's mine, too. / ...but he's also mine. / ...but he's mine, as well."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Do all the washing, please!</span><span class=\"cue-line\">Let ......................</span>",
+      "answer": "Let all the washing be done."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">\"I'm very busy. I'll ring you tomorrow,\" Susan said to me.</span><span class=\"cue-line\">Susan ......................</span>",
+      "answer": "Susan said to / told me that she was very busy so she would ring me the following / next day."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so it has a similar meaning to the first, using the given word — “rather”.</span><span class=\"original-sentence\">Please don't go there now.</span><span class=\"cue-line\">I ...................... go there now.</span>",
+      "answer": "I'd rather you didn't go there now."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so it has a similar meaning to the first, using the given word — “living”.</span><span class=\"original-sentence\">She moved here in 1997.</span><span class=\"cue-line\">She ......................1997.</span>",
+      "answer": "She has been living here since 1997."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so it has a similar meaning to the first, using the given word — “prevented”.</span><span class=\"original-sentence\">I couldn't go to work because of the transport strike.</span><span class=\"cue-line\">I ...................... to work by the transport strike.</span>",
+      "answer": "I was prevented from going to work by the transport strike."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so it has a similar meaning to the first, using the given word — “enough”.</span><span class=\"original-sentence\">This office is too small for two people.</span><span class=\"cue-line\">This office ...................... for two people.</span>",
+      "answer": "This office isn't big / large enough for two people."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so it has a similar meaning to the first, using the given word — “lives”.</span><span class=\"original-sentence\">John's home is still in England, isn't it?</span><span class=\"cue-line\">John ...................... he?</span>",
+      "answer": "John still lives in England, doesn't he?"
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a passage of about 120-150 words.</span>Some students think that of all subjects at school, Maths, Literature and English are the most important ones. Do you think so? Write a passage of about 120-150 words to support your ideas.",
+      "rubric": [
+        "Content (8 pts): provides all main ideas and supporting details as appropriate",
+        "Language (4 pts): uses a variety of vocabulary and structures appropriate to the level",
+        "Presentation (3 pts): coherence, cohesion, and style appropriate to the level"
+      ]
+    }
+  ]
+}

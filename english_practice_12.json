@@ -1,0 +1,1512 @@
+{
+  "title": "English Practice Test No: 12",
+  "subtitle": "76 questions · Phonetics, Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "bother",
+          "underline": "th",
+          "ipa": "/ˈbɒðər/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "sunbathe",
+          "underline": "th",
+          "ipa": "/ˈsʌnbeɪð/",
+          "explain": "\"th\" said as /ð/"
+        },
+        {
+          "word": "cloth",
+          "underline": "th",
+          "ipa": "/klɒθ/",
+          "explain": "\"th\" said as /θ/ — the odd one out"
+        },
+        {
+          "word": "months",
+          "underline": "th",
+          "ipa": "/mʌnθs/",
+          "explain": "\"th\" said as /θ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "vegetable",
+          "underline": "a",
+          "ipa": "/ˈvedʒtəbəl/",
+          "explain": "reduced \"a\" said as /ə/"
+        },
+        {
+          "word": "comfortable",
+          "underline": "a",
+          "ipa": "/ˈkʌmftərbəl/",
+          "explain": "reduced \"a\" said as /ə/"
+        },
+        {
+          "word": "nature",
+          "underline": "a",
+          "ipa": "/ˈneɪtʃər/",
+          "explain": "stressed \"a\" said as /eɪ/ — the odd one out"
+        },
+        {
+          "word": "moderate",
+          "underline": "a",
+          "ipa": "/ˈmɒdərət/",
+          "explain": "reduced \"a\" said as /ə/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "interest",
+          "underline": "e",
+          "ipa": "/ˈɪntrəst/",
+          "explain": "reduced \"e\" said as /ə/ — the odd one out"
+        },
+        {
+          "word": "selection",
+          "underline": "e",
+          "ipa": "/səˈlekʃən/",
+          "explain": "stressed \"e\" said as /e/"
+        },
+        {
+          "word": "resident",
+          "underline": "e",
+          "ipa": "/ˈrezɪdənt/",
+          "explain": "stressed \"e\" said as /e/"
+        },
+        {
+          "word": "injection",
+          "underline": "e",
+          "ipa": "/ɪnˈdʒekʃən/",
+          "explain": "stressed \"e\" said as /e/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "concern",
+          "underline": "o",
+          "ipa": "/kənˈsɜːrn/",
+          "explain": "unstressed \"o\" said as /ə/"
+        },
+        {
+          "word": "contact",
+          "underline": "o",
+          "ipa": "/ˈkɒntækt/",
+          "explain": "stressed \"o\" said as /ɒ/ — the odd one out"
+        },
+        {
+          "word": "convenient",
+          "underline": "o",
+          "ipa": "/kənˈviːniənt/",
+          "explain": "unstressed \"o\" said as /ə/"
+        },
+        {
+          "word": "conclude",
+          "underline": "o",
+          "ipa": "/kənˈkluːd/",
+          "explain": "unstressed \"o\" said as /ə/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others in each group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "promise",
+          "underline": "s",
+          "ipa": "/ˈprɒmɪs/",
+          "explain": "final \"s\" said as /s/"
+        },
+        {
+          "word": "conscious",
+          "underline": "s",
+          "ipa": "/ˈkɒnʃəs/",
+          "explain": "final \"s\" said as /s/"
+        },
+        {
+          "word": "religious",
+          "underline": "s",
+          "ipa": "/rɪˈlɪdʒəs/",
+          "explain": "final \"s\" said as /s/"
+        },
+        {
+          "word": "scissors",
+          "underline": "s",
+          "ipa": "/ˈsɪzərz/",
+          "explain": "final \"s\" said as /z/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the other words in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "pancake",
+          "ipa": "/ˈpænkeɪk/",
+          "explain": "PAN-cake — stress on the 1st syllable"
+        },
+        {
+          "word": "discount",
+          "ipa": "/ˈdɪskaʊnt/",
+          "explain": "DIS-count (noun) — stress on the 1st syllable"
+        },
+        {
+          "word": "wardrobe",
+          "ipa": "/ˈwɔːrdroʊb/",
+          "explain": "WARD-robe — stress on the 1st syllable"
+        },
+        {
+          "word": "marine",
+          "ipa": "/məˈriːn/",
+          "explain": "ma-RINE — stress on the 2nd syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the other words in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "migrant",
+          "ipa": "/ˈmaɪgrənt/",
+          "explain": "MI-grant — stress on the 1st syllable"
+        },
+        {
+          "word": "typhoon",
+          "ipa": "/taɪˈfuːn/",
+          "explain": "ty-PHOON — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "compost",
+          "ipa": "/ˈkɒmpoʊst/",
+          "explain": "COM-post — stress on the 1st syllable"
+        },
+        {
+          "word": "limestone",
+          "ipa": "/ˈlaɪmstoʊn/",
+          "explain": "LIME-stone — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the other words in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "glassware",
+          "ipa": "/ˈglæswer/",
+          "explain": "GLASS-ware — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "refill",
+          "ipa": "/riˈfɪl/",
+          "explain": "re-FILL (verb) — stress on the 2nd syllable"
+        },
+        {
+          "word": "award",
+          "ipa": "/əˈwɔːrd/",
+          "explain": "a-WARD — stress on the 2nd syllable"
+        },
+        {
+          "word": "surround",
+          "ipa": "/səˈraʊnd/",
+          "explain": "sur-ROUND — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the other words in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "loudspeaker",
+          "ipa": "/ˈlaʊdspiːkər/",
+          "explain": "LOUD-speak-er — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "itinerary",
+          "ipa": "/aɪˈtɪnəreri/",
+          "explain": "i-TIN-er-a-ry — stress on the 2nd syllable"
+        },
+        {
+          "word": "participate",
+          "ipa": "/pɑːrˈtɪsɪpeɪt/",
+          "explain": "par-TIC-i-pate — stress on the 2nd syllable"
+        },
+        {
+          "word": "magnificent",
+          "ipa": "/mægˈnɪfɪsənt/",
+          "explain": "mag-NIF-i-cent — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from that of the other words in each group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "helicopter",
+          "ipa": "/ˈhelɪkɒptər/",
+          "explain": "HEL-i-cop-ter — stress on the 1st syllable"
+        },
+        {
+          "word": "microwave",
+          "ipa": "/ˈmaɪkroʊweɪv/",
+          "explain": "MI-cro-wave — stress on the 1st syllable"
+        },
+        {
+          "word": "memorial",
+          "ipa": "/məˈmɔːriəl/",
+          "explain": "me-MOR-i-al — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "magically",
+          "ipa": "/ˈmædʒɪkəli/",
+          "explain": "MAG-ic-al-ly — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Bob hasn't ______ up his mind yet.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "correct — \"make up one's mind\" is the fixed idiom"
+        },
+        {
+          "word": "gone",
+          "ipa": "/gɒn/",
+          "explain": "not part of this idiom"
+        },
+        {
+          "word": "used to",
+          "ipa": "/ˈjuːst tə/",
+          "explain": "not part of this idiom"
+        },
+        {
+          "word": "found",
+          "ipa": "/faʊnd/",
+          "explain": "not part of this idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Everyone has to follow this way to get into the fair, ______?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "do they",
+          "ipa": "/du ðeɪ/",
+          "explain": "wrong auxiliary — the statement uses a singular verb"
+        },
+        {
+          "word": "don't they",
+          "ipa": "/doʊnt ðeɪ/",
+          "explain": "correct — \"everyone\" takes a singular verb but \"they\" in the tag"
+        },
+        {
+          "word": "doesn't she",
+          "ipa": "/ˈdʌzənt ʃi/",
+          "explain": "wrong pronoun — \"everyone\" isn't specifically \"she\""
+        },
+        {
+          "word": "doesn't he",
+          "ipa": "/ˈdʌzənt hi/",
+          "explain": "wrong pronoun — \"everyone\" isn't specifically \"he\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Would you like me to get you something to drink? – ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "That would be nice",
+          "ipa": "/ðæt wʊd bi naɪs/",
+          "explain": "correct — natural way to accept an offer"
+        },
+        {
+          "word": "No, I'm sorry",
+          "ipa": "/noʊ aɪm ˈsɒri/",
+          "explain": "doesn't fit — this isn't declining an apology"
+        },
+        {
+          "word": "That's too bad",
+          "ipa": "/ðæts tuː bæd/",
+          "explain": "wrong meaning — used for sympathy"
+        },
+        {
+          "word": "My pleasure",
+          "ipa": "/maɪ ˈpleʒər/",
+          "explain": "used when someone thanks you, not to accept an offer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>I usually go to work by bus, but ______ and then I use my motorbike.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "again",
+          "ipa": "/əˈgen/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        },
+        {
+          "word": "once",
+          "ipa": "/wʌns/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        },
+        {
+          "word": "now",
+          "ipa": "/naʊ/",
+          "explain": "correct — \"now and then\" is the fixed idiom meaning occasionally"
+        },
+        {
+          "word": "ever",
+          "ipa": "/ˈevər/",
+          "explain": "doesn't form a fixed expression with \"and then\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Of my parents, my father is ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "the stricter",
+          "ipa": "/ðə ˈstrɪktər/",
+          "explain": "comparing two people doesn't need \"the\" here"
+        },
+        {
+          "word": "the strictest",
+          "ipa": "/ðə ˈstrɪktɪst/",
+          "explain": "superlative is for 3+ people; only two parents are compared"
+        },
+        {
+          "word": "stricter",
+          "ipa": "/ˈstrɪktər/",
+          "explain": "correct comparative for comparing two people"
+        },
+        {
+          "word": "strict",
+          "ipa": "/strɪkt/",
+          "explain": "plain adjective — doesn't show comparison"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>\"What can I get for you?\" – \"______.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "All right",
+          "ipa": "/ɔːl raɪt/",
+          "explain": "doesn't respond to an offer of service"
+        },
+        {
+          "word": "I'm afraid not",
+          "ipa": "/aɪm əˈfreɪd nɒt/",
+          "explain": "doesn't fit — declines a yes/no question"
+        },
+        {
+          "word": "I hope so",
+          "ipa": "/aɪ hoʊp soʊ/",
+          "explain": "doesn't fit — responds to a stated hope"
+        },
+        {
+          "word": "Yes, please",
+          "ipa": "/jes pliːz/",
+          "explain": "correct — natural response when someone offers to get you something"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>The coat ______ on the floor belongs to my brother.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "lies",
+          "ipa": "/laɪz/",
+          "explain": "a full finite verb can't modify a noun this way"
+        },
+        {
+          "word": "lying",
+          "ipa": "/ˈlaɪɪŋ/",
+          "explain": "correct — reduced relative clause with the present participle"
+        },
+        {
+          "word": "lain",
+          "ipa": "/leɪn/",
+          "explain": "past participle doesn't fit this ongoing-state meaning"
+        },
+        {
+          "word": "is lying",
+          "ipa": "/ɪz ˈlaɪɪŋ/",
+          "explain": "a full clause can't follow a noun without a relative pronoun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Tuan had a bad cut on his arm. It's ______ badly.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "bleeding",
+          "ipa": "/ˈbliːdɪŋ/",
+          "explain": "correct — a cut bleeds"
+        },
+        {
+          "word": "burning",
+          "ipa": "/ˈbɜːrnɪŋ/",
+          "explain": "wrong verb for a cut"
+        },
+        {
+          "word": "coughing",
+          "ipa": "/ˈkɔːfɪŋ/",
+          "explain": "wrong verb entirely"
+        },
+        {
+          "word": "sneezing",
+          "ipa": "/ˈsniːzɪŋ/",
+          "explain": "wrong verb entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Your ______ is included in the ticket price.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "reservation",
+          "ipa": "/ˌrezərˈveɪʃən/",
+          "explain": "doesn't fit — a reservation isn't \"included\" like this"
+        },
+        {
+          "word": "vacation",
+          "ipa": "/veɪˈkeɪʃən/",
+          "explain": "wrong word — the whole trip isn't \"included\" in a ticket"
+        },
+        {
+          "word": "accommodation",
+          "ipa": "/əˌkɒməˈdeɪʃən/",
+          "explain": "correct — lodging bundled into a ticket price"
+        },
+        {
+          "word": "money",
+          "ipa": "/ˈmʌni/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>The beans are roasted to ______ the chocolate flavor.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "carry out",
+          "ipa": "/ˈkæri aʊt/",
+          "explain": "wrong phrasal verb — means to perform/execute"
+        },
+        {
+          "word": "bring out",
+          "ipa": "/brɪŋ aʊt/",
+          "explain": "correct — \"bring out a flavor\" means to enhance/reveal it"
+        },
+        {
+          "word": "carry into",
+          "ipa": "/ˈkæri ˈɪntuː/",
+          "explain": "not a standard phrasal verb"
+        },
+        {
+          "word": "bring into",
+          "ipa": "/brɪŋ ˈɪntuː/",
+          "explain": "wrong meaning for enhancing a flavor"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>The computer is ______ guarantee so the company should do something with it.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "under",
+          "ipa": "/ˈʌndər/",
+          "explain": "correct — \"under guarantee/warranty\" is the fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Nowadays many students can get a ______ without being on campus.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "diploma",
+          "ipa": "/dɪˈploʊmə/",
+          "explain": "possible, but \"degree\" is the more standard term for online study"
+        },
+        {
+          "word": "card",
+          "ipa": "/kɑːrd/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "degree",
+          "ipa": "/dɪˈgriː/",
+          "explain": "correct — fixed collocation for academic qualifications from a university"
+        },
+        {
+          "word": "license",
+          "ipa": "/ˈlaɪsəns/",
+          "explain": "wrong meaning — not an academic qualification"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>\"I think computers are useful.\" – \"______.\"",
+      "answer": 1,
+      "options": [
+        {
+          "word": "I'm not agree",
+          "ipa": "/aɪm nɒt əˈgriː/",
+          "explain": "ungrammatical — \"agree\" is a verb, not used with \"am\""
+        },
+        {
+          "word": "So do I",
+          "ipa": "/soʊ du aɪ/",
+          "explain": "correct — agreeing with a statement using \"think\" (do-support)"
+        },
+        {
+          "word": "I disagree too",
+          "ipa": "/aɪ ˌdɪsəˈgriː tuː/",
+          "explain": "wrong meaning — this disagrees instead of agreeing"
+        },
+        {
+          "word": "So are they",
+          "ipa": "/soʊ ɑːr ðeɪ/",
+          "explain": "wrong auxiliary — doesn't match \"I think\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Vietnam is a ______ country.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "rubber-exported",
+          "ipa": "/ˈrʌbər ɪkˈspɔːrtɪd/",
+          "explain": "wrong form — not a valid compound adjective"
+        },
+        {
+          "word": "exporting-rubber",
+          "ipa": "/ɪkˈspɔːrtɪŋ ˈrʌbər/",
+          "explain": "wrong word order for this compound"
+        },
+        {
+          "word": "exported-rubber",
+          "ipa": "/ɪkˈspɔːrtɪd ˈrʌbər/",
+          "explain": "wrong word order and form"
+        },
+        {
+          "word": "rubber-exporting",
+          "ipa": "/ˈrʌbər ɪkˈspɔːrtɪŋ/",
+          "explain": "correct — compound adjective \"noun + verb-ing\" meaning \"that exports rubber\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from the four choices to complete each sentence.</span>Are you free to ______ for dinner this evening?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "come over",
+          "ipa": "/kʌm ˈoʊvər/",
+          "explain": "correct — \"come over\" means to visit someone's place"
+        },
+        {
+          "word": "go over",
+          "ipa": "/goʊ ˈoʊvər/",
+          "explain": "means to review something, wrong meaning here"
+        },
+        {
+          "word": "come across",
+          "ipa": "/kʌm əˈkrɔːs/",
+          "explain": "means to find by chance, wrong meaning"
+        },
+        {
+          "word": "go across",
+          "ipa": "/goʊ əˈkrɔːs/",
+          "explain": "means to cross something, wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase that is incorrect in standard English.</span><u>Be careful</u> when you <u>cross</u> a busy street. Look out <u>with</u> <u>cars and trucks</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Be careful",
+          "explain": "correct as written"
+        },
+        {
+          "word": "cross",
+          "explain": "correct as written"
+        },
+        {
+          "word": "with",
+          "explain": "incorrect — should be “for” — the odd one out"
+        },
+        {
+          "word": "cars and trucks",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase that is incorrect in standard English.</span><u>Is she</u> <u>accustomed to</u> <u>doing</u> her homework by <u>her</u>?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Is she",
+          "explain": "correct as written"
+        },
+        {
+          "word": "accustomed to",
+          "explain": "correct as written"
+        },
+        {
+          "word": "doing",
+          "explain": "correct as written"
+        },
+        {
+          "word": "her",
+          "explain": "incorrect — should be “herself” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase that is incorrect in standard English.</span>We <u>have sung</u> together ever <u>when</u> I <u>was</u> a small <u>child</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "have sung",
+          "explain": "correct as written"
+        },
+        {
+          "word": "when",
+          "explain": "incorrect — should be “since” — the odd one out"
+        },
+        {
+          "word": "was",
+          "explain": "correct as written"
+        },
+        {
+          "word": "child",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase that is incorrect in standard English.</span>My <u>father's car</u> is <u>the</u> same color <u>like</u> my <u>uncle's car</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "father's car",
+          "explain": "correct as written"
+        },
+        {
+          "word": "the",
+          "explain": "correct as written"
+        },
+        {
+          "word": "like",
+          "explain": "incorrect — should be “as” — the odd one out"
+        },
+        {
+          "word": "uncle's car",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase that is incorrect in standard English.</span>I <u>went</u> to every <u>play</u> <u>at</u> the local theater so far <u>this year</u>.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "went",
+          "explain": "incorrect — should be “have been / have gone” — the odd one out"
+        },
+        {
+          "word": "play",
+          "explain": "correct as written"
+        },
+        {
+          "word": "at",
+          "explain": "correct as written"
+        },
+        {
+          "word": "this year",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in capital letters to complete each sentence.</span>The ______ are scheduled to take off at 15.00 and 15.30. (FLY)",
+      "answer": "flights"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in capital letters to complete each sentence.</span>She'd rather have a job involving creative work or ______ skills. (ART)",
+      "answer": "artistic"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in capital letters to complete each sentence.</span>It is ______ to drink alcohol and drive. (RESPONSIBLE)",
+      "answer": "irresponsible"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in capital letters to complete each sentence.</span>We received a lot of ______ from our teacher. (ENCOURAGE)",
+      "answer": "encouragement"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in capital letters to complete each sentence.</span>With all the modern facilities, doing housework is still very ______. (CONSUME)",
+      "answer": "time-consuming"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Can't you see that I am busy (write) ______?",
+      "answer": "writing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>I lit the fire at 7.00 and it (burn) ______ brightly when Jack came in at 8.00.",
+      "answer": "was burning"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The money (steal) ______ in the robbery was never found.",
+      "answer": "stolen"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>At this time next month, they (work) ______ in Ho Chi Minh City.",
+      "answer": "will be working"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>She locked the door so as (not disturb) ______.",
+      "answer": "not to be disturbed"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated <mark>______ (1)</mark> it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "as",
+          "ipa": "/æz/",
+          "explain": "\"as complicated as\" — comparative structure"
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "since",
+          "ipa": "/sɪns/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much <mark>______ (2)</mark> is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "polluter",
+          "ipa": "/pəˈluːtər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pollutant",
+          "ipa": "/pəˈluːtənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "polluting",
+          "ipa": "/pəˈluːtɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pollution",
+          "ipa": "/pəˈluːʃən/",
+          "explain": "\"pollution\" — noun subject"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust <mark>______ (3)</mark> automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "\"exhaust from automobiles\""
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. <mark>______ (4)</mark> the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Therefore",
+          "ipa": "/ˈðerfɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Moreover",
+          "ipa": "/mɔːrˈoʊvər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "But",
+          "ipa": "/bʌt/",
+          "explain": "contrast: pollution is bad, BUT cars are useful"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories <mark>______ (5)</mark> much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "discharge",
+          "ipa": "/dɪsˈtʃɑːrdʒ/",
+          "explain": "\"discharge material\" — factories release pollutants"
+        },
+        {
+          "word": "offer",
+          "ipa": "/ˈɔːfər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "emit",
+          "ipa": "/ɪˈmɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "dissolve",
+          "ipa": "/dɪˈzɒlv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to <mark>______ (6)</mark> or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "cause",
+          "ipa": "/kɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "end",
+          "ipa": "/end/",
+          "explain": "\"end\" pollution entirely (vs. \"reduce\" it)"
+        },
+        {
+          "word": "increase",
+          "ipa": "/ɪnˈkriːs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pause",
+          "ipa": "/pɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be <mark>______ (7)</mark> reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "increasingly",
+          "ipa": "/ɪnˈkriːsɪŋli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "hopelessly",
+          "ipa": "/ˈhoʊpləsli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "gradually",
+          "ipa": "/ˈgrædʒuəli/",
+          "explain": "\"gradually reduced\" fits the realistic, step-by-step tone"
+        },
+        {
+          "word": "dangerously",
+          "ipa": "/ˈdeɪndʒərəsli/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. <mark>______ (8)</mark> and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Scientists",
+          "ipa": "/ˈsaɪəntɪsts/",
+          "explain": "\"scientists and engineers\" — natural pairing"
+        },
+        {
+          "word": "Doctors",
+          "ipa": "/ˈdɒktərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Lecturers",
+          "ipa": "/ˈlektʃərərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Botanists",
+          "ipa": "/ˈbɒtənɪsts/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the <mark>______ (9)</mark> of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut ______ (10) on certain polluting activities.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "number",
+          "ipa": "/ˈnʌmbər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "figures",
+          "ipa": "/ˈfɪgjərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "numbers",
+          "ipa": "/ˈnʌmbərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "amount",
+          "ipa": "/əˈmaʊnt/",
+          "explain": "\"amount of pollution\" — uncountable noun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer to complete each numbered blank.</span>Everyone wants to reduce pollution. But the pollution problem is as complicated ______ (1) it is serious. It is complicated because much ______ (2) is caused by things that benefit people. For example, exhaust ______ (3) automobiles causes a large percentage of all air pollution. ______ (4) the automobiles provide transportation for millions of people. Factories ______ (5) much of the material which pollutes air and water, but factories give employment to a large number of people.<br><br>Thus, to ______ (6) or greatly reduce pollution immediately, people would have to stop using many things that benefit them. Most of the people do not want to do that, of course. But pollution can be ______ (7) reduced in several ways. ______ (8) and engineers can work to find ways to lessen the ______ (9) of pollution that such things as automobiles and factories cause. Governments can pass and enforce laws that require businesses and individuals to stop, or cut <mark>______ (10)</mark> on certain polluting activities.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "down",
+          "ipa": "/daʊn/",
+          "explain": "\"cut down on\" is the fixed phrasal verb"
+        },
+        {
+          "word": "into",
+          "ipa": "/ˈɪntuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the question.</span><span class=\"passage-block\">They called New York \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks, you can never find a place to park.<br><br>If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.<br><br>If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but parts of it are old and dirty. Lights don't always work and there is often fire on the <i>track</i>. On some subway lines, there are new, clean, silver trains. But you can't see the color of the old trains easily. There is too much dirt and too many graffiti, inside and outside.</span><span class=\"cue-line\">What is the problem in New York?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "It has too many apples",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "It is too big",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "It looked like an apple",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "It is too crowded",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the question.</span><span class=\"passage-block\">They called New York \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks, you can never find a place to park.<br><br>If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.<br><br>If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but parts of it are old and dirty. Lights don't always work and there is often fire on the <i>track</i>. On some subway lines, there are new, clean, silver trains. But you can't see the color of the old trains easily. There is too much dirt and too many graffiti, inside and outside.</span><span class=\"cue-line\">What does a cab mean?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "a truck",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a bus",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a taxi",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "a driver",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the question.</span><span class=\"passage-block\">They called New York \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks, you can never find a place to park.<br><br>If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.<br><br>If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but parts of it are old and dirty. Lights don't always work and there is often fire on the <i>track</i>. On some subway lines, there are new, clean, silver trains. But you can't see the color of the old trains easily. There is too much dirt and too many graffiti, inside and outside.</span><span class=\"cue-line\">Cab drivers in New York ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "can be dangerous",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "look the same",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "can be attacked by thieves",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "were all born in New York",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the question.</span><span class=\"passage-block\">They called New York \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks, you can never find a place to park.<br><br>If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.<br><br>If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but parts of it are old and dirty. Lights don't always work and there is often fire on the <i>track</i>. On some subway lines, there are new, clean, silver trains. But you can't see the color of the old trains easily. There is too much dirt and too many graffiti, inside and outside.</span><span class=\"cue-line\">The word \"track\" can best be replaced by ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "roadway",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "station",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "light bulb",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "train",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then choose the correct option to answer the question.</span><span class=\"passage-block\">They called New York \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks, you can never find a place to park.<br><br>If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.<br><br>If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but parts of it are old and dirty. Lights don't always work and there is often fire on the <i>track</i>. On some subway lines, there are new, clean, silver trains. But you can't see the color of the old trains easily. There is too much dirt and too many graffiti, inside and outside.</span><span class=\"cue-line\">Subways in New York ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "have no lights",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "are quick but dirty",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "are clothes",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "often cause fires",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago <mark>______ (1)</mark> Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought <mark>______ (2)</mark> the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "were"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still <mark>______ (3)</mark> today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "see"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, <mark>______ (4)</mark> the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "which"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing <mark>______ (5)</mark>. These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "about"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in <mark>______ (6)</mark>.<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "Cambodia"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was <mark>______ (7)</mark> around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "built"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 <mark>______ (8)</mark> honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three <mark>______ (9)</mark> it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers ______ (10) to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "centuries"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each of the numbered blanks with ONE suitable word.</span>Centuries ago ______ (1) Ancient Greece, a man by the name of Antipater of Sidon compiled a list of what he thought ______ (2) the seven wonders of the world. The seven included the Hanging Gardens of Babylon in present-day Iraq, the Statue of Zeus in Greece, and the Pyramid of Cheops in Egypt. The pyramid is the only wonder you can still ______ (3) today.<br><br>Many people claim that there were other wonders, ______ (4) the ancient Greeks knew nothing ______ (5). These include the Great Wall of China, the Taj Mahal in India and Angkor Wat in ______ (6).<br><br>Angkor Wat should really be known as a wonder because it is the largest temple in the world. The temple was ______ (7) around the year 1100 ______ (8) honor a Hindu God, but over the next three ______ (9) it became a Buddhist religious center. The area surrounding the temple, Angkor Thom, used to be the royal capital city.<br><br>In the early 15th century, the Khmer rulers <mark>______ (10)</mark> to Phnom Penh and Angkor was quiet. It now is a famous tourist attraction.",
+      "answer": "moved"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the sentence so that it has a similar meaning to the original one.</span><span class=\"original-sentence\">Why do you come home late?</span><span class=\"cue-line\">What ......................</span>",
+      "answer": "What is the reason for your coming home late?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the sentence so that it has a similar meaning to the original one.</span><span class=\"original-sentence\">It is common knowledge that he has been in prison several times.</span><span class=\"cue-line\">He is known ......................</span>",
+      "answer": "He is known to have been in prison several times."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the sentence so that it has a similar meaning to the original one.</span><span class=\"original-sentence\">She cannot get into the habit of studying every evening.</span><span class=\"cue-line\">She cannot be ......................</span>",
+      "answer": "She cannot be used to studying every evening."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the sentence so that it has a similar meaning to the original one.</span><span class=\"original-sentence\">We have not visited the museum before.</span><span class=\"cue-line\">This is ......................</span>",
+      "answer": "This is the first time (that) we have visited the museum."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Write the sentence so that it has a similar meaning to the original one.</span><span class=\"original-sentence\">Immediately after his arrival, things went wrong.</span><span class=\"cue-line\">No sooner ......................</span>",
+      "answer": "No sooner had he arrived than things went wrong."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the following set of words and phrases to complete the sentences. You can add additional words.</span><span class=\"cue-line\">Last night / cashier / force / hand / money / by / robber.</span>",
+      "answer": "Last night, the cashier was forced to hand over the money by the robber."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the following set of words and phrases to complete the sentences. You can add additional words.</span><span class=\"cue-line\">1897 / when Jack London / 21 / year / old / gold / discover / Alaska.</span>",
+      "answer": "In 1897, when Jack London was 21 years old, gold was discovered in Alaska."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the following set of words and phrases to complete the sentences. You can add additional words.</span><span class=\"cue-line\">If / Peter / wake / earlier / not / miss / train.</span>",
+      "answer": "If Peter had woken up earlier, he would not have missed the train."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the following set of words and phrases to complete the sentences. You can add additional words.</span><span class=\"cue-line\">This / be / good / computer / I / ever / use.</span>",
+      "answer": "This is the best computer I have ever used."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the following set of words and phrases to complete the sentences. You can add additional words.</span><span class=\"cue-line\">I / ask / Mary / if she / come / Sydney / Australia.</span>",
+      "answer": "I asked Mary if she came from Sydney, Australia."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a passage of 120-140 words.</span>Do you think bicycles are the best means of transport in Vietnam? Write a passage (120-140 words) about your opinion.",
+      "rubric": [
+        "Organization: clear introduction, body, and ending, with appropriate linking words",
+        "Content: clear, logical, and creative, with explanations supporting your opinion",
+        "Language: free of grammatical and spelling errors"
+      ]
+    }
+  ]
+}

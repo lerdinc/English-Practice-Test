@@ -1,0 +1,844 @@
+{
+  "title": "English Practice Test No: 13",
+  "subtitle": "50 questions · Use of Language, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Use of Language — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Find the word which has a different sound in the underlined part.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "wanted",
+          "underline": "ed",
+          "ipa": "/ˈwɒntɪd/",
+          "explain": "\"ed\" said as /ɪd/ — the odd one out"
+        },
+        {
+          "word": "washed",
+          "underline": "ed",
+          "ipa": "/wɒʃt/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "danced",
+          "underline": "ed",
+          "ipa": "/dænst/",
+          "explain": "\"ed\" said as /t/"
+        },
+        {
+          "word": "stopped",
+          "underline": "ed",
+          "ipa": "/stɒpt/",
+          "explain": "\"ed\" said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Use of Language — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Find the word which has a different sound in the underlined part.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "beds",
+          "underline": "s",
+          "ipa": "/bedz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "dogs",
+          "underline": "s",
+          "ipa": "/dɒgz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "porters",
+          "underline": "s",
+          "ipa": "/ˈpɔːrtərz/",
+          "explain": "\"s\" said as /z/"
+        },
+        {
+          "word": "books",
+          "underline": "s",
+          "ipa": "/bʊks/",
+          "explain": "\"s\" said as /s/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Use of Language — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Find the word which has a different sound in the underlined part.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "pictures",
+          "underline": "es",
+          "ipa": "/ˈpɪktʃərz/",
+          "explain": "\"s\" said as /z/, no extra syllable — the odd one out"
+        },
+        {
+          "word": "watches",
+          "underline": "es",
+          "ipa": "/ˈwɒtʃɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        },
+        {
+          "word": "buses",
+          "underline": "es",
+          "ipa": "/ˈbʌsɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        },
+        {
+          "word": "brushes",
+          "underline": "es",
+          "ipa": "/ˈbrʌʃɪz/",
+          "explain": "\"es\" adds an extra syllable /ɪz/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Use of Language — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Find the word which has a different sound in the underlined part.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "homework",
+          "underline": "o",
+          "ipa": "/ˈhoʊmwɜːrk/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "mother",
+          "underline": "o",
+          "ipa": "/ˈmʌðər/",
+          "explain": "\"o\" said as /ʌ/ — the odd one out"
+        },
+        {
+          "word": "open",
+          "underline": "o",
+          "ipa": "/ˈoʊpən/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "judo",
+          "underline": "o",
+          "ipa": "/ˈdʒuːdoʊ/",
+          "explain": "\"o\" said as /oʊ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>My dad doesn't mind ______ my mom from work every day.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "pick up",
+          "ipa": "/pɪk ʌp/",
+          "explain": "wrong form after \"mind\""
+        },
+        {
+          "word": "picked up",
+          "ipa": "/pɪkt ʌp/",
+          "explain": "wrong form after \"mind\""
+        },
+        {
+          "word": "picking up",
+          "ipa": "/ˈpɪkɪŋ ʌp/",
+          "explain": "correct — \"mind\" + gerund"
+        },
+        {
+          "word": "picks up",
+          "ipa": "/pɪks ʌp/",
+          "explain": "wrong form after \"mind\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Using computers too much may have harmful effects ______ your minds and bodies.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "correct — \"effects on\" is the fixed collocation"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "onto",
+          "ipa": "/ˈɒntuː/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>I love the people in my village. They are so ______ and hospitable.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "friendly",
+          "ipa": "/ˈfrendli/",
+          "explain": "correct — pairs naturally with \"hospitable\""
+        },
+        {
+          "word": "vast",
+          "ipa": "/væst/",
+          "explain": "wrong meaning — describes size, not people"
+        },
+        {
+          "word": "slow",
+          "ipa": "/sloʊ/",
+          "explain": "doesn't fit — unrelated to hospitality"
+        },
+        {
+          "word": "inconvenient",
+          "ipa": "/ˌɪnkənˈviːniənt/",
+          "explain": "wrong meaning, and contradicts the positive tone"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Among the ______, the Tay people have the largest population.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "groups",
+          "ipa": "/gruːps/",
+          "explain": "too vague for this specific context"
+        },
+        {
+          "word": "majorities",
+          "ipa": "/məˈdʒɒrətiz/",
+          "explain": "wrong meaning — a majority isn't a type of community"
+        },
+        {
+          "word": "ethnic minorities",
+          "ipa": "/ˈeθnɪk maɪˈnɔːrətiz/",
+          "explain": "correct — fits the context of Vietnam's Tay people"
+        },
+        {
+          "word": "ethnic cultures",
+          "ipa": "/ˈeθnɪk ˈkʌltʃərz/",
+          "explain": "wrong noun — \"culture\" isn't counted by population"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>People in the countryside live ______ than those in the city.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "happy",
+          "ipa": "/ˈhæpi/",
+          "explain": "adjective, not a comparative form"
+        },
+        {
+          "word": "more happily",
+          "ipa": "/mɔːr ˈhæpəli/",
+          "explain": "correct — comparative adverb modifying \"live\""
+        },
+        {
+          "word": "happily",
+          "ipa": "/ˈhæpəli/",
+          "explain": "adverb, but not comparative — needs \"than\""
+        },
+        {
+          "word": "less happy",
+          "ipa": "/les ˈhæpi/",
+          "explain": "wrong word class — needs an adverb, not adjective"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Viet Nam is ______ multicultural country with 54 ethnic groups.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "a",
+          "ipa": "/ə/",
+          "explain": "correct — \"a\" before the consonant sound /m/"
+        },
+        {
+          "word": "an",
+          "ipa": "/ən/",
+          "explain": "wrong — \"multicultural\" starts with a consonant sound"
+        },
+        {
+          "word": "the",
+          "ipa": "/ðə/",
+          "explain": "wrong article — not a specific, previously mentioned country"
+        },
+        {
+          "word": "A and C",
+          "ipa": "",
+          "explain": "only one option can be grammatically correct here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>We have learnt English, ______ is an international language.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "correct — non-restrictive relative pronoun for a thing"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "used for people, not a language"
+        },
+        {
+          "word": "whom",
+          "ipa": "/huːm/",
+          "explain": "used for people, not a language"
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "doesn't fit a non-restrictive clause like this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>This school ______ in 2005.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "was built",
+          "ipa": "/wəz bɪlt/",
+          "explain": "correct — past simple passive for a completed past action"
+        },
+        {
+          "word": "is built",
+          "ipa": "/ɪz bɪlt/",
+          "explain": "wrong tense — not a present fact"
+        },
+        {
+          "word": "will be built",
+          "ipa": "/wɪl bi bɪlt/",
+          "explain": "wrong tense — 2005 is in the past"
+        },
+        {
+          "word": "has been built",
+          "ipa": "/hæz bɪn bɪlt/",
+          "explain": "present perfect doesn't fit a specific past date like \"in 2005\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>I don't have a computer. I wish I ______ a new one.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "wrong tense — \"wish\" needs a past form for a present wish"
+        },
+        {
+          "word": "have had",
+          "ipa": "/hæv hæd/",
+          "explain": "wrong tense"
+        },
+        {
+          "word": "will have",
+          "ipa": "/wɪl hæv/",
+          "explain": "wrong tense — \"wish\" doesn't take \"will\""
+        },
+        {
+          "word": "had",
+          "ipa": "/hæd/",
+          "explain": "correct — \"wish + past simple\" for an unreal present wish"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>They usually ______ T-shirts on the weekends.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "wear",
+          "ipa": "/wer/",
+          "explain": "correct — present simple for a habitual action"
+        },
+        {
+          "word": "worn",
+          "ipa": "/wɔːrn/",
+          "explain": "past participle, wrong tense"
+        },
+        {
+          "word": "wore",
+          "ipa": "/wɔːr/",
+          "explain": "past simple doesn't fit \"usually\""
+        },
+        {
+          "word": "wearing",
+          "ipa": "/ˈwerɪŋ/",
+          "explain": "not a finite verb form here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>My uncle is a ______. He composes music and plays the piano very well.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "music player",
+          "ipa": "/ˈmjuːzɪk ˈpleɪər/",
+          "explain": "means a device, not a person"
+        },
+        {
+          "word": "musician",
+          "ipa": "/mjuˈzɪʃən/",
+          "explain": "correct — someone who composes and performs music"
+        },
+        {
+          "word": "music writer",
+          "ipa": "/ˈmjuːzɪk ˈraɪtər/",
+          "explain": "not the standard term"
+        },
+        {
+          "word": "music fan",
+          "ipa": "/ˈmjuːzɪk fæn/",
+          "explain": "means someone who enjoys music, not creates it"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>Many people are fond of ______ jeans.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "wear",
+          "ipa": "/wer/",
+          "explain": "wrong form after \"fond of\""
+        },
+        {
+          "word": "wore",
+          "ipa": "/wɔːr/",
+          "explain": "wrong form after \"fond of\""
+        },
+        {
+          "word": "worn",
+          "ipa": "/wɔːrn/",
+          "explain": "wrong form after \"fond of\""
+        },
+        {
+          "word": "wearing",
+          "ipa": "/ˈwerɪŋ/",
+          "explain": "correct — \"fond of\" + gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>If I ______ it was a formal party, I wouldn't have gone wearing jeans and a jumper.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "knew",
+          "ipa": "/nuː/",
+          "explain": "wrong tense — needed for a third conditional"
+        },
+        {
+          "word": "had known",
+          "ipa": "/hæd noʊn/",
+          "explain": "correct — third conditional (past perfect in the if-clause)"
+        },
+        {
+          "word": "had been knowing",
+          "ipa": "/hæd bɪn ˈnoʊɪŋ/",
+          "explain": "\"know\" isn't used in the continuous form"
+        },
+        {
+          "word": "could know",
+          "ipa": "/kʊd noʊ/",
+          "explain": "wrong modal for this conditional"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>If you take the 8 a.m. flight to New York you ______ change planes.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "could not have to",
+          "ipa": "/kʊd nɒt hæv tə/",
+          "explain": "not a standard modal combination"
+        },
+        {
+          "word": "will not have to",
+          "ipa": "/wɪl nɒt hæv tə/",
+          "explain": "correct — first conditional (present + will)"
+        },
+        {
+          "word": "had not had to",
+          "ipa": "/hæd nɒt hæd tə/",
+          "explain": "wrong tense for a first conditional"
+        },
+        {
+          "word": "would not to have to",
+          "ipa": "/wʊd nɒt tə hæv tə/",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer.</span>If it were well paid, I ______ this proposal.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "would accept",
+          "ipa": "/wʊd əkˈsept/",
+          "explain": "correct — second conditional (were + would + bare verb)"
+        },
+        {
+          "word": "Will accept",
+          "ipa": "/wɪl əkˈsept/",
+          "explain": "wrong tense — doesn't match \"were\""
+        },
+        {
+          "word": "Would have accepted",
+          "ipa": "/wʊd hæv əkˈseptɪd/",
+          "explain": "this is third conditional form, doesn't match \"were\""
+        },
+        {
+          "word": "Accepted",
+          "ipa": "/əkˈseptɪd/",
+          "explain": "not a valid form after \"I\" here"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Mai enjoy(s) ______ crafts, especially bracelets. (make)",
+      "answer": "making"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>______ you ever ______ a buffalo? (ride — auxiliary)",
+      "answer": "Have"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Have you ever ______ a buffalo? (ride)",
+      "answer": "ridden"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>The children used to ______ a long way to school. (go)",
+      "answer": "go"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>They hate ______ their son texting his friends all day. (see)",
+      "answer": "seeing / to see"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Do you fancy ______ in the park this Sunday? (skateboard)",
+      "answer": "skateboarding"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Minh (not find) ______ his pen yet.",
+      "answer": "hasn't found"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>My house (rebuild) ______ next month.",
+      "answer": "will be rebuilt"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Nowadays, a lot of important inventions (carry out) ______ by scientists. (carry out)",
+      "answer": "are carried out"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Nowadays, a lot of important inventions are carried out by scientists (work) ______ for large industrial firms. (work)",
+      "answer": "working"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>We have just bought the pictures (paint) ______ by Leonardo Da Vinci.",
+      "answer": "painted"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Use of Language — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb given.</span>Neil Armstrong was the first man (walk) ______ on the Moon.",
+      "answer": "to walk"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">In my opinion, using the computer as your hobby can be harmful to both your health and your social life. Firstly, sitting all day in front of the computer can cause health problems such as eye-tiredness and obesity. Secondly, you may get irritated easily. Besides, if you use the computer too much, you will not have time for our family and friends. In short, computers should only be used for a limited time.</span><span class=\"cue-line\">Using the computer too much can make your eyes tired.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">In my opinion, using the computer as your hobby can be harmful to both your health and your social life. Firstly, sitting all day in front of the computer can cause health problems such as eye-tiredness and obesity. Secondly, you may get irritated easily. Besides, if you use the computer too much, you will not have time for our family and friends. In short, computers should only be used for a limited time.</span><span class=\"cue-line\">Using the computer too much is not good for you.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">In my opinion, using the computer as your hobby can be harmful to both your health and your social life. Firstly, sitting all day in front of the computer can cause health problems such as eye-tiredness and obesity. Secondly, you may get irritated easily. Besides, if you use the computer too much, you will not have time for our family and friends. In short, computers should only be used for a limited time.</span><span class=\"cue-line\">We still can spend a lot of time with our family and friends.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">In my opinion, using the computer as your hobby can be harmful to both your health and your social life. Firstly, sitting all day in front of the computer can cause health problems such as eye-tiredness and obesity. Secondly, you may get irritated easily. Besides, if you use the computer too much, you will not have time for our family and friends. In short, computers should only be used for a limited time.</span><span class=\"cue-line\">According to the writer, we can use the computer for a long time.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — True or False",
+      "prompt": "<span class=\"mini-instruction\">Read the passage, then decide whether the statement is True or False.</span><span class=\"passage-block\">In my opinion, using the computer as your hobby can be harmful to both your health and your social life. Firstly, sitting all day in front of the computer can cause health problems such as eye-tiredness and obesity. Secondly, you may get irritated easily. Besides, if you use the computer too much, you will not have time for our family and friends. In short, computers should only be used for a limited time.</span><span class=\"cue-line\">Computers should only be used for a limited time.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then answer the question.</span><span class=\"passage-block\">I live in a village by Mekong River. Every day, like most of my friends, I walk to school. It is three kilometers away. After class, I often help my mother to collect water from the river and feed the chickens. At the weekend, the villagers often gather at the community hall where there is a TV. The adults watch TV, but more often they talk about their farm work and exchange news. The children run around, playing games and shouting merrily. Laughter is heard everywhere.<br><br>My father sometimes takes me to the market town nearby where he sells our home products like vegetables, fruits, eggs... He then buys me an ice cream and lets me take a ride on the electric train in the town square. I love those trips.<br><br>On starry nights, we children lie on the grass, looking at the sky and daring each other to find the Milky Way. We dream of faraway places.</span><span class=\"cue-line\">Does the boy like riding on the electric train in the town square?</span>",
+      "answer": "Yes, the boy does. / Yes, he does."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then answer the question.</span><span class=\"passage-block\">I live in a village by Mekong River. Every day, like most of my friends, I walk to school. It is three kilometers away. After class, I often help my mother to collect water from the river and feed the chickens. At the weekend, the villagers often gather at the community hall where there is a TV. The adults watch TV, but more often they talk about their farm work and exchange news. The children run around, playing games and shouting merrily. Laughter is heard everywhere.<br><br>My father sometimes takes me to the market town nearby where he sells our home products like vegetables, fruits, eggs... He then buys me an ice cream and lets me take a ride on the electric train in the town square. I love those trips.<br><br>On starry nights, we children lie on the grass, looking at the sky and daring each other to find the Milky Way. We dream of faraway places.</span><span class=\"cue-line\">What do the children do on starry nights?</span>",
+      "answer": "They lie on the grass, looking at the sky and daring each other to find the Milky Way."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully, then answer the question.</span><span class=\"passage-block\">I live in a village by Mekong River. Every day, like most of my friends, I walk to school. It is three kilometers away. After class, I often help my mother to collect water from the river and feed the chickens. At the weekend, the villagers often gather at the community hall where there is a TV. The adults watch TV, but more often they talk about their farm work and exchange news. The children run around, playing games and shouting merrily. Laughter is heard everywhere.<br><br>My father sometimes takes me to the market town nearby where he sells our home products like vegetables, fruits, eggs... He then buys me an ice cream and lets me take a ride on the electric train in the town square. I love those trips.<br><br>On starry nights, we children lie on the grass, looking at the sky and daring each other to find the Milky Way. We dream of faraway places.</span><span class=\"cue-line\">Do you like to live in the countryside or in the city? Why? (This is an opinion question — answers will vary.)</span>",
+      "answer": "I like to live in the countryside because it is quiet and comfortable."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">My house is smaller than your house.</span><span class=\"cue-line\">Your house ......................</span>",
+      "answer": "Your house is bigger than my house."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">She doesn't have much free time, so she will not visit her friends.</span><span class=\"cue-line\">If ......................</span>",
+      "answer": "If she had much free time, she would visit her friends."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">The black dress is more expensive than the white one.</span><span class=\"cue-line\">The white dress ......................</span>",
+      "answer": "The white dress is not as expensive as the black one. / The white dress is cheaper than the black one."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">No one in my group is more intelligent than Mary.</span><span class=\"cue-line\">Mary ......................</span>",
+      "answer": "Mary is the most intelligent in my group."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">Tam doesn't run as fast as she used to.</span><span class=\"cue-line\">Tam used ......................</span>",
+      "answer": "Tam used to run faster than she does now."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">We couldn't have managed without my father's money.</span><span class=\"cue-line\">But for ......................</span>",
+      "answer": "But for my father's money, we couldn't have managed."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">It's a pity your brother isn't here.</span><span class=\"cue-line\">I wish he ......................</span>",
+      "answer": "I wish he were here."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">They bought this building two years ago.</span><span class=\"cue-line\">This building ...................... (change into passive voice)</span>",
+      "answer": "This building was bought two years ago."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">Minh last wrote to his pen pal five months ago.</span><span class=\"cue-line\">Minh hasn't ......................</span>",
+      "answer": "Minh hasn't written to his pen pal for five months."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">The boy was taken to the hospital. He was injured in the accident.</span><span class=\"cue-line\">The boy who ......................</span>",
+      "answer": "The boy who was injured in the accident was taken to the hospital."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a short paragraph of 70-80 words.</span>Write a short paragraph giving your opinion about life in the countryside. You can use these clue questions: What is your opinion about life in the countryside? How are the people, landscape, weather or air? How is the life there? How is the food? What activities can you do there?",
+      "rubric": [
+        "Structure: a clear paragraph of about 70-80 words with a topic sentence and supporting details",
+        "Content: addresses the clue questions (opinion, people/landscape/weather, daily life, food, activities)",
+        "Language: reasonably accurate grammar and vocabulary appropriate to the level"
+      ]
+    }
+  ]
+}
