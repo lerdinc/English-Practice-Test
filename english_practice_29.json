@@ -1,0 +1,1632 @@
+{
+  "title": "English Practice Test No: 29",
+  "subtitle": "90 questions - Phonetics, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest in the same line.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "creative",
+          "underline": "ea",
+          "ipa": "/kriˈeɪtɪv/",
+          "explain": "said as /eɪ/"
+        },
+        {
+          "word": "creation",
+          "underline": "ea",
+          "ipa": "/kriˈeɪʃən/",
+          "explain": "said as /eɪ/"
+        },
+        {
+          "word": "creature",
+          "underline": "ea",
+          "ipa": "/ˈkriːtʃər/",
+          "explain": "said as /iː/ -- the odd one out"
+        },
+        {
+          "word": "create",
+          "underline": "ea",
+          "ipa": "/kriˈeɪt/",
+          "explain": "said as /eɪ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest in the same line.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "insect",
+          "underline": "e",
+          "ipa": "/ˈɪnsekt/",
+          "explain": "said as /e/"
+        },
+        {
+          "word": "percent",
+          "underline": "e",
+          "ipa": "/pərˈsent/",
+          "explain": "said as /e/"
+        },
+        {
+          "word": "wetland",
+          "underline": "e",
+          "ipa": "/ˈwetlænd/",
+          "explain": "said as /e/"
+        },
+        {
+          "word": "extinct",
+          "underline": "e",
+          "ipa": "/ɪkˈstɪŋkt/",
+          "explain": "said as /ɪ/ -- the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest in the same line.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "helps",
+          "underline": "s",
+          "ipa": "/helps/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "arrives",
+          "underline": "s",
+          "ipa": "/əˈraɪvz/",
+          "explain": "said as /z/ -- the odd one out"
+        },
+        {
+          "word": "likes",
+          "underline": "s",
+          "ipa": "/laɪks/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "laughs",
+          "underline": "s",
+          "ipa": "/læfs/",
+          "explain": "said as /s/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest in the same line.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "frightened",
+          "underline": "ed",
+          "ipa": "/ˈfraɪtənd/",
+          "explain": "said as /ənd/, an extra syllable -- the odd one out"
+        },
+        {
+          "word": "stamped",
+          "underline": "ed",
+          "ipa": "/stæmpt/",
+          "explain": "said as /t/"
+        },
+        {
+          "word": "walked",
+          "underline": "ed",
+          "ipa": "/wɔːkt/",
+          "explain": "said as /t/"
+        },
+        {
+          "word": "watched",
+          "underline": "ed",
+          "ipa": "/wɒtʃt/",
+          "explain": "said as /t/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest in the same line.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "serious",
+          "underline": "ou",
+          "ipa": "/ˈsɪriəs/",
+          "explain": "the \"ou\" here is part of \"-ious\", said as /iə/ -- the odd one out"
+        },
+        {
+          "word": "thousand",
+          "underline": "ou",
+          "ipa": "/ˈθaʊzənd/",
+          "explain": "said as /aʊ/"
+        },
+        {
+          "word": "found",
+          "underline": "ou",
+          "ipa": "/faʊnd/",
+          "explain": "said as /aʊ/"
+        },
+        {
+          "word": "around",
+          "underline": "ou",
+          "ipa": "/əˈraʊnd/",
+          "explain": "said as /aʊ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word that has the stressed syllable differently from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "biologist",
+          "ipa": "/baɪˈɒlədʒɪst/",
+          "explain": "bi-OL-o-gist -- stress on the 2nd syllable"
+        },
+        {
+          "word": "endangerment",
+          "ipa": "/ɪnˈdeɪndʒərmənt/",
+          "explain": "en-DAN-ger-ment -- stress on the 2nd syllable"
+        },
+        {
+          "word": "priority",
+          "ipa": "/praɪˈɔːrəti/",
+          "explain": "pri-OR-i-ty -- stress on the 2nd syllable"
+        },
+        {
+          "word": "vulnerable",
+          "ipa": "/ˈvʌlnərəbəl/",
+          "explain": "VUL-ner-a-ble -- stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word that has the stressed syllable differently from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "survive",
+          "ipa": "/sərˈvaɪv/",
+          "explain": "sur-VIVE -- stress on the 2nd syllable"
+        },
+        {
+          "word": "product",
+          "ipa": "/ˈprɒdʌkt/",
+          "explain": "PROD-uct -- stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "reserve",
+          "ipa": "/rɪˈzɜːrv/",
+          "explain": "re-SERVE -- stress on the 2nd syllable"
+        },
+        {
+          "word": "enact",
+          "ipa": "/ɪˈnækt/",
+          "explain": "e-NACT -- stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word that has the stressed syllable differently from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "bamboo",
+          "ipa": "/bæmˈbuː/",
+          "explain": "bam-BOO -- stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "panda",
+          "ipa": "/ˈpændə/",
+          "explain": "PAN-da -- stress on the 1st syllable"
+        },
+        {
+          "word": "parrot",
+          "ipa": "/ˈpærət/",
+          "explain": "PAR-rot -- stress on the 1st syllable"
+        },
+        {
+          "word": "wildlife",
+          "ipa": "/ˈwaɪldlaɪf/",
+          "explain": "WILD-life -- stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word that has the stressed syllable differently from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "universal",
+          "ipa": "/ˌjuːnɪˈvɜːrsəl/",
+          "explain": "u-ni-VER-sal -- stress on the 3rd syllable"
+        },
+        {
+          "word": "horizontal",
+          "ipa": "/ˌhɔːrɪˈzɒntəl/",
+          "explain": "hor-i-ZON-tal -- stress on the 3rd syllable"
+        },
+        {
+          "word": "potential",
+          "ipa": "/pəˈtenʃəl/",
+          "explain": "po-TEN-tial -- stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "preferential",
+          "ipa": "/ˌprefəˈrenʃəl/",
+          "explain": "pref-er-EN-tial -- stress on the 3rd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Pick out the word that has the stressed syllable differently from that of the other words.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "subsequent",
+          "ipa": "/ˈsʌbsɪkwənt/",
+          "explain": "SUB-se-quent -- stress on the 1st syllable"
+        },
+        {
+          "word": "undergo",
+          "ipa": "/ˌʌndərˈgoʊ/",
+          "explain": "un-der-GO -- stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "enterprise",
+          "ipa": "/ˈentərpraɪz/",
+          "explain": "EN-ter-prise -- stress on the 1st syllable"
+        },
+        {
+          "word": "government",
+          "ipa": "/ˈgʌvərnmənt/",
+          "explain": "GOV-ern-ment -- stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>But for the rain we ______ our destination ages ago.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "reached",
+          "ipa": "/riːtʃt/",
+          "explain": "wrong tense -- \"but for\" needs a third conditional form"
+        },
+        {
+          "word": "would reach",
+          "ipa": "/wʊd riːtʃ/",
+          "explain": "wrong tense -- needs the perfect form for a past hypothetical"
+        },
+        {
+          "word": "would have reached",
+          "ipa": "/wʊd hæv riːtʃt/",
+          "explain": "correct -- \"but for\" (without) + third conditional result"
+        },
+        {
+          "word": "had reached",
+          "ipa": "/hæd riːtʃt/",
+          "explain": "wrong form for this conditional result clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>I was offered lamb or chicken, ______ I like.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "neither of that",
+          "ipa": "/ˈniːðər ʌv ðæt/",
+          "explain": "\"that\" can't follow \"of\" this way in a non-restrictive clause"
+        },
+        {
+          "word": "neither of which",
+          "ipa": "/ˈniːðər ʌv wɪtʃ/",
+          "explain": "correct -- non-restrictive relative clause referring to both options"
+        },
+        {
+          "word": "of that neither",
+          "ipa": "/ʌv ðæt ˈniːðər/",
+          "explain": "wrong word order"
+        },
+        {
+          "word": "of which neither",
+          "ipa": "/ʌv wɪtʃ ˈniːðər/",
+          "explain": "wrong word order"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>David: You really have a nice dress, Kathy. I've never seen such a perfect thing on you.\nKathy: ______. I bought it at the shop near my house yesterday.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "I'm sure you like it",
+          "ipa": "",
+          "explain": "doesn't fit as a natural response to a compliment"
+        },
+        {
+          "word": "I suppose it is not bad",
+          "ipa": "",
+          "explain": "undersells the compliment awkwardly, less natural"
+        },
+        {
+          "word": "I'm glad you like it",
+          "ipa": "",
+          "explain": "correct -- natural, gracious response to a compliment"
+        },
+        {
+          "word": "I myself like it very much",
+          "ipa": "",
+          "explain": "doesn't directly respond to the compliment given"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>My son didn't feel well. ______, he didn't go to work yesterday.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "wrong meaning -- doesn't show a consequence"
+        },
+        {
+          "word": "Therefore",
+          "ipa": "/ˈðerfɔːr/",
+          "explain": "correct -- shows the logical consequence"
+        },
+        {
+          "word": "So",
+          "ipa": "/soʊ/",
+          "explain": "also plausible, but \"Therefore\" is the key's intended more formal choice"
+        },
+        {
+          "word": "But",
+          "ipa": "/bʌt/",
+          "explain": "wrong meaning -- doesn't show a consequence"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Don't let me disturb you; please get ______ your writing.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "on with",
+          "ipa": "/ɒn wɪð/",
+          "explain": "correct -- \"get on with\" means to continue doing something"
+        },
+        {
+          "word": "in with",
+          "ipa": "/ɪn wɪð/",
+          "explain": "not a standard phrasal verb"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "incomplete -- missing \"on\""
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>I don't like this chocolate. I like ______ chocolate.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "some others",
+          "ipa": "/sʌm ˈʌðərz/",
+          "explain": "wrong -- \"others\" is a pronoun, doesn't fit directly before a noun"
+        },
+        {
+          "word": "another",
+          "ipa": "/əˈnʌðər/",
+          "explain": "\"another\" is singular, doesn't fit an uncountable noun like \"chocolate\" this way"
+        },
+        {
+          "word": "some other",
+          "ipa": "/sʌm ˈʌðər/",
+          "explain": "correct -- \"some other\" + uncountable noun"
+        },
+        {
+          "word": "one other",
+          "ipa": "/wʌn ˈʌðər/",
+          "explain": "doesn't fit an uncountable noun like \"chocolate\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Her blouse didn't fit her well. ______",
+      "answer": 3,
+      "options": [
+        {
+          "word": "So her skirt didn't",
+          "ipa": "",
+          "explain": "wrong -- \"so\" + auxiliary + subject agrees with a positive statement, not negative"
+        },
+        {
+          "word": "So didn't her skirt",
+          "ipa": "",
+          "explain": "wrong word order for this agreement structure"
+        },
+        {
+          "word": "But her skirt didn't",
+          "ipa": "",
+          "explain": "would mean the skirt ALSO didn't fit, contradicting the intended \"neither\" meaning of the answer"
+        },
+        {
+          "word": "But her skirt did",
+          "ipa": "",
+          "explain": "correct -- shows contrast: the blouse didn't fit, but the skirt did"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Physics and mathematics interest him almost ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "alike",
+          "ipa": "/əˈlaɪk/",
+          "explain": "used after a linking verb describing similarity, not fitting \"interest him almost ___\""
+        },
+        {
+          "word": "the same",
+          "ipa": "/ðə seɪm/",
+          "explain": "less natural in this exact adverbial slot"
+        },
+        {
+          "word": "similarly",
+          "ipa": "/ˈsɪmələrli/",
+          "explain": "doesn't fit this fixed idiom as naturally"
+        },
+        {
+          "word": "equally",
+          "ipa": "/ˈiːkwəli/",
+          "explain": "correct -- \"interest him equally\" is the natural phrasing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>I admit I suffer from a ______ of patience with such people.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "shortage",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "explain": "less natural collocation with \"patience\" than \"lack\""
+        },
+        {
+          "word": "lack",
+          "ipa": "/læk/",
+          "explain": "correct -- \"a lack of patience\" is the fixed collocation"
+        },
+        {
+          "word": "emptiness",
+          "ipa": "/ˈemptinəs/",
+          "explain": "wrong word for this meaning"
+        },
+        {
+          "word": "limit",
+          "ipa": "/ˈlɪmɪt/",
+          "explain": "wrong word for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Don't start the next page ______ you have finished the last test question.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "until",
+          "ipa": "/ənˈtɪl/",
+          "explain": "correct -- \"don't do X until Y\" is the fixed structure"
+        },
+        {
+          "word": "while",
+          "ipa": "/waɪl/",
+          "explain": "wrong meaning -- doesn't express the needed condition"
+        },
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "less precise than \"until\" for this sequencing meaning"
+        },
+        {
+          "word": "since",
+          "ipa": "/sɪns/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>They turned ______ at the party, despite the awful weather.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "round",
+          "ipa": "/raʊnd/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "back",
+          "ipa": "/bæk/",
+          "explain": "wrong meaning -- implies returning"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct -- \"turn up\" means to arrive/appear"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>- \"Do you like frog's legs?\" - \"______ them, I don't really know.\"",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Never try",
+          "ipa": "",
+          "explain": "not a valid grammatical form here"
+        },
+        {
+          "word": "Not to have try",
+          "ipa": "",
+          "explain": "not a valid grammatical form"
+        },
+        {
+          "word": "Never having tried",
+          "ipa": "",
+          "explain": "correct -- participle clause meaning \"since I have never tried\""
+        },
+        {
+          "word": "Never had tried",
+          "ipa": "",
+          "explain": "not a valid grammatical form for this participle clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>The ______ between the rich and the poor countries of the world is increasing.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "space",
+          "ipa": "/speɪs/",
+          "explain": "wrong word for this figurative meaning"
+        },
+        {
+          "word": "gap",
+          "ipa": "/gæp/",
+          "explain": "correct -- \"the gap between rich and poor\" is the fixed collocation"
+        },
+        {
+          "word": "distance",
+          "ipa": "/ˈdɪstəns/",
+          "explain": "less natural for this figurative economic meaning"
+        },
+        {
+          "word": "interval",
+          "ipa": "/ˈɪntərvəl/",
+          "explain": "wrong word -- refers to a time gap"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Although he was completely ______ as a furniture-maker, he produced the most beautiful chairs.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "unable",
+          "ipa": "/ʌnˈeɪbəl/",
+          "explain": "doesn't fit \"as a furniture-maker\" as naturally"
+        },
+        {
+          "word": "uneducated",
+          "ipa": "/ʌnˈedʒukeɪtɪd/",
+          "explain": "less precise than \"untrained\" for a specific craft skill"
+        },
+        {
+          "word": "incapable",
+          "ipa": "/ɪnˈkeɪpəbəl/",
+          "explain": "would need \"of\", doesn't fit \"as a furniture-maker\" directly"
+        },
+        {
+          "word": "untrained",
+          "ipa": "/ʌnˈtreɪnd/",
+          "explain": "correct -- describes lacking formal training in a craft"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>My grandmother takes better photographs than ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "my",
+          "ipa": "/maɪ/",
+          "explain": "incomplete -- a possessive alone isn't a valid comparison here"
+        },
+        {
+          "word": "I take",
+          "ipa": "/aɪ teɪk/",
+          "explain": "grammatically valid but less idiomatic than the object pronoun form in this key's intended answer"
+        },
+        {
+          "word": "me",
+          "ipa": "/miː/",
+          "explain": "correct -- \"than me\" is the natural informal comparison"
+        },
+        {
+          "word": "me take",
+          "ipa": "/miː teɪk/",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>There were many big trees, between me and the river and now they all fell down ______ into the water.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "one another",
+          "ipa": "/wʌn əˈnʌðər/",
+          "explain": "wrong -- \"one another\" describes mutual action, not sequential falling"
+        },
+        {
+          "word": "one after another",
+          "ipa": "/wʌn ˈæftər əˈnʌðər/",
+          "explain": "correct -- describes a sequence of trees falling in succession"
+        },
+        {
+          "word": "each other",
+          "ipa": "/iːtʃ ˈʌðər/",
+          "explain": "wrong -- describes mutual action between two, not sequential falling"
+        },
+        {
+          "word": "a lot",
+          "ipa": "/ə lɒt/",
+          "explain": "doesn't capture the sequential imagery intended"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Just keep ______ on the baby while I cook the dinner, will you?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "a look",
+          "ipa": "/ə lʊk/",
+          "explain": "wrong -- \"keep a look\" isn't the standard idiom"
+        },
+        {
+          "word": "a glance",
+          "ipa": "/ə glæns/",
+          "explain": "wrong -- doesn't fit \"keep ___ on\""
+        },
+        {
+          "word": "an eye",
+          "ipa": "/ən aɪ/",
+          "explain": "correct -- \"keep an eye on someone\" is the fixed idiom for watching over them"
+        },
+        {
+          "word": "a care",
+          "ipa": "/ə ker/",
+          "explain": "not a standard idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>There ______ lots of furniture ______ in the furniture department.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "are / to display",
+          "ipa": "/ɑːr tə dɪˈspleɪ/",
+          "explain": "wrong agreement -- \"furniture\" is uncountable, singular"
+        },
+        {
+          "word": "are / displaying",
+          "ipa": "/ɑːr dɪˈspleɪɪŋ/",
+          "explain": "wrong agreement, and wrong voice (furniture doesn't display itself)"
+        },
+        {
+          "word": "is / displaying",
+          "ipa": "/ɪz dɪˈspleɪɪŋ/",
+          "explain": "wrong voice -- furniture is displayed, not displaying"
+        },
+        {
+          "word": "is / on display",
+          "ipa": "/ɪz ɒn dɪˈspleɪ/",
+          "explain": "correct -- singular agreement with uncountable \"furniture\", and \"on display\" is the fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>I want to keep ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "the room tidy",
+          "ipa": "",
+          "explain": "correct -- \"keep + object + adjective\" (tidy describes the room)"
+        },
+        {
+          "word": "the room tidily",
+          "ipa": "",
+          "explain": "wrong word class -- \"tidily\" is an adverb, doesn't fit this object-complement structure"
+        },
+        {
+          "word": "the tidy room",
+          "ipa": "",
+          "explain": "changes the meaning -- implies the room is already tidy, not a goal"
+        },
+        {
+          "word": "the tidily room",
+          "ipa": "",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct word or phrase to complete each sentence.</span>Although most cars can travel much faster, the ______ speed limit in the UK is 70 mph (110 kph).",
+      "answer": 0,
+      "options": [
+        {
+          "word": "maximum",
+          "ipa": "/ˈmæksɪməm/",
+          "explain": "correct -- \"maximum speed limit\" is the standard fixed term"
+        },
+        {
+          "word": "greatest",
+          "ipa": "/ˈgreɪtɪst/",
+          "explain": "less standard collocation for a legal limit"
+        },
+        {
+          "word": "highest",
+          "ipa": "/ˈhaɪɪst/",
+          "explain": "less standard collocation for a legal limit"
+        },
+        {
+          "word": "biggest",
+          "ipa": "/ˈbɪgɪst/",
+          "explain": "wrong word for describing a speed value"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>By May 5th, we (live) ______ in this city for ten years.",
+      "answer": "will have been living"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>The boy with his two companions (split) ______ the cherry tree now.",
+      "answer": "is splitting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>I didn't get home until after midnight last night. Otherwise, I (return) ______ your call.",
+      "answer": "would have returned"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>There are a lot of students (sit) ______ in the playground.",
+      "answer": "sitting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>I'm really sleepy today. I wish I (not take) ______ Bob to the airport late last night.",
+      "answer": "hadn't taken"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>I demand that I (retake) ______ the exam.",
+      "answer": "retake"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>Tom was the last person (leave) ______ the classroom yesterday.",
+      "answer": "to leave"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>His greatest ambition is (choose) ______ to take part in the Olympics.",
+      "answer": "to be chosen"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct forms of the verbs in brackets.</span>It looks as if this light (burn) ______ all night. I (forget) ______ to switch it off before I went to bed last night.",
+      "answer": "has been burning / must (could) have forgotten"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>She left school with good ______. (QUALIFY)",
+      "answer": "qualifications"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>The bride was ______ dressed in white. (STYLE)",
+      "answer": "stylishly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>The ______ of the agriculture in our country is very necessary. (ELECTRIFY)",
+      "answer": "electrification"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>Jim's ______ of the crime only made matters worse. (DENY)",
+      "answer": "denial"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>You can raise your hand to show that you need ______. (ASSIST)",
+      "answer": "assistance"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>We had the phone ______ because we are moving tomorrow. (CONNECT)",
+      "answer": "disconnected"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>______, there are black holes in space. (THEORY)",
+      "answer": "Theoretically"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>One of the aims of the organization is to provide ______ aid to the refugees. (HUMAN)",
+      "answer": "humanitarian"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>Dozens of ______ are injured on the city road each year. (CYCLE)",
+      "answer": "cyclists"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank with the correct form of the word given.</span>It was ______ of him to leave the children on their own in the pool. (RESPONSE)",
+      "answer": "irresponsible"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most <mark>______ (1)</mark> recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "widely",
+          "ipa": "/ˈwaɪdli/",
+          "explain": "\"widely recognized\" is the fixed collocation"
+        },
+        {
+          "word": "completely",
+          "ipa": "/kəmˈpliːtli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "easily",
+          "ipa": "/ˈiːzəli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "largely",
+          "ipa": "/ˈlɑːrdʒli/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take <mark>______ (2)</mark> speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "sides",
+          "ipa": "/saɪdz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "care",
+          "ipa": "/ker/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "interest",
+          "ipa": "/ˈɪntrəst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "turns",
+          "ipa": "/tɜːrnz/",
+          "explain": "\"take turns speaking\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some <mark>______ (3)</mark> must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "regulations",
+          "ipa": "/ˌregjəˈleɪʃənz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "rules",
+          "ipa": "/ruːlz/",
+          "explain": "correct -- \"some rules must be present\" fits the informal conversational-rule sense intended"
+        },
+        {
+          "word": "norms",
+          "ipa": "/nɔːrmz/",
+          "explain": "close synonym, but the key's intended answer is \"rules\""
+        },
+        {
+          "word": "laws",
+          "ipa": "/lɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply <mark>______ (4)</mark> talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "stop",
+          "ipa": "/stɒp/",
+          "explain": "\"do not simply stop talking\""
+        },
+        {
+          "word": "end",
+          "ipa": "/end/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "start",
+          "ipa": "/stɑːrt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "give up",
+          "ipa": "/gɪv ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to <mark>______ (5)</mark>, typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "end",
+          "ipa": "/end/",
+          "explain": "\"a turn is about to end\""
+        },
+        {
+          "word": "stop",
+          "ipa": "/stɒp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "complete",
+          "ipa": "/kəmˈpliːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "final",
+          "ipa": "/ˈfaɪnəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye <mark>______ (6)</mark> are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "movement",
+          "ipa": "/ˈmuːvmənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "contact",
+          "ipa": "/ˈkɒntækt/",
+          "explain": "\"patterns of eye contact\""
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "appearance",
+          "ipa": "/əˈpɪrəns/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal <mark>______ (7)</mark>; but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "parts",
+          "ipa": "/pɑːrts/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "shares",
+          "ipa": "/ʃerz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "turns",
+          "ipa": "/tɜːrnz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "proportions",
+          "ipa": "/prəˈpɔːrʃənz/",
+          "explain": "\"in about equal proportions\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of <mark>______ (8)</mark> that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "signing",
+          "ipa": "/ˈsaɪnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "signaling",
+          "ipa": "/ˈsɪgnəlɪŋ/",
+          "explain": "\"ways of signaling that someone wants to speak\""
+        },
+        {
+          "word": "hinting",
+          "ipa": "/ˈhɪntɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "saying",
+          "ipa": "/ˈseɪɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to <mark>______ (9)</mark> -- a strategy that may be tolerated, if the purpose is to ______ (10) what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "break",
+          "ipa": "/breɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cut",
+          "ipa": "/kʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "interrupt",
+          "ipa": "/ˌɪntəˈrʌpt/",
+          "explain": "\"simply to interrupt\""
+        },
+        {
+          "word": "interfere",
+          "ipa": "/ˌɪntərˈfɪr/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the most suitable word for each space.</span><b>Conversational Turns</b><br><br>Probably the most ______ (1) recognized conversational convention is that people take ______ (2) speaking. But how do they know when it is their turn? Some ______ (3) must be present, otherwise conversations would be continually breaking down into a disorganized jumble of interruptions and simultaneous talk.<br><br>Turn-taking cues are usually quite subtle. People do not simply ______ (4) talking when they are ready to yield the floor. They usually signal in advance that they are about to conclude. The clues may be semantic \"So anyway,...\" or \"Last but not least,...\"; but more commonly the speech itself can be modified to show that a turn is about to ______ (5), typically, by lowering its pitch, loudness, or speed.<br><br>Body movements and patterns of eye ______ (6) are especially important. While speaking, we look at and away from our listener in about equal ______ (7); but as we approach the end of a turn, we look at the listener more steadily.<br><br>Listeners are not passive in all of this. Here too there are several ways of ______ (8) that someone wants to speak next. One way is through an observable increase in body tension by leaning forward or producing an audible intake of breath. A less subtle approach is simply to ______ (9) -- a strategy that may be tolerated, if the purpose is to <mark>______ (10)</mark> what the speaker is saying, but that more usually leads to social disapproval.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "clear",
+          "ipa": "/klɪr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "paraphrase",
+          "ipa": "/ˈpærəfreɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "repeat",
+          "ipa": "/rɪˈpiːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "clarify",
+          "ipa": "/ˈklærəfaɪ/",
+          "explain": "\"the purpose is to clarify what the speaker is saying\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with <mark>______ (1)</mark> plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "little / limited"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so <mark>______ (2)</mark> desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "even"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, <mark>______ (3)</mark> is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "nor / neither"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well <mark>______ (4)</mark> freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "below"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica <mark>______ (5)</mark> good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "are"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to <mark>______ (6)</mark>. For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "survive / exist"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime <mark>______ (7)</mark>, many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "heat"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to <mark>______ (8)</mark> food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "find"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the <mark>______ (9)</mark> they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most ______ (10) animals are small.",
+      "answer": "water"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>Deserts cover about one fifth of the Earth's land area. A desert is a region with ______ (1) plant and animal life because it is a very dry and harsh environment. There are extreme temperatures and very little rainfall, so ______ (2) desert plants like cacti are not abundant, ______ (3) is animal life.<br><br>Many deserts are very hot during the day and very cold during the night, when temperatures can fall well ______ (4) freezing point. Some deserts, on the other hand, are always cold. The Gobi Desert in Asia and the desert on the continent of Antarctica ______ (5) good examples of deserts of this type.<br><br>Different animals live in different types of deserts, and all animals that live in the desert have to adapt to their environment in order to ______ (6). For example, to avoid extreme daytime ______ (7), many desert animals are nocturnal. They burrow beneath the surface or hide in the shade during the day and emerge at night to ______ (8) food. Some desert animals get all the ______ (9) they need from their food, so they do not have to drink at all. It's also probably because of the shortage of food that most <mark>______ (10)</mark> animals are small.",
+      "answer": "desert"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the article about endangered species and choose the correct answer.</span><span class=\"passage-block\"><b>Endangered Species</b><br><br>In today's world, thousands of plants and animals are in danger of extinction, and the number of species at risk increases every year. Not all plants or animals existing in small numbers are endangered as their population may not be decreasing or threatened. An endangered species is one which is expected to die out within twenty years unless special measures are taken to protect it.<br><br>Endangered animals include blue whales, giant pandas, orangutans, rhinoceroses, snow leopards, tigers and some species of crocodile. Endangered plants include some species of cactus. Why are the above species of animal endangered? There are now legal limits on hunting, but not all species are protected by law. Even when animals are legally protected, illegal hunting for fur, tusks and horns continues. Those animals that are not killed are captured and sent to zoos or sold as pets. For example, the little blue macaw, a parrot native to Brazil, has been captured in such numbers for private bird collections that it is almost extinct in the wild. In addition to this, many species' habitats are eliminated when people clear land in order to build on it, or when they introduce domestic and non-native animals which overgraze the vegetation and even prey on birds and mammals which are already at risk of extinction.<br><br>Why is it important to save endangered species? Firstly, nature is delicately balanced, and the extinction of one species may have a serious effect on others. Secondly, it is the fault of mankind that so many species are endangered, so it is our responsibility to protect those species while we still can. We must stop the hunting of wild animals and the destruction of the forests before it is too late. It is worth making an effort -- by saving endangered species we could be saving ourselves.</span><span class=\"cue-line\">According to the text, ______</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "all plants and animals are expected to die out in 20 years if we don't take measures to protect them.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "blue whales have become extinct.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "more and more species become endangered each year.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "only animal species are seriously threatened.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the article about endangered species and choose the correct answer.</span><span class=\"passage-block\"><b>Endangered Species</b><br><br>In today's world, thousands of plants and animals are in danger of extinction, and the number of species at risk increases every year. Not all plants or animals existing in small numbers are endangered as their population may not be decreasing or threatened. An endangered species is one which is expected to die out within twenty years unless special measures are taken to protect it.<br><br>Endangered animals include blue whales, giant pandas, orangutans, rhinoceroses, snow leopards, tigers and some species of crocodile. Endangered plants include some species of cactus. Why are the above species of animal endangered? There are now legal limits on hunting, but not all species are protected by law. Even when animals are legally protected, illegal hunting for fur, tusks and horns continues. Those animals that are not killed are captured and sent to zoos or sold as pets. For example, the little blue macaw, a parrot native to Brazil, has been captured in such numbers for private bird collections that it is almost extinct in the wild. In addition to this, many species' habitats are eliminated when people clear land in order to build on it, or when they introduce domestic and non-native animals which overgraze the vegetation and even prey on birds and mammals which are already at risk of extinction.<br><br>Why is it important to save endangered species? Firstly, nature is delicately balanced, and the extinction of one species may have a serious effect on others. Secondly, it is the fault of mankind that so many species are endangered, so it is our responsibility to protect those species while we still can. We must stop the hunting of wild animals and the destruction of the forests before it is too late. It is worth making an effort -- by saving endangered species we could be saving ourselves.</span><span class=\"cue-line\">The author wonders why all the species mentioned are in danger because ______</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "all species are protected by law.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "hunting is not allowed everywhere nowadays.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "most endangered species are kept in zoos.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "illegal hunting has been eliminated.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the article about endangered species and choose the correct answer.</span><span class=\"passage-block\"><b>Endangered Species</b><br><br>In today's world, thousands of plants and animals are in danger of extinction, and the number of species at risk increases every year. Not all plants or animals existing in small numbers are endangered as their population may not be decreasing or threatened. An endangered species is one which is expected to die out within twenty years unless special measures are taken to protect it.<br><br>Endangered animals include blue whales, giant pandas, orangutans, rhinoceroses, snow leopards, tigers and some species of crocodile. Endangered plants include some species of cactus. Why are the above species of animal endangered? There are now legal limits on hunting, but not all species are protected by law. Even when animals are legally protected, illegal hunting for fur, tusks and horns continues. Those animals that are not killed are captured and sent to zoos or sold as pets. For example, the little blue macaw, a parrot native to Brazil, has been captured in such numbers for private bird collections that it is almost extinct in the wild. In addition to this, many species' habitats are eliminated when people clear land in order to build on it, or when they introduce domestic and non-native animals which overgraze the vegetation and even prey on birds and mammals which are already at risk of extinction.<br><br>Why is it important to save endangered species? Firstly, nature is delicately balanced, and the extinction of one species may have a serious effect on others. Secondly, it is the fault of mankind that so many species are endangered, so it is our responsibility to protect those species while we still can. We must stop the hunting of wild animals and the destruction of the forests before it is too late. It is worth making an effort -- by saving endangered species we could be saving ourselves.</span><span class=\"cue-line\">The author uses the blue macaw as an example of ______</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "birds captured for the pet trade.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "a species that has completely died out.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a species of birds killed by hunters.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "birds captured for zoos.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the article about endangered species and choose the correct answer.</span><span class=\"passage-block\"><b>Endangered Species</b><br><br>In today's world, thousands of plants and animals are in danger of extinction, and the number of species at risk increases every year. Not all plants or animals existing in small numbers are endangered as their population may not be decreasing or threatened. An endangered species is one which is expected to die out within twenty years unless special measures are taken to protect it.<br><br>Endangered animals include blue whales, giant pandas, orangutans, rhinoceroses, snow leopards, tigers and some species of crocodile. Endangered plants include some species of cactus. Why are the above species of animal endangered? There are now legal limits on hunting, but not all species are protected by law. Even when animals are legally protected, illegal hunting for fur, tusks and horns continues. Those animals that are not killed are captured and sent to zoos or sold as pets. For example, the little blue macaw, a parrot native to Brazil, has been captured in such numbers for private bird collections that it is almost extinct in the wild. In addition to this, many species' habitats are eliminated when people clear land in order to build on it, or when they introduce domestic and non-native animals which overgraze the vegetation and even prey on birds and mammals which are already at risk of extinction.<br><br>Why is it important to save endangered species? Firstly, nature is delicately balanced, and the extinction of one species may have a serious effect on others. Secondly, it is the fault of mankind that so many species are endangered, so it is our responsibility to protect those species while we still can. We must stop the hunting of wild animals and the destruction of the forests before it is too late. It is worth making an effort -- by saving endangered species we could be saving ourselves.</span><span class=\"cue-line\">According to the author, introducing domestic, non-native animals ______</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is not associated with endangered species.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "is only dangerous in tropical forests.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "is the only reason why some species' habitats are destroyed.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "may threaten the habitats of some species.",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the article about endangered species and choose the correct answer.</span><span class=\"passage-block\"><b>Endangered Species</b><br><br>In today's world, thousands of plants and animals are in danger of extinction, and the number of species at risk increases every year. Not all plants or animals existing in small numbers are endangered as their population may not be decreasing or threatened. An endangered species is one which is expected to die out within twenty years unless special measures are taken to protect it.<br><br>Endangered animals include blue whales, giant pandas, orangutans, rhinoceroses, snow leopards, tigers and some species of crocodile. Endangered plants include some species of cactus. Why are the above species of animal endangered? There are now legal limits on hunting, but not all species are protected by law. Even when animals are legally protected, illegal hunting for fur, tusks and horns continues. Those animals that are not killed are captured and sent to zoos or sold as pets. For example, the little blue macaw, a parrot native to Brazil, has been captured in such numbers for private bird collections that it is almost extinct in the wild. In addition to this, many species' habitats are eliminated when people clear land in order to build on it, or when they introduce domestic and non-native animals which overgraze the vegetation and even prey on birds and mammals which are already at risk of extinction.<br><br>Why is it important to save endangered species? Firstly, nature is delicately balanced, and the extinction of one species may have a serious effect on others. Secondly, it is the fault of mankind that so many species are endangered, so it is our responsibility to protect those species while we still can. We must stop the hunting of wild animals and the destruction of the forests before it is too late. It is worth making an effort -- by saving endangered species we could be saving ourselves.</span><span class=\"cue-line\">Endangered animals ______</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "will definitely die out soon.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "are an important part of the world's wildlife.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "cannot be saved because we need to save ourselves.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "have a bad effect on others.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>The King was <mark>too</mark> happy that he decided to build a pagoda of lotus shape over water.",
+      "answer": "so"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>He knows <mark>to repair</mark> the carburetor without taking the whole car apart.",
+      "answer": "how to repair"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Most of the food <mark>what</mark> elephant eat is brought to their mouths by their trunks.",
+      "answer": "which"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>If I <mark>knew</mark> you were coming, I would have met you at the airport.",
+      "answer": "had known"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>I'm afraid all your copies have been sold but more <mark>have ordered</mark>.",
+      "answer": "have been ordered"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Lan did not reach home until midnight.</span><span class=\"cue-line\">It ......................</span>",
+      "answer": "It was not until midnight that Lan reached home."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">The cost of living has gone up considerably in the last few years.</span><span class=\"cue-line\">There ......................</span>",
+      "answer": "There has been a considerable increase in the cost of living in the last few years."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Experts say that the fall in the birth rate between 1964 and 1977 caused the drop in the number of school leavers.</span><span class=\"cue-line\">The drop ......................</span>",
+      "answer": "The drop in the number of school leavers is said to have been caused by the fall in the birth rate between 1964 and 1977."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">The boy became so confused and worried that he left home.</span><span class=\"cue-line\">So ......................</span>",
+      "answer": "So confused and worried did the boy become that he left home."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">You think that fat people are always jolly, but you are wrong.</span><span class=\"cue-line\">Contrary ......................</span>",
+      "answer": "Contrary to your opinion / what you believe / what you think, fat people are not always jolly."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">I'm on the tenth page of the report I am writing.</span><span class=\"cue-line\">So far I ......................</span>",
+      "answer": "So far I have written ten pages of the report."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">She asked John how he liked her new dress.</span><span class=\"cue-line\">\"How ......................?\"</span>",
+      "answer": "\"How do you like my new dress, John?\" she said to John."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">On receipt of your cheque, we shall send the goods to you.</span><span class=\"cue-line\">As soon ......................</span>",
+      "answer": "As soon as we receive your cheque, we shall send the goods to you."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">These new machines have put an end to queuing.</span><span class=\"cue-line\">Before these ......................</span>",
+      "answer": "Before these new machines were invented, people had to queue."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Have you ever used gestures to communicate before?</span><span class=\"cue-line\">Is it ......................?</span>",
+      "answer": "Is it the first time you used gestures to communicate?"
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing - Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a paragraph of about 100 words.</span>Write a paragraph about 100 words to describe the ideal world in which you would like to live in the future.",
+      "rubric": [
+        "World peace: a peaceful world with no war or conflict, people living in harmony",
+        "Employment: everyone has a job",
+        "Environment: clean and healthy, less noise, less pollution, larger parks, protected wildlife",
+        "People: less materialistic, less selfish, less violent, and more loving",
+        "Grammar: written with correct grammar throughout"
+      ]
+    }
+  ]
+}

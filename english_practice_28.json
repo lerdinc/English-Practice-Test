@@ -1,0 +1,1161 @@
+{
+  "title": "English Practice Test No: 28",
+  "subtitle": "95 questions - Pronunciation, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "corn",
+          "underline": "c",
+          "ipa": "/kɔːrn/",
+          "explain": "said as /k/"
+        },
+        {
+          "word": "cut",
+          "underline": "c",
+          "ipa": "/kʌt/",
+          "explain": "said as /k/"
+        },
+        {
+          "word": "cat",
+          "underline": "c",
+          "ipa": "/kæt/",
+          "explain": "said as /k/"
+        },
+        {
+          "word": "certain",
+          "underline": "c",
+          "ipa": "/ˈsɜːrtən/",
+          "explain": "said as /s/ -- the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "cure",
+          "underline": "u",
+          "ipa": "/kjʊr/",
+          "explain": "said as /juː/"
+        },
+        {
+          "word": "during",
+          "underline": "u",
+          "ipa": "/ˈdʊrɪŋ/",
+          "explain": "said as /jʊ/"
+        },
+        {
+          "word": "pull",
+          "underline": "u",
+          "ipa": "/pʊl/",
+          "explain": "said as /ʊ/, no glide -- the odd one out"
+        },
+        {
+          "word": "pure",
+          "underline": "u",
+          "ipa": "/pjʊr/",
+          "explain": "said as /juː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "study",
+          "underline": "u",
+          "ipa": "/ˈstʌdi/",
+          "explain": "said as /ʌ/"
+        },
+        {
+          "word": "cut",
+          "underline": "u",
+          "ipa": "/kʌt/",
+          "explain": "said as /ʌ/"
+        },
+        {
+          "word": "bull",
+          "underline": "u",
+          "ipa": "/bʊl/",
+          "explain": "said as /ʊ/ -- the odd one out"
+        },
+        {
+          "word": "mud",
+          "underline": "u",
+          "ipa": "/mʌd/",
+          "explain": "said as /ʌ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "pleasure",
+          "underline": "s",
+          "ipa": "/ˈpleʒər/",
+          "explain": "said as /ʒ/ -- the odd one out"
+        },
+        {
+          "word": "sound",
+          "underline": "s",
+          "ipa": "/saʊnd/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "same",
+          "underline": "s",
+          "ipa": "/seɪm/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "best",
+          "underline": "s",
+          "ipa": "/best/",
+          "explain": "said as /s/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "foot",
+          "underline": "oo",
+          "ipa": "/fʊt/",
+          "explain": "said as /ʊ/ -- the odd one out"
+        },
+        {
+          "word": "food",
+          "underline": "oo",
+          "ipa": "/fuːd/",
+          "explain": "said as /uː/"
+        },
+        {
+          "word": "moon",
+          "underline": "oo",
+          "ipa": "/muːn/",
+          "explain": "said as /uː/"
+        },
+        {
+          "word": "pool",
+          "underline": "oo",
+          "ipa": "/puːl/",
+          "explain": "said as /uː/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>My colour TV, ______ I bought 10 years ago, still gives beautiful pictures.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "correct -- non-restrictive relative pronoun for a thing"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "\"that\" can't introduce a non-restrictive clause after a comma"
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "not a valid relative pronoun here"
+        },
+        {
+          "word": "X (no word)",
+          "ipa": "",
+          "explain": "would leave the clause without a needed relative pronoun after a comma"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>He is very stubborn, so it will be difficult to ______ him to go.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "persuade",
+          "ipa": "/pərˈsweɪd/",
+          "explain": "correct -- \"persuade someone to do something\" fits \"stubborn\""
+        },
+        {
+          "word": "suggest",
+          "ipa": "/səgˈdʒest/",
+          "explain": "wrong structure -- doesn't take object + to-infinitive"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "would need a bare infinitive, not \"to go\""
+        },
+        {
+          "word": "prevent",
+          "ipa": "/prɪˈvent/",
+          "explain": "wrong meaning -- opposite of getting him to go"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>\"Who is Mr. Madely?\" \"I have no idea. I've never heard ______ him\".",
+      "answer": 3,
+      "options": [
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "wrong preposition for this fixed phrase"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition -- \"hear from\" means to receive a message"
+        },
+        {
+          "word": "after",
+          "ipa": "/ˈæftər/",
+          "explain": "wrong preposition entirely"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "correct -- \"never heard of someone\" means not knowing they exist"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>Children are ______ to overcome problems.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "determine",
+          "ipa": "/dɪˈtɜːrmɪn/",
+          "explain": "bare verb, wrong word class after \"are\""
+        },
+        {
+          "word": "determined",
+          "ipa": "/dɪˈtɜːrmɪnd/",
+          "explain": "correct -- \"be determined to do something\""
+        },
+        {
+          "word": "determinant",
+          "ipa": "/dɪˈtɜːrmɪnənt/",
+          "explain": "wrong word -- means a deciding factor"
+        },
+        {
+          "word": "determination",
+          "ipa": "/dɪˌtɜːrmɪˈneɪʃən/",
+          "explain": "noun, wrong word class after \"are\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>They will be sent to work in America ______ their English is better next year.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "when",
+          "ipa": "/wen/",
+          "explain": "wrong meaning -- doesn't express a condition"
+        },
+        {
+          "word": "unless",
+          "ipa": "/ənˈles/",
+          "explain": "wrong meaning -- would reverse the intended condition"
+        },
+        {
+          "word": "if",
+          "ipa": "/ɪf/",
+          "explain": "correct -- introduces the condition for being sent"
+        },
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "wrong meaning -- doesn't fit a future condition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>I've never ______ very well with my brother. We've got completely different personalities.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "got off",
+          "ipa": "/gɒt ɔːf/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "got on",
+          "ipa": "/gɒt ɒn/",
+          "explain": "correct -- \"get on with someone\" means to have a good relationship"
+        },
+        {
+          "word": "got away",
+          "ipa": "/gɒt əˈweɪ/",
+          "explain": "wrong meaning -- means to escape"
+        },
+        {
+          "word": "got up",
+          "ipa": "/gɒt ʌp/",
+          "explain": "wrong meaning -- means to rise/stand"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>______ lion dancing is very popular in Viet Nam, my friend, Andy does not enjoy it.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "But",
+          "ipa": "/bʌt/",
+          "explain": "can't join two clauses this way"
+        },
+        {
+          "word": "Although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "correct -- shows contrast between popularity and Andy not enjoying it"
+        },
+        {
+          "word": "If",
+          "ipa": "/ɪf/",
+          "explain": "wrong meaning -- doesn't express contrast"
+        },
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "can't join two clauses this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>I believe that our new manager has the ______ to work well in this business environment.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "flexible",
+          "ipa": "/ˈfleksəbəl/",
+          "explain": "adjective, wrong word class after \"the\""
+        },
+        {
+          "word": "inflexible",
+          "ipa": "/ɪnˈfleksəbəl/",
+          "explain": "wrong word class, and wrong meaning"
+        },
+        {
+          "word": "flexibly",
+          "ipa": "/ˈfleksəbli/",
+          "explain": "adverb, wrong word class after \"the\""
+        },
+        {
+          "word": "flexibility",
+          "ipa": "/ˌfleksəˈbɪləti/",
+          "explain": "correct -- noun needed after \"has the\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>When my father retired, he decided to take ______ golf.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct -- \"take up a hobby\" is the fixed phrasal verb"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable option (A, B, C or D) to complete each sentence.</span>That's a nice coat, and the colour ______ you well.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "matches",
+          "ipa": "/ˈmætʃɪz/",
+          "explain": "wrong verb -- \"match\" compares two things to each other"
+        },
+        {
+          "word": "fits",
+          "ipa": "/fɪts/",
+          "explain": "wrong verb -- \"fit\" refers to size"
+        },
+        {
+          "word": "suits",
+          "ipa": "/suːts/",
+          "explain": "correct -- \"a colour suits someone\" describes it looking good on them"
+        },
+        {
+          "word": "agrees",
+          "ipa": "/əˈgriːz/",
+          "explain": "wrong verb entirely"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>If we have <mark>times</mark>, I promise you that we'll do the best we can to call you in you next time.",
+      "answer": "time"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span><mark>Through</mark> the war the soldiers had tried several times to capture the enemy leader but had never managed to do so.",
+      "answer": "During"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>It was concluded after the investigation that nobody <mark>is</mark> to be regarded as at fault concerning the accident.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>I had a big surprise this morning because in the post there was an invitation to a wedding and of course I agreed <mark>going</mark>.",
+      "answer": "to go"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>I just don't understand it and <mark>wondering</mark> why she did it.",
+      "answer": "wonder"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>The picture <mark>in</mark> the television is not at all clear because something needs to be adopted.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>You can buy a newspaper at that little kiosk on the corner which is right <mark>before</mark> the cinema.",
+      "answer": "in front of"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Never mind we are all in the same boat now and we shall have to work together <mark>on</mark> order to find a solution.",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>These sorts of stories have been told at bedtime again and again for children <mark>from</mark> their parents.",
+      "answer": "by"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Although he had made every effort <mark>to showing</mark> that he had had a change of heart and would try to go straight in the future, nobody was in the least convinced.",
+      "answer": "to show"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>When I (go) ______ to bed last night, I fell asleep immediately. (go)",
+      "answer": "went"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>When I went to bed last night, I (fall) ______ asleep immediately. (fall)",
+      "answer": "fell"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>I must have been tired because I (work) ______ so hard for several hours. (work)",
+      "answer": "had worked / had been working"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>So I forgot (close) ______ the windows before getting into bed. (close)",
+      "answer": "to close"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>So I forgot to close the windows before (get) ______ into bed. (get)",
+      "answer": "getting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>If I had remembered, the thief (not get) ______ in. (not get)",
+      "answer": "couldn't / wouldn't have got"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>...but he (give) ______ a perfect opportunity to enter the house. (give)",
+      "answer": "was given"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>...but he was given a perfect opportunity (enter) ______ the house. (enter)",
+      "answer": "to enter"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>The next time if I (work) ______ late, I will lock the house carefully. (work)",
+      "answer": "work"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the verb in each sentence.</span>The next time if I work late, I (lock) ______ the house carefully. (lock)",
+      "answer": "will lock"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>Interviews are an imperfect method of choosing the best people for jobs, yet human ______ like to examine each other in this way. (BE)",
+      "answer": "beings"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>One of the many problems of ______ as it is commonly practised is that the forms filled in by applicants often fail to show people as they really are. (SELECT)",
+      "answer": "selection"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>...the forms filled in by ______ often fail to show people as they really are. (APPLY)",
+      "answer": "applicants"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>This means that you can follow all the best ______ when completing your form. (ADVISE)",
+      "answer": "advice"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>...and still find that you are ______ at the next stage -- the interview. (SUCCESS)",
+      "answer": "unsuccessful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>...except in the rare cases where interviews are automatic, ______, a candidate with an inadequate form may do surprisingly well. (SIMILAR)",
+      "answer": "similarly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>...a candidate with an ______ form may do surprisingly well. (ADEQUATE)",
+      "answer": "inadequate"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>Of course, your form needs to show that you have ______ in your ability to do the job. (CONFIDENT)",
+      "answer": "confidence"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>...that you have confidence in your ______ to do the job. (ABLE)",
+      "answer": "ability"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the passage.</span>Realism and ______ are definitely the best approach. (HONEST)",
+      "answer": "honesty"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">The simplest kind of mathematics is Arithmetic.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">In high school and college you will learn Arithmetic.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">Machines do problems faster than men.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">The first calculating machine was the counting board.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">The counting board is no longer being used in the world.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">Computers were invented a thousand years ago.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "correct -- the passage doesn't state this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">A computer can do everything which is programmed.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">A computer can read and write.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "correct -- the passage doesn't state this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">A computer can store facts and send them to other people.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "True",
+          "explain": "correct"
+        },
+        {
+          "word": "False",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - True / False / No Information",
+      "prompt": "<span class=\"mini-instruction\">Read the passage. Write T (True) if the statement is true, F (False) if it is false, or N (No information) if the passage doesn't say.</span><span class=\"passage-block\"><b>A language everyone knows</b><br><br>There is one language we all speak, no matter what country we live in: The language of numbers.<br><br>The language of numbers is called mathematics. You are learning it in school now. The simplest kind is called arithmetic. In high school and college you'll learn other kinds of mathematics. To help all of us with mathematics, machines have been invented. They let us do problems faster and with fewer mistakes. We know that the abacus or counting board was the first of these machines. It was invented many thousands of years ago, but it is still used in China, Japan and other countries. Today, computers are used all over the world. These computers seem to think. Of course, they really don't. They do only what people tell them to do. But they do it much better and faster than a person could. Inside, a computer may look very confusing to you. But the people who run it know just what to do. They can make a computer store up facts and give them to other people. They can make it solve hard problems and help us to live better. Like people all over the world, these machines speak the same language: numbers.</span><span class=\"cue-line\">A computer can do everything instead of a person.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "True",
+          "explain": "doesn't match the passage"
+        },
+        {
+          "word": "False",
+          "explain": "correct"
+        },
+        {
+          "word": "No information",
+          "explain": "the passage does address this"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground <mark>______ (1)</mark>. The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "train"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all <mark>______ (2)</mark> and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "days"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your <mark>______ (3)</mark> before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "ticket"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey <mark>______ (4)</mark> eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "between"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock <mark>______ (5)</mark> six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "and"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the <mark>______ (6)</mark>. These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "evening"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands <mark>______ (7)</mark> people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or <mark>______ (8)</mark> home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "coming / going"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a <mark>______ (9)</mark> to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "place / seat"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit <mark>______ (10)</mark> the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see <mark>______ (11)</mark> more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "much"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red <mark>______ (12)</mark>. Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "buses"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take <mark>______ (13)</mark> to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "you"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one <mark>______ (14)</mark>. It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "journey"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can <mark>______ (15)</mark> your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "break"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get <mark>______ (16)</mark> and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "off"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, <mark>______ (17)</mark> some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "but"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not <mark>______ (18)</mark> a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "take"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats <mark>______ (19)</mark> Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat ______ (20) to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "leave"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word to complete the passage.</span>A quick and easy way to get to different places in the city is to use the Underground ______ (1). The train runs all ______ (2) and most of the nights. Buy your ______ (3) before you can get on the train. It's better not to make your journey ______ (4) eight o'clock and ten o'clock in the morning, or four o'clock ______ (5) six o'clock in the ______ (6). These are called the \"rush\" hours. Thousands ______ (7) people are going to work or ______ (8) home again then, and it is difficult to move or to find a ______ (9) to sit ______ (10) the train.<br><br>You can see ______ (11) more of London from one of its famous red ______ (12). Some special visitors' buses take ______ (13) to many of the interesting places in the city on one ______ (14). It takes about one and a half hours, but you can ______ (15) your journey and get ______ (16) and on again at the different places you want to visit.<br><br>London taxis are called \"black cabs\". Most of them are black, ______ (17) some are not. You can stop one if it has a \"For Hire\" sign on it. The drivers are always friendly and helpful.<br><br>Why not ______ (18) a boat trip along the River Thames? Boats ______ (19) Westminster Pier and Charging Cross Pier, and they go to Tower Pier and Greenwich.<br><br>Between April and October, you can take a long boat <mark>______ (20)</mark> to Hampton Court (about four hours) -- a beautiful palace in a big park.",
+      "answer": "trip / journey"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"until\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">You shouldn't decide now. You need to think about it first.</span>",
+      "answer": "You shouldn't decide until you have thought about it (first)."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"when\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">You can use the computer in a minute. I'll have finished with it soon.</span>",
+      "answer": "You can use the computer when I've finished with it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"as soon as\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">We can leave in a minute. I need to pay the bill first.</span>",
+      "answer": "We can leave as soon as I have paid the bill."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"while\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">We can discuss it later. We'll be sitting on the plane together.</span>",
+      "answer": "We can discuss it (later) while we are sitting on the plane together."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"they considered\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">To spend all that money was a waste.</span>",
+      "answer": "They considered it a waste to spend all that money."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"whatever\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">He can't answer no matter what question the teacher asks him.</span>",
+      "answer": "He can't answer whatever question the teacher asks him."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"because of\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">The match was postponed to April 25th because the weather was bad.</span>",
+      "answer": "Because of the bad weather, the match was postponed to April 25th."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"one year older\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">Nam is 17 years old and Hung is 16 years old.</span>",
+      "answer": "Nam is one year older than Hung."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"how\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">What's the height which that plane is flying at?</span>",
+      "answer": "How high is that plane flying at?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Combining",
+      "prompt": "<span class=\"mini-instruction\">Use the word or phrase given -- \"so\" -- to rewrite or combine the sentences so that the meaning stays the same.</span><span class=\"original-sentence\">John didn't come to school because he had flu.</span>",
+      "answer": "John had flu, so he didn't come to school."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">In the briefcase you will find a map, a file and a calculator.</span><span class=\"cue-line\">The briefcase ......................</span>",
+      "answer": "The briefcase contains a map, a file and a calculator."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">I think the last time I saw you was at Diane's house-warming.</span><span class=\"cue-line\">I don't think ......................</span>",
+      "answer": "I don't think I have seen you since the last time I saw you at Diane's house-warming."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">Pierre emigrated to Brazil in 1991, and is still there.</span><span class=\"cue-line\">Pierre has ......................</span>",
+      "answer": "Pierre has lived in Brazil since 1991."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">Are you sure that jacket is the right size for you?</span><span class=\"cue-line\">Does the jacket ......................</span>",
+      "answer": "Does the jacket really fit you?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">I didn't know I had to write my name in block capitals.</span><span class=\"cue-line\">I wish ......................</span>",
+      "answer": "I wish I had known to write my name in block capitals. / I wish I had written..."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">There may be some delay in obtaining the permit.</span><span class=\"cue-line\">Perhaps there ......................</span>",
+      "answer": "Perhaps there will be some delay in obtaining the permit."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">You can only master a language if you study hard.</span><span class=\"cue-line\">Only by ......................</span>",
+      "answer": "Only by studying hard can you master a language."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">I gave Ted the message, but he already knew about it.</span><span class=\"cue-line\">I needn't ......................</span>",
+      "answer": "I needn't have given Ted the message."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">They will not announce the decision formally.</span><span class=\"cue-line\">No formal ......................</span>",
+      "answer": "No formal announcement of the decision will be made."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences using the word given at the beginning so that the meaning stays the same.</span><span class=\"original-sentence\">They believe that the robbers got into the bank through the roof.</span><span class=\"cue-line\">The robbers ......................</span>",
+      "answer": "The robbers are believed to have got into the bank through the roof."
+    }
+  ]
+}

@@ -1,0 +1,1170 @@
+{
+  "title": "English Practice Test No: 30",
+  "subtitle": "71 questions - Phonetics, Lexical & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "predict",
+          "ipa": "/prɪˈdɪkt/",
+          "explain": "pre-DICT -- stress on the 2nd syllable"
+        },
+        {
+          "word": "environment",
+          "ipa": "/ɪnˈvaɪrənmənt/",
+          "explain": "en-VI-ron-ment -- stress on the 2nd syllable"
+        },
+        {
+          "word": "exist",
+          "ipa": "/ɪgˈzɪst/",
+          "explain": "ex-IST -- stress on the 2nd syllable"
+        },
+        {
+          "word": "precious",
+          "ipa": "/ˈpreʃəs/",
+          "explain": "PRE-cious -- stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "books",
+          "underline": "s",
+          "ipa": "/bʊks/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "tables",
+          "underline": "s",
+          "ipa": "/ˈteɪbəlz/",
+          "explain": "\"s\" said as /z/ -- the odd one out"
+        },
+        {
+          "word": "roots",
+          "underline": "s",
+          "ipa": "/ruːts/",
+          "explain": "\"s\" said as /s/"
+        },
+        {
+          "word": "makes",
+          "underline": "s",
+          "ipa": "/meɪks/",
+          "explain": "\"s\" said as /s/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "career",
+          "ipa": "/kəˈrɪr/",
+          "explain": "ca-REER -- stress on the 2nd syllable"
+        },
+        {
+          "word": "avoid",
+          "ipa": "/əˈvɔɪd/",
+          "explain": "a-VOID -- stress on the 2nd syllable"
+        },
+        {
+          "word": "manage",
+          "ipa": "/ˈmænɪdʒ/",
+          "explain": "MAN-age -- stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "advise",
+          "ipa": "/ədˈvaɪz/",
+          "explain": "ad-VISE -- stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "valuable",
+          "ipa": "/ˈvæljuəbəl/",
+          "explain": "VAL-u-a-ble -- stress on the 1st syllable"
+        },
+        {
+          "word": "entertain",
+          "ipa": "/ˌentərˈteɪn/",
+          "explain": "en-ter-TAIN -- stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "honesty",
+          "ipa": "/ˈɒnəsti/",
+          "explain": "HON-es-ty -- stress on the 1st syllable"
+        },
+        {
+          "word": "mountain",
+          "ipa": "/ˈmaʊntən/",
+          "explain": "MOUN-tain -- stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "separate",
+          "ipa": "/ˈsepəreɪt/",
+          "explain": "SEP-a-rate -- stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "mechanic",
+          "ipa": "/məˈkænɪk/",
+          "explain": "me-CHAN-ic -- stress on the 2nd syllable"
+        },
+        {
+          "word": "produce",
+          "ipa": "/prəˈduːs/",
+          "explain": "pro-DUCE (verb) -- stress on the 2nd syllable"
+        },
+        {
+          "word": "deny",
+          "ipa": "/dɪˈnaɪ/",
+          "explain": "de-NY -- stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>My colour TV, ______ I bought 10 years ago, still gives beautiful pictures.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "correct -- non-restrictive relative pronoun for a thing"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "\"that\" can't introduce a non-restrictive clause after a comma"
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "not a valid relative pronoun here"
+        },
+        {
+          "word": "X (no word)",
+          "ipa": "",
+          "explain": "would leave the clause without a needed relative pronoun after a comma"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>\"Who is Mr. Madely?\" \"I have no idea. I've never heard ______ him.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "wrong preposition for this fixed phrase"
+        },
+        {
+          "word": "from",
+          "ipa": "/frʌm/",
+          "explain": "wrong preposition -- means to receive a message"
+        },
+        {
+          "word": "after",
+          "ipa": "/ˈæftər/",
+          "explain": "wrong preposition entirely"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "correct -- \"never heard of someone\" means not knowing they exist"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>Most tourists didn't bring their meals with them, ______ they ate at the foodstalls along the roads.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "wrong -- doesn't fit as a connector introducing a result"
+        },
+        {
+          "word": "but",
+          "ipa": "/bʌt/",
+          "explain": "wrong meaning -- doesn't fit; no contrast here"
+        },
+        {
+          "word": "so",
+          "ipa": "/soʊ/",
+          "explain": "correct -- introduces the logical result of not bringing meals"
+        },
+        {
+          "word": "although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "can't join two independent clauses this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>I've never ______ very well with my brother. We've got completely different personalities.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "got off",
+          "ipa": "/gɒt ɔːf/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "got on",
+          "ipa": "/gɒt ɒn/",
+          "explain": "correct -- \"get on with someone\" means to have a good relationship"
+        },
+        {
+          "word": "got away",
+          "ipa": "/gɒt əˈweɪ/",
+          "explain": "wrong meaning -- means to escape"
+        },
+        {
+          "word": "got up",
+          "ipa": "/gɒt ʌp/",
+          "explain": "wrong meaning -- means to rise/stand"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>When my father retired, he decided to take ______ golf.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct -- \"take up a hobby\" is the fixed phrasal verb"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>The doors were painted blue to ______ the walls.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "suit",
+          "ipa": "/suːt/",
+          "explain": "wrong verb -- \"suit\" describes fitting a person, not visual harmony with something"
+        },
+        {
+          "word": "match",
+          "ipa": "/mætʃ/",
+          "explain": "correct -- \"match the walls\" describes visual/colour harmony"
+        },
+        {
+          "word": "fix",
+          "ipa": "/fɪks/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "fit",
+          "ipa": "/fɪt/",
+          "explain": "wrong verb -- \"fit\" refers to size, not colour"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>I'm sure he didn't do it ______ purpose.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "correct -- \"on purpose\" is the fixed idiom for intentionally"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition for this idiom"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition for this idiom"
+        },
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "wrong preposition for this idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>She came ______ a lot of problems at work.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "up with",
+          "ipa": "/ʌp wɪð/",
+          "explain": "wrong phrasal verb -- means to think of/produce an idea"
+        },
+        {
+          "word": "down with",
+          "ipa": "/daʊn wɪð/",
+          "explain": "wrong phrasal verb -- means to fall ill"
+        },
+        {
+          "word": "in for",
+          "ipa": "/ɪn fɔːr/",
+          "explain": "wrong phrasal verb -- means to receive criticism"
+        },
+        {
+          "word": "up against",
+          "ipa": "/ʌp əˈgenst/",
+          "explain": "correct -- \"come up against problems\" means to encounter difficulties"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>We will go for a walk ______ it's foggy -- I hate walking in the fog.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "though",
+          "ipa": "/ðoʊ/",
+          "explain": "doesn't fit -- contradicts the stated dislike of fog"
+        },
+        {
+          "word": "unless",
+          "ipa": "/ənˈles/",
+          "explain": "correct -- \"we'll go for a walk unless it's foggy\" fits the stated dislike"
+        },
+        {
+          "word": "if",
+          "ipa": "/ɪf/",
+          "explain": "wrong meaning -- would contradict hating fog"
+        },
+        {
+          "word": "in case",
+          "ipa": "/ɪn keɪs/",
+          "explain": "wrong meaning for this context"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>Daisy wrote ______ report on the Vietnam war.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "ten-page",
+          "ipa": "/ten peɪdʒ/",
+          "explain": "missing the article \"a\""
+        },
+        {
+          "word": "a ten-page",
+          "ipa": "/ə ten peɪdʒ/",
+          "explain": "correct -- \"a ten-page report\" is the correct compound adjective + article form"
+        },
+        {
+          "word": "ten pages",
+          "ipa": "/ten ˈpeɪdʒɪz/",
+          "explain": "wrong form -- can't directly modify \"report\" this way"
+        },
+        {
+          "word": "ten-paged",
+          "ipa": "/ten peɪdʒd/",
+          "explain": "not a standard form -- \"page\" doesn't take \"-ed\" this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>His ______ made him cry.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "fearful",
+          "ipa": "/ˈfɪrfəl/",
+          "explain": "adjective, wrong word class as the subject"
+        },
+        {
+          "word": "fearfulness",
+          "ipa": "/ˈfɪrfəlnəs/",
+          "explain": "correct -- noun needed as the subject of \"made him cry\""
+        },
+        {
+          "word": "fearless",
+          "ipa": "/ˈfɪrləs/",
+          "explain": "wrong meaning -- means without fear"
+        },
+        {
+          "word": "fearlessness",
+          "ipa": "/ˈfɪrləsnəs/",
+          "explain": "wrong meaning -- means the state of being without fear"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>The children were completely fascinated ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "on the story the teacher told them",
+          "ipa": "",
+          "explain": "wrong preposition -- \"fascinated by\", not \"on\""
+        },
+        {
+          "word": "by the story the teacher told them",
+          "ipa": "",
+          "explain": "correct -- \"fascinated by\" + reduced relative clause"
+        },
+        {
+          "word": "by the teacher told story",
+          "ipa": "",
+          "explain": "wrong word order/structure"
+        },
+        {
+          "word": "on the story telling them by the teacher",
+          "ipa": "",
+          "explain": "wrong preposition and structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>My boss is angry with me. I didn't do all the work I ______ last week.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "should do",
+          "ipa": "/ʃʊd duː/",
+          "explain": "wrong tense -- needs a perfect form for a past unmet obligation"
+        },
+        {
+          "word": "should have done",
+          "ipa": "/ʃʊd hæv dʌn/",
+          "explain": "correct -- \"should have done\" for an unfulfilled past obligation"
+        },
+        {
+          "word": "could do",
+          "ipa": "/kʊd duː/",
+          "explain": "wrong modal -- doesn't express an unmet obligation"
+        },
+        {
+          "word": "must have done",
+          "ipa": "/mʌst hæv dʌn/",
+          "explain": "wrong meaning -- expresses a deduction, not an obligation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>\"I have never seen such a perfect thing on you.\" \"______\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "haven't you?",
+          "ipa": "",
+          "explain": "not a valid tag response to this compliment"
+        },
+        {
+          "word": "I am so happy",
+          "ipa": "",
+          "explain": "doesn't directly acknowledge the compliment"
+        },
+        {
+          "word": "really?",
+          "ipa": "",
+          "explain": "doesn't fit as a gracious response to a compliment"
+        },
+        {
+          "word": "Thank you. That's a nice compliment.",
+          "ipa": "",
+          "explain": "correct -- natural, gracious response to a compliment"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the most suitable word or phrase to complete each sentence.</span>\"______\" \"Thank you. I'm glad you like it.\"",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Congratulations! You have a beautiful motorbike.",
+          "ipa": "",
+          "explain": "correct -- fits the reply \"thank you, glad you like it\""
+        },
+        {
+          "word": "The motorbike is beautiful.",
+          "ipa": "",
+          "explain": "less natural as a direct compliment prompting this specific reply"
+        },
+        {
+          "word": "Where did you buy this motorbike?",
+          "ipa": "",
+          "explain": "a question wouldn't prompt \"thank you, glad you like it\""
+        },
+        {
+          "word": "I didn't know you bought a motorbike.",
+          "ipa": "",
+          "explain": "doesn't prompt a \"glad you like it\" response"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>He (not finish) ______ his work yet. (not finish)",
+      "answer": "hasn't finished"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>He only (start) ______ an hour ago. (start)",
+      "answer": "started"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>A lot of people (kill) ______ by AIDS recently, and I wish nobody would die any more. (kill)",
+      "answer": "have been killed"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>Only yesterday I (realise) ______ what was going on. (realise)",
+      "answer": "did I realise"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>George as well as his brothers (not go) ______ to the cinema very often. (not go)",
+      "answer": "doesn't go"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>What you (do) ______ if you (give) ______ $1,000,000? (do)",
+      "answer": "would you do"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>What you would do if you (give) ______ $1,000,000? (give)",
+      "answer": "were given"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>There was a problem with the cellphone, but I (fix) ______ it now. (fix)",
+      "answer": "have fixed"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>From the clink of dishes one can tell that supper (prepare) ______. (prepare)",
+      "answer": "is being prepared"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the verbs in brackets in the correct tense or form.</span>You have read this book already. What you (think) ______ of it? (think)",
+      "answer": "do ... think"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Articles and reports in newspapers talk a lot about UFO ______. (APPEAR)",
+      "answer": "appearance"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>If there were flying saucers, there would be traces of their ______. (LAND)",
+      "answer": "landing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>The ______ of children won't be ready to stay away from home until they are in their teens. (MAJOR)",
+      "answer": "majority"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>The Internet has ______ developed and become a part of our everyday life. (INCREASE)",
+      "answer": "increasingly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Television can make things more ______ because it brings both sounds and pictures. (MEMORY)",
+      "answer": "memorable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Sam was accused of stealing some ______ documents from the safe. (CONFIDENCE)",
+      "answer": "confidential"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>You do not have to go. Your decision must be entirely ______. (VOLUNTEER)",
+      "answer": "voluntary"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Most people agree that Christmas has become too ______. (COMMERCE)",
+      "answer": "commercialized"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Don't leave your house ______ when you go out. (LOCK)",
+      "answer": "unlocked"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Lexical & Grammar - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the correct form of the word in capital letters.</span>Our visit to Cuc Phuong National Park last week was an ______ experience. (FORGET)",
+      "answer": "unforgettable"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>It is not easy for adult students of English to improve their accent. <mark>______ (1)</mark> children, who are flexible, adults often find it hard to change the way they speak. This is why ______ (2) the top, or smartest adult students have difficulty in pronunciation. There are several things that an international student can do to improve his or her pronunciation.<br><br>One method is to sign up for a class. Studying pronunciation can help students understand the rules of English, but in order to practice speaking, students often need to be exposed ______ (3) English outside the classroom as well. This is ______ (4) many students say that studying in an English-speaking country greatly affects their English. Living with native speakers can help students learn new vocabulary as well as improve their ______ (5).",
+      "answer": "Unlike"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>It is not easy for adult students of English to improve their accent. ______ (1) children, who are flexible, adults often find it hard to change the way they speak. This is why <mark>______ (2)</mark> the top, or smartest adult students have difficulty in pronunciation. There are several things that an international student can do to improve his or her pronunciation.<br><br>One method is to sign up for a class. Studying pronunciation can help students understand the rules of English, but in order to practice speaking, students often need to be exposed ______ (3) English outside the classroom as well. This is ______ (4) many students say that studying in an English-speaking country greatly affects their English. Living with native speakers can help students learn new vocabulary as well as improve their ______ (5).",
+      "answer": "even"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>It is not easy for adult students of English to improve their accent. ______ (1) children, who are flexible, adults often find it hard to change the way they speak. This is why ______ (2) the top, or smartest adult students have difficulty in pronunciation. There are several things that an international student can do to improve his or her pronunciation.<br><br>One method is to sign up for a class. Studying pronunciation can help students understand the rules of English, but in order to practice speaking, students often need to be exposed <mark>______ (3)</mark> English outside the classroom as well. This is ______ (4) many students say that studying in an English-speaking country greatly affects their English. Living with native speakers can help students learn new vocabulary as well as improve their ______ (5).",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>It is not easy for adult students of English to improve their accent. ______ (1) children, who are flexible, adults often find it hard to change the way they speak. This is why ______ (2) the top, or smartest adult students have difficulty in pronunciation. There are several things that an international student can do to improve his or her pronunciation.<br><br>One method is to sign up for a class. Studying pronunciation can help students understand the rules of English, but in order to practice speaking, students often need to be exposed ______ (3) English outside the classroom as well. This is <mark>______ (4)</mark> many students say that studying in an English-speaking country greatly affects their English. Living with native speakers can help students learn new vocabulary as well as improve their ______ (5).",
+      "answer": "why"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Supply the most suitable word for each blank.</span>It is not easy for adult students of English to improve their accent. ______ (1) children, who are flexible, adults often find it hard to change the way they speak. This is why ______ (2) the top, or smartest adult students have difficulty in pronunciation. There are several things that an international student can do to improve his or her pronunciation.<br><br>One method is to sign up for a class. Studying pronunciation can help students understand the rules of English, but in order to practice speaking, students often need to be exposed ______ (3) English outside the classroom as well. This is ______ (4) many students say that studying in an English-speaking country greatly affects their English. Living with native speakers can help students learn new vocabulary as well as improve their <mark>______ (5)</mark>.",
+      "answer": "pronunciation / accent"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is <mark>______ (1)</mark> by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "happened",
+          "ipa": "/ˈhæpənd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "caused",
+          "ipa": "/kɔːzd/",
+          "explain": "\"caused by an abnormal warming\""
+        },
+        {
+          "word": "occured",
+          "ipa": "/əˈkɜːrd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "done",
+          "ipa": "/dʌn/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal <mark>______ (2)</mark> of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "increase",
+          "ipa": "/ˈɪnkriːs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "extra",
+          "ipa": "/ˈekstrə/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "heater",
+          "ipa": "/ˈhiːtər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "warming",
+          "ipa": "/ˈwɔːrmɪŋ/",
+          "explain": "\"an abnormal warming of water\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the <mark>______ (3)</mark> to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "proficiency",
+          "ipa": "/prəˈfɪʃənsi/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "power",
+          "ipa": "/ˈpaʊər/",
+          "explain": "\"the power to influence global weather\""
+        },
+        {
+          "word": "practice",
+          "ipa": "/ˈpræktɪs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "performance",
+          "ipa": "/pərˈfɔːrməns/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to <mark>______ (4)</mark>. It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "other",
+          "ipa": "/ˈʌðər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "another",
+          "ipa": "/əˈnʌðər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "others",
+          "ipa": "/ˈʌðərz/",
+          "explain": "\"heavy rain to others\" (other continents)"
+        },
+        {
+          "word": "the others",
+          "ipa": "/ði ˈʌðərz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first <mark>______ (5)</mark> by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "saw",
+          "ipa": "/sɔː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "noticed",
+          "ipa": "/ˈnoʊtɪst/",
+          "explain": "\"first noticed by fishermen\""
+        },
+        {
+          "word": "caught",
+          "ipa": "/kɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "time",
+          "ipa": "/taɪm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes <mark>______ (6)</mark> near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "away",
+          "ipa": "/əˈweɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "care",
+          "ipa": "/ker/",
+          "explain": "\"take care\" doesn't fit this meaning"
+        },
+        {
+          "word": "part",
+          "ipa": "/pɑːrt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "place",
+          "ipa": "/pleɪs/",
+          "explain": "correct -- \"take place\" is the fixed idiom meaning \"to happen/occur\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic <mark>______ (7)</mark>. The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "damage",
+          "ipa": "/ˈdæmɪdʒ/",
+          "explain": "\"catastrophic damage\""
+        },
+        {
+          "word": "difficulty",
+          "ipa": "/ˈdɪfɪkəlti/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "hurt",
+          "ipa": "/hɜːrt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "problem",
+          "ipa": "/ˈprɒbləm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino <mark>______ (8)</mark> in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "resulted",
+          "ipa": "/rɪˈzʌltɪd/",
+          "explain": "\"resulted in 1,500 deaths\" -- fixed collocation"
+        },
+        {
+          "word": "led",
+          "ipa": "/led/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "caused",
+          "ipa": "/kɔːzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "gave",
+          "ipa": "/geɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, <mark>______ (9)</mark> fish and birds, also die in large numbers. It is ______ (10) that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "containing",
+          "ipa": "/kənˈteɪnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "holding",
+          "ipa": "/ˈhoʊldɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "including",
+          "ipa": "/ɪnˈkluːdɪŋ/",
+          "explain": "\"sea animals, including fish and birds\""
+        },
+        {
+          "word": "involving",
+          "ipa": "/ɪnˈvɒlvɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer from A, B, C or D to fill in the gaps in the following passage.</span><b>El Nino</b><br><br>El Nino is a weather phenomenon of the Pacific ocean which is ______ (1) by an abnormal ______ (2) of water on the surface of the ocean. It has the ______ (3) to influence global weather patterns as it brings drought to some continents and heavy rain to ______ (4). It was first ______ (5) by fishermen in Spanish ports in the Pacific in the 17th century. It got its name (Spanish for \"boy child\") because it usually takes ______ (6) near Christmas time. It can cause catastrophic ______ (7). The 1982 El Nino ______ (8) in 1,500 deaths, but it can be a lot worse than that. Sea animals, ______ (9) fish and birds, also die in large numbers. It is <mark>______ (10)</mark> that sailors in the Pacific can smell the dead sea-life during El Nino.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "said",
+          "ipa": "/sed/",
+          "explain": "\"it is said that\" -- reporting a claim"
+        },
+        {
+          "word": "felt",
+          "ipa": "/felt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "told",
+          "ipa": "/toʊld/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "written",
+          "ipa": "/ˈrɪtən/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the questions below.</span><span class=\"passage-block\"><b>The Prophecy</b><br><br>People who live in California have every reason to be afraid of earthquakes. No one has ever forgotten the great quake that destroyed San Francisco in 1906. In May, 1988, the people of Los Angeles panicked. According to a prophecy made in the 16th century by a prophet called Nostradamus, the city would be destroyed early in 1988. During the panic, parents didn't send their children to school and people didn't go to work. No one stayed at home, either. The airlines did great business carrying people who fled from their \"doomed city\". Which is more puzzling: how Nostradamus knew that a city which didn't even exist in his time would be destroyed in the 20th century, or the behavior of the people who believed \"the prophecy\"?</span><span class=\"cue-line\">What are Californians afraid of?</span>",
+      "answer": "Californians are afraid of earthquakes."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the questions below.</span><span class=\"passage-block\"><b>The Prophecy</b><br><br>People who live in California have every reason to be afraid of earthquakes. No one has ever forgotten the great quake that destroyed San Francisco in 1906. In May, 1988, the people of Los Angeles panicked. According to a prophecy made in the 16th century by a prophet called Nostradamus, the city would be destroyed early in 1988. During the panic, parents didn't send their children to school and people didn't go to work. No one stayed at home, either. The airlines did great business carrying people who fled from their \"doomed city\". Which is more puzzling: how Nostradamus knew that a city which didn't even exist in his time would be destroyed in the 20th century, or the behavior of the people who believed \"the prophecy\"?</span><span class=\"cue-line\">When did the great earthquake destroy San Francisco?</span>",
+      "answer": "The great earthquake destroyed San Francisco in 1906."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the questions below.</span><span class=\"passage-block\"><b>The Prophecy</b><br><br>People who live in California have every reason to be afraid of earthquakes. No one has ever forgotten the great quake that destroyed San Francisco in 1906. In May, 1988, the people of Los Angeles panicked. According to a prophecy made in the 16th century by a prophet called Nostradamus, the city would be destroyed early in 1988. During the panic, parents didn't send their children to school and people didn't go to work. No one stayed at home, either. The airlines did great business carrying people who fled from their \"doomed city\". Which is more puzzling: how Nostradamus knew that a city which didn't even exist in his time would be destroyed in the 20th century, or the behavior of the people who believed \"the prophecy\"?</span><span class=\"cue-line\">When was the prophecy about the destruction of Los Angeles made?</span>",
+      "answer": "The prophecy about the destruction of Los Angeles was made in the 16th century."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the questions below.</span><span class=\"passage-block\"><b>The Prophecy</b><br><br>People who live in California have every reason to be afraid of earthquakes. No one has ever forgotten the great quake that destroyed San Francisco in 1906. In May, 1988, the people of Los Angeles panicked. According to a prophecy made in the 16th century by a prophet called Nostradamus, the city would be destroyed early in 1988. During the panic, parents didn't send their children to school and people didn't go to work. No one stayed at home, either. The airlines did great business carrying people who fled from their \"doomed city\". Which is more puzzling: how Nostradamus knew that a city which didn't even exist in his time would be destroyed in the 20th century, or the behavior of the people who believed \"the prophecy\"?</span><span class=\"cue-line\">According to the prophecy, when would the destruction of Los Angeles happen?</span>",
+      "answer": "According to the prophecy, the destruction of Los Angeles would happen in 1988."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and answer the questions below.</span><span class=\"passage-block\"><b>The Prophecy</b><br><br>People who live in California have every reason to be afraid of earthquakes. No one has ever forgotten the great quake that destroyed San Francisco in 1906. In May, 1988, the people of Los Angeles panicked. According to a prophecy made in the 16th century by a prophet called Nostradamus, the city would be destroyed early in 1988. During the panic, parents didn't send their children to school and people didn't go to work. No one stayed at home, either. The airlines did great business carrying people who fled from their \"doomed city\". Which is more puzzling: how Nostradamus knew that a city which didn't even exist in his time would be destroyed in the 20th century, or the behavior of the people who believed \"the prophecy\"?</span><span class=\"cue-line\">How did the people of Los Angeles flee from their doomed city?</span>",
+      "answer": "The people of Los Angeles fled from their doomed city by plane."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">They will open a new school here next year.</span><span class=\"cue-line\">A new school ......................</span>",
+      "answer": "A new school will be opened here next year."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">What a pity, he can't drive.</span><span class=\"cue-line\">I wish he ......................</span>",
+      "answer": "I wish he could drive."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">She can't go to work today because she is tired.</span><span class=\"cue-line\">If she ......................</span>",
+      "answer": "If she were not tired, she could / would go to work today."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">\"I'm going on business tomorrow\" said Ann.</span><span class=\"cue-line\">Ann said ......................</span>",
+      "answer": "Ann said she was going on business the next / following day."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">Please let me open the window.</span><span class=\"cue-line\">Would you mind ......................?</span>",
+      "answer": "Would you mind if I opened the window?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">The course finished with a big party.</span><span class=\"cue-line\">At the end ......................</span>",
+      "answer": "At the end of the course, there was a big party."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">I wish I hadn't heard that!</span><span class=\"cue-line\">I'd rather you ......................</span>",
+      "answer": "I'd rather you hadn't told me that."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">The living-room hasn't been painted for many years.</span><span class=\"cue-line\">We ......................</span>",
+      "answer": "We haven't had the living room painted for many years. / We haven't painted the living room for many years."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">\"Why don't we go and have a look at the cathedral?\"</span><span class=\"cue-line\">He suggested ......................</span>",
+      "answer": "He suggested that we (should) go and have a look at the cathedral. / He suggested our going and having a look at the cathedral."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Complete each of the following sentences in such a way that it means the same as the sentence printed before it.</span><span class=\"original-sentence\">Harry broke his leg, and also injured his shoulder.</span><span class=\"cue-line\">Not only ......................</span>",
+      "answer": "Not only did Harry break his leg, but he (also) injured his shoulder (as well)."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing - Essay",
+      "prompt": "<span class=\"mini-instruction\">Write a paragraph of 80-100 words.</span>Write a paragraph (80 - 100 words) about the limitations of the Internet.",
+      "rubric": [
+        "Format (coherence, cohesion, style): the paragraph should have three parts -- an introduction with a topic sentence narrowing down the limitations, a body with reasoning and examples to clarify the ideas, and a conclusion summarizing the main reasons with the student's own comment",
+        "Content: give specific limitations of the Internet, such as -- information being out of control (hard to find proper information, easy to be confused or misled/cheated), a lot of violent and sexual content that may badly affect and mislead teenagers, and increasing game/social-network addiction (wasted time and energy, damaged family and social relationships, possible severe obsession or breakdown)"
+      ]
+    }
+  ]
+}

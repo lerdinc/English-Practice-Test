@@ -1,0 +1,1458 @@
+{
+  "title": "English Practice Test No: 26",
+  "subtitle": "81 questions - Phonetics, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "discussion",
+          "underline": "ssion",
+          "ipa": "/dɪˈskʌʃən/",
+          "explain": "said as /ʃən/"
+        },
+        {
+          "word": "revision",
+          "underline": "sion",
+          "ipa": "/rɪˈvɪʒən/",
+          "explain": "said as /ʒən/ -- the odd one out"
+        },
+        {
+          "word": "attention",
+          "underline": "tion",
+          "ipa": "/əˈtenʃən/",
+          "explain": "said as /ʃən/"
+        },
+        {
+          "word": "admission",
+          "underline": "ssion",
+          "ipa": "/ədˈmɪʃən/",
+          "explain": "said as /ʃən/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "cease",
+          "underline": "se",
+          "ipa": "/siːs/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "chase",
+          "underline": "se",
+          "ipa": "/tʃeɪs/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "increase",
+          "underline": "se",
+          "ipa": "/ɪnˈkriːs/",
+          "explain": "said as /s/"
+        },
+        {
+          "word": "raise",
+          "underline": "se",
+          "ipa": "/reɪz/",
+          "explain": "said as /z/ -- the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "genuine",
+          "underline": "g",
+          "ipa": "/ˈdʒenjuɪn/",
+          "explain": "said as /dʒ/"
+        },
+        {
+          "word": "geneticist",
+          "underline": "g",
+          "ipa": "/dʒəˈnetɪsɪst/",
+          "explain": "said as /dʒ/"
+        },
+        {
+          "word": "guarantee",
+          "underline": "g",
+          "ipa": "/ˌgærənˈtiː/",
+          "explain": "said as /g/ -- the odd one out"
+        },
+        {
+          "word": "generate",
+          "underline": "g",
+          "ipa": "/ˈdʒenəreɪt/",
+          "explain": "said as /dʒ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "boot",
+          "underline": "oo",
+          "ipa": "/buːt/",
+          "explain": "said as /uː/"
+        },
+        {
+          "word": "shoot",
+          "underline": "oo",
+          "ipa": "/ʃuːt/",
+          "explain": "said as /uː/"
+        },
+        {
+          "word": "food",
+          "underline": "oo",
+          "ipa": "/fuːd/",
+          "explain": "said as /uː/"
+        },
+        {
+          "word": "good",
+          "underline": "oo",
+          "ipa": "/gʊd/",
+          "explain": "said as /ʊ/ -- the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics - Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the rest of the group.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "teenage",
+          "underline": "age",
+          "ipa": "/ˈtiːneɪdʒ/",
+          "explain": "said as /eɪdʒ/ -- the odd one out"
+        },
+        {
+          "word": "dosage",
+          "underline": "age",
+          "ipa": "/ˈdoʊsɪdʒ/",
+          "explain": "said as /ɪdʒ/"
+        },
+        {
+          "word": "voyage",
+          "underline": "age",
+          "ipa": "/ˈvɔɪɪdʒ/",
+          "explain": "said as /ɪdʒ/"
+        },
+        {
+          "word": "carriage",
+          "underline": "age",
+          "ipa": "/ˈkærɪdʒ/",
+          "explain": "said as /ɪdʒ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "consequently",
+          "ipa": "/ˈkɒnsɪkwəntli/",
+          "explain": "CON-se-quent-ly -- stress on the 1st syllable"
+        },
+        {
+          "word": "profile",
+          "ipa": "/ˈproʊfaɪl/",
+          "explain": "PRO-file -- stress on the 1st syllable"
+        },
+        {
+          "word": "initiate",
+          "ipa": "/ɪˈnɪʃieɪt/",
+          "explain": "i-NI-ti-ate -- stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "project",
+          "ipa": "/ˈprɒdʒekt/",
+          "explain": "PRO-ject (noun) -- stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "obedience",
+          "ipa": "/oʊˈbiːdiəns/",
+          "explain": "o-BE-di-ence -- stress on the 2nd syllable"
+        },
+        {
+          "word": "curriculum",
+          "ipa": "/kəˈrɪkjələm/",
+          "explain": "cur-RIC-u-lum -- stress on the 2nd syllable"
+        },
+        {
+          "word": "benefactor",
+          "ipa": "/ˈbenɪfæktər/",
+          "explain": "BEN-e-fac-tor -- stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "moustache",
+          "ipa": "/məˈstæʃ/",
+          "explain": "mous-TACHE -- stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "arithmetic",
+          "ipa": "/əˈrɪθmətɪk/",
+          "explain": "a-RITH-me-tic -- stress on the 2nd syllable"
+        },
+        {
+          "word": "assassinate",
+          "ipa": "/əˈsæsɪneɪt/",
+          "explain": "as-SAS-si-nate -- stress on the 2nd syllable"
+        },
+        {
+          "word": "agriculture",
+          "ipa": "/ˈægrɪkʌltʃər/",
+          "explain": "AG-ri-cul-ture -- stress on the 1st syllable"
+        },
+        {
+          "word": "controvert",
+          "ipa": "/ˈkɒntrəvɜːrt/",
+          "explain": "CON-tro-vert -- stress differs from the majority pattern, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "compulsory",
+          "ipa": "/kəmˈpʌlsəri/",
+          "explain": "com-PUL-so-ry -- stress on the 2nd syllable"
+        },
+        {
+          "word": "technology",
+          "ipa": "/tekˈnɒlədʒi/",
+          "explain": "tech-NOL-o-gy -- stress on the 2nd syllable"
+        },
+        {
+          "word": "academic",
+          "ipa": "/ˌækəˈdemɪk/",
+          "explain": "ac-a-DEM-ic -- stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "eliminate",
+          "ipa": "/ɪˈlɪmɪneɪt/",
+          "explain": "e-LIM-i-nate -- stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics - Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is different from the rest of the group.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "inheritance",
+          "ipa": "/ɪnˈherɪtəns/",
+          "explain": "in-HER-i-tance -- stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "mathematician",
+          "ipa": "/ˌmæθəməˈtɪʃən/",
+          "explain": "math-e-ma-TI-cian -- stress on the 4th syllable"
+        },
+        {
+          "word": "communication",
+          "ipa": "/kəˌmjuːnɪˈkeɪʃən/",
+          "explain": "com-mu-ni-CA-tion -- stress on the 4th syllable"
+        },
+        {
+          "word": "tuberculosis",
+          "ipa": "/tuːˌbɜːrkjəˈloʊsɪs/",
+          "explain": "tu-ber-cu-LO-sis -- stress on the 4th syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>Books are no longer the only ______ of stories and information.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "source",
+          "ipa": "/sɔːrs/",
+          "explain": "correct -- \"a source of stories/information\" is the fixed collocation"
+        },
+        {
+          "word": "style",
+          "ipa": "/staɪl/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "basis",
+          "ipa": "/ˈbeɪsɪs/",
+          "explain": "wrong meaning -- describes a foundation, not an origin of content"
+        },
+        {
+          "word": "site",
+          "ipa": "/saɪt/",
+          "explain": "wrong meaning -- refers to a location"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>You'll have to ______ a better idea than that if you want to win.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "come in for",
+          "ipa": "/kʌm ɪn fɔːr/",
+          "explain": "wrong phrasal verb -- means to receive blame/criticism"
+        },
+        {
+          "word": "get down to",
+          "ipa": "/get daʊn tə/",
+          "explain": "wrong phrasal verb -- means to start working seriously"
+        },
+        {
+          "word": "bring out",
+          "ipa": "/brɪŋ aʊt/",
+          "explain": "wrong phrasal verb -- means to release/publish"
+        },
+        {
+          "word": "come up with",
+          "ipa": "/kʌm ʌp wɪð/",
+          "explain": "correct -- \"come up with an idea\" is the fixed phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>Would it be ______ for you to see me tomorrow morning?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "fit",
+          "ipa": "/fɪt/",
+          "explain": "wrong word for this meaning"
+        },
+        {
+          "word": "successful",
+          "ipa": "/səkˈsesfəl/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "possible",
+          "ipa": "/ˈpɒsəbəl/",
+          "explain": "correct -- \"would it be possible for you to\" is a polite request structure"
+        },
+        {
+          "word": "worth",
+          "ipa": "/wɜːrθ/",
+          "explain": "wrong word class -- needs \"worth it\" or a gerund"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>You would look up a word in a dictionary if you didn't know what it ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "signified",
+          "ipa": "/ˈsɪgnɪfaɪd/",
+          "explain": "too formal/unusual for this everyday context"
+        },
+        {
+          "word": "meant",
+          "ipa": "/ment/",
+          "explain": "correct -- \"know what a word means\" is the natural phrasing"
+        },
+        {
+          "word": "showed",
+          "ipa": "/ʃoʊd/",
+          "explain": "wrong meaning -- words don't \"show\""
+        },
+        {
+          "word": "talked",
+          "ipa": "/tɔːkt/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>My father often does ______ with people from other countries in the region.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "business",
+          "ipa": "/ˈbɪznəs/",
+          "explain": "correct -- \"do business with someone\" is the fixed collocation"
+        },
+        {
+          "word": "finances",
+          "ipa": "/fəˈnænsɪz/",
+          "explain": "wrong word -- doesn't fit \"do finances with\""
+        },
+        {
+          "word": "affairs",
+          "ipa": "/əˈferz/",
+          "explain": "wrong word -- doesn't fit \"do affairs with\""
+        },
+        {
+          "word": "economy",
+          "ipa": "/ɪˈkɒnəmi/",
+          "explain": "wrong word entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>Which word is incorrect?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "bamboos",
+          "ipa": "/bæmˈbuːz/",
+          "explain": "correctly formed plural"
+        },
+        {
+          "word": "photos",
+          "ipa": "/ˈfoʊtoʊz/",
+          "explain": "correctly formed plural"
+        },
+        {
+          "word": "pianoes",
+          "ipa": "/piˈænoʊz/",
+          "explain": "incorrect -- should be \"pianos\" (no \"e\")"
+        },
+        {
+          "word": "tomatoes",
+          "ipa": "/təˈmeɪtoʊz/",
+          "explain": "correctly formed plural"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>I couldn't tell what time it was because workmen had removed the ______ of the clock.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "hands",
+          "ipa": "/hændz/",
+          "explain": "correct -- \"the hands of a clock\" is the fixed term"
+        },
+        {
+          "word": "pointers",
+          "ipa": "/ˈpɔɪntərz/",
+          "explain": "wrong term for a clock's indicators"
+        },
+        {
+          "word": "arms",
+          "ipa": "/ɑːrmz/",
+          "explain": "wrong term for a clock's indicators"
+        },
+        {
+          "word": "fingers",
+          "ipa": "/ˈfɪŋgərz/",
+          "explain": "wrong term for a clock's indicators"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>At the end of the winter, the price of winter clothes in the shop usually ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "drops",
+          "ipa": "/drɒps/",
+          "explain": "correct -- \"prices drop\" is the natural collocation"
+        },
+        {
+          "word": "lowers",
+          "ipa": "/ˈloʊərz/",
+          "explain": "less natural -- \"lower\" is usually transitive (someone lowers prices)"
+        },
+        {
+          "word": "sinks",
+          "ipa": "/sɪŋks/",
+          "explain": "wrong word for describing prices"
+        },
+        {
+          "word": "reduces",
+          "ipa": "/rɪˈdjuːsɪz/",
+          "explain": "less natural -- \"reduce\" is usually transitive here too"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>The question of late payment of bills was ______ at the board meeting.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "risen",
+          "ipa": "/ˈrɪzən/",
+          "explain": "wrong verb -- \"rise\" is intransitive, doesn't take an object like \"the question\""
+        },
+        {
+          "word": "raised",
+          "ipa": "/reɪzd/",
+          "explain": "correct -- \"raise a question\" is the fixed collocation"
+        },
+        {
+          "word": "bought",
+          "ipa": "/bɔːt/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "taken",
+          "ipa": "/ˈteɪkən/",
+          "explain": "wrong verb for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>Modern buildings should ______ with the surrounding area.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "suit",
+          "ipa": "/suːt/",
+          "explain": "wrong verb -- doesn't fit \"with\" this way"
+        },
+        {
+          "word": "fit",
+          "ipa": "/fɪt/",
+          "explain": "would need \"in with\", not just \"with\", for this meaning"
+        },
+        {
+          "word": "blend",
+          "ipa": "/blend/",
+          "explain": "correct -- \"blend with\" describes visual harmony with surroundings"
+        },
+        {
+          "word": "join",
+          "ipa": "/dʒɔɪn/",
+          "explain": "wrong meaning -- implies physical connection"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>There was nothing special about his clothes ______ from his flowery tie.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "but",
+          "ipa": "/bʌt/",
+          "explain": "would need to directly follow \"nothing\", not \"clothes\", to mean \"except\""
+        },
+        {
+          "word": "except",
+          "ipa": "/ɪkˈsept/",
+          "explain": "incorrect -- \"except from\" isn't standard English; should be \"except for\""
+        },
+        {
+          "word": "other",
+          "ipa": "/ˈʌðər/",
+          "explain": "would need \"other than\", not \"other from\""
+        },
+        {
+          "word": "apart",
+          "ipa": "/əˈpɑːrt/",
+          "explain": "correct -- \"apart from\" is the standard fixed phrase for this exception"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>He went ______ a bad cold just before Christmas.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "down with",
+          "ipa": "/daʊn wɪð/",
+          "explain": "correct -- \"go down with an illness\" is the fixed phrasal verb"
+        },
+        {
+          "word": "in for",
+          "ipa": "/ɪn fɔːr/",
+          "explain": "wrong phrasal verb"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "wrong meaning -- would suggest recovering, not catching"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "wrong meaning for catching an illness"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>His name was on the ______ of my tongue, but I just couldn't remember it.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "end",
+          "ipa": "/end/",
+          "explain": "wrong word for this fixed idiom"
+        },
+        {
+          "word": "point",
+          "ipa": "/pɔɪnt/",
+          "explain": "wrong word for this fixed idiom"
+        },
+        {
+          "word": "edge",
+          "ipa": "/edʒ/",
+          "explain": "wrong word for this fixed idiom"
+        },
+        {
+          "word": "tip",
+          "ipa": "/tɪp/",
+          "explain": "correct -- \"on the tip of my tongue\" is the fixed idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>Alice finally ______ the job because she couldn't stand its high pressure anymore.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "admitted",
+          "ipa": "/ədˈmɪtɪd/",
+          "explain": "wrong meaning -- means to confess"
+        },
+        {
+          "word": "accepted",
+          "ipa": "/əkˈseptɪd/",
+          "explain": "wrong meaning -- opposite of leaving"
+        },
+        {
+          "word": "adopted",
+          "ipa": "/əˈdɒptɪd/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "quit",
+          "ipa": "/kwɪt/",
+          "explain": "correct -- fits \"couldn't stand the pressure anymore\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best option (A, B, C or D) to complete each sentence.</span>The campaign raised far more than the ______ of $20,000.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "aim",
+          "ipa": "/eɪm/",
+          "explain": "less precise than \"target\" for a specific numeric fundraising goal"
+        },
+        {
+          "word": "object",
+          "ipa": "/ˈɒbdʒekt/",
+          "explain": "wrong word for a numeric goal"
+        },
+        {
+          "word": "goal",
+          "ipa": "/goʊl/",
+          "explain": "possible, but \"target\" is the more standard term for a specific fundraising figure"
+        },
+        {
+          "word": "target",
+          "ipa": "/ˈtɑːrgɪt/",
+          "explain": "correct -- \"a target of $20,000\" is the standard fixed phrase for a fundraising goal"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>I was the last person <mark>hearing</mark> about that accident.",
+      "answer": "to hear"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>He objected <mark>for</mark> his secretary's coming to work late.",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>This is the old furniture that isn't worth <mark>kept</mark>.",
+      "answer": "keeping"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>For such an <mark>experience</mark> and able teacher, discipline was not a problem.",
+      "answer": "experienced"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>He looks <mark>remarkable</mark> like his father.",
+      "answer": "remarkably"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Only by studying hard <mark>you can</mark> pass the final exam.",
+      "answer": "can you"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>It was <mark>so</mark> bad weather that we couldn't go out.",
+      "answer": "such"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>They are having the walls <mark>painting</mark> by the painters.",
+      "answer": "painted"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>Many people think that reading newspapers <mark>are</mark> very interesting.",
+      "answer": "is"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There is one mistake (highlighted) in each sentence. Find it and correct it.</span>There is too <mark>many</mark> pollution in large cities.",
+      "answer": "much"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Forcing children to use their right hand can cause ______ of school, which can impact their academic development. (HATE)",
+      "answer": "hatred"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>I admire her ______ beauty. She's old but she's still beautiful. (TIME)",
+      "answer": "timeless"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Although we were in danger, Ann seemed quite ______. (CONCERN)",
+      "answer": "unconcerned"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The statue is a lifelike ______ of Chris Jesus. (REPRESENT)",
+      "answer": "representation"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The principal said some ______ words to the pupils before the exam. (COURAGE)",
+      "answer": "encouraging"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The ______ horse ran away from the fire. (FRIGHT)",
+      "answer": "frightened"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>______ are unpleasant, but it will be nice when we get into the new house. (MOVE)",
+      "answer": "Removals"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>The meeting has been ______ arranged for 3 p.m. next Friday. (PROVIDE)",
+      "answer": "provisionally"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Jim is very disorganized and not very ______. (BUSINESS)",
+      "answer": "businesslike"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the word in brackets.</span>Her ______ has made her a lot of enemies. (SPEAK)",
+      "answer": "outspokenness"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known <mark>______ (1)</mark> his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged <mark>______ (2)</mark> one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did <mark>______ (3)</mark> in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "poorly"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the <mark>______ (4)</mark> of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "exception"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his <mark>______ (5)</mark> subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "favorite"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While <mark>______ (6)</mark> as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "working"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on <mark>______ (7)</mark> a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "how"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy <mark>______ (8)</mark> many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "because"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments <mark>______ (9)</mark> Einstein to be correct. Einstein was ______ (10) the Nobel Prize for his work in physics.",
+      "answer": "proved"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each numbered space with one appropriate word.</span><b>Albert Einstein</b><br><br>Best known ______ (1) his Theory of Relativity, Albert Einstein has been acknowledged ______ (2) one of the greatest scientists in human society. Born in Germany in 1879, Einstein did ______ (3) in all his school subjects, with the ______ (4) of mathematics, which was his ______ (5) subject.<br><br>While ______ (6) as a clerk in Switzerland, Einstein produced the Special Theory of Relativity. This theory states that mass, length and time change depending on ______ (7) a person looks at them. In 1915, Einstein published his General Theory of Relativity. This new theory created a controversy ______ (8) many scientists did not agree with him. In the end, simple experiments ______ (9) Einstein to be correct. Einstein was <mark>______ (10)</mark> the Nobel Prize for his work in physics.",
+      "answer": "awarded"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer from A, B, C or D.</span><span class=\"passage-block\">The loss of the jobs and persistent unemployment in the industrial countries is due mainly to changes in technology. It is thought to be misleading to blame job losses on the shift of corporations from the industrial countries to the Third World.<br><br>The present technological developments have been compared to a Third Industrial Revolution. The first, coming in the 19th century, was characterized by the steam engine and the use of coal. In the 1920s the second emerged with the use of oil and the electro dynamo. The third, the present one, is driven by computers, biotechnology and information technology.<br><br>However, there can be seen weaknesses in the newest of industrial revolutions. The technology is advancing so fast and productivity is rising so fast that we are left with a big problem. Because of the loss in jobs, caused largely by this new technology, there will not be enough people with money to buy all these products.<br><br>Technology has definitely enhanced our standard of living, even our quality of life. But as the capacity to produce expands and the lack of purchasing power and consequent demand diminish, there can be overproduction and recession, and what happens to our standard of living?</span><span class=\"cue-line\">What is the main point the author is making?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "That the industrial countries have more unemployment than the Third World.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "That technology is the main cause of unemployment.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "That corporations have shifted to the Third World.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "That the present situation is like in the Industrial Revolution.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer from A, B, C or D.</span><span class=\"passage-block\">The loss of the jobs and persistent unemployment in the industrial countries is due mainly to changes in technology. It is thought to be misleading to blame job losses on the shift of corporations from the industrial countries to the Third World.<br><br>The present technological developments have been compared to a Third Industrial Revolution. The first, coming in the 19th century, was characterized by the steam engine and the use of coal. In the 1920s the second emerged with the use of oil and the electro dynamo. The third, the present one, is driven by computers, biotechnology and information technology.<br><br>However, there can be seen weaknesses in the newest of industrial revolutions. The technology is advancing so fast and productivity is rising so fast that we are left with a big problem. Because of the loss in jobs, caused largely by this new technology, there will not be enough people with money to buy all these products.<br><br>Technology has definitely enhanced our standard of living, even our quality of life. But as the capacity to produce expands and the lack of purchasing power and consequent demand diminish, there can be overproduction and recession, and what happens to our standard of living?</span><span class=\"cue-line\">Which of the following is not a characteristic of one of the industrial revolutions?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "The use of oil",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The use of computers",
+          "explain": "this IS explicitly mentioned (\"driven by computers\") for the third revolution"
+        },
+        {
+          "word": "The use of electricity",
+          "explain": "correct -- the passage says \"electro dynamo\" (a device), not literally \"electricity\" -- the odd one out on close reading"
+        },
+        {
+          "word": "The use of coal",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer from A, B, C or D.</span><span class=\"passage-block\">The loss of the jobs and persistent unemployment in the industrial countries is due mainly to changes in technology. It is thought to be misleading to blame job losses on the shift of corporations from the industrial countries to the Third World.<br><br>The present technological developments have been compared to a Third Industrial Revolution. The first, coming in the 19th century, was characterized by the steam engine and the use of coal. In the 1920s the second emerged with the use of oil and the electro dynamo. The third, the present one, is driven by computers, biotechnology and information technology.<br><br>However, there can be seen weaknesses in the newest of industrial revolutions. The technology is advancing so fast and productivity is rising so fast that we are left with a big problem. Because of the loss in jobs, caused largely by this new technology, there will not be enough people with money to buy all these products.<br><br>Technology has definitely enhanced our standard of living, even our quality of life. But as the capacity to produce expands and the lack of purchasing power and consequent demand diminish, there can be overproduction and recession, and what happens to our standard of living?</span><span class=\"cue-line\">What is stated as being the main weakness of the Third Industrial Revolution?</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "There will be too few people who can afford to buy things.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "There won't be enough products for everyone to buy.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "There will not be enough money around.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "There will be too many machines in the factories.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer from A, B, C or D.</span><span class=\"passage-block\">The loss of the jobs and persistent unemployment in the industrial countries is due mainly to changes in technology. It is thought to be misleading to blame job losses on the shift of corporations from the industrial countries to the Third World.<br><br>The present technological developments have been compared to a Third Industrial Revolution. The first, coming in the 19th century, was characterized by the steam engine and the use of coal. In the 1920s the second emerged with the use of oil and the electro dynamo. The third, the present one, is driven by computers, biotechnology and information technology.<br><br>However, there can be seen weaknesses in the newest of industrial revolutions. The technology is advancing so fast and productivity is rising so fast that we are left with a big problem. Because of the loss in jobs, caused largely by this new technology, there will not be enough people with money to buy all these products.<br><br>Technology has definitely enhanced our standard of living, even our quality of life. But as the capacity to produce expands and the lack of purchasing power and consequent demand diminish, there can be overproduction and recession, and what happens to our standard of living?</span><span class=\"cue-line\">Why does the author think that there won't be enough people to buy the product?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "People will not be able to keep up with technology.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Productivity will not be high enough.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "There will be too many products.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Many people will be unemployed.",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below and choose the best answer from A, B, C or D.</span><span class=\"passage-block\">The loss of the jobs and persistent unemployment in the industrial countries is due mainly to changes in technology. It is thought to be misleading to blame job losses on the shift of corporations from the industrial countries to the Third World.<br><br>The present technological developments have been compared to a Third Industrial Revolution. The first, coming in the 19th century, was characterized by the steam engine and the use of coal. In the 1920s the second emerged with the use of oil and the electro dynamo. The third, the present one, is driven by computers, biotechnology and information technology.<br><br>However, there can be seen weaknesses in the newest of industrial revolutions. The technology is advancing so fast and productivity is rising so fast that we are left with a big problem. Because of the loss in jobs, caused largely by this new technology, there will not be enough people with money to buy all these products.<br><br>Technology has definitely enhanced our standard of living, even our quality of life. But as the capacity to produce expands and the lack of purchasing power and consequent demand diminish, there can be overproduction and recession, and what happens to our standard of living?</span><span class=\"cue-line\">What do we infer is the author's attitude to the technology?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "It has improved our purchasing power.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "It has improved our quality of life.",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "It has created more jobs.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "It is not responsible for the recession.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to <mark>______ (1)</mark> the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "sign",
+          "ipa": "/saɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "give",
+          "ipa": "/gɪv/",
+          "explain": "\"give the go ahead\" is the fixed phrase"
+        },
+        {
+          "word": "approve",
+          "ipa": "/əˈpruːv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The <mark>______ (2)</mark> plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "controversial",
+          "ipa": "/ˌkɒntrəˈvɜːrʃəl/",
+          "explain": "\"the controversial plans\" fits the anger/fears described"
+        },
+        {
+          "word": "debatable",
+          "ipa": "/dɪˈbeɪtəbəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "notorious",
+          "ipa": "/noʊˈtɔːriəs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "doubtful",
+          "ipa": "/ˈdaʊtfəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will <mark>______ (3)</mark> the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "involve",
+          "ipa": "/ɪnˈvɒlv/",
+          "explain": "\"will involve the compulsory purchase\""
+        },
+        {
+          "word": "concern",
+          "ipa": "/kənˈsɜːrn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "assume",
+          "ipa": "/əˈsuːm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "need",
+          "ipa": "/niːd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing <mark>______ (4)</mark> of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "sum",
+          "ipa": "/sʌm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "size",
+          "ipa": "/saɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "volume",
+          "ipa": "/ˈvɒljuːm/",
+          "explain": "\"the increasing volume of traffic\""
+        },
+        {
+          "word": "length",
+          "ipa": "/leŋkθ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable <mark>______ (5)</mark>. Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "years",
+          "ipa": "/jɪrz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "period",
+          "ipa": "/ˈpɪriəd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "time",
+          "ipa": "/taɪm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "future",
+          "ipa": "/ˈfjuːtʃər/",
+          "explain": "\"in the foreseeable future\" is the fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely <mark>______ (6)</mark> as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "regarded",
+          "ipa": "/rɪˈgɑːrdɪd/",
+          "explain": "\"widely regarded as\" is the fixed collocation"
+        },
+        {
+          "word": "believed",
+          "ipa": "/bɪˈliːvd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "felt",
+          "ipa": "/felt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "held",
+          "ipa": "/held/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better <mark>______ (7)</mark> for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "potential",
+          "ipa": "/pəˈtenʃəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "outlook",
+          "ipa": "/ˈaʊtlʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "prospect",
+          "ipa": "/ˈprɒspekt/",
+          "explain": "\"a better prospect for expansion\""
+        },
+        {
+          "word": "likelihood",
+          "ipa": "/ˈlaɪklihʊd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, <mark>______ (8)</mark> up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "made",
+          "ipa": "/meɪd/",
+          "explain": "\"made up of local people\" describes the association's makeup"
+        },
+        {
+          "word": "set",
+          "ipa": "/set/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "brought",
+          "ipa": "/brɔːt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "taken",
+          "ipa": "/ˈteɪkən/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no <mark>______ (9)</mark> of building another runway, and we believe that the government has a duty to ______ (10) its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "desire",
+          "ipa": "/dɪˈzaɪər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "intention",
+          "ipa": "/ɪnˈtenʃən/",
+          "explain": "\"had no intention of building\""
+        },
+        {
+          "word": "wish",
+          "ipa": "/wɪʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "objective",
+          "ipa": "/əbˈdʒektɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and decide which option A, B, C or D best fits each space.</span>Reports that the government is about to ______ (1) the go ahead to plans for the building of a new runway at London's Gatwick airport have angered local residents and raised fears of increased noise and exhaust pollution. The ______ (2) plans also include permission for additional night flights and will ______ (3) the compulsory purchase of farmland, as well as the demolition of a number of private homes. According to sources close to the Ministry of Transport, the government is known to be concerned by the increasing ______ (4) of traffic at London Heathrow, where there are no plans for further runways in the foreseeable ______ (5). Gatwick is widely ______ (6) as a better ______ (7) for expansion than London's third airport, Stansted, which still suffers from poor transport links. A spokesperson for the Keep Gatwick Quiet association, ______ (8) up of local people, accused the government of going back on promises made before the General Election. \"We were told then that the airport authority had no ______ (9) of building another runway, and we believe that the government has a duty to <mark>______ (10)</mark> its pledges.\" Prominent figures in the government are also believed to be concerned at the news, although the Prime Minister, interviewed last night, is quoted as saying that reports were \"misleading\". However, he would not give an assurance that plans for building a runway had definitely been rejected.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "bear out",
+          "ipa": "/ber aʊt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "count on",
+          "ipa": "/kaʊnt ɒn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pull off",
+          "ipa": "/pʊl ɔːf/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "stand by",
+          "ipa": "/stænd baɪ/",
+          "explain": "\"stand by its pledges\" means to honor promises"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">By the time we arrive the other guests will have already started dinner.</span><span class=\"cue-line\">The other guests will start ......................</span>",
+      "answer": "The other guests will start their dinner before we arrive."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">She is proud of being such a good cook.</span><span class=\"cue-line\">She prides ......................</span>",
+      "answer": "She prides herself on her cooking / on being such a good cook."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">The heavy rain made it impossible for us to have our picnic.</span><span class=\"cue-line\">Had ......................</span>",
+      "answer": "Had it not been for the heavy rain / Had it not rained heavily, we could have had our picnic."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">His jealousy increases with his love for her.</span><span class=\"cue-line\">The more ......................</span>",
+      "answer": "The more he loves her, the more jealous he is."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">\"If you wanted to use my car, you should have asked me first, Tom\" said Mary.</span><span class=\"cue-line\">Mary criticized ......................</span>",
+      "answer": "Mary criticized Tom for using her car without asking / having asked her first."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">I dislike it when people criticize me unfairly.</span><span class=\"cue-line\">I object ......................</span>",
+      "answer": "I object to people criticizing me unfairly / to being unfairly criticized."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">The mother smiled happily. She took her baby in her arms.</span><span class=\"cue-line\">Smiling ......................</span>",
+      "answer": "Smiling happily, the mother took her baby in her arms."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">It is not certain that Jones will get the job.</span><span class=\"cue-line\">It is open ......................</span>",
+      "answer": "It is open to question / doubt whether he will get the job or not."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">People think that the man stole the car.</span><span class=\"cue-line\">The car ......................</span>",
+      "answer": "The car is thought to have been stolen by the man."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish each sentence so that it means exactly the same as the sentence printed before it.</span><span class=\"original-sentence\">Jack may be very intelligent, but he should be careful about this.</span><span class=\"cue-line\">No matter ......................</span>",
+      "answer": "No matter how intelligent Jack may be, he should be careful about this."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing - Essay",
+      "prompt": "<span class=\"mini-instruction\">Write an essay of about 150-180 words.</span>What career would you like to choose after leaving school? Write an essay of about 150 - 180 words to support your points.",
+      "rubric": [
+        "Organization: a clear three-part structure -- introduction, body, and conclusion",
+        "Discourse: writes coherently, with logical linking and smooth transitions between ideas",
+        "Sentence structure: uses a flexible range of structures (simple and complex sentences), accurate expression, vocabulary, and spelling",
+        "Ideas and length: interesting, well-developed ideas closely related to the topic, within the required word count (not too long or too short)"
+      ]
+    }
+  ]
+}

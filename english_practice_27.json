@@ -1,0 +1,2036 @@
+{
+  "title": "English Practice Test No: 27",
+  "subtitle": "110 questions - Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Are you sure you can do it on ______?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "yourself",
+          "ipa": "/jɔːrˈself/",
+          "explain": "wrong form -- \"on your own\" is the fixed phrase"
+        },
+        {
+          "word": "your own",
+          "ipa": "/jɔːr oʊn/",
+          "explain": "correct -- \"on your own\" means alone/unaided"
+        },
+        {
+          "word": "date",
+          "ipa": "/deɪt/",
+          "explain": "wrong word entirely"
+        },
+        {
+          "word": "secret",
+          "ipa": "/ˈsiːkrət/",
+          "explain": "wrong word entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>\"Is dinner ready?\" - \"No, Mother is ______ it ready now.\"",
+      "answer": 3,
+      "options": [
+        {
+          "word": "doing",
+          "ipa": "/ˈduːɪŋ/",
+          "explain": "less natural than \"getting\" for this fixed sense of preparing a meal"
+        },
+        {
+          "word": "cooking",
+          "ipa": "/ˈkʊkɪŋ/",
+          "explain": "doesn't fit \"ready\" as naturally as \"getting ready\""
+        },
+        {
+          "word": "preparing",
+          "ipa": "/prɪˈperɪŋ/",
+          "explain": "doesn't fit \"ready\" as naturally as \"getting ready\""
+        },
+        {
+          "word": "getting",
+          "ipa": "/ˈgetɪŋ/",
+          "explain": "correct -- \"getting it ready\" is the natural phrasing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I just can't ______ that noise any longer!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "put up with",
+          "ipa": "/pʊt ʌp wɪð/",
+          "explain": "correct -- \"put up with\" means to tolerate"
+        },
+        {
+          "word": "stand in for",
+          "ipa": "/stænd ɪn fɔːr/",
+          "explain": "wrong meaning -- means to substitute for someone"
+        },
+        {
+          "word": "sit out",
+          "ipa": "/sɪt aʊt/",
+          "explain": "wrong meaning -- means to not participate"
+        },
+        {
+          "word": "stand up to",
+          "ipa": "/stænd ʌp tə/",
+          "explain": "wrong meaning -- means to confront/resist"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>You must ______ these instructions very carefully.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "bring out",
+          "ipa": "/brɪŋ aʊt/",
+          "explain": "wrong phrasal verb -- means to release/reveal"
+        },
+        {
+          "word": "carry out",
+          "ipa": "/ˈkæri aʊt/",
+          "explain": "correct -- \"carry out instructions\" is the fixed collocation"
+        },
+        {
+          "word": "carry on",
+          "ipa": "/ˈkæri ɒn/",
+          "explain": "wrong meaning -- means to continue"
+        },
+        {
+          "word": "get up to",
+          "ipa": "/get ʌp tə/",
+          "explain": "wrong meaning -- means to be doing something (often mischief)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I don't think we can ______ him to change it mind.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "\"make him change\" (no \"to\") would be the correct form, not this pattern"
+        },
+        {
+          "word": "persuade",
+          "ipa": "/pərˈsweɪd/",
+          "explain": "correct -- \"persuade someone to do something\""
+        },
+        {
+          "word": "suggest",
+          "ipa": "/səgˈdʒest/",
+          "explain": "wrong structure -- \"suggest\" doesn't take object + to-infinitive"
+        },
+        {
+          "word": "insist",
+          "ipa": "/ɪnˈsɪst/",
+          "explain": "wrong structure -- \"insist\" doesn't take object + to-infinitive this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>She ______ to tell them where the money was hidden.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "objected",
+          "ipa": "/əbˈdʒektɪd/",
+          "explain": "would need \"to\" + gerund, not a to-infinitive, for this meaning"
+        },
+        {
+          "word": "rejected",
+          "ipa": "/rɪˈdʒektɪd/",
+          "explain": "wrong structure -- \"reject\" doesn't take a to-infinitive"
+        },
+        {
+          "word": "refused",
+          "ipa": "/rɪˈfjuːzd/",
+          "explain": "correct -- \"refuse to do something\""
+        },
+        {
+          "word": "disagreed",
+          "ipa": "/ˌdɪsəˈgriːd/",
+          "explain": "wrong structure for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>The players were cheered by their ______ as they came out of the pitch.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "audience",
+          "ipa": "/ˈɔːdiəns/",
+          "explain": "wrong word -- describes people watching a performance, not sport fans"
+        },
+        {
+          "word": "supporters",
+          "ipa": "/səˈpɔːrtərz/",
+          "explain": "correct -- \"supporters\" describes sports fans who cheer a team"
+        },
+        {
+          "word": "viewers",
+          "ipa": "/ˈvjuːərz/",
+          "explain": "wrong word -- describes TV watchers, not people physically present"
+        },
+        {
+          "word": "public",
+          "ipa": "/ˈpʌblɪk/",
+          "explain": "too general, doesn't specifically fit cheering fans"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>She acted as if she ______ a clown before.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "has never seen",
+          "ipa": "/hæz ˈnevər siːn/",
+          "explain": "wrong tense -- \"as if\" + a hypothetical past needs past perfect"
+        },
+        {
+          "word": "not saw",
+          "ipa": "/nɒt sɔː/",
+          "explain": "not a valid grammatical form"
+        },
+        {
+          "word": "wouldn't see",
+          "ipa": "/ˈwʊdənt siː/",
+          "explain": "wrong tense for this hypothetical past meaning"
+        },
+        {
+          "word": "had never seen",
+          "ipa": "/hæd ˈnevər siːn/",
+          "explain": "correct -- past perfect after \"as if\" for an unreal past"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>It's about time ______ care of yourself.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "you took",
+          "ipa": "/juː tʊk/",
+          "explain": "correct -- \"it's (about) time\" + past simple for present urging"
+        },
+        {
+          "word": "you take",
+          "ipa": "/juː teɪk/",
+          "explain": "wrong tense -- \"it's time\" needs past simple, not present"
+        },
+        {
+          "word": "to talking",
+          "ipa": "/tə ˈtɔːkɪŋ/",
+          "explain": "not a valid grammatical form"
+        },
+        {
+          "word": "you talking",
+          "ipa": "/juː ˈtɔːkɪŋ/",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Most of the computers in the laboratory are ______ now.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "out of order",
+          "ipa": "/aʊt ʌv ˈɔːrdər/",
+          "explain": "correct -- fixed phrase for a machine not working"
+        },
+        {
+          "word": "out of work",
+          "ipa": "/aʊt ʌv wɜːrk/",
+          "explain": "wrong phrase -- describes an unemployed person"
+        },
+        {
+          "word": "out of working",
+          "ipa": "/aʊt ʌv ˈwɜːrkɪŋ/",
+          "explain": "not a standard phrase"
+        },
+        {
+          "word": "out of function",
+          "ipa": "/aʊt ʌv ˈfʌŋkʃən/",
+          "explain": "not a standard phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>This picture book, the few pages ______ are missing, is my favorite.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "for which",
+          "ipa": "/fɔːr wɪtʃ/",
+          "explain": "wrong preposition for this meaning"
+        },
+        {
+          "word": "of which",
+          "ipa": "/ʌv wɪtʃ/",
+          "explain": "correct -- \"the few pages of which\" (whose pages)"
+        },
+        {
+          "word": "of that",
+          "ipa": "/ʌv ðæt/",
+          "explain": "\"that\" doesn't combine with a preposition this way"
+        },
+        {
+          "word": "to which",
+          "ipa": "/tə wɪtʃ/",
+          "explain": "wrong preposition for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I feel it an honour ______ to speak about the expedition.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "to ask",
+          "ipa": "/tə æsk/",
+          "explain": "wrong voice -- the speaker is being asked, not asking"
+        },
+        {
+          "word": "having asked",
+          "ipa": "/ˈhævɪŋ æskt/",
+          "explain": "wrong form -- doesn't fit \"feel it an honour\""
+        },
+        {
+          "word": "be asked",
+          "ipa": "/bi æskt/",
+          "explain": "missing \"to\" for the infinitive"
+        },
+        {
+          "word": "to be asked",
+          "ipa": "/tə bi æskt/",
+          "explain": "correct -- passive infinitive, \"an honour to be asked\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>He spent ______ dollars on food and drinks.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "only few",
+          "ipa": "/ˈoʊnli fjuː/",
+          "explain": "missing \"a\" -- \"a few\" is the standard quantity phrase"
+        },
+        {
+          "word": "only a few",
+          "ipa": "/ˈoʊnli ə fjuː/",
+          "explain": "correct -- \"a few\" + countable plural noun"
+        },
+        {
+          "word": "very a few",
+          "ipa": "/ˈveri ə fjuː/",
+          "explain": "not a valid combination"
+        },
+        {
+          "word": "only a little",
+          "ipa": "/ˈoʊnli ə ˈlɪtəl/",
+          "explain": "\"a little\" pairs with uncountable nouns, not \"dollars\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>It's essential that every student ______ the exam before attending the course.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "pass",
+          "ipa": "/pæs/",
+          "explain": "grammatically the subjunctive form, but \"passed\" fits the completed-prerequisite context better here"
+        },
+        {
+          "word": "passes",
+          "ipa": "/ˈpæsɪz/",
+          "explain": "wrong -- \"it's essential that\" takes the subjunctive (bare form), not -s"
+        },
+        {
+          "word": "would pass",
+          "ipa": "/wʊd pæs/",
+          "explain": "wrong form for this subjunctive structure"
+        },
+        {
+          "word": "passed",
+          "ipa": "/pæst/",
+          "explain": "correct -- \"before attending the course\" implies the exam is already a completed prerequisite"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Not until 1865 ______ the first antiseptic treatment on a compound fracture.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "when Joseph Lister tried",
+          "ipa": "",
+          "explain": "wrong structure -- \"not until\" + inversion doesn't use \"when\""
+        },
+        {
+          "word": "when did Joseph Lister try",
+          "ipa": "",
+          "explain": "wrong structure -- \"when\" doesn't fit this inversion"
+        },
+        {
+          "word": "did Joseph Lister try",
+          "ipa": "",
+          "explain": "correct -- \"not until X\" + inversion (did + subject + verb)"
+        },
+        {
+          "word": "that Joseph Lister tried",
+          "ipa": "",
+          "explain": "wrong structure for this inversion"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>The Ford Theater where Lincoln was shot ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "must restore",
+          "ipa": "/mʌst rɪˈstɔːr/",
+          "explain": "wrong voice -- the theater doesn't restore itself"
+        },
+        {
+          "word": "must be restoring",
+          "ipa": "/mʌst bi rɪˈstɔːrɪŋ/",
+          "explain": "wrong voice and aspect"
+        },
+        {
+          "word": "must have been restored",
+          "ipa": "/mʌst hæv bɪn rɪˈstɔːrd/",
+          "explain": "correct -- passive + \"must have been\" for a confident deduction about the past"
+        },
+        {
+          "word": "must restored",
+          "ipa": "/mʌst rɪˈstɔːrd/",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>John said that he ______ her since they ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "hasn't met -- graduated",
+          "ipa": "",
+          "explain": "wrong tense throughout -- reported speech needs backshift"
+        },
+        {
+          "word": "hadn't met -- had graduated",
+          "ipa": "",
+          "explain": "backshifts the \"since\" clause too, but \"since\" time-anchors usually stay simple past even with a past perfect main clause"
+        },
+        {
+          "word": "hasn't met -- have graduated",
+          "ipa": "",
+          "explain": "wrong tense throughout"
+        },
+        {
+          "word": "hadn't met -graduated",
+          "ipa": "",
+          "explain": "correct -- main clause backshifts to past perfect, but the \"since\" point-in-time stays simple past"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>There's a ______ going round that the boss is getting married.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "gossip",
+          "ipa": "/ˈgɒsɪp/",
+          "explain": "uncountable, doesn't take \"a\" this way in standard usage"
+        },
+        {
+          "word": "news",
+          "ipa": "/nuːz/",
+          "explain": "uncountable, doesn't take \"a\" at all"
+        },
+        {
+          "word": "rumour",
+          "ipa": "/ˈruːmər/",
+          "explain": "correct -- \"a rumour going round\" is the fixed collocation"
+        },
+        {
+          "word": "word",
+          "ipa": "/wɜːrd/",
+          "explain": "wrong word for this meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I didn't know you were asleep. Otherwise, I ______ so much noise when I came in.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "didn't make",
+          "ipa": "/ˈdɪdənt meɪk/",
+          "explain": "wrong tense -- \"otherwise\" here needs a third conditional form"
+        },
+        {
+          "word": "wouldn't make",
+          "ipa": "/ˈwʊdənt meɪk/",
+          "explain": "wrong tense -- needs perfect form for past hypothetical"
+        },
+        {
+          "word": "couldn't make",
+          "ipa": "/ˈkʊdənt meɪk/",
+          "explain": "wrong modal and tense for this meaning"
+        },
+        {
+          "word": "wouldn't have made",
+          "ipa": "/ˈwʊdənt hæv meɪd/",
+          "explain": "correct -- third conditional (unreal past) form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>Peter always tells ______ truth. He never tells ______ lies.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "the- the",
+          "ipa": "/ðə ðə/",
+          "explain": "wrong -- \"lies\" (plural, general) doesn't take \"the\""
+        },
+        {
+          "word": "a-",
+          "ipa": "/ə/",
+          "explain": "wrong article for \"truth\" (uncountable, specific)"
+        },
+        {
+          "word": "-",
+          "ipa": "",
+          "explain": "wrong -- \"truth\" here needs \"the\" (the fixed idiom \"tell the truth\")"
+        },
+        {
+          "word": "the -",
+          "ipa": "/ðə/",
+          "explain": "correct -- \"tell the truth\" (fixed phrase) but \"tell lies\" (general, no article)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>I'd prefer to stay at home tonight ______ to the cinema.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "rather than go",
+          "ipa": "/ˈræðər ðæn goʊ/",
+          "explain": "correct -- \"would prefer X rather than (do) Y\" takes a bare verb"
+        },
+        {
+          "word": "rather than would go",
+          "ipa": "/ˈræðər ðæn wʊd goʊ/",
+          "explain": "wrong -- redundant modal after \"rather than\""
+        },
+        {
+          "word": "rather than will go",
+          "ipa": "/ˈræðər ðæn wɪl goʊ/",
+          "explain": "wrong -- \"rather than\" takes a bare verb, not \"will go\""
+        },
+        {
+          "word": "rather than went",
+          "ipa": "/ˈræðər ðæn went/",
+          "explain": "wrong tense -- should be a bare infinitive form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>______, they would have had what they wanted.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Supposing they were arriving at the fair early",
+          "ipa": "",
+          "explain": "wrong tense -- doesn't match the third conditional result clause"
+        },
+        {
+          "word": "If they arrived at the fair early",
+          "ipa": "",
+          "explain": "wrong tense -- second conditional doesn't match \"would have had\""
+        },
+        {
+          "word": "Unless they arrived at the fair early enough",
+          "ipa": "",
+          "explain": "wrong meaning and tense for this result clause"
+        },
+        {
+          "word": "Had they arrived at the fair early",
+          "ipa": "",
+          "explain": "correct -- inverted third conditional, matching \"would have had\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>It is necessary to be careful ______ your career.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "when choosing",
+          "ipa": "/wen ˈtʃuːzɪŋ/",
+          "explain": "correct -- reduced time clause with gerund"
+        },
+        {
+          "word": "when you will choose",
+          "ipa": "/wen juː wɪl tʃuːz/",
+          "explain": "wrong tense -- \"will\" doesn't fit a time clause here"
+        },
+        {
+          "word": "when you chose",
+          "ipa": "/wen juː tʃoʊz/",
+          "explain": "wrong tense for this general statement"
+        },
+        {
+          "word": "when you have chosen",
+          "ipa": "/wen juː hæv ˈtʃoʊzən/",
+          "explain": "wrong tense -- doesn't fit this general advice structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>______ is the most important thing I want to know when living far from them.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "What are my parents",
+          "ipa": "",
+          "explain": "question word order doesn't fit as a sentence subject"
+        },
+        {
+          "word": "My parents are",
+          "ipa": "",
+          "explain": "incomplete -- leaves \"is\" without a clear connecting structure"
+        },
+        {
+          "word": "How my parents are",
+          "ipa": "",
+          "explain": "correct -- a noun clause (\"how...are\") as subject, meaning their wellbeing"
+        },
+        {
+          "word": "That my parents are",
+          "ipa": "",
+          "explain": "incomplete -- \"that\" clause here leaves the sentence without a complete predicate"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar - Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase which best completes each sentence.</span>______ that she burst into tears.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Such her anger was",
+          "ipa": "",
+          "explain": "wrong word order -- \"such\" needs to come with the noun directly, or use inversion properly"
+        },
+        {
+          "word": "She was so anger",
+          "ipa": "",
+          "explain": "wrong word class -- \"anger\" is a noun, not usable after \"so\" this way"
+        },
+        {
+          "word": "So angry she was",
+          "ipa": "",
+          "explain": "wrong word order for this inverted emphatic structure"
+        },
+        {
+          "word": "Such was her anger",
+          "ipa": "",
+          "explain": "correct -- inverted \"such was + noun\" for emphasis"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>We received the (BELIEVE) ______ score of nine marks of 6.0, which was the maximum score that could be given.",
+      "answer": "unbelievable"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>The (LONG) ______ of time that we had spent practicing our dance routine finally paid off.",
+      "answer": "length"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>The (DIFFICULT) ______ that we had found with some of the musical pieces we had chosen was soon overcome.",
+      "answer": "difficulty"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>...some of the (MUSIC) ______ pieces we had chosen was soon overcome.",
+      "answer": "musical"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>...and becoming (FAME) ______ was only a matter of time.",
+      "answer": "famous"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>Those were the (EXCITE) ______ days of being young and optimistic about everything.",
+      "answer": "exciting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>Those were the exciting days of being young and (OPTIMISM) ______ about everything.",
+      "answer": "optimistic"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>...and having the feeling that our (POPULAR) ______ would never lessen.",
+      "answer": "popularity"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>I have never forgotten the most (WONDER) wonderful moment in our career when we were given the highest score for our (PERFORM) ______ in the ice-skating championship.",
+      "answer": "performance"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary - Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Write the correct form of each bracketed word in the space provided.</span>...for our performance in the ice-skating championship (COMPETE) ______ at Helsinki.",
+      "answer": "competition"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">Some friends of mine decided to go on holiday to Scotland.</span>",
+      "answer": "(no error -- this line is correct)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">They asked me if I <mark>was</mark> wanted to go too</span>",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">but I had already arranged to go to Italy.</span>",
+      "answer": "(no error -- this line is correct)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">I told them <mark>so</mark> that I had been to Scotland before,</span>",
+      "answer": "so"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">so they asked me to give them some ideas. I advised them to take <mark>up</mark> warm clothes and raincoats.</span>",
+      "answer": "up"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">\"If I were <mark>like</mark> you, I'd always carry umbrellas!\" I told them.</span>",
+      "answer": "like"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">\"I doubt <mark>that</mark> whether you'll have any sunny days.\"</span>",
+      "answer": "that"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">I didn't see them again</span>",
+      "answer": "(no error -- this line is correct)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">until <mark>was</mark> after their holiday.</span>",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">They were all very sun-tanned, and they told <mark>to</mark> me</span>",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">that they had had very hot weather. \"If we had <mark>been</mark> taken your advice, we wouldn't have made a terrible mistake,\" they said.</span>",
+      "answer": "been"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">\"Luckily,</span>",
+      "answer": "(no error -- this line is correct)"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">we were told <mark>us</mark> before we left that it was very hot in Scotland.</span>",
+      "answer": "us"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">It is said to <mark>they</mark> have been</span>",
+      "answer": "they"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar - Extra Word Detection",
+      "prompt": "<span class=\"mini-instruction\">This line may be correct, or it may contain a word that should not be there. If it contains an extra word, write it. If the line is correct, say so.</span><span class=\"passage-block\">the hottest summer ever!\"</span>",
+      "answer": "(no error -- this line is correct)"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American <mark>______ (1)</mark>. He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "astronaut"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the <mark>______ (2)</mark>. Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "moon"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born <mark>______ (3)</mark>August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked <mark>______ (4)</mark> a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's <mark>______ (5)</mark>. Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "surface"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and <mark>______ (6)</mark> 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was <mark>______ (7)</mark> vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "appointed"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee <mark>______ (8)</mark> investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "that / which"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for <mark>______ (9)</mark> he said as he stepped onto the surface of the moon: \"That's one small step ______ (10) man, one giant leap for mankind.\"",
+      "answer": "what"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading - Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill in each blank with ONE suitable word.</span>Neil Armstrong is an American ______ (1). He is known as the first man to walk on the ______ (2). Armstrong was born ______ (3)August 5th, 1930 in Wapokoneta in Ohio. From 1949 to 1952, he worked ______ (4) a pilot in the United States Navy. In 1962, he joined the NASA astronaut programs. On July 20th 1969, Neil Armstrong became the first human to step on the moon's ______ (5). Armstrong received his M.S from the University of Southern California in 1970. He resigned from NASA a year later and ______ (6) 1971 to 1979, he taught at the University of Cincinnati. In 1986, Armstrong was ______ (7) vice chairman of the committee ______ (8) investigated the space shuttle Challenger disaster. Armstrong is also well-known for ______ (9) he said as he stepped onto the surface of the moon: \"That's one small step <mark>______ (10)</mark> man, one giant leap for mankind.\"",
+      "answer": "for"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists <mark>______ (1)</mark> the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "give",
+          "ipa": "/gɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "put",
+          "ipa": "/pʊt/",
+          "explain": "\"put the blame on\" is the fixed collocation"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase <mark>______ (2)</mark> the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "\"the increase in temperatures\""
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "to",
+          "ipa": "/tuː/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at <mark>______ (3)</mark> from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "threat",
+          "ipa": "/θret/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "danger",
+          "ipa": "/ˈdeɪndʒər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "risk",
+          "ipa": "/rɪsk/",
+          "explain": "\"at risk from\" is the fixed collocation"
+        },
+        {
+          "word": "harm",
+          "ipa": "/hɑːrm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. <mark>______ (4)</mark> to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Concerning",
+          "ipa": "/kənˈsɜːrnɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Regarding",
+          "ipa": "/rɪˈgɑːrdɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Depending",
+          "ipa": "/dɪˈpendɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "According",
+          "ipa": "/əˈkɔːrdɪŋ/",
+          "explain": "\"According to them\" -- reporting others' views"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more <mark>______ (5)</mark> and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "strike",
+          "ipa": "/straɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "strong",
+          "ipa": "/strɔːŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "severe",
+          "ipa": "/səˈvɪr/",
+          "explain": "\"severe\" fits describing extreme weather events"
+        },
+        {
+          "word": "heavy",
+          "ipa": "/ˈhevi/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to <mark>______ (6)</mark>. Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "raise",
+          "ipa": "/reɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "arise",
+          "ipa": "/əˈraɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lift",
+          "ipa": "/lɪft/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "rise",
+          "ipa": "/raɪz/",
+          "explain": "\"sea levels...to rise\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting <mark>______ (7)</mark> on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "force",
+          "ipa": "/fɔːrs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "pressure",
+          "ipa": "/ˈpreʃər/",
+          "explain": "\"putting pressure on governments\" is the fixed collocation"
+        },
+        {
+          "word": "persuasion",
+          "ipa": "/pərˈsweɪʒən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "encouragement",
+          "ipa": "/ɪnˈkɜːrɪdʒmənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given <mark>______ (8)</mark> by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "off",
+          "ipa": "/ɔːf/",
+          "explain": "\"given off\" -- fixed phrasal verb for emitting gas"
+        },
+        {
+          "word": "away",
+          "ipa": "/əˈweɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in <mark>______ (9)</mark> of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, ______ (10), believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "belief",
+          "ipa": "/bɪˈliːf/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "request",
+          "ipa": "/rɪˈkwest/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "favor",
+          "ipa": "/ˈfeɪvər/",
+          "explain": "\"in favor of\" is the fixed collocation"
+        },
+        {
+          "word": "suggestion",
+          "ipa": "/səgˈdʒestʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Few people now question the reality of global warming and its effects on the world's climate. Many scientists ______ (1) the blame for recent natural disasters on the increase ______ (2) the world's temperatures and are convinced that, more than ever before, the Earth is at ______ (3) from the force of the wind, rain and sun. ______ (4) to them, global warming is making extreme weather events, such as hurricanes and droughts, even more ______ (5) and causing sea levels all around the world to ______ (6). Environmental groups are putting ______ (7) on governments to take action to reduce the amount of carbon dioxide which is given ______ (8) by factories and power plants, thus attacking the problem at its source. They are in ______ (9) of more money being spent on research into solar, wind and wave energy devices, which could then replace existing power stations. Some scientists, <mark>______ (10)</mark>, believe that even if we stopped releasing carbon dioxide and other gases into the atmosphere tomorrow, we would have to wait several hundred years to notice the results. Global warming, it seems, is to stay.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "however",
+          "ipa": "/haʊˈevər/",
+          "explain": "\"however\" -- introduces a contrasting/qualifying view"
+        },
+        {
+          "word": "despite",
+          "ipa": "/dɪˈspaɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully. Then choose the item that best answers each question.</span><span class=\"passage-block\">The invention of the electric telegraph gave birth to the communications industry. Although Samuel B. Morse succeeded in making the invention useful in 1837, it was not until 1843 that the first telegraph line of consequence was constructed. By 1860, more than 50,000 miles of lines connected people east of <i>the Rockies</i>. The following year, San Francisco was added to the network.<br><br>The national telegraph network fortified the ties between East and West and contributed to the rapid expansion of the railroads by providing an efficient means to monitor schedules and routes. Furthermore, the extension of the telegraph, combined with the invention of the steam-driven rotary printing press by Richard M. Hoe in 1846, revolutionized the world of journalism. Where the business of news gathering had been dependent upon the mail and on hand-operated presses, the telegraph expanded the amount of information a newspaper could supply and allowed for more timely reporting. The establishment of the Associated Press as a central wire service in 1846 marked the advent of a new era in journalism.</span><span class=\"cue-line\">The main topic of the passage is ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "the history of journalism",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the origin of the national telegraph",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "how the telegraph network contributed to the expansion of railroads",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the contributions and development of the telegraph network",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully. Then choose the item that best answers each question.</span><span class=\"passage-block\">The invention of the electric telegraph gave birth to the communications industry. Although Samuel B. Morse succeeded in making the invention useful in 1837, it was not until 1843 that the first telegraph line of consequence was constructed. By 1860, more than 50,000 miles of lines connected people east of <i>the Rockies</i>. The following year, San Francisco was added to the network.<br><br>The national telegraph network fortified the ties between East and West and contributed to the rapid expansion of the railroads by providing an efficient means to monitor schedules and routes. Furthermore, the extension of the telegraph, combined with the invention of the steam-driven rotary printing press by Richard M. Hoe in 1846, revolutionized the world of journalism. Where the business of news gathering had been dependent upon the mail and on hand-operated presses, the telegraph expanded the amount of information a newspaper could supply and allowed for more timely reporting. The establishment of the Associated Press as a central wire service in 1846 marked the advent of a new era in journalism.</span><span class=\"cue-line\">According to the passage, how did the telegraph enhance the business of news gathering?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "By adding San Francisco to the network",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "By allowing for more timely reporting",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "By expanding the railroads",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "By monitoring schedules and routes for the railroads",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully. Then choose the item that best answers each question.</span><span class=\"passage-block\">The invention of the electric telegraph gave birth to the communications industry. Although Samuel B. Morse succeeded in making the invention useful in 1837, it was not until 1843 that the first telegraph line of consequence was constructed. By 1860, more than 50,000 miles of lines connected people east of <i>the Rockies</i>. The following year, San Francisco was added to the network.<br><br>The national telegraph network fortified the ties between East and West and contributed to the rapid expansion of the railroads by providing an efficient means to monitor schedules and routes. Furthermore, the extension of the telegraph, combined with the invention of the steam-driven rotary printing press by Richard M. Hoe in 1846, revolutionized the world of journalism. Where the business of news gathering had been dependent upon the mail and on hand-operated presses, the telegraph expanded the amount of information a newspaper could supply and allowed for more timely reporting. The establishment of the Associated Press as a central wire service in 1846 marked the advent of a new era in journalism.</span><span class=\"cue-line\">The author's main purpose in this passage is to ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "compare the invention of the telegraph with the invention of the steam-driven rotary press",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "propose new ways to develop the communications industry",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "show how the electric telegraph affected the communications industry",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "criticize Samuel B. Morse",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully. Then choose the item that best answers each question.</span><span class=\"passage-block\">The invention of the electric telegraph gave birth to the communications industry. Although Samuel B. Morse succeeded in making the invention useful in 1837, it was not until 1843 that the first telegraph line of consequence was constructed. By 1860, more than 50,000 miles of lines connected people east of <i>the Rockies</i>. The following year, San Francisco was added to the network.<br><br>The national telegraph network fortified the ties between East and West and contributed to the rapid expansion of the railroads by providing an efficient means to monitor schedules and routes. Furthermore, the extension of the telegraph, combined with the invention of the steam-driven rotary printing press by Richard M. Hoe in 1846, revolutionized the world of journalism. Where the business of news gathering had been dependent upon the mail and on hand-operated presses, the telegraph expanded the amount of information a newspaper could supply and allowed for more timely reporting. The establishment of the Associated Press as a central wire service in 1846 marked the advent of a new era in journalism.</span><span class=\"cue-line\">It can be inferred from the passage that ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Samuel Morse did not make a significant contribution to the communications industry",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Morse's invention did not immediately achieve its full potential",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "The extension of the telegraph was more important than its invention",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Journalists have the Associated Press to thank for the birth of the communications industry",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully. Then choose the item that best answers each question.</span><span class=\"passage-block\">The invention of the electric telegraph gave birth to the communications industry. Although Samuel B. Morse succeeded in making the invention useful in 1837, it was not until 1843 that the first telegraph line of consequence was constructed. By 1860, more than 50,000 miles of lines connected people east of <i>the Rockies</i>. The following year, San Francisco was added to the network.<br><br>The national telegraph network fortified the ties between East and West and contributed to the rapid expansion of the railroads by providing an efficient means to monitor schedules and routes. Furthermore, the extension of the telegraph, combined with the invention of the steam-driven rotary printing press by Richard M. Hoe in 1846, revolutionized the world of journalism. Where the business of news gathering had been dependent upon the mail and on hand-operated presses, the telegraph expanded the amount of information a newspaper could supply and allowed for more timely reporting. The establishment of the Associated Press as a central wire service in 1846 marked the advent of a new era in journalism.</span><span class=\"cue-line\">The word \"Rockies\" refers to ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "a telegraph company",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the West Coast",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a mountain range",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "a railroad company",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly <mark>______ (1)</mark> everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "alike",
+          "ipa": "/əˈlaɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "explain": "\"look exactly like everybody else\""
+        },
+        {
+          "word": "similar",
+          "ipa": "/ˈsɪmələr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "same",
+          "ipa": "/seɪm/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are <mark>______ (2)</mark> for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "fitted",
+          "ipa": "/ˈfɪtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "suitable",
+          "ipa": "/ˈsuːtəbəl/",
+          "explain": "\"clothes are suitable for work\""
+        },
+        {
+          "word": "comfort",
+          "ipa": "/ˈkʌmfərt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "equal",
+          "ipa": "/ˈiːkwəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not <mark>______ (3)</mark> enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "formal",
+          "ipa": "/ˈfɔːrməl/",
+          "explain": "\"not formal enough\""
+        },
+        {
+          "word": "strict",
+          "ipa": "/strɪkt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "uniform",
+          "ipa": "/ˈjuːnɪfɔːrm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "suited",
+          "ipa": "/ˈsuːtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the <mark>______ (4)</mark> size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 2,
+      "options": [
+        {
+          "word": "false",
+          "ipa": "/fɔːls/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "mistake",
+          "ipa": "/mɪˈsteɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "wrong",
+          "ipa": "/rɔːŋ/",
+          "explain": "\"buy the wrong size\""
+        },
+        {
+          "word": "error",
+          "ipa": "/ˈerər/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit <mark>______ (5)</mark>. Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "slim",
+          "ipa": "/slɪm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "overweight",
+          "ipa": "/ˌoʊvərˈweɪt/",
+          "explain": "\"a little bit overweight\" explains why trousers become tight"
+        },
+        {
+          "word": "thin",
+          "ipa": "/θɪn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "enormous",
+          "ipa": "/ɪˈnɔːrməs/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very <mark>______ (6)</mark> clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "loose",
+          "ipa": "/luːs/",
+          "explain": "\"loose clothes make you feel slim\""
+        },
+        {
+          "word": "lose",
+          "ipa": "/luːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "loosened",
+          "ipa": "/ˈluːsənd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "lost",
+          "ipa": "/lɔːst/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have <mark>______ (7)</mark> in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 3,
+      "options": [
+        {
+          "word": "lessened",
+          "ipa": "/ˈlesənd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "reduced",
+          "ipa": "/rɪˈduːst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "decreased",
+          "ipa": "/dɪˈkriːst/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "shrunk",
+          "ipa": "/ʃrʌŋk/",
+          "explain": "\"shrunk in the washing machine\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be <mark>______ (8)</mark> enough for winter. If your shoes are not ______ (9), and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "warm",
+          "ipa": "/wɔːrm/",
+          "explain": "\"warm enough for winter\""
+        },
+        {
+          "word": "cold",
+          "ipa": "/koʊld/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "hot",
+          "ipa": "/hɒt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cool",
+          "ipa": "/kuːl/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not <mark>______ (9)</mark>, and if you aren't ______ (10) for the cold, you might look good, but feel terrible!",
+      "answer": 3,
+      "options": [
+        {
+          "word": "tight",
+          "ipa": "/taɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "enclosed",
+          "ipa": "/ɪnˈkloʊzd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "firm",
+          "ipa": "/fɜːrm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "waterproof",
+          "ipa": "/ˈwɔːtərpruːf/",
+          "explain": "\"waterproof\" fits shoes and weather protection"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that best fits each blank.</span>Choosing clothes can be difficult. Some people want to be fashionable, but they don't want to look exactly ______ (1) everybody else. Not all clothes are ______ (2) for work or school, perhaps because they are not ______ (3) enough, or simply not comfortable. It is easy to buy the ______ (4) size, and find that your trousers are too tight, especially if you are a little bit ______ (5). Very ______ (6) clothes make you feel slim, but when they have ______ (7) in the washing machine, then you have the same problem! If you buy light cotton clothes, then they might not be ______ (8) enough for winter. If your shoes are not ______ (9), and if you aren't <mark>______ (10)</mark> for the cold, you might look good, but feel terrible!",
+      "answer": 2,
+      "options": [
+        {
+          "word": "worn",
+          "ipa": "/wɔːrn/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "clothed",
+          "ipa": "/kloʊðd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "dressed",
+          "ipa": "/drest/",
+          "explain": "\"dressed for the cold\""
+        },
+        {
+          "word": "fitted",
+          "ipa": "/ˈfɪtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below carefully. Then choose the word or phrase which best completes each sentence.</span><span class=\"passage-block\">Herman Melville, an American author best known today for his novel Moby Dick, was actually more popular during his lifetime for some of his other works. He traveled extensively and used the knowledge gained during his travels as the <b>basis</b> for his early novels. In 1837, at the age of eighteen, Melville signed as a cabin boy on a merchant ship that was to sail from his Massachusetts home to Liverpool, England. His experiences on this trip served as a basis for the novel Redburn (1849). In 1841, Melville set out on a whaling ship headed for the South Seas. After jumping ship in Tahiti, he wandered around the islands of Tahiti and Moorea. This South Sea island sojourn was a backdrop to the novel Omoo (1847). After three years away from home, Melville joined up with a U.S. naval frigate that was returning to the eastern United States around Cape Horn. The novel White Jacket (1850) describes this lengthy voyage as a navy seaman.<br><br>With the publication of these early adventure novels, Melville developed a strong and loyal following among readers eager for his tales of exotic places and situations. However, in 1851, with the publication of Moby Dick, Melville's popularity started to diminish. Moby Dick, on one level the saga of the hunt for the great white whale, was also a heavily symbolic allegory of the heroic struggle of humanity against the universe. The public was not ready for Melville's literary metamorphosis from romantic adventure to philosophical symbolism. It is ironic that the novel that served to diminish Melville's popularity during his lifetime is the one for which he is best known today.</span><span class=\"cue-line\">According to the passage, Melville's early novels were ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "published while he was traveling",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "completely fictional",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "all about his work on whaling ships",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "based on his travel experience",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below carefully. Then choose the word or phrase which best completes each sentence.</span><span class=\"passage-block\">Herman Melville, an American author best known today for his novel Moby Dick, was actually more popular during his lifetime for some of his other works. He traveled extensively and used the knowledge gained during his travels as the <b>basis</b> for his early novels. In 1837, at the age of eighteen, Melville signed as a cabin boy on a merchant ship that was to sail from his Massachusetts home to Liverpool, England. His experiences on this trip served as a basis for the novel Redburn (1849). In 1841, Melville set out on a whaling ship headed for the South Seas. After jumping ship in Tahiti, he wandered around the islands of Tahiti and Moorea. This South Sea island sojourn was a backdrop to the novel Omoo (1847). After three years away from home, Melville joined up with a U.S. naval frigate that was returning to the eastern United States around Cape Horn. The novel White Jacket (1850) describes this lengthy voyage as a navy seaman.<br><br>With the publication of these early adventure novels, Melville developed a strong and loyal following among readers eager for his tales of exotic places and situations. However, in 1851, with the publication of Moby Dick, Melville's popularity started to diminish. Moby Dick, on one level the saga of the hunt for the great white whale, was also a heavily symbolic allegory of the heroic struggle of humanity against the universe. The public was not ready for Melville's literary metamorphosis from romantic adventure to philosophical symbolism. It is ironic that the novel that served to diminish Melville's popularity during his lifetime is the one for which he is best known today.</span><span class=\"cue-line\">In what year did Melville's book about his experiences as a cabin boy appear?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "1837",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1841",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1847",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1849",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below carefully. Then choose the word or phrase which best completes each sentence.</span><span class=\"passage-block\">Herman Melville, an American author best known today for his novel Moby Dick, was actually more popular during his lifetime for some of his other works. He traveled extensively and used the knowledge gained during his travels as the <b>basis</b> for his early novels. In 1837, at the age of eighteen, Melville signed as a cabin boy on a merchant ship that was to sail from his Massachusetts home to Liverpool, England. His experiences on this trip served as a basis for the novel Redburn (1849). In 1841, Melville set out on a whaling ship headed for the South Seas. After jumping ship in Tahiti, he wandered around the islands of Tahiti and Moorea. This South Sea island sojourn was a backdrop to the novel Omoo (1847). After three years away from home, Melville joined up with a U.S. naval frigate that was returning to the eastern United States around Cape Horn. The novel White Jacket (1850) describes this lengthy voyage as a navy seaman.<br><br>With the publication of these early adventure novels, Melville developed a strong and loyal following among readers eager for his tales of exotic places and situations. However, in 1851, with the publication of Moby Dick, Melville's popularity started to diminish. Moby Dick, on one level the saga of the hunt for the great white whale, was also a heavily symbolic allegory of the heroic struggle of humanity against the universe. The public was not ready for Melville's literary metamorphosis from romantic adventure to philosophical symbolism. It is ironic that the novel that served to diminish Melville's popularity during his lifetime is the one for which he is best known today.</span><span class=\"cue-line\">The word \"basis\" in paragraph 1 is closest in meaning to ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "background",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "message",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "bottom",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "dissertation",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below carefully. Then choose the word or phrase which best completes each sentence.</span><span class=\"passage-block\">Herman Melville, an American author best known today for his novel Moby Dick, was actually more popular during his lifetime for some of his other works. He traveled extensively and used the knowledge gained during his travels as the <b>basis</b> for his early novels. In 1837, at the age of eighteen, Melville signed as a cabin boy on a merchant ship that was to sail from his Massachusetts home to Liverpool, England. His experiences on this trip served as a basis for the novel Redburn (1849). In 1841, Melville set out on a whaling ship headed for the South Seas. After jumping ship in Tahiti, he wandered around the islands of Tahiti and Moorea. This South Sea island sojourn was a backdrop to the novel Omoo (1847). After three years away from home, Melville joined up with a U.S. naval frigate that was returning to the eastern United States around Cape Horn. The novel White Jacket (1850) describes this lengthy voyage as a navy seaman.<br><br>With the publication of these early adventure novels, Melville developed a strong and loyal following among readers eager for his tales of exotic places and situations. However, in 1851, with the publication of Moby Dick, Melville's popularity started to diminish. Moby Dick, on one level the saga of the hunt for the great white whale, was also a heavily symbolic allegory of the heroic struggle of humanity against the universe. The public was not ready for Melville's literary metamorphosis from romantic adventure to philosophical symbolism. It is ironic that the novel that served to diminish Melville's popularity during his lifetime is the one for which he is best known today.</span><span class=\"cue-line\">According to the passage, Moby Dick is ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "a romantic adventure",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a single-faceted work",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a short story about a whale",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "symbolic of humanity fighting the universe",
+          "explain": "correct -- matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading - Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage below carefully. Then choose the word or phrase which best completes each sentence.</span><span class=\"passage-block\">Herman Melville, an American author best known today for his novel Moby Dick, was actually more popular during his lifetime for some of his other works. He traveled extensively and used the knowledge gained during his travels as the <b>basis</b> for his early novels. In 1837, at the age of eighteen, Melville signed as a cabin boy on a merchant ship that was to sail from his Massachusetts home to Liverpool, England. His experiences on this trip served as a basis for the novel Redburn (1849). In 1841, Melville set out on a whaling ship headed for the South Seas. After jumping ship in Tahiti, he wandered around the islands of Tahiti and Moorea. This South Sea island sojourn was a backdrop to the novel Omoo (1847). After three years away from home, Melville joined up with a U.S. naval frigate that was returning to the eastern United States around Cape Horn. The novel White Jacket (1850) describes this lengthy voyage as a navy seaman.<br><br>With the publication of these early adventure novels, Melville developed a strong and loyal following among readers eager for his tales of exotic places and situations. However, in 1851, with the publication of Moby Dick, Melville's popularity started to diminish. Moby Dick, on one level the saga of the hunt for the great white whale, was also a heavily symbolic allegory of the heroic struggle of humanity against the universe. The public was not ready for Melville's literary metamorphosis from romantic adventure to philosophical symbolism. It is ironic that the novel that served to diminish Melville's popularity during his lifetime is the one for which he is best known today.</span><span class=\"cue-line\">The passage would most likely be assigned reading in a course on ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "nineteenth-century novels",
+          "explain": "correct -- matches the passage"
+        },
+        {
+          "word": "American history",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "oceanography",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "modern American literature",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">Tom arrived late and started complaining.</span><span class=\"cue-line\">Not only ......................</span>",
+      "answer": "Not only did Tom arrive late, but he (also) started complaining."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">She was sorry that she hadn't applied for the job in the library.</span><span class=\"cue-line\">She regretted ......................</span>",
+      "answer": "She regretted not having applied for the job in the library."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">People used to think that the earth was flat.</span><span class=\"cue-line\">It ......................</span>",
+      "answer": "It used to be thought that the earth was flat."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">I'd like to visit India more than any other country in the world.</span><span class=\"cue-line\">It's India ......................</span>",
+      "answer": "It's India that I'd like to visit most / more than any other country in the world."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">People say that the driver was listening to his walkman at the time of the crash.</span><span class=\"cue-line\">The driver ......................</span>",
+      "answer": "The driver is said to have been listening to his walkman at the time of the crash."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">Thanks to the improvement in export sales, the company has had a successful year.</span><span class=\"cue-line\">Without ......................</span>",
+      "answer": "Without the improvement in export sales, the company wouldn't have had a successful year."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">I'm sorry I didn't go to your birthday party last night.</span><span class=\"cue-line\">I wish ......................</span>",
+      "answer": "I wish I had gone to your birthday party last night."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">Collecting stamps from foreign countries is one of Jane's interests.</span><span class=\"cue-line\">Jane is ......................</span>",
+      "answer": "Jane is interested in collecting stamps from foreign countries."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">They are going to repair our car next week.</span><span class=\"cue-line\">We ......................</span>",
+      "answer": "We are going to have / get our car repaired next week."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Transformation",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence in such a way that it means the same as the sentence before it.</span><span class=\"original-sentence\">I haven't seen him and I haven't heard him speak either.</span><span class=\"cue-line\">Neither ......................</span>",
+      "answer": "Neither have I seen him nor have I heard him speak."
+    },
+    {
+      "type": "mcq",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the closest meaning to the original one.</span>The student next to me kept chewing gum. That bothered me a lot.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "The student next to me kept chewing gum, that bothered me a lot.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "The student next to me kept chewing gum, which bothered me a lot.",
+          "explain": "correct -- keeps the same meaning"
+        },
+        {
+          "word": "The student next to me kept chewing gum bothering me a lot.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "The student next to me kept chewing gum bothered me a lot.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the closest meaning to the original one.</span>Transportation has been made much easier thanks to the invention of cars. However, cars are the greatest contributor of air pollution.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "The invention of cars has made transportation much easier, but cars are among the greatest contributors of air pollution.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Although the invention of cars has made transportation much easier, people use cars to contribute to the pollution of air.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Although the invention of cars has made transportation much easier, cars are the greatest contributor of air pollution.",
+          "explain": "correct -- keeps the same meaning"
+        },
+        {
+          "word": "However easier the invention of cars has made transportation, it is cars that are among the greatest contributors of air pollution.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the closest meaning to the original one.</span>He was suspected to have stolen credit cards. The police have investigated him for days.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "He has been investigated for days, suspected to have stolen credit cards.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Suspecting to have stolen credit cards, he has been investigated for days.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Having suspected to have stolen credit cards, he has been investigated for days.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Suspected to have stolen credit cards, he has been investigated for days.",
+          "explain": "correct -- keeps the same meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the closest meaning to the original one.</span>The man wanted to get some fresh air in the room. He opened the window.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "The man wanted to get some fresh air in the room because he opened the window.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "The man opened the window in order to get some fresh air in the room.",
+          "explain": "correct -- keeps the same meaning"
+        },
+        {
+          "word": "The man got some fresh air in the room, even though he opened the window.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Having opened the window, the room could get some fresh air.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Meaning (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the closest meaning to the original one.</span>The plan may be ingenious. It will never work in practice.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Ingenious as it may be, the plan will never work in practice.",
+          "explain": "correct -- keeps the same meaning"
+        },
+        {
+          "word": "Ingenious as may the plan, it will never work in practice.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "The plan may be too ingenious to work in practice.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "The plan is as impractical as it is ingenious.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, using the word given -- \"kind\". This word must not be changed in any way.</span><span class=\"original-sentence\">He recommended me for the position, which was very nice of him.</span>",
+      "answer": "It was very kind of him to recommend me for the position."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, using the word given -- \"refused\". This word must not be changed in any way.</span><span class=\"original-sentence\">It was childish of him not to accept my apologies.</span>",
+      "answer": "He refused to accept my apologies, which was childish of him."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, using the word given -- \"city\". This word must not be changed in any way.</span><span class=\"original-sentence\">He was born in London fifty years ago.</span>",
+      "answer": "London is the city where / in which he was born fifty years ago."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, using the word given -- \"belongs\". This word must not be changed in any way.</span><span class=\"original-sentence\">Can you tell me who the owner of that car is, please?</span>",
+      "answer": "Can you tell me who / whom this car belongs to, please? (or: Can you tell me to whom this car belongs, please?)"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing - Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first, using the word given -- \"passed\". This word must not be changed in any way.</span><span class=\"original-sentence\">My grandfather died in the early hours.</span>",
+      "answer": "My grandfather passed away in the early hours of the night."
+    }
+  ]
+}
