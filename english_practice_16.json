@@ -1,0 +1,1246 @@
+{
+  "title": "English Practice Test No: 16",
+  "subtitle": "70 questions · Phonetics, Lexical-Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose one word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "cartoon",
+          "ipa": "/kɑːrˈtuːn/",
+          "explain": "car-TOON — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "open",
+          "ipa": "/ˈoʊpən/",
+          "explain": "O-pen — stress on the 1st syllable"
+        },
+        {
+          "word": "paper",
+          "ipa": "/ˈpeɪpər/",
+          "explain": "PA-per — stress on the 1st syllable"
+        },
+        {
+          "word": "answer",
+          "ipa": "/ˈænsər/",
+          "explain": "AN-swer — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose one word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "computer",
+          "ipa": "/kəmˈpjuːtər/",
+          "explain": "com-PU-ter — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "shortage",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "explain": "SHORT-age — stress on the 1st syllable"
+        },
+        {
+          "word": "village",
+          "ipa": "/ˈvɪlɪdʒ/",
+          "explain": "VIL-lage — stress on the 1st syllable"
+        },
+        {
+          "word": "teacher",
+          "ipa": "/ˈtiːtʃər/",
+          "explain": "TEACH-er — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose one word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "im-POR-tant — stress on the 2nd syllable"
+        },
+        {
+          "word": "community",
+          "ipa": "/kəˈmjuːnəti/",
+          "explain": "com-MU-ni-ty — stress on the 2nd syllable"
+        },
+        {
+          "word": "organize",
+          "ipa": "/ˈɔːrgənaɪz/",
+          "explain": "OR-gan-ize — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "diseases",
+          "ipa": "/dɪˈziːzɪz/",
+          "explain": "dis-EAS-es — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose one word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "education",
+          "ipa": "/ˌedʒuˈkeɪʃən/",
+          "explain": "ed-u-CA-tion — stress on the 3rd syllable"
+        },
+        {
+          "word": "geography",
+          "ipa": "/dʒiˈɒgrəfi/",
+          "explain": "ge-OG-ra-phy — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "occupation",
+          "ipa": "/ˌɒkjuˈpeɪʃən/",
+          "explain": "oc-cu-PA-tion — stress on the 3rd syllable"
+        },
+        {
+          "word": "information",
+          "ipa": "/ˌɪnfərˈmeɪʃən/",
+          "explain": "in-for-MA-tion — stress on the 3rd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose one word that has a different stress position from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "relative",
+          "ipa": "/ˈrelətɪv/",
+          "explain": "REL-a-tive — stress on the 1st syllable"
+        },
+        {
+          "word": "cinema",
+          "ipa": "/ˈsɪnəmə/",
+          "explain": "CIN-e-ma — stress on the 1st syllable"
+        },
+        {
+          "word": "continue",
+          "ipa": "/kənˈtɪnjuː/",
+          "explain": "con-TIN-ue — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "suddenly",
+          "ipa": "/ˈsʌdənli/",
+          "explain": "SUD-den-ly — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>Your hair is long. It needs ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "cut",
+          "ipa": "/kʌt/",
+          "explain": "wrong form after \"needs\""
+        },
+        {
+          "word": "cutting",
+          "ipa": "/ˈkʌtɪŋ/",
+          "explain": "correct — \"need + gerund\" with a passive meaning"
+        },
+        {
+          "word": "to cut",
+          "ipa": "/tə kʌt/",
+          "explain": "would need an object, e.g. \"needs someone to cut it\""
+        },
+        {
+          "word": "had cut",
+          "ipa": "/hæd kʌt/",
+          "explain": "wrong form after \"needs\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>You ______ forget what I told you. It is very important.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "must",
+          "ipa": "/mʌst/",
+          "explain": "expresses obligation, but \"mustn't\" fits the warning tone better here"
+        },
+        {
+          "word": "have to",
+          "ipa": "/hæv tə/",
+          "explain": "expresses obligation, wrong polarity for this warning"
+        },
+        {
+          "word": "can't",
+          "ipa": "/kænt/",
+          "explain": "expresses inability, wrong meaning"
+        },
+        {
+          "word": "mustn't",
+          "ipa": "/ˈmʌsənt/",
+          "explain": "correct — strong prohibition fitting \"it is very important\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>I think it's high time for the children ______ to bed.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "go",
+          "ipa": "/goʊ/",
+          "explain": "wrong form — \"for someone\" + bare verb doesn't fit"
+        },
+        {
+          "word": "went",
+          "ipa": "/went/",
+          "explain": "\"it's high time + subject + past simple\" works WITHOUT \"for\"; here \"for the children\" needs a to-infinitive instead"
+        },
+        {
+          "word": "going",
+          "ipa": "/ˈgoʊɪŋ/",
+          "explain": "wrong form after \"for the children\""
+        },
+        {
+          "word": "to go",
+          "ipa": "/tə goʊ/",
+          "explain": "correct — \"it's high time for someone to do something\" is a standard structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>You have never been to Ha Noi, ______?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "haven't you",
+          "ipa": "/ˈhævənt juː/",
+          "explain": "wrong polarity — needs a positive tag after a negative statement"
+        },
+        {
+          "word": "did you",
+          "ipa": "/dɪd juː/",
+          "explain": "wrong auxiliary — doesn't match \"have never been\""
+        },
+        {
+          "word": "didn't you",
+          "ipa": "/ˈdɪdənt juː/",
+          "explain": "wrong auxiliary and polarity"
+        },
+        {
+          "word": "have you",
+          "ipa": "/hæv juː/",
+          "explain": "correct — positive tag matching \"have never been\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>I have a ______ sister.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "seven years old",
+          "ipa": "/ˈsevən jɪrz oʊld/",
+          "explain": "missing hyphens for a compound adjective"
+        },
+        {
+          "word": "seven-years-old",
+          "ipa": "/ˈsevən jɪrz oʊld/",
+          "explain": "the middle word shouldn't be plural in this compound adjective"
+        },
+        {
+          "word": "seven-year-old",
+          "ipa": "/ˈsevən jɪr oʊld/",
+          "explain": "correct — compound adjective uses the singular \"year\""
+        },
+        {
+          "word": "seven year olds",
+          "ipa": "/ˈsevən jɪr oʊldz/",
+          "explain": "not a valid adjective form before \"sister\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>I'd rather you ______ that.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "do",
+          "ipa": "/duː/",
+          "explain": "wrong tense — \"would rather\" about someone else needs past simple"
+        },
+        {
+          "word": "don't do",
+          "ipa": "/doʊnt duː/",
+          "explain": "wrong form for this structure"
+        },
+        {
+          "word": "won't do",
+          "ipa": "/woʊnt duː/",
+          "explain": "wrong form — not a modal structure here"
+        },
+        {
+          "word": "didn't do",
+          "ipa": "/ˈdɪdənt duː/",
+          "explain": "correct — \"would rather + subject + past simple\" for a present/future wish about someone else"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>We are now wet. You ______ the raincoats with you.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "should bring",
+          "ipa": "/ʃʊd brɪŋ/",
+          "explain": "refers to present/future advice, but the situation (already wet) needs hindsight"
+        },
+        {
+          "word": "should have brought",
+          "ipa": "/ʃʊd hæv brɔːt/",
+          "explain": "correct — \"should have + past participle\" for a missed past action"
+        },
+        {
+          "word": "must bring",
+          "ipa": "/mʌst brɪŋ/",
+          "explain": "wrong tense — doesn't reflect regret about the past"
+        },
+        {
+          "word": "have to bring",
+          "ipa": "/hæv tə brɪŋ/",
+          "explain": "wrong tense for this hindsight meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>They are looking forward ______ Tet holiday.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to have",
+          "ipa": "/tə hæv/",
+          "explain": "wrong form after \"look forward to\" (a preposition, needs a gerund)"
+        },
+        {
+          "word": "having",
+          "ipa": "/ˈhævɪŋ/",
+          "explain": "missing the preposition \"to\""
+        },
+        {
+          "word": "to having",
+          "ipa": "/tə ˈhævɪŋ/",
+          "explain": "correct — \"look forward to\" + gerund"
+        },
+        {
+          "word": "have",
+          "ipa": "/hæv/",
+          "explain": "wrong form entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>That was a ______ ceremony.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "prepared-well",
+          "ipa": "/prɪˈperd wel/",
+          "explain": "wrong word order for this compound adjective"
+        },
+        {
+          "word": "prepare-well",
+          "ipa": "/prɪˈper wel/",
+          "explain": "wrong form and word order"
+        },
+        {
+          "word": "well-prepared",
+          "ipa": "/wel prɪˈperd/",
+          "explain": "correct — adverb + past participle compound adjective"
+        },
+        {
+          "word": "well-prepare",
+          "ipa": "/wel prɪˈper/",
+          "explain": "wrong form — needs a past participle"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>I object to ______ like this.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "be treating",
+          "ipa": "/bi ˈtriːtɪŋ/",
+          "explain": "wrong form after \"object to\""
+        },
+        {
+          "word": "treating",
+          "ipa": "/ˈtriːtɪŋ/",
+          "explain": "wrong voice — the speaker is receiving the action, not doing it"
+        },
+        {
+          "word": "being treated",
+          "ipa": "/ˈbiːɪŋ triːtɪd/",
+          "explain": "correct — \"object to\" + passive gerund"
+        },
+        {
+          "word": "have been treated",
+          "ipa": "/hæv bɪn triːtɪd/",
+          "explain": "wrong form after \"object to\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>My mother often gives me advice ______ water.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "to save",
+          "ipa": "/tə seɪv/",
+          "explain": "incomplete — missing \"how\" for indirect advice"
+        },
+        {
+          "word": "how to save",
+          "ipa": "/haʊ tə seɪv/",
+          "explain": "missing the preposition \"on\" before \"how\""
+        },
+        {
+          "word": "on how to save",
+          "ipa": "/ɒn haʊ tə seɪv/",
+          "explain": "correct — \"advice on how to do something\""
+        },
+        {
+          "word": "with how to save",
+          "ipa": "/wɪð haʊ tə seɪv/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>My dog as well as my cats ______ twice a day.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "eat",
+          "ipa": "/iːt/",
+          "explain": "wrong agreement — \"as well as\" doesn't make the subject plural"
+        },
+        {
+          "word": "eats",
+          "ipa": "/iːts/",
+          "explain": "correct — the subject is \"my dog\" (singular); \"as well as my cats\" is a parenthetical"
+        },
+        {
+          "word": "has eaten",
+          "ipa": "/hæz ˈiːtən/",
+          "explain": "wrong tense for a habitual action"
+        },
+        {
+          "word": "have eaten",
+          "ipa": "/hæv ˈiːtən/",
+          "explain": "wrong tense and agreement"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>Do it right now, ______?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "do you",
+          "ipa": "/duː juː/",
+          "explain": "wrong tag form for an imperative"
+        },
+        {
+          "word": "aren't you",
+          "ipa": "/ɑːrənt juː/",
+          "explain": "wrong tag form for an imperative"
+        },
+        {
+          "word": "will you",
+          "ipa": "/wɪl juː/",
+          "explain": "correct — \"will you\" is the standard tag for an imperative"
+        },
+        {
+          "word": "don't you",
+          "ipa": "/doʊnt juː/",
+          "explain": "wrong tag form for an imperative"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>We'll go out as soon as it ______ raining.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "has stopped",
+          "ipa": "/hæz stɒpt/",
+          "explain": "correct — present perfect in a future time clause with \"as soon as\""
+        },
+        {
+          "word": "is stopping",
+          "ipa": "/ɪz ˈstɒpɪŋ/",
+          "explain": "wrong tense for a future time clause"
+        },
+        {
+          "word": "stop",
+          "ipa": "/stɒp/",
+          "explain": "missing agreement/tense; not the standard form here"
+        },
+        {
+          "word": "will stop",
+          "ipa": "/wɪl stɒp/",
+          "explain": "future tense not used in a time clause with \"as soon as\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Lexical-Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct answer from the four options given.</span>Take this cake and cut it into eight ______ pieces.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "same",
+          "ipa": "/seɪm/",
+          "explain": "needs \"the same\", and doesn't fit this structure alone"
+        },
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "explain": "wrong word class"
+        },
+        {
+          "word": "alike",
+          "ipa": "/əˈlaɪk/",
+          "explain": "used after a verb, not before a noun like this"
+        },
+        {
+          "word": "equal",
+          "ipa": "/ˈiːkwəl/",
+          "explain": "correct — \"equal pieces\" describes pieces of the same size"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>After many years of failure, Edison finally ______ in inventing the light bulb. (SUCCESS)",
+      "answer": "succeeded"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>The accident happens because of driving ______. (CARE)",
+      "answer": "carelessly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>He believed in his ______ to jump down from the fourth storey without getting hurt. (ABLE)",
+      "answer": "ability"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>You must pass the ______ exam to attend the course. (WRITE)",
+      "answer": "written"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>Many people like him because of his ______. (GENEROUS)",
+      "answer": "generosity"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>The media help increase the ______ of sports and games. (POPULAR)",
+      "answer": "popularity"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>The ______ of forests has brought about floods recently. (DESTROY)",
+      "answer": "destruction"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>An ______ man has stolen all our money. (KNOW)",
+      "answer": "unknown"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>The ______ of this factory are widely consumed in this country. (PRODUCE)",
+      "answer": "products"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Fill in each gap with the correct form of the word in capital letters.</span>Viet Nam declared its ______ on September 2nd 1945. (DEPEND)",
+      "answer": "independence"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #1 (highlighted) and write the correction.</span>Summer in England is the <mark>better</mark> season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "best"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #2 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon <mark>because of</mark> the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "because"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #3 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant <mark>taking</mark> a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "to take"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #4 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again <mark>on the evening</mark> when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "in the evening"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #5 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so <mark>heat</mark>, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "hot"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #6 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon <mark>raises</mark> above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "rises"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #7 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How <mark>beauty</mark> it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "beautiful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #8 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there <mark>has</mark> the moon which sheds it's silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "is"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #9 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds <mark>it's</mark> silver light together with thousand of little stars twinkling and twinkling.",
+      "answer": "its"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Find & Correct the Mistake",
+      "prompt": "<span class=\"mini-instruction\">There are ten mistakes in this paragraph. Find mistake #10 (highlighted) and write the correction.</span>Summer in England is the better season of all. The sky is clear and blue. The sun shines brightly. But it is not pleasant to go out at noon because of the sun dazzles our eyes. The air is generally dry. It is very pleasant taking a walk in the morning when the country is cool, or again on the evening when the sunshine is not so heat, and the moon raises above the horizon. How beauty it is in summer in the countryside. There high in the sky, there has the moon which sheds it's silver light together with <mark>thousand</mark> of little stars twinkling and twinkling.",
+      "answer": "thousands"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important <mark>______ (1)</mark> missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 2,
+      "options": [
+        {
+          "word": "theme",
+          "ipa": "/θiːm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "book",
+          "ipa": "/bʊk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "subject",
+          "ipa": "/ˈsʌbdʒɪkt/",
+          "explain": "\"subject\" fits \"one important subject missing from timetables\""
+        },
+        {
+          "word": "mark",
+          "ipa": "/mɑːrk/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are <mark>______ (2)</mark> how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "taught",
+          "ipa": "/tɔːt/",
+          "explain": "\"taught how to organize\" — passive form"
+        },
+        {
+          "word": "learnt",
+          "ipa": "/lɜːrnt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "educated",
+          "ipa": "/ˈedʒukeɪtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "graduated",
+          "ipa": "/ˈgrædʒueɪtɪd/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to <mark>______ (3)</mark> the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 3,
+      "options": [
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "give",
+          "ipa": "/gɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "get",
+          "ipa": "/get/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "make",
+          "ipa": "/meɪk/",
+          "explain": "\"make the best use of time\" — fixed collocation"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to <mark>______ (4)</mark> up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "find",
+          "ipa": "/faɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "look",
+          "ipa": "/lʊk/",
+          "explain": "\"look up\" a word — phrasal verb for dictionary use"
+        },
+        {
+          "word": "research",
+          "ipa": "/rɪˈsɜːrtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "get",
+          "ipa": "/get/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you <mark>______ (5)</mark> notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 2,
+      "options": [
+        {
+          "word": "do",
+          "ipa": "/duː/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "send",
+          "ipa": "/send/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "explain": "\"take notes\" — fixed collocation"
+        },
+        {
+          "word": "revise",
+          "ipa": "/rɪˈvaɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them <mark>______ (6)</mark>? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "after",
+          "ipa": "/ˈæftər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "afterwards",
+          "ipa": "/ˈæftərwərdz/",
+          "explain": "\"understand them afterwards\" — fits reviewing notes later"
+        },
+        {
+          "word": "lastly",
+          "ipa": "/ˈlæstli/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "at last",
+          "ipa": "/æt læst/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to <mark>______ (7)</mark> pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 3,
+      "options": [
+        {
+          "word": "concentrate",
+          "ipa": "/ˈkɒnsəntreɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "remind",
+          "ipa": "/rɪˈmaɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "forget",
+          "ipa": "/fərˈget/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "memorize",
+          "ipa": "/ˈmeməraɪz/",
+          "explain": "\"memorize pages\" fits the theme of learning by heart"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain <mark>______ (8)</mark> to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 0,
+      "options": [
+        {
+          "word": "how",
+          "ipa": "/haʊ/",
+          "explain": "\"explain how to do it\""
+        },
+        {
+          "word": "what",
+          "ipa": "/wʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "why",
+          "ipa": "/waɪ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "it",
+          "ipa": "/ɪt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine <mark>______ (9)</mark> of a subject. You can ______ (10) a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 2,
+      "options": [
+        {
+          "word": "information",
+          "ipa": "/ˌɪnfərˈmeɪʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "success",
+          "ipa": "/səkˈses/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "understanding",
+          "ipa": "/ˌʌndərˈstændɪŋ/",
+          "explain": "\"a genuine understanding\" contrasts with memorizing without comprehension"
+        },
+        {
+          "word": "attention",
+          "ipa": "/əˈtenʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage then choose the best answer.</span><b>Learning How to Learn</b><br><br>There is usually one important ______ (1) missing from most school timetables. Very few students are ______ (2) how to organize their learning and how to ______ (3) the best use of their time. Let's take some simple examples. Do you know how to ______ (4) up words in the dictionary?, and do you understand all the information the dictionary contains? Can you ______ (5) notes quickly, and can you understand them ______ (6)? For some reason, many schools give learners no help with these matters. Teachers ask students to ______ (7) pages from books, or tell them to write ten pages, but don't explain ______ (8) to do it. Learning by heart can be useful, but it is important to have a genuine ______ (9) of a subject. You can <mark>______ (10)</mark> a lot of time memorizing books, without understanding anything about the subject!",
+      "answer": 1,
+      "options": [
+        {
+          "word": "pass",
+          "ipa": "/pæs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "waste",
+          "ipa": "/weɪst/",
+          "explain": "\"waste time\" — fits the cautionary tone about memorizing without understanding"
+        },
+        {
+          "word": "tell",
+          "ipa": "/tel/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "use",
+          "ipa": "/juːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use <mark>______ (1)</mark> computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make <mark>______ (2)</mark> that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "sure / certain"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be <mark>______ (3)</mark> to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "able"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks <mark>______ (4)</mark> out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "run / sell"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and <mark>______ (5)</mark> on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "so"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes <mark>______ (6)</mark> performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "are / get"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A <mark>______ (7)</mark> of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "lot"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. <mark>______ (8)</mark> it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "Once / When / After"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put <mark>______ (9)</mark> for future reference. This way of working was ______ (10) particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "aside / away"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each of the numbered blanks in the passage. Use only ONE word in each space.</span>Computers play an important role in our everyday lives, sometimes without us even realizing it. Consider the use ______ (1) computers in both shops and offices. Big shops especially chain stores with branches all over the country, have to deal with very large amounts of information.<br><br>They have to make ______ (2) that there are enough goods on the shelves for customers to buy; they need to be ______ (3) to re-order before stocks ______ (4) out, to decide which things are selling well and ______ (5) on. All these processes ______ (6) performed quickly and efficiently by computers.<br><br>A ______ (7) of office work in the past involved information on paper. ______ (8) it had been dealt with by people, the paper was put ______ (9) for future reference. This way of working was <mark>______ (10)</mark> particularly easy or fast. A computerized system is much more efficient.",
+      "answer": "not / never"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully and choose the best answer to each question.</span><span class=\"passage-block\">The culture of Vietnam is one of the oldest in the Southeast Asia region. Although Vietnam lies geographically in Southeast Asia, long periods of Chinese domination and influence has resulted in the emergence of many East Asian characteristics in Vietnamese culture, and generally Vietnam is said to be a part of the East Asian cultural sphere, known widely as Chinese cultural sphere.<br><br>Despite considerable foreign influence, Vietnamese people have managed to retain many distinct customs. While Chinese culture has the largest influence on traditional Vietnamese culture, there is also a much smaller influence from the Cham and later Western cultures, most notably of France, Russia and the United States. In terms of prehistory, most Vietnamese historians consider the ancient Dong Son Culture to be one of the defining aspects of early Vietnamese civilization.<br><br>Vietnam's population in 2006 was 84,402,966, with a population density of 253 people per km². Most people live in or near the densely populous Red River or Mekong deltas. Due to the nation's southward expansion throughout its history, along with the different climate and environment met by the settlers as they moved further south, slightly different regional cultures began to emerge, most notably between Northern and Southern Vietnam.</span><span class=\"cue-line\">The culture of Vietnam ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "is the youngest in Asia",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "does not get any Asian characteristics",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "was influenced by that of China",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "was greatly dominated by that of Western",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully and choose the best answer to each question.</span><span class=\"passage-block\">The culture of Vietnam is one of the oldest in the Southeast Asia region. Although Vietnam lies geographically in Southeast Asia, long periods of Chinese domination and influence has resulted in the emergence of many East Asian characteristics in Vietnamese culture, and generally Vietnam is said to be a part of the East Asian cultural sphere, known widely as Chinese cultural sphere.<br><br>Despite considerable foreign influence, Vietnamese people have managed to retain many distinct customs. While Chinese culture has the largest influence on traditional Vietnamese culture, there is also a much smaller influence from the Cham and later Western cultures, most notably of France, Russia and the United States. In terms of prehistory, most Vietnamese historians consider the ancient Dong Son Culture to be one of the defining aspects of early Vietnamese civilization.<br><br>Vietnam's population in 2006 was 84,402,966, with a population density of 253 people per km². Most people live in or near the densely populous Red River or Mekong deltas. Due to the nation's southward expansion throughout its history, along with the different climate and environment met by the settlers as they moved further south, slightly different regional cultures began to emerge, most notably between Northern and Southern Vietnam.</span><span class=\"cue-line\">Which culture has not affected the Vietnamese one?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Of the United States",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Of the United Kingdom",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "Of Russia",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Of France",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully and choose the best answer to each question.</span><span class=\"passage-block\">The culture of Vietnam is one of the oldest in the Southeast Asia region. Although Vietnam lies geographically in Southeast Asia, long periods of Chinese domination and influence has resulted in the emergence of many East Asian characteristics in Vietnamese culture, and generally Vietnam is said to be a part of the East Asian cultural sphere, known widely as Chinese cultural sphere.<br><br>Despite considerable foreign influence, Vietnamese people have managed to retain many distinct customs. While Chinese culture has the largest influence on traditional Vietnamese culture, there is also a much smaller influence from the Cham and later Western cultures, most notably of France, Russia and the United States. In terms of prehistory, most Vietnamese historians consider the ancient Dong Son Culture to be one of the defining aspects of early Vietnamese civilization.<br><br>Vietnam's population in 2006 was 84,402,966, with a population density of 253 people per km². Most people live in or near the densely populous Red River or Mekong deltas. Due to the nation's southward expansion throughout its history, along with the different climate and environment met by the settlers as they moved further south, slightly different regional cultures began to emerge, most notably between Northern and Southern Vietnam.</span><span class=\"cue-line\">Vietnamese people ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "cannot keep their own culture in their daily life",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "have many diverse nation customs",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "highly appreciate the Western influence on their culture",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "failed to retain the native customs",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully and choose the best answer to each question.</span><span class=\"passage-block\">The culture of Vietnam is one of the oldest in the Southeast Asia region. Although Vietnam lies geographically in Southeast Asia, long periods of Chinese domination and influence has resulted in the emergence of many East Asian characteristics in Vietnamese culture, and generally Vietnam is said to be a part of the East Asian cultural sphere, known widely as Chinese cultural sphere.<br><br>Despite considerable foreign influence, Vietnamese people have managed to retain many distinct customs. While Chinese culture has the largest influence on traditional Vietnamese culture, there is also a much smaller influence from the Cham and later Western cultures, most notably of France, Russia and the United States. In terms of prehistory, most Vietnamese historians consider the ancient Dong Son Culture to be one of the defining aspects of early Vietnamese civilization.<br><br>Vietnam's population in 2006 was 84,402,966, with a population density of 253 people per km². Most people live in or near the densely populous Red River or Mekong deltas. Due to the nation's southward expansion throughout its history, along with the different climate and environment met by the settlers as they moved further south, slightly different regional cultures began to emerge, most notably between Northern and Southern Vietnam.</span><span class=\"cue-line\">Through history, Vietnam expanded to the ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "south",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "north",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "east",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "west",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage carefully and choose the best answer to each question.</span><span class=\"passage-block\">The culture of Vietnam is one of the oldest in the Southeast Asia region. Although Vietnam lies geographically in Southeast Asia, long periods of Chinese domination and influence has resulted in the emergence of many East Asian characteristics in Vietnamese culture, and generally Vietnam is said to be a part of the East Asian cultural sphere, known widely as Chinese cultural sphere.<br><br>Despite considerable foreign influence, Vietnamese people have managed to retain many distinct customs. While Chinese culture has the largest influence on traditional Vietnamese culture, there is also a much smaller influence from the Cham and later Western cultures, most notably of France, Russia and the United States. In terms of prehistory, most Vietnamese historians consider the ancient Dong Son Culture to be one of the defining aspects of early Vietnamese civilization.<br><br>Vietnam's population in 2006 was 84,402,966, with a population density of 253 people per km². Most people live in or near the densely populous Red River or Mekong deltas. Due to the nation's southward expansion throughout its history, along with the different climate and environment met by the settlers as they moved further south, slightly different regional cultures began to emerge, most notably between Northern and Southern Vietnam.</span><span class=\"cue-line\">Which statement is true?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "The North and the South of Vietnam have the same regional cultures.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The Mekong delta is more populous than the Red River one.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Red River delta is densely populous.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "Vietnamese people do not like living in the deltas.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">If we can solve the problem soon, it will be better for all concerned.</span><span class=\"cue-line\">The sooner ......................</span>",
+      "answer": "The sooner we can solve the problem, the better it will be for all concerned."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">I would prefer you to deliver the sofa on Friday.</span><span class=\"cue-line\">I would rather ......................</span>",
+      "answer": "I would rather you delivered the sofa on Friday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">We've run out of tea.</span><span class=\"cue-line\">There ......................</span>",
+      "answer": "There isn't any tea left."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">Susan was too excited to sleep.</span><span class=\"cue-line\">Susan was ......................</span>",
+      "answer": "Susan was so excited that she couldn't sleep."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">Robert has not had a job for two years.</span><span class=\"cue-line\">Robert has been ......................</span>",
+      "answer": "Robert has been out of a job / jobless / unemployed for two years."
+    }
+  ]
+}

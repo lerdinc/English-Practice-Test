@@ -1,0 +1,1039 @@
+{
+  "title": "English Practice Test No: 18",
+  "subtitle": "57 questions · Phonetics, Grammar & Vocabulary, Written Tests",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word which has the italic part pronounced in a different way.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "enough",
+          "underline": "ou",
+          "ipa": "/ɪˈnʌf/",
+          "explain": "\"ou\" said as /ʌ/"
+        },
+        {
+          "word": "young",
+          "underline": "ou",
+          "ipa": "/jʌŋ/",
+          "explain": "\"ou\" said as /ʌ/"
+        },
+        {
+          "word": "country",
+          "underline": "ou",
+          "ipa": "/ˈkʌntri/",
+          "explain": "\"ou\" said as /ʌ/"
+        },
+        {
+          "word": "mountain",
+          "underline": "ou",
+          "ipa": "/ˈmaʊntən/",
+          "explain": "\"ou\" said as /aʊ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word which has the italic part pronounced in a different way.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "experimented",
+          "underline": "ed",
+          "ipa": "/ɪkˈsperɪmentɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        },
+        {
+          "word": "collected",
+          "underline": "ed",
+          "ipa": "/kəˈlektɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        },
+        {
+          "word": "needed",
+          "underline": "ed",
+          "ipa": "/ˈniːdɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        },
+        {
+          "word": "raised",
+          "underline": "ed",
+          "ipa": "/reɪzd/",
+          "explain": "\"ed\" said as /d/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word which has the italic part pronounced in a different way.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "knife",
+          "underline": "k",
+          "ipa": "/naɪf/",
+          "explain": "\"k\" is silent — the odd one out"
+        },
+        {
+          "word": "socket",
+          "underline": "k",
+          "ipa": "/ˈsɒkɪt/",
+          "explain": "\"k\" pronounced"
+        },
+        {
+          "word": "desk",
+          "underline": "k",
+          "ipa": "/desk/",
+          "explain": "\"k\" pronounced"
+        },
+        {
+          "word": "book",
+          "underline": "k",
+          "ipa": "/bʊk/",
+          "explain": "\"k\" pronounced"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetics — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Circle the word which has the italic part pronounced in a different way.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "hour",
+          "underline": "h",
+          "ipa": "/aʊər/",
+          "explain": "\"h\" is silent"
+        },
+        {
+          "word": "honour",
+          "underline": "h",
+          "ipa": "/ˈɒnər/",
+          "explain": "\"h\" is silent"
+        },
+        {
+          "word": "honest",
+          "underline": "h",
+          "ipa": "/ˈɒnɪst/",
+          "explain": "\"h\" is silent"
+        },
+        {
+          "word": "honey",
+          "underline": "h",
+          "ipa": "/ˈhʌni/",
+          "explain": "\"h\" pronounced — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is not the same as the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "admire",
+          "ipa": "/ədˈmaɪər/",
+          "explain": "ad-MIRE — stress on the 2nd syllable"
+        },
+        {
+          "word": "blanket",
+          "ipa": "/ˈblæŋkɪt/",
+          "explain": "BLAN-ket — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "collection",
+          "ipa": "/kəˈlekʃən/",
+          "explain": "col-LEC-tion — stress on the 2nd syllable"
+        },
+        {
+          "word": "exchange",
+          "ipa": "/ɪksˈtʃeɪndʒ/",
+          "explain": "ex-CHANGE — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is not the same as the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "pagoda",
+          "ipa": "/pəˈgoʊdə/",
+          "explain": "pa-GO-da — stress on the 2nd syllable"
+        },
+        {
+          "word": "economic",
+          "ipa": "/ˌekəˈnɒmɪk/",
+          "explain": "ec-o-NOM-ic — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "relax",
+          "ipa": "/rɪˈlæks/",
+          "explain": "re-LAX — stress on the 2nd syllable"
+        },
+        {
+          "word": "material",
+          "ipa": "/məˈtɪriəl/",
+          "explain": "ma-TE-ri-al — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is not the same as the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "embroider",
+          "ipa": "/ɪmˈbrɔɪdər/",
+          "explain": "em-BROI-der — stress on the 2nd syllable"
+        },
+        {
+          "word": "occasion",
+          "ipa": "/əˈkeɪʒən/",
+          "explain": "oc-CA-sion — stress on the 2nd syllable"
+        },
+        {
+          "word": "minority",
+          "ipa": "/maɪˈnɔːrəti/",
+          "explain": "mi-NOR-i-ty — stress on the 2nd syllable"
+        },
+        {
+          "word": "intermediate",
+          "ipa": "/ˌɪntərˈmiːdiət/",
+          "explain": "in-ter-ME-di-ate — stress on the 3rd syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonetics — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress pattern is not the same as the other three.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "embroider",
+          "ipa": "/ɪmˈbrɔɪdər/",
+          "explain": "em-BROI-der — stress on the 2nd syllable"
+        },
+        {
+          "word": "encourage",
+          "ipa": "/ɪnˈkɜːrɪdʒ/",
+          "explain": "en-COUR-age — stress on the 2nd syllable"
+        },
+        {
+          "word": "champagne",
+          "ipa": "/ʃæmˈpeɪn/",
+          "explain": "cham-PAGNE — stress on the 2nd syllable"
+        },
+        {
+          "word": "logical",
+          "ipa": "/ˈlɒdʒɪkəl/",
+          "explain": "LOG-i-cal — stress on the 1st syllable, the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Jane and Jack stood in front of the mirror and looked at ______.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "herself",
+          "ipa": "/hərˈself/",
+          "explain": "wrong — singular, feminine reflexive"
+        },
+        {
+          "word": "himself",
+          "ipa": "/hɪmˈself/",
+          "explain": "wrong — singular, masculine reflexive"
+        },
+        {
+          "word": "themselves",
+          "ipa": "/ðəmˈselvz/",
+          "explain": "correct — plural reflexive for \"Jane and Jack\""
+        },
+        {
+          "word": "ourselves",
+          "ipa": "/aʊərˈselvz/",
+          "explain": "wrong — refers to the speaker, not Jane and Jack"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Which one is ______, milk or orange juice?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "better",
+          "ipa": "/ˈbetər/",
+          "explain": "correct — comparative for choosing between two things"
+        },
+        {
+          "word": "the best",
+          "ipa": "/ðə best/",
+          "explain": "superlative doesn't fit a choice between only two"
+        },
+        {
+          "word": "good",
+          "ipa": "/gʊd/",
+          "explain": "plain adjective doesn't show comparison"
+        },
+        {
+          "word": "well",
+          "ipa": "/wel/",
+          "explain": "wrong word class — \"well\" is an adverb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>They haven't found the paintings ______ from the museum.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "steal",
+          "ipa": "/stiːl/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "stole",
+          "ipa": "/stoʊl/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "stolen",
+          "ipa": "/ˈstoʊlən/",
+          "explain": "correct — past participle, reduced passive relative clause"
+        },
+        {
+          "word": "stealing",
+          "ipa": "/ˈstiːlɪŋ/",
+          "explain": "wrong voice — the paintings didn't do the stealing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>The smaller the room is, the ______ furniture it needs.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "fewer",
+          "ipa": "/ˈfjuːər/",
+          "explain": "\"fewer\" pairs with countable nouns; \"furniture\" is uncountable"
+        },
+        {
+          "word": "smaller",
+          "ipa": "/ˈsmɔːlər/",
+          "explain": "wrong word — doesn't describe quantity of furniture"
+        },
+        {
+          "word": "more",
+          "ipa": "/mɔːr/",
+          "explain": "wrong meaning — a smaller room needs less furniture"
+        },
+        {
+          "word": "less",
+          "ipa": "/les/",
+          "explain": "correct — \"less\" pairs with the uncountable noun \"furniture\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Henry, ______ work have been famous in the world, was an American writer.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "which",
+          "ipa": "/wɪtʃ/",
+          "explain": "doesn't fit — needs a possessive relative pronoun"
+        },
+        {
+          "word": "that",
+          "ipa": "/ðæt/",
+          "explain": "doesn't fit a non-restrictive clause about a person this way"
+        },
+        {
+          "word": "who",
+          "ipa": "/huː/",
+          "explain": "doesn't show possession, which is needed here"
+        },
+        {
+          "word": "none are correct",
+          "ipa": "",
+          "explain": "correct — the sentence actually needs \"whose\", which isn't offered"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>It took him ages to ______ living in the new town.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "use to",
+          "ipa": "/juːs tə/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "used to",
+          "ipa": "/ˈjuːst tə/",
+          "explain": "correct — \"get used to\" + gerund (habituation), matching \"took ages to\""
+        },
+        {
+          "word": "will used to",
+          "ipa": "/wɪl ˈjuːst tə/",
+          "explain": "not a valid form"
+        },
+        {
+          "word": "will use to",
+          "ipa": "/wɪl juːs tə/",
+          "explain": "not a valid form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>The house was ______ building.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "a nice old stone",
+          "ipa": "/ə naɪs oʊld stoʊn/",
+          "explain": "wrong adjective order"
+        },
+        {
+          "word": "a nice stone old",
+          "ipa": "/ə naɪs stoʊn oʊld/",
+          "explain": "wrong adjective order"
+        },
+        {
+          "word": "a stone old nice",
+          "ipa": "/ə stoʊn oʊld naɪs/",
+          "explain": "wrong adjective order"
+        },
+        {
+          "word": "an old nice stone",
+          "ipa": "/ən oʊld naɪs stoʊn/",
+          "explain": "correct order: opinion (nice) → age (old) → material (stone)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Hardly ______ Duy when she stayed smiling.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "had she seen",
+          "ipa": "/hæd ʃi siːn/",
+          "explain": "correct — inversion after \"hardly\" + past perfect"
+        },
+        {
+          "word": "she had seen",
+          "ipa": "/ʃi hæd siːn/",
+          "explain": "wrong word order — \"hardly\" requires inversion"
+        },
+        {
+          "word": "has he seen",
+          "ipa": "/hæz hi siːn/",
+          "explain": "wrong pronoun and tense"
+        },
+        {
+          "word": "does she see",
+          "ipa": "/dʌz ʃi siː/",
+          "explain": "wrong tense for this structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>I would rather you ______ me the story.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "tell",
+          "ipa": "/tel/",
+          "explain": "wrong tense — \"would rather\" about someone else needs past simple"
+        },
+        {
+          "word": "told",
+          "ipa": "/toʊld/",
+          "explain": "correct — \"would rather + subject + past simple\""
+        },
+        {
+          "word": "to tell",
+          "ipa": "/tə tel/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "telling",
+          "ipa": "/ˈtelɪŋ/",
+          "explain": "wrong form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>\"War and Peace\" ______ the longest book I have ever read.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "are",
+          "ipa": "/ɑːr/",
+          "explain": "wrong agreement — a single book title is singular"
+        },
+        {
+          "word": "was",
+          "ipa": "/wəz/",
+          "explain": "wrong tense — doesn't fit \"have ever read\""
+        },
+        {
+          "word": "were",
+          "ipa": "/wər/",
+          "explain": "wrong agreement and tense"
+        },
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "explain": "correct — singular, present tense for a general fact"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>\"Nghi doesn't like American beer\" – \"______ does Vy\".",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Either",
+          "ipa": "/ˈiːðər/",
+          "explain": "wrong structure for agreeing with a negative statement"
+        },
+        {
+          "word": "So",
+          "ipa": "/soʊ/",
+          "explain": "used to agree with a positive statement, not a negative one"
+        },
+        {
+          "word": "Neither",
+          "ipa": "/ˈniːðər/",
+          "explain": "correct — \"neither does X\" agrees with a negative statement"
+        },
+        {
+          "word": "too",
+          "ipa": "/tuː/",
+          "explain": "used to agree with a positive statement"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Ken doesn't work here ______. He left about six months ago.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "any longer",
+          "ipa": "/ˈeni ˈlɔːŋgər/",
+          "explain": "correct — \"not...any longer\" shows a stopped action"
+        },
+        {
+          "word": "no longer",
+          "ipa": "/noʊ ˈlɔːŋgər/",
+          "explain": "would need to replace \"doesn't\", not be added after it"
+        },
+        {
+          "word": "still",
+          "ipa": "/stɪl/",
+          "explain": "wrong meaning — contradicts \"doesn't work\""
+        },
+        {
+          "word": "yet",
+          "ipa": "/jet/",
+          "explain": "wrong meaning for this context"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>That's a ______ building.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "five-story",
+          "ipa": "/faɪv ˈstɔːri/",
+          "explain": "correct — compound adjective uses the singular \"story\""
+        },
+        {
+          "word": "five-stories",
+          "ipa": "/faɪv ˈstɔːriz/",
+          "explain": "plural noun shouldn't be used in this compound adjective"
+        },
+        {
+          "word": "five-story's",
+          "ipa": "/faɪv ˈstɔːriz/",
+          "explain": "incorrect possessive form"
+        },
+        {
+          "word": "five-stories's",
+          "ipa": "/faɪv ˈstɔːriz/",
+          "explain": "incorrect plural possessive form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>Vietnam is one of the countries of the ______ of South East Asian Nations.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "affection",
+          "ipa": "/əˈfekʃən/",
+          "explain": "wrong word — means fondness"
+        },
+        {
+          "word": "association",
+          "ipa": "/əˌsoʊsiˈeɪʃən/",
+          "explain": "correct — \"Association of South East Asian Nations\" (ASEAN)"
+        },
+        {
+          "word": "administration",
+          "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+          "explain": "wrong word — doesn't fit the fixed name"
+        },
+        {
+          "word": "federration",
+          "ipa": "/ˌfedəˈreɪʃən/",
+          "explain": "not a standard word (typo for \"federation\"), and wrong for this fixed name"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>I was just ______ to go out when you telephoned.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "around",
+          "ipa": "/əˈraʊnd/",
+          "explain": "wrong word for this meaning"
+        },
+        {
+          "word": "about",
+          "ipa": "/əˈbaʊt/",
+          "explain": "correct — \"be about to\" means on the verge of doing something"
+        },
+        {
+          "word": "thinking",
+          "ipa": "/ˈθɪŋkɪŋ/",
+          "explain": "would need \"of\" and doesn't fit \"just ___ to go out\" as precisely"
+        },
+        {
+          "word": "planed",
+          "ipa": "/pleɪnd/",
+          "explain": "not a standard word here (and would need \"planning\")"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best completes each sentence.</span>The national dress of Japanese women is ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "Ao dai",
+          "ipa": "",
+          "explain": "the traditional dress of Vietnam, not Japan"
+        },
+        {
+          "word": "Kimono",
+          "ipa": "",
+          "explain": "correct — the traditional dress of Japan"
+        },
+        {
+          "word": "Sari",
+          "ipa": "",
+          "explain": "the traditional dress of India, not Japan"
+        },
+        {
+          "word": "Jeans",
+          "ipa": "",
+          "explain": "not a national dress"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Transformation (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the same meaning as the original sentence.</span>I'd prefer you to start work next month.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "I'd rather you start work next month.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "I'd rather start work for next month.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "I'd rather you started work next month.",
+          "explain": "correct — keeps the same meaning"
+        },
+        {
+          "word": "You should start work next month.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Transformation (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the same meaning as the original sentence.</span>This room is too small for five people.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "This room is very small for five people.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "This room is such small that five people can't live in.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "This room isn't big enough for five people.",
+          "explain": "correct — keeps the same meaning"
+        },
+        {
+          "word": "This room isn't too big for five people.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Transformation (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the same meaning as the original sentence.</span>They made me study hard when I was at school.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "I was made study hard when I was at school.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "I was made to study hard when I was at school.",
+          "explain": "correct — keeps the same meaning"
+        },
+        {
+          "word": "I was made studying hard when I was at school.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "When I was at school I studied hard.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Transformation (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the same meaning as the original sentence.</span>You should go to the dentist's at once.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Don't delay to go to the dentist's at once.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Don't delay to go to the dentist's any more.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Don't delay going to the dentist's any longer.",
+          "explain": "correct — keeps the same meaning"
+        },
+        {
+          "word": "Don't put off go to the dentist's any longer.",
+          "explain": "changes the meaning or is grammatically flawed"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Sentence Transformation (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the sentence which has the same meaning as the original sentence.</span>My grandfather is old, but he can walk to the park.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Although my grandfather is old, he can walk to the park.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "Despite his old age, my grandfather can walk to the park.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "In spite of being old, my grandfather can walk to the park.",
+          "explain": "changes the meaning or is grammatically flawed"
+        },
+        {
+          "word": "All are correct.",
+          "explain": "correct — keeps the same meaning"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct verb form in the brackets.</span>It's high time that you (get) ______ down to more serious work.",
+      "answer": "got"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct verb form in the brackets.</span>That man (stand) ______ at the bus stop for the last half hour. Shall I tell him that the last bus has already gone?",
+      "answer": "has been standing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct verb form in the brackets.</span>By next September I (pay) ______ 4,000 pounds in income tax.",
+      "answer": "will have paid"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct verb form in the brackets.</span>At this time next week they (sit) ______ in the train on their way to Paris.",
+      "answer": "will be sitting"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the suitable form of the word in brackets.</span>We'll live in a happier and ______ life if we keep our environment clean. (HEALTH)",
+      "answer": "healthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the suitable form of the word in brackets.</span>Thirty years ago, my hometown was small. Now it has turned into an ______ city. (INDUSTRY)",
+      "answer": "industrial"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the suitable form of the word in brackets.</span>Islam is the ______ religion of Malaysia. (OFFICE)",
+      "answer": "official"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Written — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Supply the suitable form of the word in brackets.</span>Don't depend on him; he's a very ______ person. (RELY)",
+      "answer": "unreliable"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">These shoes will have to be repaired.</span><span class=\"cue-line\">Richard will have ......................</span>",
+      "answer": "Richard will have these shoes repaired."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">Bill never does anything if you don't tell him what to do.</span><span class=\"cue-line\">Unless ......................</span>",
+      "answer": "Unless you tell Bill what to do, he never does anything."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">\"Why don't you put a better lock on the door, Mai?\" Minh asked.</span><span class=\"cue-line\">Minh suggested ......................</span>",
+      "answer": "Minh suggested Mai (should) put a better lock on the door."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">Keeping calm is the secret of passing your driving test.</span><span class=\"cue-line\">As long as ......................</span>",
+      "answer": "As long as you keep calm, you will pass your driving test."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">When she heard the news, she broke down.</span><span class=\"cue-line\">On ......................</span>",
+      "answer": "On hearing the news, she broke down."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">She'd rather have Italian food than French food.</span><span class=\"cue-line\">She prefers ......................</span>",
+      "answer": "She prefers Italian food to French food."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">We couldn't get nearer because of the police.</span><span class=\"cue-line\">The police prevented ......................</span>",
+      "answer": "The police prevented us from getting nearer."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">Although both of his legs were broken in the crash, he managed to get out of the car before it exploded.</span><span class=\"cue-line\">Despite his ......................</span>",
+      "answer": "Despite his broken legs in the crash, he managed to get out of the car before it exploded."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">Everyone heard about the accident before I did.</span><span class=\"cue-line\">I was the ......................</span>",
+      "answer": "I was the last one who heard about the accident."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the sentences, keeping the meaning unchanged.</span><span class=\"original-sentence\">It's common knowledge that he has been in prison several times.</span><span class=\"cue-line\">He is known ......................</span>",
+      "answer": "He is known to have been in prison several times."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">Thank you/ much/ your letter/ arrive/ few days ago.</span>",
+      "answer": "Thank you very much for your letter which arrived a few days ago."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">It / be lovely / hear / you.</span>",
+      "answer": "It was lovely to hear from you."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">I / be sorry / I not write / such / long time/ but I / be very busy.</span>",
+      "answer": "I'm sorry I haven't written for such a long time but I've been very busy."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">As you know/ we buy / new house / September.</span>",
+      "answer": "As you know, we bought a new house in September."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">It / be /very bad condition / and it need / a lot / work.</span>",
+      "answer": "It was in very bad condition and it needed a lot of work."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">We finish / most / it now / and it look / very nice.</span>",
+      "answer": "We have finished most of it now and it looks very nice."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">Peter and I / decide / give / house-warming party / May 3rd.</span>",
+      "answer": "Peter and I have decided to give a house-warming party on May 3rd."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">You think / you / able / come?</span>",
+      "answer": "Do you think you will be able to come?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">Please give me / ring / let / know / you / make it.</span>",
+      "answer": "Please give me a ring and let me know if you can make it."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Written — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence of the following letter.</span><span class=\"passage-block\"><b>Dear Diana,</b></span><span class=\"cue-line\">I / really / look forward / see you again.</span>",
+      "answer": "I'm really looking forward to seeing you again."
+    }
+  ]
+}

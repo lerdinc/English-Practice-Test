@@ -1,0 +1,2191 @@
+{
+  "title": "English Practice Test No: 19",
+  "subtitle": "145 questions · Phonology, Vocabulary & Grammar, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonology — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "character",
+          "underline": "ch",
+          "ipa": "/ˈkærɪktər/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "ache",
+          "underline": "ch",
+          "ipa": "/eɪk/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "channel",
+          "underline": "ch",
+          "ipa": "/ˈtʃænəl/",
+          "explain": "\"ch\" said as /tʃ/ — the odd one out"
+        },
+        {
+          "word": "chorus",
+          "underline": "ch",
+          "ipa": "/ˈkɔːrəs/",
+          "explain": "\"ch\" said as /k/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonology — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "bomb",
+          "underline": "b",
+          "ipa": "/bɒm/",
+          "explain": "\"b\" is silent"
+        },
+        {
+          "word": "debt",
+          "underline": "b",
+          "ipa": "/det/",
+          "explain": "\"b\" is silent"
+        },
+        {
+          "word": "cucumber",
+          "underline": "b",
+          "ipa": "/ˈkjuːkʌmbər/",
+          "explain": "\"b\" pronounced — the odd one out"
+        },
+        {
+          "word": "doubt",
+          "underline": "b",
+          "ipa": "/daʊt/",
+          "explain": "\"b\" is silent"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonology — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "thorough",
+          "underline": "th",
+          "ipa": "/ˈθʌrə/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "within",
+          "underline": "th",
+          "ipa": "/wɪˈðɪn/",
+          "explain": "\"th\" said as /ð/ — the odd one out"
+        },
+        {
+          "word": "threaten",
+          "underline": "th",
+          "ipa": "/ˈθretən/",
+          "explain": "\"th\" said as /θ/"
+        },
+        {
+          "word": "breath",
+          "underline": "th",
+          "ipa": "/breθ/",
+          "explain": "\"th\" said as /θ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonology — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "wicked",
+          "underline": "ed",
+          "ipa": "/ˈwɪkɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        },
+        {
+          "word": "united",
+          "underline": "ed",
+          "ipa": "/juˈnaɪtɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        },
+        {
+          "word": "increased",
+          "underline": "ed",
+          "ipa": "/ɪnˈkriːst/",
+          "explain": "\"ed\" said as /t/ — the odd one out"
+        },
+        {
+          "word": "attended",
+          "underline": "ed",
+          "ipa": "/əˈtendɪd/",
+          "explain": "\"ed\" said as /ɪd/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonology — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose underlined part is pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "wound",
+          "underline": "ou",
+          "ipa": "/wuːnd/",
+          "explain": "\"ou\" said as /uː/ (noun: an injury) — the odd one out"
+        },
+        {
+          "word": "shoulder",
+          "underline": "ou",
+          "ipa": "/ˈʃoʊldər/",
+          "explain": "\"ou\" said as /oʊ/"
+        },
+        {
+          "word": "soul",
+          "underline": "ou",
+          "ipa": "/soʊl/",
+          "explain": "\"ou\" said as /oʊ/"
+        },
+        {
+          "word": "poultry",
+          "underline": "ou",
+          "ipa": "/ˈpoʊltri/",
+          "explain": "\"ou\" said as /oʊ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonology — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress position is different from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "industry",
+          "ipa": "/ˈɪndəstri/",
+          "explain": "IN-dus-try — stress on the 1st syllable"
+        },
+        {
+          "word": "interview",
+          "ipa": "/ˈɪntərvjuː/",
+          "explain": "IN-ter-view — stress on the 1st syllable"
+        },
+        {
+          "word": "inherit",
+          "ipa": "/ɪnˈherɪt/",
+          "explain": "in-HER-it — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "explain": "IN-ter-est-ing — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonology — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress position is different from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "manufacture",
+          "ipa": "/ˌmænjuˈfæktʃər/",
+          "explain": "man-u-FAC-ture — stress on the 3rd syllable, the odd one out"
+        },
+        {
+          "word": "museum",
+          "ipa": "/mjuˈziːəm/",
+          "explain": "mu-SE-um — stress on the 2nd syllable"
+        },
+        {
+          "word": "congratulate",
+          "ipa": "/kənˈgrætʃuleɪt/",
+          "explain": "con-GRAT-u-late — stress on the 2nd syllable"
+        },
+        {
+          "word": "promotion",
+          "ipa": "/prəˈmoʊʃən/",
+          "explain": "pro-MO-tion — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonology — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress position is different from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "because",
+          "ipa": "/bɪˈkɔːz/",
+          "explain": "be-CAUSE — stress on the 2nd syllable"
+        },
+        {
+          "word": "concentrate",
+          "ipa": "/ˈkɒnsəntreɪt/",
+          "explain": "CON-cen-trate — stress on the 1st syllable, the odd one out"
+        },
+        {
+          "word": "society",
+          "ipa": "/səˈsaɪəti/",
+          "explain": "so-CI-e-ty — stress on the 2nd syllable"
+        },
+        {
+          "word": "enormous",
+          "ipa": "/ɪˈnɔːrməs/",
+          "explain": "e-NOR-mous — stress on the 2nd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonology — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress position is different from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "university",
+          "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+          "explain": "u-ni-VER-si-ty — stress on the 3rd syllable"
+        },
+        {
+          "word": "volunteer",
+          "ipa": "/ˌvɒlənˈtɪr/",
+          "explain": "vol-un-TEER — stress on the 3rd (final) syllable"
+        },
+        {
+          "word": "responsible",
+          "ipa": "/rɪˈspɒnsəbəl/",
+          "explain": "re-SPON-si-ble — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "economic",
+          "ipa": "/ˌekəˈnɒmɪk/",
+          "explain": "ec-o-NOM-ic — stress on the 3rd syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "stress",
+      "partLabel": "Phonology — Word Stress",
+      "prompt": "<span class=\"mini-instruction\">Choose the word whose stress position is different from the others.</span>Which word has primary stress on a different syllable from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "literature",
+          "ipa": "/ˈlɪtərətʃər/",
+          "explain": "LIT-er-a-ture — stress on the 1st syllable"
+        },
+        {
+          "word": "temperature",
+          "ipa": "/ˈtemprətʃər/",
+          "explain": "TEM-per-a-ture — stress on the 1st syllable"
+        },
+        {
+          "word": "convenient",
+          "ipa": "/kənˈviːniənt/",
+          "explain": "con-VE-ni-ent — stress on the 2nd syllable, the odd one out"
+        },
+        {
+          "word": "preference",
+          "ipa": "/ˈprefərəns/",
+          "explain": "PREF-er-ence — stress on the 1st syllable"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>It's an excellent ______ holiday.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "package",
+          "ipa": "/ˈpækɪdʒ/",
+          "explain": "correct — \"package holiday\" is the fixed collocation"
+        },
+        {
+          "word": "party",
+          "ipa": "/ˈpɑːrti/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "group",
+          "ipa": "/gruːp/",
+          "explain": "not the standard collocation for a pre-arranged trip"
+        },
+        {
+          "word": "team",
+          "ipa": "/tiːm/",
+          "explain": "wrong meaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>Nobody likes to pay ______ prices.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "high",
+          "ipa": "/haɪ/",
+          "explain": "correct — \"high prices\" is the standard collocation"
+        },
+        {
+          "word": "tall",
+          "ipa": "/tɔːl/",
+          "explain": "wrong word — \"tall\" describes height of objects, not prices"
+        },
+        {
+          "word": "big",
+          "ipa": "/bɪg/",
+          "explain": "less standard than \"high\" for prices"
+        },
+        {
+          "word": "expensive",
+          "ipa": "/ɪkˈspensɪv/",
+          "explain": "wrong word class — describes items, not the prices themselves this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>How are you feeling today? – ______ better, thank you.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "More",
+          "ipa": "/mɔːr/",
+          "explain": "wrong word for this intensifier use"
+        },
+        {
+          "word": "Much",
+          "ipa": "/mʌtʃ/",
+          "explain": "correct — \"much better\" intensifies a comparative"
+        },
+        {
+          "word": "Very",
+          "ipa": "/ˈveri/",
+          "explain": "\"very\" doesn't modify a comparative like \"better\""
+        },
+        {
+          "word": "Many",
+          "ipa": "/ˈmeni/",
+          "explain": "wrong word class — pairs with countable nouns"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>I haven't met our new secretary yet. ______?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "What's she like?",
+          "ipa": "",
+          "explain": "correct — asks for a description of personality/character"
+        },
+        {
+          "word": "How is she?",
+          "ipa": "",
+          "explain": "asks about her wellbeing, not her character"
+        },
+        {
+          "word": "How is she like?",
+          "ipa": "",
+          "explain": "ungrammatical — mixes two question forms"
+        },
+        {
+          "word": "How does she like?",
+          "ipa": "",
+          "explain": "incomplete and ungrammatical"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>You can go home, if you ______ your work.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "finished",
+          "ipa": "/fɪnɪʃt/",
+          "explain": "wrong tense for a first conditional"
+        },
+        {
+          "word": "have finished",
+          "ipa": "/hæv fɪnɪʃt/",
+          "explain": "correct — present perfect in a conditional clause"
+        },
+        {
+          "word": "are finished",
+          "ipa": "/ɑːr fɪnɪʃt/",
+          "explain": "less standard than \"have finished\" for this meaning"
+        },
+        {
+          "word": "finishing",
+          "ipa": "/ˈfɪnɪʃɪŋ/",
+          "explain": "not a finite verb form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>There is no ______ in going to school if you're not willing to learn.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "reason",
+          "ipa": "/ˈriːzən/",
+          "explain": "doesn't fit \"in going to school\" as naturally"
+        },
+        {
+          "word": "aim",
+          "ipa": "/eɪm/",
+          "explain": "wrong word for this fixed pattern"
+        },
+        {
+          "word": "point",
+          "ipa": "/pɔɪnt/",
+          "explain": "correct — \"there is no point in doing something\""
+        },
+        {
+          "word": "purpose",
+          "ipa": "/ˈpɜːrpəs/",
+          "explain": "less standard than \"point\" for this fixed expression"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>______ his advice, I would never have got the job.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Except",
+          "ipa": "/ɪkˈsept/",
+          "explain": "wrong preposition for this conditional meaning"
+        },
+        {
+          "word": "Apart from",
+          "ipa": "/əˈpɑːrt frʌm/",
+          "explain": "wrong meaning — doesn't express \"without\""
+        },
+        {
+          "word": "But for",
+          "ipa": "/bʌt fɔːr/",
+          "explain": "correct — \"but for\" means \"without\", introducing a hypothetical condition"
+        },
+        {
+          "word": "As for",
+          "ipa": "/æz fɔːr/",
+          "explain": "wrong meaning — introduces a new topic"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>______ Richard is a businessman, his brother is a rock singer.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "doesn't fit this sentence structure"
+        },
+        {
+          "word": "Yet",
+          "ipa": "/jet/",
+          "explain": "doesn't fit this sentence structure"
+        },
+        {
+          "word": "Whereas",
+          "ipa": "/werˈæz/",
+          "explain": "correct — shows contrast between two clauses"
+        },
+        {
+          "word": "Despite",
+          "ipa": "/dɪˈspaɪt/",
+          "explain": "a preposition, can't introduce a full clause like this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>There is no water on the moon, nor ______ an atmosphere around it.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "there is",
+          "ipa": "/ðer ɪz/",
+          "explain": "wrong word order after \"nor\""
+        },
+        {
+          "word": "it is",
+          "ipa": "/ɪt ɪz/",
+          "explain": "wrong subject and word order"
+        },
+        {
+          "word": "there is not",
+          "ipa": "/ðer ɪz nɒt/",
+          "explain": "double negative — \"nor\" already carries the negative meaning"
+        },
+        {
+          "word": "is there",
+          "ipa": "/ɪz ðer/",
+          "explain": "correct — inversion after \"nor\" at the start of a clause"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>Cancer is a ______ disease.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "killing",
+          "ipa": "/ˈkɪlɪŋ/",
+          "explain": "correct — adjective describing a disease that kills"
+        },
+        {
+          "word": "death",
+          "ipa": "/deθ/",
+          "explain": "noun, wrong word class before \"disease\""
+        },
+        {
+          "word": "dead",
+          "ipa": "/ded/",
+          "explain": "wrong meaning — describes something no longer alive"
+        },
+        {
+          "word": "kill",
+          "ipa": "/kɪl/",
+          "explain": "bare verb, wrong word class"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>Under the sun's heat, water ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "melts",
+          "ipa": "/melts/",
+          "explain": "wrong verb — used for solids becoming liquid"
+        },
+        {
+          "word": "evaporates",
+          "ipa": "/ɪˈvæpəreɪts/",
+          "explain": "correct — water turns to vapor under heat"
+        },
+        {
+          "word": "rises",
+          "ipa": "/ˈraɪzɪz/",
+          "explain": "doesn't capture the heat-related change of state"
+        },
+        {
+          "word": "floats",
+          "ipa": "/floʊts/",
+          "explain": "wrong meaning entirely"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>The new restaurant is ______ at the corner of a busy street.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "put",
+          "ipa": "/pʊt/",
+          "explain": "too informal/vague for describing a building's location"
+        },
+        {
+          "word": "located",
+          "ipa": "/loʊˈkeɪtɪd/",
+          "explain": "correct — standard verb for describing a building's position"
+        },
+        {
+          "word": "stood",
+          "ipa": "/stʊd/",
+          "explain": "wrong — buildings aren't described as \"standing\" themselves this way"
+        },
+        {
+          "word": "placed",
+          "ipa": "/pleɪst/",
+          "explain": "less natural than \"located\" for describing a permanent building"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>She read a newspaper on the plane to ______ away the time.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "waste",
+          "ipa": "/weɪst/",
+          "explain": "wrong verb for this fixed expression"
+        },
+        {
+          "word": "throw",
+          "ipa": "/θroʊ/",
+          "explain": "wrong verb for this fixed expression"
+        },
+        {
+          "word": "quicken",
+          "ipa": "/ˈkwɪkən/",
+          "explain": "wrong verb entirely"
+        },
+        {
+          "word": "while",
+          "ipa": "/waɪl/",
+          "explain": "correct — \"while away the time\" is the fixed idiom"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>It isn't quite ______ that he will be present at the meeting.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "sure",
+          "ipa": "/ʃʊr/",
+          "explain": "\"sure\" typically describes a person's confidence, not a fact itself"
+        },
+        {
+          "word": "certain",
+          "ipa": "/ˈsɜːrtən/",
+          "explain": "correct — \"it is certain that\" describes a fact/likelihood"
+        },
+        {
+          "word": "exact",
+          "ipa": "/ɪgˈzækt/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "doubtftd",
+          "ipa": "",
+          "explain": "not a valid English word (typo in source for \"doubtful\", which would also reverse the meaning)"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>The weather in the far north is not ______ it is near the Equator.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "like humid as",
+          "ipa": "/laɪk ˈhjuːmɪd æz/",
+          "explain": "not a valid comparative structure"
+        },
+        {
+          "word": "as humid as",
+          "ipa": "/æz ˈhjuːmɪd æz/",
+          "explain": "correct — \"not as + adjective + as\" comparative structure"
+        },
+        {
+          "word": "humid as",
+          "ipa": "/ˈhjuːmɪd æz/",
+          "explain": "missing the first \"as\""
+        },
+        {
+          "word": "so humid that",
+          "ipa": "/soʊ ˈhjuːmɪd ðæt/",
+          "explain": "wrong structure — doesn't fit this comparison"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>There will be plenty of food for everybody, ______ nobody takes more than his share.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "except that",
+          "ipa": "/ɪkˈsept ðæt/",
+          "explain": "wrong meaning — doesn't express a condition"
+        },
+        {
+          "word": "provided that",
+          "ipa": "/prəˈvaɪdɪd ðæt/",
+          "explain": "correct — \"provided that\" introduces a necessary condition"
+        },
+        {
+          "word": "despite that",
+          "ipa": "/dɪˈspaɪt ðæt/",
+          "explain": "not a standard connector, and wrong meaning"
+        },
+        {
+          "word": "even if",
+          "ipa": "/ˈiːvən ɪf/",
+          "explain": "wrong meaning — doesn't fit \"plenty of food\" being conditional on sharing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>I would like to offer a small ______ to anyone who finds my missing dog.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "receipt",
+          "ipa": "/rɪˈsiːt/",
+          "explain": "wrong word — a proof of payment"
+        },
+        {
+          "word": "repayment",
+          "ipa": "/rɪˈpeɪmənt/",
+          "explain": "wrong word — paying back a debt"
+        },
+        {
+          "word": "expense",
+          "ipa": "/ɪkˈspens/",
+          "explain": "wrong word — a cost"
+        },
+        {
+          "word": "reward",
+          "ipa": "/rɪˈwɔːrd/",
+          "explain": "correct — money offered for finding something"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>John's score on the test is the highest in class; ______",
+      "answer": 2,
+      "options": [
+        {
+          "word": "he should study last night",
+          "ipa": "",
+          "explain": "wrong modal/tense combination"
+        },
+        {
+          "word": "he should have studied last night",
+          "ipa": "",
+          "explain": "wrong meaning — implies he didn't study, contradicting his high score"
+        },
+        {
+          "word": "he must have studied last night",
+          "ipa": "",
+          "explain": "correct — \"must have\" for a confident deduction about the past"
+        },
+        {
+          "word": "he must had to study last night",
+          "ipa": "",
+          "explain": "not a valid grammatical form"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>Biologists tell us that the earth has seen 500 million species of animals ______ or so.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "during the last 3 billion years",
+          "ipa": "",
+          "explain": "correct — \"during\" + a time period fits this context"
+        },
+        {
+          "word": "it was during the last 3 billion years",
+          "ipa": "",
+          "explain": "a full clause doesn't fit grammatically here"
+        },
+        {
+          "word": "while the last 3 billion years",
+          "ipa": "",
+          "explain": "\"while\" doesn't fit this structure"
+        },
+        {
+          "word": "since the last 3 billion years",
+          "ipa": "",
+          "explain": "\"since\" needs a specific starting point, not a duration like this"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary & Grammar — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that fits each sentence.</span>Would you mind helping me with this book-case? It's too heavy for me to ______.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "be moved by me",
+          "ipa": "",
+          "explain": "wrong voice — \"too heavy for me to\" needs an active verb"
+        },
+        {
+          "word": "move on my own",
+          "ipa": "",
+          "explain": "correct — \"too heavy for me to move on my own\""
+        },
+        {
+          "word": "move on myself",
+          "ipa": "",
+          "explain": "\"on myself\" isn't the standard phrase — should be \"on my own\" or \"by myself\""
+        },
+        {
+          "word": "be moved by myself",
+          "ipa": "",
+          "explain": "wrong voice for this structure"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>You'd better drive. I'm too ______ for such complicated traffic. (EXPERIENCE)",
+      "answer": "inexperienced"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>I wish you a very happy ______. (RETIRE)",
+      "answer": "retirement"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>Telling lies is ______. (MORAL)",
+      "answer": "immoral"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>We need to push up the ______ of our country. (INDUSTRY)",
+      "answer": "industrialization"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>Now that she got a job, Lena is ______ of her parents. (DEPEND)",
+      "answer": "independent"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>Your money will be refunded if the goods are not to your ______. (SATISFY)",
+      "answer": "satisfaction"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>Please ______ your seat belt. The plane is taking off. (FAST)",
+      "answer": "fasten"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>UNO stands for United ______ Organization. (NATIONAL)",
+      "answer": "Nations"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>The water in this area is ______ and should not be drunk. (PURE)",
+      "answer": "impure"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete each sentence with the correct form of the word given.</span>The situation is getting ______ difficult for us. (INCREASE)",
+      "answer": "increasingly"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>I talked ______ her on the phone yesterday. (1st blank)",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>I talked to her ______ the phone yesterday. (2nd blank)",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>It's very kind ______ you to help me with my homework. (1st blank)",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>It's very kind of you to help me ______ my homework. (2nd blank)",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>Shall we stop ______ the book store on the way home? (1st blank)",
+      "answer": "at"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>Shall we stop at the book store ______ the way home? (2nd blank)",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>He has been absent ______ class because of his illness. (1st blank)",
+      "answer": "from"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>He has been absent from class because ______ his illness. (2nd blank)",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>We complained ______ the boss about the bad working conditions. (1st blank)",
+      "answer": "to"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>We complained to the boss ______ the bad working conditions. (2nd blank)",
+      "answer": "about"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>What's wrong ______ you? (1st blank)",
+      "answer": "with"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>I've got a pain ______ my back. (2nd blank)",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>I'd like to thank you ______ everything you have done for me. (1st blank)",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>I'd like to thank you for everything you have done ______ me. (2nd blank)",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>The storm swept ______ the village during the night. (1st blank)",
+      "answer": "through"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>The storm swept through the village ______ the night. (2nd blank)",
+      "answer": "during"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>When his aunt passed ______, he came into a lot of money. (1st blank)",
+      "answer": "away"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>When his aunt passed away, he came ______ a lot of money. (2nd blank)",
+      "answer": "into"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>Is it all right if I pay ______ cheque or in cash? (1st blank)",
+      "answer": "by"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Prepositions",
+      "prompt": "<span class=\"mini-instruction\">Fill each gap with a suitable preposition or adverb particle.</span>Is it all right if I pay by cheque or ______ cash? (2nd blank)",
+      "answer": "in"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>She (wear) ______ her new hat when I met her yesterday. (wear)",
+      "answer": "was wearing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>She was wearing her new hat when I (meet) ______ her yesterday. (meet)",
+      "answer": "met"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Whenever it (rain) ______ she carries an umbrella. (rain)",
+      "answer": "rains"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Whenever it rains she (carry) ______ an umbrella. (carry)",
+      "answer": "carries"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The house (be) ______ much smaller than we had thought at first. (be)",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The house was much smaller than we (think) ______ at first. (think)",
+      "answer": "had thought"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Before you (mention) ______ him, I had never heard of that author. (mention)",
+      "answer": "mentioned"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>Before you mentioned him, I (never hear) ______ of that author. (never hear)",
+      "answer": "had never heard"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>After some years (live) ______ in this country, you'll get used to eating Chinese food. (live)",
+      "answer": "living"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>After some years living in this country, you'll get used to (eat) ______ Chinese food. (eat)",
+      "answer": "eating"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>When we (get) ______ to the station, the train had left for 10 minutes. (get)",
+      "answer": "got"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>When we got to the station, the train (leave) ______ for 10 minutes. (leave)",
+      "answer": "had left"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>I (sit) ______ down for a rest while the shoes were being repaired. (sit)",
+      "answer": "sat"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>I sat down for a rest while the shoes ______ (repair).",
+      "answer": "being repaired"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>I think it's time he (start) ______ (write) the report. (start)",
+      "answer": "started"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>I think it's time he started (write) ______ the report. (write)",
+      "answer": "writing"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>At this time next week, we (stay) ______ at the holiday resort enjoying ourselves. (stay)",
+      "answer": "will be staying"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>At this time next week, we will be staying at the holiday resort (enjoy) ______ ourselves. (enjoy)",
+      "answer": "enjoying"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The teacher asked those who (complete) ______ their tests to turn in their papers. (complete)",
+      "answer": "had completed"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Verb Forms",
+      "prompt": "<span class=\"mini-instruction\">Give the correct form of the verb in brackets.</span>The teacher asked those who had completed their tests (turn) ______ in their papers. (turn)",
+      "answer": "to turn"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>David is <u>particular</u> fond of cooking, <u>and</u> he <u>often cooks</u> <u>really</u> delicious meals.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "particular",
+          "explain": "incorrect — should be “particularly” — the odd one out"
+        },
+        {
+          "word": "and",
+          "explain": "correct as written"
+        },
+        {
+          "word": "often cooks",
+          "explain": "correct as written"
+        },
+        {
+          "word": "really",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Sandra has <u>not rarely</u> missed a <u>play</u> or concert <u>since</u> she <u>was</u> seventeen years old.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "not rarely",
+          "explain": "incorrect — should be “rarely” — the odd one out"
+        },
+        {
+          "word": "play",
+          "explain": "correct as written"
+        },
+        {
+          "word": "since",
+          "explain": "correct as written"
+        },
+        {
+          "word": "was",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>There <u>was</u> <u>a</u> very interesting news on <u>the</u> radio this morning <u>about</u> the earthquake in Italy.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "was",
+          "explain": "correct as written"
+        },
+        {
+          "word": "a",
+          "explain": "incorrect — should be “(omit ‘a’ — ‘news’ is uncountable)” — the odd one out"
+        },
+        {
+          "word": "the",
+          "explain": "correct as written"
+        },
+        {
+          "word": "about",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>The bridge <u>hit</u> by a large ship <u>during</u> a <u>suddenly</u> storm <u>has been mended</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "hit",
+          "explain": "correct as written"
+        },
+        {
+          "word": "during",
+          "explain": "correct as written"
+        },
+        {
+          "word": "suddenly",
+          "explain": "incorrect — should be “sudden” — the odd one out"
+        },
+        {
+          "word": "has been mended",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>As soon <u>as</u> I arrive <u>at</u> my hotel, I'll contact <u>with</u> you <u>by phone</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "as",
+          "explain": "correct as written"
+        },
+        {
+          "word": "at",
+          "explain": "correct as written"
+        },
+        {
+          "word": "with",
+          "explain": "incorrect — should be “(omit ‘with’ — ‘contact’ takes a direct object)” — the odd one out"
+        },
+        {
+          "word": "by phone",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Jim was <u>upset</u> last night <u>because</u> he <u>had to do</u> a lot of <u>homeworks</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "upset",
+          "explain": "correct as written"
+        },
+        {
+          "word": "because",
+          "explain": "correct as written"
+        },
+        {
+          "word": "had to do",
+          "explain": "correct as written"
+        },
+        {
+          "word": "homeworks",
+          "explain": "incorrect — should be “homework” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Jane <u>told</u> me that she <u>will</u> <u>have to</u> go to London the <u>following day</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "told",
+          "explain": "correct as written"
+        },
+        {
+          "word": "will",
+          "explain": "incorrect — should be “would” — the odd one out"
+        },
+        {
+          "word": "have to",
+          "explain": "correct as written"
+        },
+        {
+          "word": "following day",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Tom, <u>together with</u> his two sisters, <u>are</u> going <u>to join</u> our trip <u>next weekend</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "together with",
+          "explain": "correct as written"
+        },
+        {
+          "word": "are",
+          "explain": "incorrect — should be “is” — the odd one out"
+        },
+        {
+          "word": "to join",
+          "explain": "correct as written"
+        },
+        {
+          "word": "next weekend",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Peter is the boy <u>whom</u> <u>I think</u> scored the <u>winning points</u> <u>for</u> the basketball team.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "whom",
+          "explain": "incorrect — should be “who” — the odd one out"
+        },
+        {
+          "word": "I think",
+          "explain": "correct as written"
+        },
+        {
+          "word": "winning points",
+          "explain": "correct as written"
+        },
+        {
+          "word": "for",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify one of the four underlined parts in each sentence that is not correct.</span>Our new neighbors <u>had been living</u> in Arizona <u>for</u> ten years <u>after</u> <u>moving to</u> their present house.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "had been living",
+          "explain": "correct as written"
+        },
+        {
+          "word": "for",
+          "explain": "correct as written"
+        },
+        {
+          "word": "after",
+          "explain": "incorrect — should be “before” — the odd one out"
+        },
+        {
+          "word": "moving to",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><span class=\"passage-block\">I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my questions several times and at last, he understood. He answered me, but he spoke neither slowly nor clearly. “I am a foreigner,” I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. “You'll soon learn English!” he said. I wonder. In England, each man speaks a different language. The English understand each other, but I don't understand them! Do they speak English?</span><span class=\"cue-line\">The writer asked the porter ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "how to speak English",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "where the railway station was",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the direction to the hotel",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "if he could speak English",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><span class=\"passage-block\">I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my questions several times and at last, he understood. He answered me, but he spoke neither slowly nor clearly. “I am a foreigner,” I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. “You'll soon learn English!” he said. I wonder. In England, each man speaks a different language. The English understand each other, but I don't understand them! Do they speak English?</span><span class=\"cue-line\">The porter couldn't understand the writer because ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "the writer did not speak English very carefully",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the writer repeated the questions several times",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the porter didn't know English",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the writer's English was unusual",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><span class=\"passage-block\">I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my questions several times and at last, he understood. He answered me, but he spoke neither slowly nor clearly. “I am a foreigner,” I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. “You'll soon learn English!” he said. I wonder. In England, each man speaks a different language. The English understand each other, but I don't understand them! Do they speak English?</span><span class=\"cue-line\">The writer's teacher of English ______.</span>",
+      "answer": 0,
+      "options": [
+        {
+          "word": "spoke English differently from English people",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "never spoke English in class",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "didn't speak English slowly",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "didn't work as a porter",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><span class=\"passage-block\">I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my questions several times and at last, he understood. He answered me, but he spoke neither slowly nor clearly. “I am a foreigner,” I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. “You'll soon learn English!” he said. I wonder. In England, each man speaks a different language. The English understand each other, but I don't understand them! Do they speak English?</span><span class=\"cue-line\">In England ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "people don't speak English at all",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "people speak English, which is not like the one the writer studied at school",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "people understand one another without speaking English",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "each person speaks a different language",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the correct answer.</span><span class=\"passage-block\">I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my questions several times and at last, he understood. He answered me, but he spoke neither slowly nor clearly. “I am a foreigner,” I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. “You'll soon learn English!” he said. I wonder. In England, each man speaks a different language. The English understand each other, but I don't understand them! Do they speak English?</span><span class=\"cue-line\">Which of the following statements is NOT true?</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "At last the writer understood what the porter said.",
+          "explain": "true according to the passage"
+        },
+        {
+          "word": "The writer expected everyone in England to speak like his teacher.",
+          "explain": "correct — this is the false statement per the answer key"
+        },
+        {
+          "word": "The porter didn't feel angry with the writer.",
+          "explain": "true according to the passage"
+        },
+        {
+          "word": "The porter always spoke English slowly and clearly.",
+          "explain": "true according to the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the <mark>______ (1)</mark> of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "customs",
+          "ipa": "/ˈkʌstəmz/",
+          "explain": "\"follow the customs\" of a country"
+        },
+        {
+          "word": "language",
+          "ipa": "/ˈlæŋgwɪdʒ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "people",
+          "ipa": "/ˈpiːpəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "map",
+          "ipa": "/mæp/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some <mark>______ (2)</mark>. ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "news",
+          "ipa": "/nuːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "information",
+          "ipa": "/ˌɪnfərˈmeɪʃən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "service",
+          "ipa": "/ˈsɜːrvɪs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "advice",
+          "ipa": "/ədˈvaɪs/",
+          "explain": "\"some advice\" — fits the following instructions"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). <mark>______ (3)</mark> you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Before",
+          "ipa": "/bɪˈfɔːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "Though",
+          "ipa": "/ðoʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "While",
+          "ipa": "/waɪl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "As soon as",
+          "ipa": "/æz suːn æz/",
+          "explain": "\"as soon as you are invited\" — timing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by <mark>______ (4)</mark> or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "car",
+          "ipa": "/kɑːr/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "bus",
+          "ipa": "/bʌs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "writing",
+          "ipa": "/ˈraɪtɪŋ/",
+          "explain": "\"by writing\" — letter/note, contrasted with telephoning"
+        },
+        {
+          "word": "speaking",
+          "ipa": "/ˈspiːkɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to <mark>______ (5)</mark> on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "reach",
+          "ipa": "/riːtʃ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "leave",
+          "ipa": "/liːv/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "come",
+          "ipa": "/kʌm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "arrive",
+          "ipa": "/əˈraɪv/",
+          "explain": "\"arrive on time\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a <mark>______ (6)</mark> if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "friend",
+          "ipa": "/frend/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "present",
+          "ipa": "/ˈprezənt/",
+          "explain": "\"take a present\" (a gift)"
+        },
+        {
+          "word": "parent",
+          "ipa": "/ˈperənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "child",
+          "ipa": "/tʃaɪld/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take <mark>______ (7)</mark>. It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "nothing",
+          "ipa": "/ˈnʌθɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "cheap thing",
+          "ipa": "/tʃiːp θɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "everything",
+          "ipa": "/ˈevriθɪŋ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "expensive things",
+          "ipa": "/ɪkˈspensɪv θɪŋz/",
+          "explain": "\"bad manners to take expensive things\" — contrasts with a modest gift"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not <mark>______ (8)</mark> to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "correct",
+          "ipa": "/kəˈrekt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "well",
+          "ipa": "/wel/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "polite",
+          "ipa": "/pəˈlaɪt/",
+          "explain": "\"not polite to stay too late\""
+        },
+        {
+          "word": "necessary",
+          "ipa": "/ˈnesəseri/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. <mark>______ (9)</mark>, it is good manners to write a short letter or make a telephone call a day or two later to ______ (10) your host.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Of course",
+          "ipa": "/əv kɔːrs/",
+          "explain": "correct — natural transition introducing another expected courtesy"
+        },
+        {
+          "word": "So",
+          "ipa": "/soʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "explain": "doesn't clearly contrast with the previous sentence"
+        },
+        {
+          "word": "But",
+          "ipa": "/bʌt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the dialogue and choose the correct word or phrase to complete each blank.</span>When you go to another country, it is important to follow the ______ (1) of that country. If you are invited to a home in England, here is some ______ (2). ______ (3) you are invited, it is good manners to tell whether you will go or not, either by ______ (4) or through telephoning. When you go to the party, it is better to ______ (5) on time. It is good manners to shake hands with your host and other guests. You can take a ______ (6) if you like, possibly a bottle of wine or a box of chocolates or some flowers. However, it is bad manners to take ______ (7). It is not ______ (8) to stay too late after the other guests have gone. ______ (9), it is good manners to write a short letter or make a telephone call a day or two later to <mark>______ (10)</mark> your host.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "welcome",
+          "ipa": "/ˈwelkəm/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "thank",
+          "ipa": "/θæŋk/",
+          "explain": "\"thank your host\" — matches the letter/call follow-up"
+        },
+        {
+          "word": "praise",
+          "ipa": "/preɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "please",
+          "ipa": "/pliːz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he <mark>______ (1)</mark> to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "had"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p <mark>______ (2)</mark> week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "a / per"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was <mark>______ (3)</mark> very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "not"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept <mark>______ (4)</mark> many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "so"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly <mark>______ (5)</mark> many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "how"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. <mark>______ (6)</mark> day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "One"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, <mark>______ (7)</mark> was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "who"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and <mark>______ (8)</mark> given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't <mark>______ (9)</mark> noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "help"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he <mark>______ (10)</mark> as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "earned"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat <mark>______ (11)</mark> for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "as"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. <mark>______ (12)</mark> made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "This"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends <mark>______ (13)</mark> fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "whose"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they <mark>______ (14)</mark> him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "gave"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would <mark>______ (15)</mark> place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "then"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it <mark>______ (16)</mark> one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "was"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and <mark>______ (17)</mark> Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "gave / offered"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. <mark>______ (18)</mark> the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "By"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill <mark>______ (19)</mark> saved quite a lot of money. Later in life, he became a very ______ (20) businessman.",
+      "answer": "had"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill each blank in the passage with ONE suitable word.</span>When Bill was eight years old, in 1908, he used to work for an old lady who lived in his village. Every day, before and after school, he ______ (1) to chop wood, light fires, and go shopping for her. He was paid 5p ______ (2) week which was ______ (3) very much even then. This old lady kept ______ (4) many cats that she did not know exactly ______ (5) many. ______ (6) day, one of these cats was found dead in the garden and the lady, ______ (7) was very upset, asked Bill to dig a grave and bury it. Bill did this and ______ (8) given 10p. He couldn't ______ (9) noticing that he ______ (10) as much for burying the cat ______ (11) for a whole week's work. ______ (12) made him think. He had many friends ______ (13) fathers, the local farmers, often had to shoot cats to protect their chickens. He offered his friends 2p for every dead cat they ______ (14) him. He would ______ (15) place the cat in the old lady's garden where she would find it, think it ______ (16) one of her own and ______ (17) Bill 10p for burying it. ______ (18) the time he left school, Bill ______ (19) saved quite a lot of money. Later in life, he became a very <mark>______ (20)</mark> businessman.",
+      "answer": "rich"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">What is the depth of this lake?</span><span class=\"cue-line\">How ......................?</span>",
+      "answer": "How deep is this lake?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">How interesting the film is!</span><span class=\"cue-line\">What ......................</span>",
+      "answer": "What an interesting film (it is)!"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">The furniture was so expensive that we didn't buy it.</span><span class=\"cue-line\">The furniture was not ......................</span>",
+      "answer": "The furniture was not cheap enough for us to buy."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">I'm sorry that I didn't go to the party last Sunday.</span><span class=\"cue-line\">I regretted ......................</span>",
+      "answer": "I wish I had gone to the party last Sunday."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">He said, \"You stole my record, Bill.\"</span><span class=\"cue-line\">He accused ......................</span>",
+      "answer": "He accused Bill of stealing / having stolen his record."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">So that he can speak English fluently, he reads lots of books and sees lots of English films.</span><span class=\"cue-line\">So as ......................</span>",
+      "answer": "So as to speak English fluently, he reads lots of books and sees lots of English films."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">He doesn't have enough money. He can't buy a big house.</span><span class=\"cue-line\">If ......................</span>",
+      "answer": "If he had had the money / enough money, he could have bought a big house."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">The teacher asked me whether I had brought my dictionary.</span><span class=\"cue-line\">My teacher asked, \"......................\"</span>",
+      "answer": "My teacher asked, \"Have you brought / Did you bring your dictionary?\""
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">People say she is the most beautiful girl in the village.</span><span class=\"cue-line\">She is ......................</span>",
+      "answer": "She is said to be the most beautiful girl in the village."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Finish the second sentence so that it means the same as the sentence before it.</span><span class=\"original-sentence\">Do you know who wrote this novel?</span><span class=\"cue-line\">Do you know by ......................?</span>",
+      "answer": "Do you know by whom this novel was written?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence using the given word — “Time”. Do not change this word in any way.</span><span class=\"original-sentence\">This is my first visit to Japan.</span>",
+      "answer": "This is the first time I have visited Japan."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence using the given word — “Get”. Do not change this word in any way.</span><span class=\"original-sentence\">How long have Helen and Robert been married?</span>",
+      "answer": "When / How long ago did Helen and Robert get married?"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence using the given word — “Since”. Do not change this word in any way.</span><span class=\"original-sentence\">I haven't been to an Indian restaurant for 2 years.</span>",
+      "answer": "It is 2 years since I (last) went to an Indian restaurant."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence using the given word — “Succeed”. Do not change this word in any way.</span><span class=\"original-sentence\">John failed to complete the job on time.</span>",
+      "answer": "John didn't succeed in completing the job on time."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite each sentence using the given word — “Old”. Do not change this word in any way.</span><span class=\"original-sentence\">Laura is too young to vote in the election.</span>",
+      "answer": "Laura is not old enough to vote in the election."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the words and phrases given to write complete sentences.</span><span class=\"cue-line\">I / no intention / come / terrible place / again.</span>",
+      "answer": "I have no intention of coming to that terrible place again."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the words and phrases given to write complete sentences.</span><span class=\"cue-line\">Age / 30 / Mr Smith / write / 2 best selling books.</span>",
+      "answer": "By the age of 30, Mr Smith had written 2 best selling books."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the words and phrases given to write complete sentences.</span><span class=\"cue-line\">Two girls / have nothing / common.</span>",
+      "answer": "The two girls have nothing in common."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the words and phrases given to write complete sentences.</span><span class=\"cue-line\">We / stay / sun / such / long time / became sunburned.</span>",
+      "answer": "We stayed in the sun for such a long time that we became sunburned."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Word Ordering",
+      "prompt": "<span class=\"mini-instruction\">Use the words and phrases given to write complete sentences.</span><span class=\"cue-line\">My boss / get / well / all / employees.</span>",
+      "answer": "My boss gets on well with all his / the employees."
+    }
+  ]
+}

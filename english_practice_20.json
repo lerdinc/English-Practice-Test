@@ -1,0 +1,1571 @@
+{
+  "title": "English Practice Test No: 20",
+  "subtitle": "85 questions · Phonetic, Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Chemical",
+          "underline": "Ch",
+          "ipa": "/ˈkemɪkəl/",
+          "explain": "\"ch\" said as /k/"
+        },
+        {
+          "word": "precaution",
+          "underline": "c",
+          "ipa": "/prɪˈkɔːʃən/",
+          "explain": "\"c\" said as /k/"
+        },
+        {
+          "word": "electric",
+          "underline": "c",
+          "ipa": "/ɪˈlektrɪk/",
+          "explain": "\"c\" said as /k/"
+        },
+        {
+          "word": "destruction",
+          "underline": "c",
+          "ipa": "/dɪˈstrʌkʃən/",
+          "explain": "\"c\" said as /k/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "participate",
+          "underline": "a",
+          "ipa": "/pɑːrˈtɪsɪpeɪt/",
+          "explain": "\"a\" said as /ɑːr/"
+        },
+        {
+          "word": "behavior",
+          "underline": "a",
+          "ipa": "/bɪˈheɪvjər/",
+          "explain": "\"a\" said as /eɪ/"
+        },
+        {
+          "word": "necessary",
+          "underline": "a",
+          "ipa": "/ˈnesəseri/",
+          "explain": "reduced \"a\" said as /ə/ — the odd one out"
+        },
+        {
+          "word": "traditional",
+          "underline": "a",
+          "ipa": "/trəˈdɪʃənəl/",
+          "explain": "reduced \"a\" said as /ə/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "humor",
+          "underline": "u",
+          "ipa": "/ˈhjuːmər/",
+          "explain": "\"u\" said as /juː/"
+        },
+        {
+          "word": "include",
+          "underline": "u",
+          "ipa": "/ɪnˈkluːd/",
+          "explain": "\"u\" said as /uː/ — the odd one out"
+        },
+        {
+          "word": "countless",
+          "underline": "ou",
+          "ipa": "/ˈkaʊntləs/",
+          "explain": "\"ou\" said as /aʊ/"
+        },
+        {
+          "word": "message",
+          "underline": "e",
+          "ipa": "/ˈmesɪdʒ/",
+          "explain": "short \"e\" pattern, included here by spelling group"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "injection",
+          "underline": "e",
+          "ipa": "/ɪnˈdʒekʃən/",
+          "explain": "stressed \"e\" said as /e/"
+        },
+        {
+          "word": "departure",
+          "underline": "e",
+          "ipa": "/dɪˈpɑːrtʃər/",
+          "explain": "unstressed \"e\" said as /ɪ/"
+        },
+        {
+          "word": "volcano",
+          "underline": "o",
+          "ipa": "/vɒlˈkeɪnoʊ/",
+          "explain": "no direct comparison letter, included by group"
+        },
+        {
+          "word": "heritage",
+          "underline": "e",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "explain": "stressed \"e\" said as /e/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word that has the underlined part pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "compete",
+          "underline": "e",
+          "ipa": "/kəmˈpiːt/",
+          "explain": "unstressed \"e\" said as /ə/"
+        },
+        {
+          "word": "design",
+          "underline": "i",
+          "ipa": "/dɪˈzaɪn/",
+          "explain": "unstressed \"e\" (as \"i\") said as /ɪ/"
+        },
+        {
+          "word": "compile",
+          "underline": "i",
+          "ipa": "/kəmˈpaɪl/",
+          "explain": "unstressed \"e\" said as /ə/"
+        },
+        {
+          "word": "campus",
+          "underline": "a",
+          "ipa": "/ˈkæmpəs/",
+          "explain": "\"a\" said as /æ/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word in each line whose underlined letter(s) are pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "magnificent",
+          "underline": "c",
+          "ipa": "/mægˈnɪfɪsənt/",
+          "explain": "\"c\" said as /s/"
+        },
+        {
+          "word": "exciting",
+          "underline": "c",
+          "ipa": "/ɪkˈsaɪtɪŋ/",
+          "explain": "\"c\" said as /s/"
+        },
+        {
+          "word": "price",
+          "underline": "c",
+          "ipa": "/praɪs/",
+          "explain": "\"c\" said as /s/"
+        },
+        {
+          "word": "oceanic",
+          "underline": "c",
+          "ipa": "/ˌoʊʃiˈænɪk/",
+          "explain": "\"c\" said as /ʃ/ (as in “ocean”) — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word in each line whose underlined letter(s) are pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "sugar",
+          "underline": "u",
+          "ipa": "/ˈʃʊgər/",
+          "explain": "\"u\" said as /ʊ/ — the odd one out"
+        },
+        {
+          "word": "jungle",
+          "underline": "u",
+          "ipa": "/ˈdʒʌŋgəl/",
+          "explain": "\"u\" said as /ʌ/"
+        },
+        {
+          "word": "luggage",
+          "underline": "u",
+          "ipa": "/ˈlʌgɪdʒ/",
+          "explain": "\"u\" said as /ʌ/"
+        },
+        {
+          "word": "sunbathe",
+          "underline": "u",
+          "ipa": "/ˈsʌnbeɪð/",
+          "explain": "\"u\" said as /ʌ/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word in each line whose underlined letter(s) are pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "handicapped",
+          "underline": "d",
+          "ipa": "/ˈhændikæpt/",
+          "explain": "\"d\" said as /d/"
+        },
+        {
+          "word": "education",
+          "underline": "d",
+          "ipa": "/ˌedʒʊˈkeɪʃən/",
+          "explain": "\"d\" said as /dʒ/ (the “du” combination) — the odd one out"
+        },
+        {
+          "word": "drawing",
+          "underline": "d",
+          "ipa": "/ˈdrɔːɪŋ/",
+          "explain": "\"d\" said as /d/"
+        },
+        {
+          "word": "fund",
+          "underline": "d",
+          "ipa": "/fʌnd/",
+          "explain": "\"d\" said as /d/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word in each line whose underlined letter(s) are pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "lived",
+          "underline": "ed",
+          "ipa": "/lɪvd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "organized",
+          "underline": "ed",
+          "ipa": "/ˈɔːrgənaɪzd/",
+          "explain": "\"ed\" said as /d/"
+        },
+        {
+          "word": "established",
+          "underline": "ed",
+          "ipa": "/ɪˈstæblɪʃt/",
+          "explain": "\"ed\" said as /t/ — the odd one out"
+        },
+        {
+          "word": "concerned",
+          "underline": "ed",
+          "ipa": "/kənˈsɜːrnd/",
+          "explain": "\"ed\" said as /d/"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "pronunciation",
+      "partLabel": "Phonetic — Pronunciation",
+      "prompt": "<span class=\"mini-instruction\">Choose the word in each line whose underlined letter(s) are pronounced differently from the others.</span>Which underlined letters are pronounced differently from the other three?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "hotel",
+          "underline": "o",
+          "ipa": "/hoʊˈtel/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "postcard",
+          "underline": "o",
+          "ipa": "/ˈpoʊstkɑːrd/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "cold",
+          "underline": "o",
+          "ipa": "/koʊld/",
+          "explain": "\"o\" said as /oʊ/"
+        },
+        {
+          "word": "shore",
+          "underline": "o",
+          "ipa": "/ʃɔːr/",
+          "explain": "\"o\" said as /ɔː/ — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Do you know who ______ penicillin?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "discovered",
+          "ipa": "/dɪˈskʌvərd/",
+          "explain": "correct — simple past, active voice, subject \"who\""
+        },
+        {
+          "word": "was discovered",
+          "ipa": "/wəz dɪˈskʌvərd/",
+          "explain": "wrong voice — \"who\" is the one who did the discovering"
+        },
+        {
+          "word": "did discover",
+          "ipa": "/dɪd dɪˈskʌvər/",
+          "explain": "not used this way in an embedded question"
+        },
+        {
+          "word": "discoveries",
+          "ipa": "/dɪˈskʌvəriz/",
+          "explain": "noun, wrong word class"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Last night ______ TV when the phone rang.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "watching",
+          "ipa": "/ˈwɒtʃɪŋ/",
+          "explain": "not a finite verb — missing an auxiliary"
+        },
+        {
+          "word": "was watching",
+          "ipa": "/wəz ˈwɒtʃɪŋ/",
+          "explain": "correct — past continuous for the background action"
+        },
+        {
+          "word": "have watched",
+          "ipa": "/hæv wɒtʃt/",
+          "explain": "wrong tense"
+        },
+        {
+          "word": "was watched",
+          "ipa": "/wəz wɒtʃt/",
+          "explain": "wrong voice"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Liz is very ______ in the water-fetching contest.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "interest",
+          "ipa": "/ˈɪntrəst/",
+          "explain": "noun, wrong word class"
+        },
+        {
+          "word": "interests",
+          "ipa": "/ˈɪntrəsts/",
+          "explain": "verb, wrong word class"
+        },
+        {
+          "word": "Interested",
+          "ipa": "/ˈɪntrəstɪd/",
+          "explain": "correct — \"be interested in\""
+        },
+        {
+          "word": "Interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "explain": "describes the contest, not how Liz feels about it"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>He told me that he ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "had already the film seen",
+          "ipa": "",
+          "explain": "wrong word order"
+        },
+        {
+          "word": "the film had already seen",
+          "ipa": "",
+          "explain": "wrong word order"
+        },
+        {
+          "word": "had seen already the film",
+          "ipa": "",
+          "explain": "wrong word order — \"already\" usually comes before the object"
+        },
+        {
+          "word": "had seen the film already",
+          "ipa": "",
+          "explain": "correct — past perfect with \"already\" at the end"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Do you mind if I ______ your atlas for a minute?",
+      "answer": 1,
+      "options": [
+        {
+          "word": "will borrow",
+          "ipa": "/wɪl ˈbɒroʊ/",
+          "explain": "wrong tense after \"do you mind if\""
+        },
+        {
+          "word": "borrow",
+          "ipa": "/ˈbɒroʊ/",
+          "explain": "correct — present simple after \"do you mind if I...\""
+        },
+        {
+          "word": "am going to borrow",
+          "ipa": "/æm ˈgoʊɪŋ tə ˈbɒroʊ/",
+          "explain": "wrong tense for this fixed polite request pattern"
+        },
+        {
+          "word": "borrowed",
+          "ipa": "/ˈbɒroʊd/",
+          "explain": "wrong tense — \"do you mind if\" pairs with present, not past"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Does he speak Italian ______ to get the job?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "well enough",
+          "ipa": "/wel ɪˈnʌf/",
+          "explain": "correct — adverb \"well\" + \"enough\" + to-infinitive"
+        },
+        {
+          "word": "good enough",
+          "ipa": "/gʊd ɪˈnʌf/",
+          "explain": "wrong word class — \"speak\" needs an adverb, not adjective"
+        },
+        {
+          "word": "enough good",
+          "ipa": "/ɪˈnʌf gʊd/",
+          "explain": "wrong word order"
+        },
+        {
+          "word": "enough well",
+          "ipa": "/ɪˈnʌf wel/",
+          "explain": "wrong word order — \"enough\" follows the adverb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Both French and English ______ in Canada.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is spoke",
+          "ipa": "/ɪz spoʊk/",
+          "explain": "wrong form — not a valid passive participle"
+        },
+        {
+          "word": "are spoke",
+          "ipa": "/ɑːr spoʊk/",
+          "explain": "wrong form and agreement"
+        },
+        {
+          "word": "is spoken",
+          "ipa": "/ɪz ˈspoʊkən/",
+          "explain": "wrong agreement — \"both...and\" makes the subject plural"
+        },
+        {
+          "word": "are spoken",
+          "ipa": "/ɑːr ˈspoʊkən/",
+          "explain": "correct — plural passive for \"both French and English\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Can you show me ______ this machine?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "how to you",
+          "ipa": "/haʊ tə juː/",
+          "explain": "not a valid grammatical structure"
+        },
+        {
+          "word": "how using",
+          "ipa": "/haʊ ˈjuːzɪŋ/",
+          "explain": "wrong form after \"how\""
+        },
+        {
+          "word": "using",
+          "ipa": "/ˈjuːzɪŋ/",
+          "explain": "missing \"how\" for this question structure"
+        },
+        {
+          "word": "use",
+          "ipa": "/juːz/",
+          "explain": "missing \"how to\" for this question structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Our baby ______ to talk yet.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "doesn't start",
+          "ipa": "/ˈdʌzənt stɑːrt/",
+          "explain": "wrong tense — doesn't fit \"yet\" as naturally"
+        },
+        {
+          "word": "hasn't started",
+          "ipa": "/ˈhæzənt ˈstɑːrtɪd/",
+          "explain": "correct — present perfect negative with \"yet\""
+        },
+        {
+          "word": "didn't start",
+          "ipa": "/ˈdɪdənt stɑːrt/",
+          "explain": "wrong tense for \"yet\""
+        },
+        {
+          "word": "isn't starting",
+          "ipa": "/ˈɪzənt ˈstɑːrtɪŋ/",
+          "explain": "wrong tense for \"yet\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>______ is the part of a country with hills and mountains.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Highland",
+          "ipa": "/ˈhaɪlənd/",
+          "explain": "correct — describes a hilly/mountainous region"
+        },
+        {
+          "word": "Rey",
+          "ipa": "",
+          "explain": "not a standard English word"
+        },
+        {
+          "word": "Valley",
+          "ipa": "/ˈvæli/",
+          "explain": "wrong meaning — describes low land between hills"
+        },
+        {
+          "word": "Bay",
+          "ipa": "/beɪ/",
+          "explain": "wrong meaning — describes a coastal inlet"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>My grandma ______ us when my parents were away from home.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "looked for",
+          "ipa": "/lʊkt fɔːr/",
+          "explain": "wrong meaning — means \"searched for\""
+        },
+        {
+          "word": "looked after",
+          "ipa": "/lʊkt ˈæftər/",
+          "explain": "correct — \"look after\" means to take care of"
+        },
+        {
+          "word": "looked at",
+          "ipa": "/lʊkt æt/",
+          "explain": "wrong meaning — means to view"
+        },
+        {
+          "word": "looked up",
+          "ipa": "/lʊkt ʌp/",
+          "explain": "wrong meaning — means to search in a reference"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Milk bottles can be ______ after being cleaned.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "recycled",
+          "ipa": "/riˈsaɪkəld/",
+          "explain": "possible, but less specific than \"reused\" for the same bottle"
+        },
+        {
+          "word": "soaked",
+          "ipa": "/soʊkt/",
+          "explain": "wrong meaning — describes part of the cleaning, not the outcome"
+        },
+        {
+          "word": "broken",
+          "ipa": "/ˈbroʊkən/",
+          "explain": "wrong meaning entirely"
+        },
+        {
+          "word": "reused",
+          "ipa": "/riˈjuːzd/",
+          "explain": "correct — the bottle itself is used again after cleaning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>She asked me ______ a driving licence.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "if I have",
+          "ipa": "/ɪf aɪ hæv/",
+          "explain": "wrong tense — needs backshift in reported speech"
+        },
+        {
+          "word": "whether I have",
+          "ipa": "/ˈweðər aɪ hæv/",
+          "explain": "wrong tense — needs backshift"
+        },
+        {
+          "word": "whether I have had",
+          "ipa": "/ˈweðər aɪ hæv hæd/",
+          "explain": "wrong tense — overly complex form not matching simple backshift"
+        },
+        {
+          "word": "if I had",
+          "ipa": "/ɪf aɪ hæd/",
+          "explain": "correct — backshifted to past simple in reported speech"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>I'd rather Hoa ______ harder.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "studied",
+          "ipa": "/ˈstʌdid/",
+          "explain": "correct — \"would rather + subject + past simple\" for a wish about someone else"
+        },
+        {
+          "word": "study",
+          "ipa": "/ˈstʌdi/",
+          "explain": "wrong tense for this structure"
+        },
+        {
+          "word": "studying",
+          "ipa": "/ˈstʌdiɪŋ/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "studies",
+          "ipa": "/ˈstʌdiz/",
+          "explain": "wrong tense for this structure"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Would you mind closing the window? \"______\"",
+      "answer": 1,
+      "options": [
+        {
+          "word": "No, I'm afraid not",
+          "ipa": "",
+          "explain": "contradictory — doesn't clearly agree to close it"
+        },
+        {
+          "word": "No, of course not",
+          "ipa": "",
+          "explain": "correct — \"no\" agrees to the request (i.e., \"I don't mind\")"
+        },
+        {
+          "word": "No, I can't",
+          "ipa": "",
+          "explain": "doesn't fit as a response to \"would you mind\""
+        },
+        {
+          "word": "I'd rather you didn't",
+          "ipa": "",
+          "explain": "declines the request, which is a valid but different answer than intended here"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Will you pick me ______ after the party?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "up",
+          "ipa": "/ʌp/",
+          "explain": "correct — \"pick someone up\" means to collect them"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "not part of this phrasal verb"
+        },
+        {
+          "word": "over",
+          "ipa": "/ˈoʊvər/",
+          "explain": "not part of this phrasal verb"
+        },
+        {
+          "word": "through",
+          "ipa": "/θruː/",
+          "explain": "not part of this phrasal verb"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>They weren't experienced enough ______.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "for doing the job",
+          "ipa": "",
+          "explain": "wrong structure — \"enough\" pairs with a to-infinitive here"
+        },
+        {
+          "word": "to the job",
+          "ipa": "",
+          "explain": "incomplete and ungrammatical"
+        },
+        {
+          "word": "doing the job",
+          "ipa": "",
+          "explain": "wrong form after \"enough\""
+        },
+        {
+          "word": "to do the job",
+          "ipa": "",
+          "explain": "correct — \"enough\" + to-infinitive"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>I decided that I must work harder ______.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "the following year",
+          "ipa": "",
+          "explain": "correct — matches backshifted time reference in past narrative"
+        },
+        {
+          "word": "the previous year",
+          "ipa": "",
+          "explain": "wrong direction — refers to before, not after, the decision"
+        },
+        {
+          "word": "the year before",
+          "ipa": "",
+          "explain": "wrong direction — same issue as \"the previous year\""
+        },
+        {
+          "word": "last year",
+          "ipa": "",
+          "explain": "doesn't fit a backshifted future reference from a past viewpoint"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>Which ______ do I press to turn the radio on?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "button",
+          "ipa": "/ˈbʌtən/",
+          "explain": "correct — you press a button to turn something on"
+        },
+        {
+          "word": "Roll",
+          "ipa": "/roʊl/",
+          "explain": "wrong word — not something you press"
+        },
+        {
+          "word": "Roller",
+          "ipa": "/ˈroʊlər/",
+          "explain": "wrong word — not something you press"
+        },
+        {
+          "word": "Plug",
+          "ipa": "/plʌg/",
+          "explain": "wrong word — you don't “press” a plug this way"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the best answer to complete the following sentences.</span>They ______ the forest and getting into trouble.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "are always burning",
+          "ipa": "/ɑːr ˈɔːlweɪz ˈbɜːrnɪŋ/",
+          "explain": "correct — \"always + present continuous\" for an annoying repeated habit"
+        },
+        {
+          "word": "always burned",
+          "ipa": "/ˈɔːlweɪz bɜːrnd/",
+          "explain": "wrong tense — doesn't fit with \"getting\" (present)"
+        },
+        {
+          "word": "has always burned",
+          "ipa": "/hæz ˈɔːlweɪz bɜːrnd/",
+          "explain": "wrong agreement and doesn't fit the annoyance framing"
+        },
+        {
+          "word": "A + C are correct",
+          "ipa": "",
+          "explain": "only one form is grammatically consistent with \"getting into trouble\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>______ in VN has brought a lot of big changes. (INDUSTRY)",
+      "answer": "Industrialization"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>It is ______ to eat too much sugar and fat. (HEALTH)",
+      "answer": "unhealthy"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>The ______ in his province is very dramatic. (LAND)",
+      "answer": "landscape"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>I live in a small village and its ______ are very beautiful. (SURROUND)",
+      "answer": "surroundings"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>There are a lot of ______ festivals in VN. (TRADITION)",
+      "answer": "traditional"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>It's difficult to find ______ at busy time in this town. (ACCOMMODATE)",
+      "answer": "accommodation"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>______, dark clouds gathered and it began to rain. (FORTUNATE)",
+      "answer": "Unfortunately"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>Ha Long Bay was ______ by UNESCO as a World Heritage Site. (RECOGNITION)",
+      "answer": "recognized"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>There are more and more people concerning about ______ pollution. (ENVIRONMENT)",
+      "answer": "environmental"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Use the correct form of the word in brackets to complete the sentence.</span>This knife is ______; it can't cut anything. (USE)",
+      "answer": "useless"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span>My sister is <u>studying</u> very hard <u>in</u> order <u>getting</u> scholarship <u>at</u> university.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "studying",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "getting",
+          "explain": "incorrect — should be “to get” — the odd one out"
+        },
+        {
+          "word": "at",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span><u>If the</u> victim <u>gets</u> shocked, <u>don't</u> give him <u>many</u> food and drink.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "If the",
+          "explain": "correct as written"
+        },
+        {
+          "word": "gets",
+          "explain": "correct as written"
+        },
+        {
+          "word": "don't",
+          "explain": "correct as written"
+        },
+        {
+          "word": "many",
+          "explain": "incorrect — should be “much” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span>I come <u>from</u> a city <u>locating</u> <u>in</u> the southern part <u>of</u> the country.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "from",
+          "explain": "correct as written"
+        },
+        {
+          "word": "locating",
+          "explain": "incorrect — should be “located” — the odd one out"
+        },
+        {
+          "word": "in",
+          "explain": "correct as written"
+        },
+        {
+          "word": "of",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span><u>Did</u> you <u>ever</u> learn <u>playing</u> a musical instrument <u>as</u> a child?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Did",
+          "explain": "correct as written"
+        },
+        {
+          "word": "ever",
+          "explain": "correct as written"
+        },
+        {
+          "word": "playing",
+          "explain": "incorrect — should be “to play” — the odd one out"
+        },
+        {
+          "word": "as",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span><u>Would</u> <u>you</u> mind <u>to open</u> the window <u>for me</u>?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Would",
+          "explain": "correct as written"
+        },
+        {
+          "word": "you",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to open",
+          "explain": "incorrect — should be “opening” — the odd one out"
+        },
+        {
+          "word": "for me",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span>She <u>asked</u> me to use a towel to <u>cover</u> the wound and <u>hold</u> it <u>tightly</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "asked",
+          "explain": "correct as written"
+        },
+        {
+          "word": "cover",
+          "explain": "correct as written"
+        },
+        {
+          "word": "hold",
+          "explain": "correct as written"
+        },
+        {
+          "word": "tightly",
+          "explain": "incorrect — should be “tight” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span><u>I'd like</u> <u>sending</u> there <u>postcards</u> <u>to America</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "I'd like",
+          "explain": "correct as written"
+        },
+        {
+          "word": "sending",
+          "explain": "incorrect — should be “to send” — the odd one out"
+        },
+        {
+          "word": "postcards",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to America",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span>Today seems <u>as</u> <u>hotter</u> <u>as</u> yesterday, but the humidity is <u>lower</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "as",
+          "explain": "correct as written"
+        },
+        {
+          "word": "hotter",
+          "explain": "incorrect — should be “hot” — the odd one out"
+        },
+        {
+          "word": "as",
+          "explain": "correct as written"
+        },
+        {
+          "word": "lower",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span><u>Have you eaten</u> a lot of <u>sweets</u> <u>when</u> you <u>were</u> a child?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "Have you eaten",
+          "explain": "incorrect — should be “Did you eat” — the odd one out"
+        },
+        {
+          "word": "sweets",
+          "explain": "correct as written"
+        },
+        {
+          "word": "when",
+          "explain": "correct as written"
+        },
+        {
+          "word": "were",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Choose the underlined word or phrase in each sentence that needs correcting.</span>I <u>haven't seen</u> her <u>since</u> we <u>have left</u> <u>school</u>.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "haven't seen",
+          "explain": "correct as written"
+        },
+        {
+          "word": "since",
+          "explain": "correct as written"
+        },
+        {
+          "word": "have left",
+          "explain": "incorrect — should be “left” — the odd one out"
+        },
+        {
+          "word": "school",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit <mark>______ (1)</mark> mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "their"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must <mark>______ (2)</mark> his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "bring"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or <mark>______ (3)</mark> cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "daughters"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually <mark>______ (4)</mark> her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "send"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest <mark>______ (5)</mark> the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "for"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the <mark>______ (6)</mark> and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "table"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes <mark>______ (7)</mark> dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "after"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is <mark>______ (8)</mark> second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "the"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They <mark>______ (9)</mark> a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, ______ (10) of the greatest American painters.",
+      "answer": "have"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and fill in each blank with a suitable word.</span><b>Mother's Day</b><br><br>Mother's Day in Britain falls on the last Monday of March. On Mother's Day sons and daughters visit ______ (1) mothers and bring them flowers and little presents. The eldest son must ______ (2) his mother a good cake. If sons or ______ (3) cannot be with their mother on that day, they usually ______ (4) her presents.<br><br>Mother's Day must be a day of rest ______ (5) the mother of the family so her daughters cook the dinner on that day and lay the ______ (6) and the sons help to wash the plates and dishes ______ (7) dinner.<br><br>In the United States and Canada, Mother's Day is ______ (8) second Sunday in May. They ______ (9) a very beautiful stamp for Mother's Day in the United States. It shows the portrait of the mother of James Whistler, <mark>______ (10)</mark> of the greatest American painters.",
+      "answer": "one"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the item that best answers each question.</span><span class=\"passage-block\">John Logie Baird, who is called “the father of television”, was born in Scotland in 1888. He became an inventor at the age of 26. His first inventions were electrically-heated socks and air-filled shoes, but these were not very successful.<br><br>However, in 1923, he became interested in the idea of pictures by radio. He worked for several months, and the following year he succeeded in transmitting the first “television” picture a few meters across the room.<br><br>Baird's ‘television’ was not very clear, but people were very interested and he tried to make it better. In 1926, he showed it to the public at the Royal Society. In 1928, he transmitted the first picture across the Atlantic and in 1929, the BBC and the German post office began to broadcast TV with his system.</span><span class=\"cue-line\">John Logie Baird ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "is called “the father of television”",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "was born in Scotland in 1888",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "was an inventor",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "all are correct",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the item that best answers each question.</span><span class=\"passage-block\">John Logie Baird, who is called “the father of television”, was born in Scotland in 1888. He became an inventor at the age of 26. His first inventions were electrically-heated socks and air-filled shoes, but these were not very successful.<br><br>However, in 1923, he became interested in the idea of pictures by radio. He worked for several months, and the following year he succeeded in transmitting the first “television” picture a few meters across the room.<br><br>Baird's ‘television’ was not very clear, but people were very interested and he tried to make it better. In 1926, he showed it to the public at the Royal Society. In 1928, he transmitted the first picture across the Atlantic and in 1929, the BBC and the German post office began to broadcast TV with his system.</span><span class=\"cue-line\">One of Baird's first inventions was ______.</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "electrically-heated socks",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "air-filled shoes",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "television",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "a + b",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the item that best answers each question.</span><span class=\"passage-block\">John Logie Baird, who is called “the father of television”, was born in Scotland in 1888. He became an inventor at the age of 26. His first inventions were electrically-heated socks and air-filled shoes, but these were not very successful.<br><br>However, in 1923, he became interested in the idea of pictures by radio. He worked for several months, and the following year he succeeded in transmitting the first “television” picture a few meters across the room.<br><br>Baird's ‘television’ was not very clear, but people were very interested and he tried to make it better. In 1926, he showed it to the public at the Royal Society. In 1928, he transmitted the first picture across the Atlantic and in 1929, the BBC and the German post office began to broadcast TV with his system.</span><span class=\"cue-line\">Baird was interested in the idea of pictures by radio at the age of ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "26",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "35",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "38",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "40",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the item that best answers each question.</span><span class=\"passage-block\">John Logie Baird, who is called “the father of television”, was born in Scotland in 1888. He became an inventor at the age of 26. His first inventions were electrically-heated socks and air-filled shoes, but these were not very successful.<br><br>However, in 1923, he became interested in the idea of pictures by radio. He worked for several months, and the following year he succeeded in transmitting the first “television” picture a few meters across the room.<br><br>Baird's ‘television’ was not very clear, but people were very interested and he tried to make it better. In 1926, he showed it to the public at the Royal Society. In 1928, he transmitted the first picture across the Atlantic and in 1929, the BBC and the German post office began to broadcast TV with his system.</span><span class=\"cue-line\">Baird's 'television' was introduced to the world in ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "1923",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1926",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "1928",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "1929",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the passage and choose the item that best answers each question.</span><span class=\"passage-block\">John Logie Baird, who is called “the father of television”, was born in Scotland in 1888. He became an inventor at the age of 26. His first inventions were electrically-heated socks and air-filled shoes, but these were not very successful.<br><br>However, in 1923, he became interested in the idea of pictures by radio. He worked for several months, and the following year he succeeded in transmitting the first “television” picture a few meters across the room.<br><br>Baird's ‘television’ was not very clear, but people were very interested and he tried to make it better. In 1926, he showed it to the public at the Royal Society. In 1928, he transmitted the first picture across the Atlantic and in 1929, the BBC and the German post office began to broadcast TV with his system.</span><span class=\"cue-line\">Which of the following is not true?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Baird's first inventions were not very successful.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The first 'television' was not clear.",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "People weren't interested in Baird's 'television'.",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "Baird's system was used by the BBC and the German post office.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">We haven't seen each other for over two years.</span><span class=\"cue-line\">The last time ......................</span>",
+      "answer": "The last time we saw each other was over two years ago."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">\"We are decorating our Christmas tree,\" Hoa said.</span><span class=\"cue-line\">Hoa said ......................</span>",
+      "answer": "Hoa said they were decorating their Christmas tree."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">\"I'll give you my phone number so that you can call me,\" Jane said to me.</span><span class=\"cue-line\">Jane told ......................</span>",
+      "answer": "Jane told me she would give me her phone number so that I could call her."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">Many people in the world speak English.</span><span class=\"cue-line\">English ......................</span>",
+      "answer": "English is spoken by many people in the world."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">She's very pleased to see her grandparents soon.</span><span class=\"cue-line\">She's looking ......................</span>",
+      "answer": "She's looking forward to seeing her grandparents."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">He climbed the tree because he wanted to get a better view.</span><span class=\"cue-line\">He climbed the tree so as ......................</span>",
+      "answer": "He climbed the tree so as to get a better view."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">I have decided to help him revise his lessons.</span><span class=\"cue-line\">I am ......................</span>",
+      "answer": "I am going to help him revise his lessons."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">Your backpack is not the same as mine.</span><span class=\"cue-line\">My backpack is ......................</span>",
+      "answer": "My backpack is different from yours."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">No one in the group is younger than Lan.</span><span class=\"cue-line\">Lan is ......................</span>",
+      "answer": "Lan is the youngest in the group."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Completion",
+      "prompt": "<span class=\"mini-instruction\">Complete the second sentence so that it has a similar meaning to the first one.</span><span class=\"original-sentence\">\"You should take more exercise, Mr Roberts,\" the doctor said.</span><span class=\"cue-line\">The doctor ......................</span>",
+      "answer": "The doctor advised Mr Roberts that he should take more exercise. / The doctor advised Mr Roberts to take more exercise."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">Dave / I / have / best holiday / our lives!</span>",
+      "answer": "Dave and I are having the best holiday of our lives!"
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">We / be / Barbados / one / most lovely island / Caribbean</span>",
+      "answer": "We are in Barbados, one of the most lovely islands in the Caribbean."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">Although / it / much smaller / Jamaica / there seem / be / much more / do / Jamaica.</span>",
+      "answer": "Although it is much smaller than Jamaica, there seems to be much more to do than in Jamaica."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">Moreover / people here / seem / be / friendlier / those / other islands.</span>",
+      "answer": "Moreover, the people here seem to be friendlier than those on the other islands."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">We / stay / most modern hotel / I / ever / see.</span>",
+      "answer": "We are staying in the most modern hotel I have ever seen."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">It / large / cool / and / many people / think / it / best hotel / island.</span>",
+      "answer": "It is large and cool, and many people think it is the best hotel on the island."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">It / comfortable / than / any / other hotels.</span>",
+      "answer": "It is more comfortable than any of the other hotels."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">Nearest beach / less / hundred meters / away.</span>",
+      "answer": "The nearest beach is less than a hundred meters away."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">so / we / spend / lot / time / swim / sea.</span>",
+      "answer": "So we spend a lot of time swimming in the sea."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Guided Letter",
+      "prompt": "<span class=\"mini-instruction\">Use these words to complete this letter.</span><span class=\"passage-block\"><b>Dear Hoa,</b></span><span class=\"cue-line\">It / really good / and / I wish / you / be / here.</span>",
+      "answer": "It is really good, and I wish you were here."
+    }
+  ]
+}

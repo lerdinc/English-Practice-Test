@@ -1,0 +1,1359 @@
+{
+  "title": "English Practice Test No: 17",
+  "subtitle": "73 questions · Grammar & Vocabulary, Reading, Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>______ from John, all the students said they would go.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Except",
+          "ipa": "/ɪkˈsept/",
+          "explain": "usually pairs with \"for\", not standalone this way"
+        },
+        {
+          "word": "Only",
+          "ipa": "/ˈoʊnli/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "Apart",
+          "ipa": "/əˈpɑːrt/",
+          "explain": "correct — \"apart from\" is the fixed phrase"
+        },
+        {
+          "word": "Separate",
+          "ipa": "/ˈsepəreɪt/",
+          "explain": "wrong word class"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>If you work for us, you'll get somewhere to live ______ free.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "correct — \"for free\" is the fixed idiom meaning at no cost"
+        },
+        {
+          "word": "at",
+          "ipa": "/æt/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "out",
+          "ipa": "/aʊt/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "of",
+          "ipa": "/ʌv/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>The new manager explained to the staff that she hoped to ______ new procedures to save time and money.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "manufacture",
+          "ipa": "/ˌmænjuˈfæktʃər/",
+          "explain": "wrong meaning — for making physical goods"
+        },
+        {
+          "word": "establish",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "explain": "correct — to establish/set up new procedures"
+        },
+        {
+          "word": "control",
+          "ipa": "/kənˈtroʊl/",
+          "explain": "wrong meaning here"
+        },
+        {
+          "word": "restore",
+          "ipa": "/rɪˈstɔːr/",
+          "explain": "wrong meaning — implies bringing something back"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>They took pride ______ being the best players of the school.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "in",
+          "ipa": "/ɪn/",
+          "explain": "correct — \"take pride in\" is the fixed collocation"
+        },
+        {
+          "word": "with",
+          "ipa": "/wɪð/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "on",
+          "ipa": "/ɒn/",
+          "explain": "wrong preposition"
+        },
+        {
+          "word": "for",
+          "ipa": "/fɔːr/",
+          "explain": "wrong preposition"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>She'd prefer to go out ______ home.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "than to stay",
+          "ipa": "/ðæn tə steɪ/",
+          "explain": "wrong form after \"prefer to...than\""
+        },
+        {
+          "word": "than staying",
+          "ipa": "/ðæn ˈsteɪɪŋ/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "rather than staying",
+          "ipa": "/ˈræðər ðæn ˈsteɪɪŋ/",
+          "explain": "wrong form — needs a bare verb after \"rather than\""
+        },
+        {
+          "word": "rather than stay",
+          "ipa": "/ˈræðər ðæn steɪ/",
+          "explain": "correct — \"prefer to do X rather than (do) Y\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>They received ______ advice from their parents that they became successful.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "so good",
+          "ipa": "/soʊ gʊd/",
+          "explain": "\"so\" doesn't fit before an uncountable noun this way"
+        },
+        {
+          "word": "such a good",
+          "ipa": "/sʌtʃ ə gʊd/",
+          "explain": "\"a\" doesn't fit — \"advice\" is uncountable"
+        },
+        {
+          "word": "so good an",
+          "ipa": "/soʊ gʊd ən/",
+          "explain": "\"an\" doesn't fit an uncountable noun"
+        },
+        {
+          "word": "such good",
+          "ipa": "/sʌtʃ gʊd/",
+          "explain": "correct — \"such\" + adjective + uncountable noun"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>Have you got a car ______?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "of your own",
+          "ipa": "/ʌv jɔːr oʊn/",
+          "explain": "correct — \"of your own\" is the fixed possessive idiom"
+        },
+        {
+          "word": "of yourself",
+          "ipa": "/ʌv jɔːrˈself/",
+          "explain": "wrong reflexive form"
+        },
+        {
+          "word": "of you",
+          "ipa": "/ʌv juː/",
+          "explain": "wrong preposition phrase"
+        },
+        {
+          "word": "of your",
+          "ipa": "/ʌv jɔːr/",
+          "explain": "incomplete — missing \"own\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>There is a fault at our television station. Please do not ______ your television set.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "change",
+          "ipa": "/tʃeɪndʒ/",
+          "explain": "wrong verb for a TV control"
+        },
+        {
+          "word": "adjust",
+          "ipa": "/əˈdʒʌst/",
+          "explain": "correct — don't try to fix the picture by adjusting settings"
+        },
+        {
+          "word": "repair",
+          "ipa": "/rɪˈper/",
+          "explain": "too drastic — viewers wouldn't be repairing their TVs"
+        },
+        {
+          "word": "switch",
+          "ipa": "/swɪtʃ/",
+          "explain": "incomplete — \"switch\" alone doesn't fit this warning"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>If you want to attend the course, you must pass the ______ examination.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "write",
+          "ipa": "/raɪt/",
+          "explain": "wrong form — needs an adjective before \"examination\""
+        },
+        {
+          "word": "written",
+          "ipa": "/ˈrɪtən/",
+          "explain": "correct — past participle as adjective, \"a written exam\""
+        },
+        {
+          "word": "wrote",
+          "ipa": "/roʊt/",
+          "explain": "wrong form"
+        },
+        {
+          "word": "writing",
+          "ipa": "/ˈraɪtɪŋ/",
+          "explain": "less standard than \"written\" for this fixed phrase"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>Either Peter and his brothers ______ the keys to the car.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "has been taken",
+          "ipa": "/hæz bɪn ˈteɪkən/",
+          "explain": "wrong voice and agreement"
+        },
+        {
+          "word": "has taken",
+          "ipa": "/hæz ˈteɪkən/",
+          "explain": "wrong agreement — the subject is plural"
+        },
+        {
+          "word": "have taken",
+          "ipa": "/hæv ˈteɪkən/",
+          "explain": "correct — plural subject joined by \"and\" takes a plural verb"
+        },
+        {
+          "word": "have been taken",
+          "ipa": "/hæv bɪn ˈteɪkən/",
+          "explain": "wrong voice — they are the ones taking, not being taken"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>We can tell you that we often have a friendly ______ in our class.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "atmosphere",
+          "ipa": "/ˈætməsfɪr/",
+          "explain": "correct — describes the overall mood of a place"
+        },
+        {
+          "word": "air",
+          "ipa": "/er/",
+          "explain": "less standard collocation for describing a classroom mood"
+        },
+        {
+          "word": "matter",
+          "ipa": "/ˈmætər/",
+          "explain": "wrong meaning"
+        },
+        {
+          "word": "impression",
+          "ipa": "/ɪmˈpreʃən/",
+          "explain": "wrong meaning — refers to an opinion, not an atmosphere"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>These clothes are fashionable and ______. Do you agree with me?",
+      "answer": 2,
+      "options": [
+        {
+          "word": "only",
+          "ipa": "/ˈoʊnli/",
+          "explain": "wrong word class — doesn't pair with \"fashionable\" this way"
+        },
+        {
+          "word": "merely",
+          "ipa": "/ˈmɪrli/",
+          "explain": "wrong word class"
+        },
+        {
+          "word": "unique",
+          "ipa": "/juˈniːk/",
+          "explain": "correct — adjective, parallel with \"fashionable\""
+        },
+        {
+          "word": "uniquely",
+          "ipa": "/juˈniːkli/",
+          "explain": "adverb — wrong word class, should match \"fashionable\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>He ______ to have a very big fortune and a beautiful wife.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "rumors",
+          "ipa": "/ˈruːmərz/",
+          "explain": "wrong voice — he doesn't do the rumoring"
+        },
+        {
+          "word": "rumored",
+          "ipa": "/ˈruːmərd/",
+          "explain": "wrong voice — needs to be passive"
+        },
+        {
+          "word": "has rumored",
+          "ipa": "/hæz ˈruːmərd/",
+          "explain": "wrong voice"
+        },
+        {
+          "word": "was rumored",
+          "ipa": "/wəz ˈruːmərd/",
+          "explain": "correct — passive \"be rumored to have\""
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>Did you use to do a ______ when you were at the university?",
+      "answer": 3,
+      "options": [
+        {
+          "word": "full-time job",
+          "ipa": "/fʊl taɪm dʒɒb/",
+          "explain": "possible, but less natural for a student's side work"
+        },
+        {
+          "word": "part-time",
+          "ipa": "/pɑːrt taɪm/",
+          "explain": "adjective alone — missing a noun"
+        },
+        {
+          "word": "full-time",
+          "ipa": "/fʊl taɪm/",
+          "explain": "adjective alone — missing a noun"
+        },
+        {
+          "word": "part-time job",
+          "ipa": "/pɑːrt taɪm dʒɒb/",
+          "explain": "correct — complete noun phrase, and fits a student's likely work"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar & Vocabulary — Multiple Choice",
+      "prompt": "<span class=\"mini-instruction\">Choose the word or phrase that best fits each blank space.</span>My house is just ______. I live in the nearby neighborhood.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "near here",
+          "ipa": "/nɪr hɪr/",
+          "explain": "correct — standard phrase for \"close by\""
+        },
+        {
+          "word": "near to",
+          "ipa": "/nɪr tə/",
+          "explain": "needs a following noun, incomplete here"
+        },
+        {
+          "word": "near by",
+          "ipa": "/nɪr baɪ/",
+          "explain": "should be written as one word \"nearby\", and isn't standard as printed"
+        },
+        {
+          "word": "near from",
+          "ipa": "/nɪr frʌm/",
+          "explain": "not a standard English phrase"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>Crimes like burglary and ______ are definitely on the increase. (THIEF)",
+      "answer": "theft"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>One of the most ______ experiences a home owner can have is to arrive home and find that his or her valuables have disappeared. (PAIN)",
+      "answer": "painful"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>One of the most painful experiences a home ______ can have is to arrive home and find that his or her valuables have disappeared. (OWN)",
+      "answer": "owner"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>...find that his or her ______ have disappeared, because a window had accidentally been left open. (VALUE)",
+      "answer": "valuables"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>...because a window had ______ been left open. (ACCIDENT)",
+      "answer": "accidentally"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>The most important piece of ______ is to make sure that your insurance coverage is up to date. (ADVISORY)",
+      "answer": "advice"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>The most important piece of advice is to make sure that your ______ coverage is up to date. (INSURE)",
+      "answer": "insurance"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>Another ______ thing to do is to go along to your local police station. (SENSE)",
+      "answer": "sensible"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>...where they will be more than willing to make ______ on reliable ways of safeguarding your property. (SUGGEST)",
+      "answer": "suggestions"
+    },
+    {
+      "type": "text",
+      "part": "vocabulary",
+      "partLabel": "Vocabulary — Word Forms",
+      "prompt": "<span class=\"mini-instruction\">Complete the passage using the correct form of the word in brackets.</span>...they will be more than willing to make suggestions on ______ ways of safeguarding your property. (RELY)",
+      "answer": "reliable"
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>We won't mind your <u>being</u> late — <u>beside</u>, it's <u>hardly</u> your <u>mistake</u>.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "being",
+          "explain": "correct as written"
+        },
+        {
+          "word": "beside",
+          "explain": "incorrect — should be “besides” — the odd one out"
+        },
+        {
+          "word": "hardly",
+          "explain": "correct as written"
+        },
+        {
+          "word": "mistake",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span><u>The whole</u> report is <u>badly</u> typed. <u>Moreover</u>, it's <u>imaccurate</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "The whole",
+          "explain": "correct as written"
+        },
+        {
+          "word": "badly",
+          "explain": "correct as written"
+        },
+        {
+          "word": "Moreover",
+          "explain": "correct as written"
+        },
+        {
+          "word": "imaccurate",
+          "explain": "incorrect — should be “inaccurate” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>I'm not <u>astonish</u> she <u>shouted at</u> us! <u>How</u> would we like <u>to be pushed</u> into a wall?",
+      "answer": 0,
+      "options": [
+        {
+          "word": "astonish",
+          "explain": "incorrect — should be “astonished” — the odd one out"
+        },
+        {
+          "word": "shouted at",
+          "explain": "correct as written"
+        },
+        {
+          "word": "How",
+          "explain": "correct as written"
+        },
+        {
+          "word": "to be pushed",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>Nguyen is <u>everything</u> we'd ever <u>want</u> <u>in a man</u> — brilliant, <u>fun</u> and attractive.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "everything",
+          "explain": "correct as written"
+        },
+        {
+          "word": "want",
+          "explain": "correct as written"
+        },
+        {
+          "word": "in a man",
+          "explain": "correct as written"
+        },
+        {
+          "word": "fun",
+          "explain": "incorrect — should be “funny” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>They just hope <u>that</u> the money <u>goes</u> to those <u>who</u> are mainly in <u>needs</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "that",
+          "explain": "correct as written"
+        },
+        {
+          "word": "goes",
+          "explain": "correct as written"
+        },
+        {
+          "word": "who",
+          "explain": "correct as written"
+        },
+        {
+          "word": "needs",
+          "explain": "incorrect — should be “need” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>A doctor <u>with profession</u>, this is his first <u>pleasure trip</u> <u>into</u> writing <u>for</u> the theatre.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "with profession",
+          "explain": "incorrect — should be “by profession” — the odd one out"
+        },
+        {
+          "word": "pleasure trip",
+          "explain": "correct as written"
+        },
+        {
+          "word": "into",
+          "explain": "correct as written"
+        },
+        {
+          "word": "for",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>She <u>views</u> her life <u>like</u> a spiritual <u>voyage</u> towards a superior <u>understanding</u> of her confidence.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "views",
+          "explain": "correct as written"
+        },
+        {
+          "word": "like",
+          "explain": "incorrect — should be “as” — the odd one out"
+        },
+        {
+          "word": "voyage",
+          "explain": "correct as written"
+        },
+        {
+          "word": "understanding",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>Trung was a <u>youthful</u> sailor <u>on</u> his first <u>sea</u> <u>excursion</u>.",
+      "answer": 3,
+      "options": [
+        {
+          "word": "youthful",
+          "explain": "correct as written"
+        },
+        {
+          "word": "on",
+          "explain": "correct as written"
+        },
+        {
+          "word": "sea",
+          "explain": "correct as written"
+        },
+        {
+          "word": "excursion",
+          "explain": "incorrect — should be “voyage” — the odd one out"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span>The <u>journey guide</u> <u>pointed out</u> the message <u>that</u> runs round <u>the inside</u> of the sports ground.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "journey guide",
+          "explain": "incorrect — should be “tour guide” — the odd one out"
+        },
+        {
+          "word": "pointed out",
+          "explain": "correct as written"
+        },
+        {
+          "word": "that",
+          "explain": "correct as written"
+        },
+        {
+          "word": "the inside",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "vocabulary",
+      "partLabel": "Grammar — Error Identification",
+      "prompt": "<span class=\"mini-instruction\">Identify the errors in the following sentences.</span><u>Supersonic airplanes</u> can <u>go</u> <u>more fast than</u> <u>the speed</u> of sound.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Supersonic airplanes",
+          "explain": "correct as written"
+        },
+        {
+          "word": "go",
+          "explain": "correct as written"
+        },
+        {
+          "word": "more fast than",
+          "explain": "incorrect — should be “faster than” — the odd one out"
+        },
+        {
+          "word": "the speed",
+          "explain": "correct as written"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves <mark>______ (1)</mark> are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "that / which"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't <mark>______ (2)</mark> to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "expect"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the <mark>______ (3)</mark> time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "first"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn <mark>______ (4)</mark> to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "how"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds <mark>______ (5)</mark> years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "of"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam <mark>______ (6)</mark> to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "out"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not <mark>______ (7)</mark> a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "use"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people <mark>______ (8)</mark> do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "still"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing <mark>______ (9)</mark> them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass ______ (10).",
+      "answer": "on"
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Fill in the Blank",
+      "prompt": "<span class=\"mini-instruction\">Fill ONE suitable word into each of the numbered blanks in the passage.</span><b>Surfing</b><br><br>Australia is a big country, but nearly all Australians live near the sea. On hot summer days, you can see thousands of people at the beach. Many beaches have waves ______ (1) are very high.<br><br>These large waves are known as surf and the people who ride them are called surfers. Surfing is a skill, and it needs learning. Don't ______ (2) to be able to surf properly the ______ (3) time you try. However, by practising a few times you will learn ______ (4) to do it.<br><br>Surfing is not a new sport. Perhaps its origins need explaining. It started hundreds ______ (5) years ago in Hawaii. Men swam ______ (6) to sea to catch fish and found they could come back to land very quickly by riding the waves. These first surfers did not ______ (7) a board. They were “body surfers”. Many people ______ (8) do this type of surfing today.<br><br>After a while people started to use boards and rode the waves by lying, kneeling or standing ______ (9) them. These first surfboards were made of wood and the water made them rot after a while. Today, surfboards are made of plastic or fibreglass <mark>______ (10)</mark>.",
+      "answer": "instead"
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">Which is the best title of the passage?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Efficient Ways of Disposing of Waste",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The Use of Water Productions for Energy",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "The Search for Alternative Sources of Energy",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "New Discoveries in Geothermal Power",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">In the second paragraph, the phrase \"synthetic fuels\" could best be replaced by which of the following?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Biological fuels",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Low burning fuels",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Fast burning fuels",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Artificial made fuels",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">Which of the following is NOT mentioned in the passage as an alternative source of energy?</span>",
+      "answer": 3,
+      "options": [
+        {
+          "word": "Burning of garbage",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Geothermal power",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Synthetic fuels",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Electricity",
+          "explain": "correct — matches the passage"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">According to the author, the impracticability of using coal, oil shale and coal tars as sources of energy is due to ______.</span>",
+      "answer": 1,
+      "options": [
+        {
+          "word": "their being time consuming",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "their being money consuming",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "the scarcity of sources",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the lack of technology",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">The word \"it\" in the last paragraph refers to ______.</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "alternative source",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "the United States",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "hydroelectric power",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "Electricity",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Comprehension (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Read the following passage and choose the correct answer.</span><span class=\"passage-block\">The search for alternative sources of energy has led in various directions. Many communities are burning garbage and other biological waste products to produce electricity. Converting waste products to gases or oil is also an efficient way to dispose of waste.<br><br>Experimental work is being done to derive synthetic fuels from coal, oil shale and coal tars. But to date, that process has proven expensive. Other experiments are underway to harness wind power with giant windmills. Geothermal power, heat from the earth, is also being tested.<br><br>Some experts expect utility companies to revive hydroelectric power derived from streams and rivers. Fifty years ago hydroelectric power provided one third of the electricity used in the United States, but today <i>it</i> supplies only four percent. The oceans are another potential source of energy. Scientists are studying ways to convert the energy of ocean currents, tides, and waves to electricity. Experiments are also underway to make use of the temperature differences in ocean water to produce energy.</span><span class=\"cue-line\">What can be inferred from the last paragraph?</span>",
+      "answer": 2,
+      "options": [
+        {
+          "word": "Hydroelectric power will be the main source of energy",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Synthetic fuels will be the principal source of alternative energy",
+          "explain": "doesn't match what the passage says"
+        },
+        {
+          "word": "Alternative energy will come from a variety of sources",
+          "explain": "correct — matches the passage"
+        },
+        {
+          "word": "All alternative production of energy will be derived from water.",
+          "explain": "doesn't match what the passage says"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important <mark>______ (1)</mark> of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "reason",
+          "ipa": "/ˈriːzən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "tests",
+          "ipa": "/tests/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "ways",
+          "ipa": "/weɪz/",
+          "explain": "\"one of the most important ways of communicating\""
+        },
+        {
+          "word": "rules",
+          "ipa": "/ruːlz/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to <mark>______ (2)</mark> by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "be spoken",
+          "ipa": "/bi spoʊkən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "be examined",
+          "ipa": "/bi ɪgˈzæmɪnd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "be understood",
+          "ipa": "/bi ˌʌndərˈstʊd/",
+          "explain": "\"be understood\" — passive, matches \"to talk and also to be understood\""
+        },
+        {
+          "word": "be talked",
+          "ipa": "/bi tɔːkt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of <mark>______ (3)</mark> that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "systems",
+          "ipa": "/ˈsɪstəmz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "sounds",
+          "ipa": "/saʊndz/",
+          "explain": "\"combinations of sounds\" = words"
+        },
+        {
+          "word": "languages",
+          "ipa": "/ˈlæŋgwɪdʒɪz/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "talks",
+          "ipa": "/tɔːks/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very <mark>______ (4)</mark>. The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "easy",
+          "ipa": "/ˈiːzi/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔːrtənt/",
+          "explain": "\"very important\" fits the overall message about learning language properly"
+        },
+        {
+          "word": "simple",
+          "ipa": "/ˈsɪmpəl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "expensive",
+          "ipa": "/ɪkˈspensɪv/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic <mark>______ (5)</mark> of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "grammar",
+          "ipa": "/ˈgræmər/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "word",
+          "ipa": "/wɜːrd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "vocabulary",
+          "ipa": "/voʊˈkæbjəleri/",
+          "explain": "\"the basic vocabulary of English\" — word bank/lexicon"
+        },
+        {
+          "word": "structure",
+          "ipa": "/ˈstrʌktʃər/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite <mark>______ (6)</mark>. But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "fluent",
+          "ipa": "/ˈfluːənt/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "good",
+          "ipa": "/gʊd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "well",
+          "ipa": "/wel/",
+          "explain": "\"speak it quite well\" — fits general competence"
+        },
+        {
+          "word": "perfect",
+          "ipa": "/ˈpɜːrfɪkt/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can <mark>______ (7)</mark> the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 2,
+      "options": [
+        {
+          "word": "need",
+          "ipa": "/niːd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "grow",
+          "ipa": "/groʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "express",
+          "ipa": "/ɪkˈspres/",
+          "explain": "\"the more ideas you can express\""
+        },
+        {
+          "word": "pass",
+          "ipa": "/pæs/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the <mark>______ (8)</mark> thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "main",
+          "ipa": "/meɪn/",
+          "explain": "\"the main thing\" — primary tool of communication"
+        },
+        {
+          "word": "certain",
+          "ipa": "/ˈsɜːrtən/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "full",
+          "ipa": "/fʊl/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "most",
+          "ipa": "/moʊst/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we <mark>______ (9)</mark> the words is also very important. Our tone of voice can express many emotions and ______ (10) whether we are pleased or angry, for instance.",
+      "answer": 1,
+      "options": [
+        {
+          "word": "talk",
+          "ipa": "/tɔːk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "say",
+          "ipa": "/seɪ/",
+          "explain": "\"the way we say the words\" — manner of speaking"
+        },
+        {
+          "word": "pass",
+          "ipa": "/pæs/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "send",
+          "ipa": "/send/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "part": "reading",
+      "partLabel": "Reading — Cloze (Multiple Choice)",
+      "prompt": "<span class=\"mini-instruction\">Choose the correct letter A, B, C or D that best fits the blank in the passage.</span>Speech is one of the most important ______ (1) of communicating. It consists of far more than just making noises. To talk and also to ______ (2) by other people, we have to speak a language, that is, we have to use combinations of ______ (3) that everyone agrees to stand for a particular object or idea. Communication would be impossible if everyone made up their own language. Learning a language properly is very ______ (4). The basic ______ (5) of English is not very large, and only about 2,000 words are needed to speak it quite ______ (6). But the more ideas you can ______ (7) the more precise you can be about their exact meaning. Words are the ______ (8) thing we use in communicating what we want to say. The way we ______ (9) the words is also very important. Our tone of voice can express many emotions and <mark>______ (10)</mark> whether we are pleased or angry, for instance.",
+      "answer": 0,
+      "options": [
+        {
+          "word": "show",
+          "ipa": "/ʃoʊ/",
+          "explain": "\"show whether we are pleased or angry\" — tone reveals emotion"
+        },
+        {
+          "word": "ask",
+          "ipa": "/æsk/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "understand",
+          "ipa": "/ˌʌndərˈstænd/",
+          "explain": "doesn't fit as well as the correct answer"
+        },
+        {
+          "word": "know",
+          "ipa": "/noʊ/",
+          "explain": "doesn't fit as well as the correct answer"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\"><b>MICROWAVING</b><br>Microwaving is a method of cooking where food is bombarded by microwaves, usually within an appliance called a microwave oven which excite the water, fat and sugar molecules, thereby heating (cooking) both the outside and center of the food at the same time. <mark>Gap (1)</mark></span>",
+      "answer": "E — Conversely the microwaves do not heat glass, ceramic and plastic containers."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\">...Primitive microwave ovens often do not cook evenly, leading to a concern that bacteria easily killed by more traditional cooking methods may survive the quick cooking time in “cold spots”, though the food item as a whole is cooked to a safe average temperature. <mark>Gap (2)</mark></span>",
+      "answer": "B — This can be overcome by leaving the food to stand for a few minutes when cooking is completed."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\">Some high-end microwave ovens are combined with a convection oven which basically cook the food using microwave and hot air simultaneously to achieve both the fast cooking time and browning effect. <mark>Gap (3)</mark> However microwave ovens are used in some fast food chains and special microwave bags are available for cooking fowl or large joints of meat.</span>",
+      "answer": "A — Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\">Using a microwave to boil water is potentially dangerous, due to superheating. In a microwave, water can be raised quickly to a temperature above the boiling point before major bubbles form, especially if it is purified and in a very clean glass vessel. <mark>Gap (4)</mark> This effect is rare, even for scientists who try to deliberately recreate it...</span>",
+      "answer": "G — When water in that state is disturbed, it can suddenly and unexpectedly boil violently."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\">...Also, never add powdered substances (such as instant coffee or cocoa mix) to the container taken from the microwave, due to the addition of all those seed bubbles and the potential for violent, spontaneous boiling. <mark>Gap (5)</mark></span>",
+      "answer": "C — It is advised that the water should be poured slowly into another container that already contains the powder."
+    },
+    {
+      "type": "text",
+      "part": "reading",
+      "partLabel": "Reading — Sentence Insertion",
+      "prompt": "<span class=\"mini-instruction\">Choose from the sentences (A-G) the one which fits the highlighted gap. One extra sentence is not needed.</span><span class=\"passage-block\"><b>Candidate sentences (one is extra and not used):</b><br>A. Using a microwave for cooking a large food mass is difficult due to limited penetration of microwaves.<br>B. This can be overcome by leaving the food to stand for a few minutes when cooking is completed.<br>C. It is advised that the water should be poured slowly into another container that already contains the powder.<br>D. In this way, buying a microwave oven with a turntable ensures the food is cooked throughout.<br>E. Conversely the microwaves do not heat glass, ceramic and plastic containers.<br>F. If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source.<br>G. When water in that state is disturbed, it can suddenly and unexpectedly boil violently.</span><span class=\"cue-line\">Metal objects, such as metal utensils, in a microwave oven can lead to dangerous situations. Metals do not absorb microwaves effectively. Instead, metals reflect microwaves, thereby preventing the latter from reaching the food. <mark>Gap (6)</mark> Thin metal layers, such as metal foil and mugs with metal trim can melt or burn due to the strong electrical currents that are generated in metal objects.</span>",
+      "answer": "F — If the microwaves are not absorbed inside the oven, the oven can be damaged by electrical arcs and overheating of the microwave source."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">The phone stopped ringing the moment I got downstairs.</span><span class=\"cue-line\">No sooner ......................</span>",
+      "answer": "No sooner had I got downstairs than the phone stopped ringing."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">He is determined to carry on working when he is 65.</span><span class=\"cue-line\">He has no ......................</span>",
+      "answer": "He has no intention of giving up working / retiring when he is 65."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">He was very sorry that he didn't see Audrey on her trip to London.</span><span class=\"cue-line\">He greatly ......................</span>",
+      "answer": "He greatly regretted not seeing Audrey on her trip to London."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">She agreed to go out to dinner with him because she assumed he was not married.</span><span class=\"cue-line\">Had she ......................</span>",
+      "answer": "Had she known that he was married, she would not have agreed to go out to dinner with him."
+    },
+    {
+      "type": "text",
+      "part": "writing",
+      "partLabel": "Writing — Sentence Rewriting",
+      "prompt": "<span class=\"mini-instruction\">Rewrite the following sentences without changing the meaning.</span><span class=\"original-sentence\">Everyone was surprised that the singer had very little money when he died.</span><span class=\"cue-line\">The singer had ......................</span>",
+      "answer": "The singer had very little money (left) when he died, which surprised everybody."
+    },
+    {
+      "type": "essay",
+      "part": "writing",
+      "partLabel": "Writing — Essay",
+      "prompt": "<span class=\"mini-instruction\">Write at least 200 words.</span>Children today are too dependent on computers and electronic entertainment. It would be better for them to be outside playing sports and taking part in more traditional pastimes than spending all day indoors. Do you agree or disagree with this statement?",
+      "rubric": [
+        "Content (50%): provides all main ideas and details as appropriate, with a clear stance (agree/disagree)",
+        "Language (25%): uses a variety of vocabulary and structures",
+        "Presentation (25%): coherence, cohesion, and style appropriate to the level"
+      ]
+    }
+  ]
+}
